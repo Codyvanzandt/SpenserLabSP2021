@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="A1r" n="A1r" next="#A2r"/><titlePage xmlns="http://www.tei-c.org/ns/1.0" n="1">
+                  <docTitle rend="face(roman)">
+                     <titlePart type="main"> ¶ THREE <ref n="letters_1344608433568" xml:id="letters_1344608433568">PROPER</ref>, <lb break="yes" ed="1580 webArchive"/> and wittie, <ref n="letters_1344608454118" xml:id="letters_1344608454118">familiar</ref> Letters:<lb break="yes" ed="1580 webArchive"/>
+                     </titlePart>
+                     <titlePart type="sub">lately passed <choice>
+                           <orig>betvvene</orig>
+                           <reg choice_type="char_norm default_archive oxford">betwene</reg>
+                        </choice>
+                        <choice>
+                           <orig>tvvo</orig>
+                           <reg choice_type="char_norm default_archive oxford">two</reg>
+                        </choice>
+                        <choice>
+                           <orig choice_type="oxford">V<pc force="weak">-</pc><lb break="no" ed="1580"/>niuersitie</orig>
+                           <reg choice_type="char_norm default_archive">U<pc force="weak">-</pc><lb break="no" ed="1580"/>niversitie</reg>
+                        </choice> <lb break="yes" ed="webArchive"/>men: <ref n="letters_1344608473349" xml:id="letters_1344608473349"> touching</ref> the Earth<pc force="weak">-</pc><lb break="no" ed="1580"/>quake 
+                        <lb break="yes" ed="webArchive"/>in <ref n="letters_1344608640916" xml:id="letters_1344608640916">Aprill last</ref>, and our
+                        English<lb break="yes" ed="1580 webArchive"/> refourmed <ref n="letters_1344608653004" xml:id="letters_1344608653004">Versifying</ref>.<lb break="yes" ed="1580 webArchive"/> </titlePart>
+                     <titlePart rend="face(italics)" type="sub">With the Preface of a wellwiller<lb break="yes" ed="1580 webArchive"/> to them both.<lb break="yes" ed="1580 webArchive"/></titlePart>
+                  </docTitle>
+                  <!--figure KE-->
+                  <docImprint rend="face(roman)"> IMPRINTED AT <pubPlace rend="no_line_break">
+                     <choice>
+                        <orig>LON<pc force="weak">-</pc><lb break="no" ed="1580"/>don,</orig>
+                        <reg choice_type="space_punct oxford default_archive">LONDON,</reg>
+                     </choice>
+                  </pubPlace> <lb break="yes" ed="1580 webArchive"/>by H. <ref n="letters_1344608664756" xml:id="letters_1344608664756">Bynneman</ref>, <choice>
+                        <orig>dvvelling</orig>
+                        <reg choice_type="char_norm default_archive oxford">dwelling</reg>
+                     </choice>
+                     <lb break="yes" ed="1580 webArchive"/> in Thames streate, neere <choice>
+                        <orig choice_type="oxford">vnto</orig>
+                        <reg choice_type="char_norm default_archive">unto</reg>
+                     </choice>
+                     <lb break="yes" ed="1580 webArchive"/>
+                     <ref n="letters_1344608675825" xml:id="letters_1344608675825">Baynardes Castell</ref>. <lb break="yes" ed="1580 webArchive"/>
+                     <docDate>
+                        <hi rend="face(italics)" xml:lang="la">Anno Domini. </hi>1580. </docDate>
+                     <lb break="yes" ed="1580 webArchive"/>
+                     <hi rend="face(italics)" xml:lang="la">Cum gratia <choice>
+                           <orig>&amp;</orig>
+                           <reg choice_type="expan default_archive oxford">et</reg>
+                        </choice>
+                        <choice>
+                           <orig choice_type="oxford">priuilegio</orig>
+                           <reg choice_type="char_norm default_archive">privilegio</reg>
+                        </choice> Regiæ Maiestatis.</hi>
+                  </docImprint>
+               </titlePage><pb/></selectedText>

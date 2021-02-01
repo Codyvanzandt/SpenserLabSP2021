@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="S2r" n="S2r" prev="#S1v"/><titlePage xmlns="http://www.tei-c.org/ns/1.0" rend="face(roman)" type="colophon">
+            <figure/>
+            <docImprint> Imprinted at Lon<pc force="weak">-</pc><lb ed="1569"/><hi rend="face(italics)">don</hi><lb ed="webArchive"/>
+               <hi rend="face(italics)">by Henrie Bynneman,</hi>
+               <lb ed="1569 webArchive"/> dwelling in Knight riders streat, at<lb ed="1569 webArchive"/>
+               <hi rend="face(italics)">the signe of the Marmaid.</hi>
+               <lb ed="1569 webArchive"/>
+               <docDate>
+                  <hi rend="face(small-caps)" xml:lang="la">ANNO. 1569.</hi>
+               </docDate>
+            </docImprint><lb ed="1569 webArchive"/>
+            <imprimatur>
+               <hi rend="face(small-caps)" xml:lang="la">
+                  <choice>
+                     <orig choice_type="oxford">CVM</orig>
+                     <reg choice_type="char_norm default_archive">CUM</reg>
+                  </choice> PRIVILEGIO AD 
+                  <choice>
+                     <orig choice_type="oxford">IMPRI<pc force="weak">-</pc><lb ed="1569 webArchive"/>MENDVM</orig>
+                     <reg choice_type="char_norm default_archive">IMPRIMENDUM</reg>
+                  </choice>
+                  <choice>
+                     <orig choice_type="oxford">SOLVM</orig>
+                     <reg choice_type="char_norm default_archive">SOLUM</reg>
+                  </choice>.</hi>
+            </imprimatur>
+            <figure/>
+            </titlePage><pb/></selectedText>

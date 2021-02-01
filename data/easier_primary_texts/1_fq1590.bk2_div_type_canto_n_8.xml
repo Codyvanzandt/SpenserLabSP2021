@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="T2v" n="T2v" prev="#T2r" next="#T3r"/><div xmlns="http://www.tei-c.org/ns/1.0" n="8" type="canto">
+          <head><hi rend="align(centered)">Cant. VIII.</hi><lb ed="webArchive" xml:id="fq1590.bk2.II.viii.0"/></head>
+          <argument rend="face(italics)">
+            <lg>
+              <l xml:id="fq1590.bk2.II.viii.argument.1">Sir <persName ref="#Guyon">Guyon</persName> layd <ref n="fq1590.bk2_1348770003669" xml:id="fq1590.bk2_1348770003669">in swowne</ref> is by</l>
+              <l rend="align(indented_1)" xml:id="fq1590.bk2.II.viii.argument.2"><ref n="fq1590.bk2_1348770024379" xml:id="fq1590.bk2_1348770024379">Acrates sonnes</ref>
+                <ref n="fq1590.bk2_1348770065064" xml:id="fq1590.bk2_1348770065064">despoyld</ref><hi rend="face(roman)">,</hi></l>
+              <l xml:id="fq1590.bk2.II.viii.argument.3"><ref n="fq1590.bk2_1348770101554" xml:id="fq1590.bk2_1348770101554">Whom</ref>
+                <persName ref="#Arthur">Arthure</persName> soone hath reskewed</l>
+              <l rend="align(indented_1)" xml:id="fq1590.bk2.II.viii.argument.4">And Paynim brethren foyld.</l>
+            </lg>
+          </argument>
+          <lg n="1">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.1.1">
+              <hi rend="face(drop-caps)"><ref n="fq1590.bk2_1348770128593">A</ref></hi><ref n="fq1590.bk2_1348770128593"><choice>
+                <orig>N</orig>
+                <reg choice_type="space_punct oxford default_archive">n</reg>
+              </choice>d is
+              there care in <choice>
+                <orig choice_type="oxford">heauen</orig>
+                <reg choice_type="char_norm default_archive">heaven</reg>
+              </choice>? and is <note type="disamb" line_number="fq1590.bk2.II.viii.1.1" ref="1611594037_03_41" disamb_type="orig oxford"><span class="glossLineNumber">1.1. </span><term>their</term>: there</note><span class="disambAnchor" id="Anchor1611594037_03_41"/><choice>
+                <orig choice_type="oxford">their<note type="delete" line_number="fq1590.bk2.II.viii.1.1" ref="1611594037_03_41" disamb_type="orig oxford"><span class="glossLineNumber">1.1. </span><term>their</term>: there</note></orig>
+                <reg choice_type="disamb default_archive">there</reg>
+              </choice>
+              </ref><choice><orig choice_type="oxford"><ref n="fq1590.bk2_1348770128593">loue</ref></orig>
+                
+              <reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348770128593">love</ref></reg>
+              </choice>
+            </l>
+            <l xml:id="fq1590.bk2.II.viii.1.2"><ref n="fq1590.bk2_1348770148377">In <choice>
+                <orig choice_type="oxford">heauenly</orig>
+                <reg choice_type="char_norm default_archive">heavenly</reg>
+              </choice> spirits to these creatures bace,</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.1.3">That may compassion of their <choice>
+                <orig choice_type="oxford"><ref n="fq1590.bk2_1348770169471">euilles</ref></orig><reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348770169471">evilles</ref></reg>
+              </choice>
+              <choice>
+                <orig choice_type="oxford">moue</orig>
+                <reg choice_type="char_norm default_archive">move</reg>
+              </choice>?</l>
+            <l xml:id="fq1590.bk2.II.viii.1.4">There is: else much more wretched were the cace</l> <pb xml:id="T3r" n="T3r" prev="#T2v" next="#T3v"/><fw place="bottom-center" rend="face(roman)" type="sig">T 3</fw>
+            <fw place="top-right" rend="face(roman)" type="head">291</fw>
+            <fw place="bottom-right" rend="face(roman)" type="catch">Beside</fw>
+            <fw place="top-center" rend="face(italics)" type="head">the Faery Queene.</fw>
+            <fw place="top-left" rend="face(italics)" type="head">Cant.V III.</fw>
+            <l xml:id="fq1590.bk2.II.viii.1.5">Of men <note type="disamb" line_number="fq1590.bk2.II.viii.1.5" ref="1611594037_03_42" disamb_type="orig oxford"><span class="glossLineNumber">1.5. </span><term>then</term>: than</note><span class="disambAnchor" id="Anchor1611594037_03_42"/><choice>
+              <orig choice_type="oxford">then<note type="delete" line_number="fq1590.bk2.II.viii.1.5" ref="1611594037_03_42" disamb_type="orig oxford"><span class="glossLineNumber">1.5. </span><term>then</term>: than</note></orig>
+                <reg choice_type="disamb default_archive">than</reg>
+              </choice> beasts. But O th’exceeding grace</l>
+            <l xml:id="fq1590.bk2.II.viii.1.6">Of highest God, that <choice>
+                <orig choice_type="oxford">loues</orig>
+                <reg choice_type="char_norm default_archive">loves</reg>
+              </choice> his creatures so,</l>
+            <l xml:id="fq1590.bk2.II.viii.1.7"><ref n="fq1590.bk2_1348770191015" xml:id="fq1590.bk2_1348770191015">And all his workes with mercy
+                doth embrace,</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.1.8">That blessed <ref n="fq1590.bk2_1348770209878" xml:id="fq1590.bk2_1348770209878">Angels</ref>, he
+              sends to and fro,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.1.9">To <choice>
+                <orig choice_type="oxford">serue</orig>
+                <reg choice_type="char_norm default_archive">serve</reg>
+              </choice> to wicked man, to <choice>
+                <orig choice_type="oxford">serue</orig>
+                <reg choice_type="char_norm default_archive">serve</reg>
+              </choice> his wicked foe.</l>
+          </lg>
+          <lg n="2">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.2.1">How oft do they, their <choice>
+                <orig choice_type="oxford">siluer</orig>
+                <reg choice_type="char_norm default_archive">silver</reg>
+              </choice> bowers <choice>
+                <orig choice_type="oxford">leaue</orig>
+                <reg choice_type="char_norm default_archive">leave</reg>
+              </choice>,</l>
+            <l xml:id="fq1590.bk2.II.viii.2.2">To come to <ref n="fq1590.bk2_1348770232714" xml:id="fq1590.bk2_1348770232714">succour</ref>
+              <choice>
+                <orig choice_type="oxford">vs</orig>
+                <reg choice_type="char_norm default_archive">us</reg>
+              </choice>, that succour <app>
+                <lem eclecticCopyText="yes" id="1499367272252" wit="#E1590">want,</lem>
+                <rdg wit="#E1596 #E1609">want?</rdg>
+              </app>
+            </l>
+            <l xml:id="fq1590.bk2.II.viii.2.3">How oft do they with golden pineons, <choice>
+                <orig choice_type="oxford">cleaue</orig>
+                <reg choice_type="char_norm default_archive">cleave</reg>
+              </choice>
+            </l>
+            <l xml:id="fq1590.bk2.II.viii.2.4">The <ref n="fq1590.bk2_1348770251903" xml:id="fq1590.bk2_1348770251903">flitting</ref> skyes, like
+              flying <choice>
+                <orig choice_type="oxford"><ref n="fq1590.bk2_1348770273661">Pursuiuant</ref></orig><reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348770273661">Pursuivant</ref></reg>
+              </choice>,</l>
+            <l xml:id="fq1590.bk2.II.viii.2.5">Against fowle feendes to ayd <choice>
+                <orig choice_type="oxford">vs</orig>
+                <reg choice_type="char_norm default_archive">us</reg>
+              </choice>
+              <app>
+                <lem eclecticCopyText="yes" id="1499367322985" wit="#E1590"><ref n="fq1590.bk2_1348770294153">militant:</ref></lem><rdg wit="#E1596 #E1609"><ref n="fq1590.bk2_1348770294153">militant?</ref></rdg>
+              </app>
+            </l>
+            <l xml:id="fq1590.bk2.II.viii.2.6">They for <choice>
+                <orig choice_type="oxford">vs</orig>
+                <reg choice_type="char_norm default_archive">us</reg>
+              </choice> fight, they watch and dewly ward,</l>
+            <l xml:id="fq1590.bk2.II.viii.2.7"><ref n="fq1590.bk2_1348770335628"><ref n="fq1590.bk2_1348770315022">And their bright Squadrons round about </ref><ref n="fq1590.bk2_1348770315022"><choice>
+                <orig choice_type="oxford">vs</orig>
+                <reg choice_type="char_norm default_archive">us</reg>
+              </choice></ref><ref n="fq1590.bk2_1348770315022"> plant,</ref></ref></l><l xml:id="fq1590.bk2.II.viii.2.8"><ref n="fq1590.bk2_1348770335628">And all for <choice>
+                <orig choice_type="oxford">loue</orig>
+                <reg choice_type="char_norm default_archive">love</reg>
+              </choice>, and</ref> nothing for reward:</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.2.9"><ref n="fq1590.bk2_1348770358271">O why should <choice>
+                <orig choice_type="oxford">heuenly</orig>
+                <reg choice_type="char_norm default_archive">hevenly</reg>
+              </choice> God to men <choice>
+                <orig choice_type="oxford">haue</orig>
+                <reg choice_type="char_norm default_archive">have</reg>
+              </choice> such </ref><app><lem wit="#E1596 #E1609"><ref n="fq1590.bk2_1348770358271">regard?</ref></lem>
+              <rdg eclecticCopyText="yes" id="1499367357654" wit="#E1590"><ref n="fq1590.bk2_1348770358271">regard.</ref></rdg>
+              </app>
+            </l>
+          </lg>
+          <lg n="3">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.3.1">During the while, that <persName ref="#Guyon" rend="face(italics)">Guyon</persName> did abide</l>
+            <l xml:id="fq1590.bk2.II.viii.3.2">In <persName ref="#Mammon" rend="face(italics)">Mamons</persName>
+              house, <ref n="fq1590.bk2_1348770389406">the Palmer, whom <ref n="fq1590.bk2_1348770420757" xml:id="fq1590.bk2_1348770420757"> whyleare</ref></ref></l><l xml:id="fq1590.bk2.II.viii.3.3"><ref n="fq1590.bk2_1348770389406">That wanton
+              Mayd of passage had denide,</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.3.4">By further search had passage found elsewhere,</l>
+            <l xml:id="fq1590.bk2.II.viii.3.5">And being on his way, approched neare,</l>
+            <l xml:id="fq1590.bk2.II.viii.3.6">Where <persName ref="#Guyon" rend="face(italics)">Guyon</persName>
+              lay in traunce, when suddeinly</l>
+            <l xml:id="fq1590.bk2.II.viii.3.7">He heard a voyce, that called lowd and cleare,</l>
+            <l xml:id="fq1590.bk2.II.viii.3.8">Come hether, come hether, O come hastily;</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.3.9">That all the fields resounded with the
+              ruefull cry.</l>
+          </lg>
+          <lg n="4">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.4.1">The Palmer lent his eare <choice>
+                <orig choice_type="oxford">vnto</orig>
+                <reg choice_type="char_norm default_archive">unto</reg>
+              </choice> the noyce,</l>
+            <l xml:id="fq1590.bk2.II.viii.4.2">To weet, who called so importunely:</l>
+            <l xml:id="fq1590.bk2.II.viii.4.3">Againe he heard a more <ref n="fq1590.bk2_1348770460547"><ref n="fq1590.bk2_1348770440364" xml:id="fq1590.bk2_1348770440364">efforced</ref></ref> voyce,</l>
+            <l xml:id="fq1590.bk2.II.viii.4.4">That bad him come in haste. He <ref n="fq1590.bk2_1348770480962" xml:id="fq1590.bk2_1348770480962">by and by</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.4.5">His feeble feet directed to the cry;</l>
+            <l xml:id="fq1590.bk2.II.viii.4.6">Which to that shady <choice>
+                <orig choice_type="oxford">delue</orig>
+                <reg choice_type="char_norm default_archive">delve</reg>
+              </choice> him brought at last,</l>
+            <l xml:id="fq1590.bk2.II.viii.4.7">Where <persName ref="#Mammon" rend="face(italics)">Mammon</persName>
+              earst did <ref n="fq1590.bk2_1348770504156" xml:id="fq1590.bk2_1348770504156">sunne his threasury</ref>:</l>
+            <l xml:id="fq1590.bk2.II.viii.4.8">There the good <hi rend="face(italics)">
+                <persName ref="#Guyon">Guyon</persName></hi> he found slumbring fast</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.4.9">In <ref n="fq1590.bk2_1348770524569" xml:id="fq1590.bk2_1348770524569">senceles dreame</ref>; which sight at first him sore aghast.</l>
+          </lg> <pb xml:id="T3v" n="T3v" prev="#T3r" next="#T4r"/><fw place="top-left" rend="face(roman)" type="head">292</fw>
+          <fw place="bottom-right" rend="face(roman)" type="catch">But</fw>
+          <fw place="top-center" rend="face(italics)" type="head">The Second Booke of</fw>
+          <fw place="top-right" rend="face(italics)" type="head">Cant.VIII.</fw>
+          <lg n="5">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.5.1"><ref n="fq1590.bk2_1348770544606" xml:id="fq1590.bk2_1348770544606">Beside his head</ref> there satt <ref n="fq1590.bk2_1348770564169" xml:id="fq1590.bk2_1348770564169">a faire
+                young man</ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.5.2">Of <app>
+                <lem wit="#E1596 #E1609">wondrous</lem>
+                <rdg eclecticCopyText="yes" id="1499367454320" wit="#E1590">wondtous</rdg>
+              </app> beauty, and of freshest yeares,</l>
+            <l xml:id="fq1590.bk2.II.viii.5.3">Whose tender bud to blossome new began,</l>
+            <l xml:id="fq1590.bk2.II.viii.5.4">And florish faire <choice>
+                <orig choice_type="oxford">aboue</orig>
+                <reg choice_type="char_norm default_archive">above</reg>
+              </choice> his <ref n="fq1590.bk2_1348770586616" xml:id="fq1590.bk2_1348770586616">equall peares</ref>;</l>
+            <l xml:id="fq1590.bk2.II.viii.5.5"><ref n="fq1590.bk2_1348770610621">His
+              snowy</ref><!-- looks like "snowv" because y is badly inked. mpm --><ref n="fq1590.bk2_1348770610621"> front</ref> curled with golden heares,</l>
+            <l xml:id="fq1590.bk2.II.viii.5.6">Like <ref n="fq1590.bk2_1348770631729"><hi rend="face(italics)">Phoebus</hi></ref> face
+              adornd with sunny rayes,</l>
+            <l xml:id="fq1590.bk2.II.viii.5.7">
+              <choice>
+                <orig choice_type="oxford">Diuinely</orig>
+                <reg choice_type="char_norm default_archive">Divinely</reg>
+              </choice> shone, and two sharpe <ref n="fq1590.bk2_1348770653242" xml:id="fq1590.bk2_1348770653242">winged
+                sheares</ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.5.8">Decked with <choice>
+                <orig choice_type="oxford"><ref n="fq1590.bk2_1348770674904">diuerse</ref></orig><reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348770674904">diverse</ref></reg>
+              </choice> plumes, <ref n="fq1590.bk2_1348770701709">like painted </ref><choice><orig choice_type="oxford"><ref n="fq1590.bk2_1348770701709">Iayes</ref></orig>
+                
+              <reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348770701709">Jayes</ref></reg>
+              </choice>,<!--JS: "plumes, like" appears as "plumes,like" in control text--></l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.5.9">Were fixed at his backe, to cut his ayery
+              wayes.</l>
+          </lg>
+          <lg n="6">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.6.1"><ref n="fq1590.bk2_1348770724148" xml:id="fq1590.bk2_1348770724148">Like</ref> as <hi rend="face(italics)">Cupido</hi> on <ref n="fq1590.bk2_1348770744160"><hi rend="face(italics)">Idæan</hi></ref> hill,</l>
+            <l xml:id="fq1590.bk2.II.viii.6.2">When <choice>
+                <orig choice_type="oxford">hauing</orig>
+                <reg choice_type="char_norm default_archive">having</reg>
+              </choice> laid his cruell bow away,</l>
+            <l xml:id="fq1590.bk2.II.viii.6.3">And mortall arrowes, wherewith he doth fill</l>
+            <l xml:id="fq1590.bk2.II.viii.6.4">The world with murdrous spoiles and bloody pray,</l>
+            <l xml:id="fq1590.bk2.II.viii.6.5">With his faire mother he him dights to play,</l>
+            <l xml:id="fq1590.bk2.II.viii.6.6">And with <ref n="fq1590.bk2_1348770765741" xml:id="fq1590.bk2_1348770765741">his goodly
+                sisters</ref>, <hi rend="face(italics)">Graces</hi> three;</l>
+            <l xml:id="fq1590.bk2.II.viii.6.7">The Goddesse pleased with his wanton play,</l>
+            <l xml:id="fq1590.bk2.II.viii.6.8">Suffers her selfe <ref n="fq1590.bk2_1348770787718" xml:id="fq1590.bk2_1348770787718">through
+                sleepe beguild</ref> to bee,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.6.9">The whiles the other Ladies mind theyr mery
+              glee.</l>
+          </lg>
+          <lg n="7">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.7.1">Whom when the Palmer saw, abasht he was</l>
+            <l xml:id="fq1590.bk2.II.viii.7.2">Through fear and wonder, that he nought could say,</l>
+            <l xml:id="fq1590.bk2.II.viii.7.3">Till him the <ref n="fq1590.bk2_1348770812720" xml:id="fq1590.bk2_1348770812720">childe</ref>
+              bespoke, Long lackt, alas,</l>
+            <l xml:id="fq1590.bk2.II.viii.7.4">Hath bene thy faithfull aide in hard assay,</l>
+            <l xml:id="fq1590.bk2.II.viii.7.5">Whiles deadly fitt thy pupill doth dismay;</l>
+            <l xml:id="fq1590.bk2.II.viii.7.6">Behold this <choice>
+                <orig choice_type="oxford">heauy</orig>
+                <reg choice_type="char_norm default_archive">heavy</reg>
+              </choice> sight, thou <choice>
+                <orig choice_type="oxford">reuerend</orig>
+                <reg choice_type="char_norm default_archive">reverend</reg>
+              </choice> Sire,</l>
+            <l xml:id="fq1590.bk2.II.viii.7.7">But dread of death and dolor doe away;</l>
+            <l xml:id="fq1590.bk2.II.viii.7.8">For life ere long shall to her home retire,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.7.9">And he that breathlesse seems, shal <ref n="fq1590.bk2_1348770835450" xml:id="fq1590.bk2_1348770835450">corage bold
+              respire</ref>.<!--JS: "seems, shal" appears as "seems,shal" in control text--></l>
+          </lg>
+          <lg n="8">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.8.1"><ref n="fq1590.bk2_1348770856988">The charge, which God doth <choice>
+                <orig choice_type="oxford">vnto</orig>
+                <reg choice_type="char_norm default_archive">unto</reg>
+              </choice> me <ref n="fq1590.bk2_1348770877559" xml:id="fq1590.bk2_1348770877559">arrett</ref>,</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.8.2">Of his deare safety, I to thee commend;</l>
+            <l xml:id="fq1590.bk2.II.viii.8.3">Yet will I not forgoe, ne yet forgett</l>
+            <l xml:id="fq1590.bk2.II.viii.8.4">The care thereof my selfe <choice>
+                <orig choice_type="oxford">vnto</orig>
+                <reg choice_type="char_norm default_archive">unto</reg>
+              </choice> the end,</l> <pb xml:id="T4r" n="T4r" prev="#T3v" next="#T4v"/><fw place="bottom-center" rend="face(roman)" type="sig">T 4</fw>
+            <fw place="top-right" rend="face(roman)" type="head">293</fw>
+            <fw place="bottom-right" rend="face(roman)" type="catch">Whom</fw>
+            <fw place="top-center" rend="face(italics)" type="head">the Faery
+              Queene.<!--possibly a colon--></fw>
+            <fw place="top-left" rend="face(italics)" type="head">Cant.VIII.</fw>
+            <l xml:id="fq1590.bk2.II.viii.8.5">But <choice>
+                <orig choice_type="oxford">euermore</orig>
+                <reg choice_type="char_norm default_archive">evermore</reg>
+              </choice> him succour, and defend</l>
+            <l xml:id="fq1590.bk2.II.viii.8.6">Against his foe and mine: watch thou I pray;</l>
+            <l xml:id="fq1590.bk2.II.viii.8.7">For <choice>
+                <orig choice_type="oxford">euill</orig>
+                <reg choice_type="char_norm default_archive">evill</reg>
+              </choice> is at hand him to <ref n="fq1590.bk2_1348770951274"><ref n="fq1590.bk2_1348770930408" xml:id="fq1590.bk2_1348770930408">offend</ref></ref>.</l>
+            <l xml:id="fq1590.bk2.II.viii.8.8">So <choice>
+                <orig choice_type="oxford">hauing</orig>
+                <reg choice_type="char_norm default_archive">having</reg>
+              </choice> said, eftsoones he gan display</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.8.9">His <ref n="fq1590.bk2_1348770972647" xml:id="fq1590.bk2_1348770972647">painted</ref> nimble wings, and vanisht quite away.</l>
+          </lg>
+          <lg n="9">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.9.1">The Palmer seeing his lefte empty place,</l>
+            <l xml:id="fq1590.bk2.II.viii.9.2">And his slow eies beguiled of their sight,</l>
+            <l xml:id="fq1590.bk2.II.viii.9.3">Woxe sore affraid, and standing still a space,</l>
+            <l xml:id="fq1590.bk2.II.viii.9.4">Gaz’d after him, <ref n="fq1590.bk2_1348770997958" xml:id="fq1590.bk2_1348770997958">as fowle
+                escapt by flight</ref>;</l>
+            <l xml:id="fq1590.bk2.II.viii.9.5">At last him turning to his charge behight,</l>
+            <l xml:id="fq1590.bk2.II.viii.9.6">With trembling hand his troubled pulse gan try,</l>
+            <l xml:id="fq1590.bk2.II.viii.9.7">Where finding life not yet dislodged quight,</l>
+            <l xml:id="fq1590.bk2.II.viii.9.8"><ref n="fq1590.bk2_1348771064889">He much <choice>
+                <orig choice_type="oxford">reioyst</orig>
+                <reg choice_type="char_norm default_archive">rejoyst</reg>
+              </choice>, and </ref><ref n="fq1590.bk2_1348771064889"><ref n="fq1590.bk2_1348771042522"><ref n="fq1590.bk2_1348771018572" xml:id="fq1590.bk2_1348771018572">courd</ref></ref></ref><ref n="fq1590.bk2_1348771064889"> it tenderly,</ref></l><l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.9.9"><ref n="fq1590.bk2_1348771064889">As chicken <ref n="fq1590.bk2_1348771085937" xml:id="fq1590.bk2_1348771085937">newly
+                hatcht</ref>, from dreaded destiny.</ref></l>
+          </lg>
+          <lg n="10">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.10.1">At last he spide, where towards him did
+              pace</l>
+            <l xml:id="fq1590.bk2.II.viii.10.2">Two <ref n="fq1590.bk2_1348771127070"><ref n="fq1590.bk2_1348771106524" xml:id="fq1590.bk2_1348771106524">Paynim</ref></ref> knights, al armd as bright as skie,</l>
+            <l xml:id="fq1590.bk2.II.viii.10.3"><ref n="fq1590.bk2_1348771150873" xml:id="fq1590.bk2_1348771150873">And them beside an aged Sire
+                did trace,</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.10.4">And far before a light-foote Page did flie,</l>
+            <l xml:id="fq1590.bk2.II.viii.10.5">That breathed strife and troublous enmitie;</l>
+            <l xml:id="fq1590.bk2.II.viii.10.6">Those were the <ref n="fq1590.bk2_1348771172731">two
+              sonnes of <hi rend="face(italics)">Acrates</hi></ref> old,</l>
+            <l xml:id="fq1590.bk2.II.viii.10.7"><ref n="fq1590.bk2_1348771204141">Who meeting earst with
+                <persName ref="#Archimago" rend="face(italics)">Archimago</persName> slie,</ref></l><l xml:id="fq1590.bk2.II.viii.10.8"><ref n="fq1590.bk2_1348771204141">Foreby that idle strond,</ref>
+              of him were told,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.10.9">That he, which earst them combatted, was
+              <persName ref="#Guyon" rend="face(italics)">Guyon</persName> bold<hi rend="face(blackletter)">.</hi></l>
+          </lg>
+          <lg n="11">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.11.1">Which to <choice>
+                <orig choice_type="oxford">auenge</orig>
+                <reg choice_type="char_norm default_archive">avenge</reg>
+              </choice> on him they <ref n="fq1590.bk2_1348771224417" xml:id="fq1590.bk2_1348771224417">dearly</ref> vowd,</l>
+            <l xml:id="fq1590.bk2.II.viii.11.2">Where <choice>
+                <orig choice_type="oxford">euer</orig>
+                <reg choice_type="char_norm default_archive">ever</reg>
+              </choice> that on ground they mote him find;</l>
+            <l xml:id="fq1590.bk2.II.viii.11.3">False <persName ref="#Archimago" rend="face(italics)">Archimage </persName>
+              <choice>
+                <orig choice_type="oxford">prouokte</orig>
+                <reg choice_type="char_norm default_archive">provokte</reg>
+              </choice> their corage prowd,</l>
+            <l xml:id="fq1590.bk2.II.viii.11.4"><ref n="fq1590.bk2_1348771253014">And <ref n="fq1590.bk2_1348771273509" xml:id="fq1590.bk2_1348771273509">stryful</ref>
+              </ref><ref n="fq1590.bk2_1348771293431"><ref n="fq1590.bk2_1348771253014"><hi rend="face(italics)">Atin</hi></ref></ref><ref n="fq1590.bk2_1348771253014"> in their stubborne mind</ref></l><l xml:id="fq1590.bk2.II.viii.11.5"><ref n="fq1590.bk2_1348771253014">Coles of contention and <ref n="fq1590.bk2_1348771315297" xml:id="fq1590.bk2_1348771315297">whot</ref> vengeaunce
+                tind.</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.11.6">Now bene they come, whereas the Palmer sate,</l>
+            <l xml:id="fq1590.bk2.II.viii.11.7">Keeping that <ref n="fq1590.bk2_1348771357452"><ref n="fq1590.bk2_1348771337148" xml:id="fq1590.bk2_1348771337148">slombred</ref></ref> corse to him assind;</l>
+            <l xml:id="fq1590.bk2.II.viii.11.8">Well knew they both his person, sith of late</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.11.9">With him in bloody armes they rashly did <ref n="fq1590.bk2_1348771378461" xml:id="fq1590.bk2_1348771378461">debate</ref><hi rend="face(blackletter)">.</hi></l>
+          </lg> <pb xml:id="T4v" n="T4v" prev="#T4r" next="#T5r"/><fw place="top-left" rend="face(roman)" type="head">294</fw>
+          <fw place="bottom-right" rend="face(roman)" type="catch">Sith</fw>
+          <fw place="top-center" rend="face(italics)" type="head">The Second Booke of</fw>
+          <fw place="top-right" rend="face(italics)" type="head">Cant.VIII.</fw>
+          <lg n="12">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.12.1">Whom when <persName ref="#Pyrochles" rend="face(italics)">
+                <app>
+                  <lem eclecticCopyText="yes" id="1499367543588" wit="#E1590">Pyrochles</lem>
+                  <rdg wit="#E1596 #E1609">Pyrrhochles</rdg>
+                </app>
+              </persName> saw, inflam’d with rage,</l>
+            <l xml:id="fq1590.bk2.II.viii.12.2">That sire he fowl bespake, Thou dotard vile,</l>
+            <l xml:id="fq1590.bk2.II.viii.12.3">That with thy <ref n="fq1590.bk2_1348771403138" xml:id="fq1590.bk2_1348771403138">brutenesse
+                shendst</ref> thy <ref n="fq1590.bk2_1348771423547" xml:id="fq1590.bk2_1348771423547">comely</ref> age,</l>
+            <l xml:id="fq1590.bk2.II.viii.12.4">Abandon soone, I read, the <choice>
+                <orig choice_type="oxford"><ref n="fq1590.bk2_1348771444653">caytiue</ref></orig><reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348771444653">caytive</ref></reg>
+              </choice> spoile</l>
+            <l xml:id="fq1590.bk2.II.viii.12.5">Of that same outcast carcas, that <app>
+                <lem wit="this edn.">ere while</lem>
+                <rdg wit="#E1596 #E1609">erewhile</rdg>
+                <rdg eclecticCopyText="yes" id="1499367590511" wit="#E1590">ere whfle</rdg>
+              </app>
+            </l>
+            <l xml:id="fq1590.bk2.II.viii.12.6">Made it <app>
+                <lem wit="#E1596 #E1609">
+                  <choice><orig>ſelfe</orig><reg choice_type="silent_norm oxford default_archive">selfe</reg></choice>
+                </lem>
+                <rdg eclecticCopyText="yes" id="1499367621204" wit="#E1590">felfe</rdg>
+              </app> famous through false trechery,</l>
+            <l xml:id="fq1590.bk2.II.viii.12.7">And crownd his coward crest with knightly <ref n="fq1590.bk2_1348771463661" xml:id="fq1590.bk2_1348771463661">stile</ref>;</l>
+            <l xml:id="fq1590.bk2.II.viii.12.8">Loe where he now inglorious doth lye,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.12.9">To <choice>
+                <orig choice_type="oxford">prooue</orig>
+                <reg choice_type="char_norm default_archive">proove</reg>
+              </choice> he <choice>
+                <orig choice_type="oxford">liued</orig>
+                <reg choice_type="char_norm default_archive">lived</reg>
+              </choice> il, that did thus fowly dye.</l>
+          </lg>
+          <lg n="13">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.13.1">To whom the Palmer fearlesse answered,</l>
+            <l xml:id="fq1590.bk2.II.viii.13.2">Certes, Sir knight, ye bene too much to blame,</l>
+            <l xml:id="fq1590.bk2.II.viii.13.3">Thus for to blott the honor of the dead,</l>
+            <l xml:id="fq1590.bk2.II.viii.13.4">And with fowle cowardize his carcas shame,</l>
+            <l xml:id="fq1590.bk2.II.viii.13.5">Whose <choice>
+                <orig choice_type="oxford">liuing</orig>
+                <reg choice_type="char_norm default_archive">living</reg>
+              </choice> handes immortalizd his name.</l>
+            <l xml:id="fq1590.bk2.II.viii.13.6">Vile is the vengeaunce on the ashes cold,</l>
+            <l xml:id="fq1590.bk2.II.viii.13.7">And <choice>
+                <orig choice_type="oxford"><ref n="fq1590.bk2_1348771490457">enuy</ref></orig><reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348771490457">envy</ref></reg>
+              </choice><ref n="fq1590.bk2_1348771490457"> base, to barke</ref> at sleeping
+              fame:</l>
+            <l xml:id="fq1590.bk2.II.viii.13.8">Was <choice>
+                <orig choice_type="oxford">neuer</orig>
+                <reg choice_type="char_norm default_archive">never</reg>
+              </choice> wight, that treason of him told;</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.13.9">Your self his prowesse <choice>
+                <orig choice_type="oxford">prou’d</orig>
+                <reg choice_type="char_norm default_archive">prov’d</reg>
+              </choice>
+              <choice>
+                <orig>&amp;</orig>
+                <reg choice_type="expan oxford default_archive">and</reg>
+              </choice> found him fiers <choice>
+                <orig>&amp;</orig>
+                <reg choice_type="expan oxford default_archive">and</reg>
+              </choice> bold.</l>
+          </lg>
+          <lg n="14">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.14.1">Then sayd <persName ref="#Cymochles" rend="face(italics)">Cymochles</persName>, Palmer, thou doest dote,</l>
+            <l xml:id="fq1590.bk2.II.viii.14.2">Ne canst of prowesse, ne of knighthood deeme,</l>
+            <l xml:id="fq1590.bk2.II.viii.14.3">
+              <choice>
+                <orig choice_type="oxford">Saue</orig>
+                <reg choice_type="char_norm default_archive">Save</reg>
+              </choice> as thou seest or hearst. But well I wote,</l>
+            <l xml:id="fq1590.bk2.II.viii.14.4">That of his puissaunce tryall made extreeme;</l>
+            <l xml:id="fq1590.bk2.II.viii.14.5"><ref n="fq1590.bk2_1348771511886" xml:id="fq1590.bk2_1348771511886">Yet gold al is not, that doth
+                golden seeme,</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.14.6">Ne all good knights, that shake well speare <choice>
+                <orig>&amp;</orig>
+                <reg choice_type="expan oxford default_archive">and</reg>
+              </choice> shield:</l>
+            <l xml:id="fq1590.bk2.II.viii.14.7"><ref n="fq1590.bk2_1348771532256">The worth of all men by
+              their end esteeme,</ref></l><ref n="fq1590.bk2_1348771532256"><l xml:id="fq1590.bk2.II.viii.14.8">And then dew praise, or dew reproch them
+              yield;</l></ref><l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.14.9"><ref n="fq1590.bk2_1348771532256">Bad therefore I him deeme, that
+              thus lies dead on field.</ref></l>
+          </lg>
+          <lg n="15">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.15.1">Good or bad, gan his brother fiers
+              reply,</l>
+            <l xml:id="fq1590.bk2.II.viii.15.2">What doe I <ref n="fq1590.bk2_1348771554728" xml:id="fq1590.bk2_1348771554728">recke</ref>, sith
+              that he dide entire?</l>
+            <l xml:id="fq1590.bk2.II.viii.15.3">Or what doth his bad death now satisfy,</l>
+            <l xml:id="fq1590.bk2.II.viii.15.4">The greedy hunger of <choice>
+                <orig choice_type="oxford">reuenging</orig>
+                <reg choice_type="char_norm default_archive">revenging</reg>
+              </choice> yre;</l> <pb xml:id="T5r" n="T5r" prev="#T4v" next="#T5v"/><fw place="top-right" rend="face(roman)" type="head">295</fw>
+            <fw place="bottom-right" rend="face(roman)" type="catch">But</fw>
+            <fw place="top-center" rend="face(italics)" type="head">the Faery Queene</fw>
+            <fw place="top-left" rend="face(italics)" type="head">Cant.VIII.</fw>
+            <l xml:id="fq1590.bk2.II.viii.15.5">Sith wrathfull hand wrought not her owne desire?</l>
+            <l xml:id="fq1590.bk2.II.viii.15.6">Yet since no way is lefte to wreake my spight,</l>
+            <l xml:id="fq1590.bk2.II.viii.15.7">I will him <choice>
+                <orig choice_type="oxford">reaue</orig>
+                <reg choice_type="char_norm default_archive">reave</reg>
+              </choice> of armes, the victors <ref n="fq1590.bk2_1348773243441" xml:id="fq1590.bk2_1348773243441">hire</ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.15.8">And of that shield, more worthy of good knight;</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.15.9">For why should a dead dog be deckt in
+              armour bright?</l>
+          </lg>
+          <lg n="16">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.16.1">Fayr Sir, said then the Palmer
+              suppliaunt,</l>
+            <l xml:id="fq1590.bk2.II.viii.16.2">For knighthoods <choice>
+                <orig choice_type="oxford">loue</orig>
+                <reg choice_type="char_norm default_archive">love</reg>
+              </choice>, doe not so fowle a deed,</l>
+            <l xml:id="fq1590.bk2.II.viii.16.3">Ne <ref n="fq1590.bk2_1348773263194" xml:id="fq1590.bk2_1348773263194">blame</ref> your honor
+              with so shamefull vaunt</l>
+            <l xml:id="fq1590.bk2.II.viii.16.4">Of vile <choice>
+                <orig choice_type="oxford">reuenge</orig>
+                <reg choice_type="char_norm default_archive">revenge</reg>
+              </choice>. <ref n="fq1590.bk2_1348773292030">To spoile the dead of <ref n="fq1590.bk2_1348773330024" xml:id="fq1590.bk2_1348773330024">weed</ref></ref></l><l xml:id="fq1590.bk2.II.viii.16.5"><ref n="fq1590.bk2_1348773292030">Is sacrilege,
+              and doth all sinnes exceed;</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.16.6">But <choice>
+                <orig choice_type="oxford">leaue</orig>
+                <reg choice_type="char_norm default_archive">leave</reg>
+              </choice> these relicks of his <choice>
+                <orig choice_type="oxford">liuing</orig>
+                <reg choice_type="char_norm default_archive">living</reg>
+              </choice> might,</l>
+            <l xml:id="fq1590.bk2.II.viii.16.7">To decke his herce, and <ref n="fq1590.bk2_1348773347880" xml:id="fq1590.bk2_1348773347880">trap</ref> his <app>
+                <lem eclecticCopyText="yes" id="1499367710585" wit="#E1590">tomblacke</lem>
+                <rdg wit="#E1596">tomb-blacke</rdg>
+                <rdg wit="#E1609">tomb-black</rdg>
+              </app> steed.</l>
+            <l xml:id="fq1590.bk2.II.viii.16.8">What herce or steed (said he) should he <choice>
+                <orig choice_type="oxford">haue</orig>
+                <reg choice_type="char_norm default_archive">have</reg>
+              </choice>
+              <ref n="fq1590.bk2_1348773366912" xml:id="fq1590.bk2_1348773366912">dight</ref>,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.16.9"><ref n="fq1590.bk2_1348773387549">But be entombed in the <choice>
+                <orig choice_type="oxford">rauen</orig>
+                <reg choice_type="char_norm default_archive">raven</reg>
+              </choice> or the kight?</ref></l>
+          </lg>
+          <lg n="17">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.17.1">With that, rude hand <choice>
+                <orig choice_type="oxford">vpon</orig>
+                <reg choice_type="char_norm default_archive">upon</reg>
+              </choice> his shield he laid,</l>
+            <l xml:id="fq1590.bk2.II.viii.17.2">And th’other brother gan his helme <choice>
+                <orig choice_type="oxford">vnlace</orig>
+                <reg choice_type="char_norm default_archive">unlace</reg>
+              </choice>,</l>
+            <l xml:id="fq1590.bk2.II.viii.17.3">Both fiercely bent to <choice>
+                <orig choice_type="oxford">haue</orig>
+                <reg choice_type="char_norm default_archive">have</reg>
+              </choice> him disaraid;</l>
+            <l xml:id="fq1590.bk2.II.viii.17.4">Till that they spyde, where towards them did pace</l>
+            <l xml:id="fq1590.bk2.II.viii.17.5">An armed knight, of bold and bounteous grace,</l>
+            <l xml:id="fq1590.bk2.II.viii.17.6">Whose squire bore after him an <ref n="fq1590.bk2_1348773415943" xml:id="fq1590.bk2_1348773415943">heben</ref> launce,</l>
+            <l xml:id="fq1590.bk2.II.viii.17.7"><ref n="fq1590.bk2_1348773461487">And <choice>
+                <orig choice_type="oxford">couerd</orig>
+                <reg choice_type="char_norm default_archive">coverd</reg>
+              </choice> shield</ref>. <ref n="fq1590.bk2_1348773484450" xml:id="fq1590.bk2_1348773484450">Well kend him so far space</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.17.8">Th’enchaunter by his armes and <ref n="fq1590.bk2_1348773505832" xml:id="fq1590.bk2_1348773505832">amenaunce</ref>,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.17.9">When <choice>
+                <orig choice_type="oxford">vnder</orig>
+                <reg choice_type="char_norm default_archive">under</reg>
+              </choice> him he saw his Lybian steed to praunce.</l>
+          </lg>
+          <lg n="18">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.18.1">And to those brethren sayd, Rise rise <choice>
+                <orig choice_type="oxford"><ref n="fq1590.bk2_1348773528873">byliue</ref></orig><reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348773528873">bylive</ref></reg>
+              </choice>,</l>
+            <l xml:id="fq1590.bk2.II.viii.18.2">And <choice>
+                <orig choice_type="oxford">vnto</orig>
+                <reg choice_type="char_norm default_archive">unto</reg>
+              </choice> batteil doe <choice>
+                <orig choice_type="oxford">yourselues</orig>
+                <reg choice_type="char_norm default_archive">yourselves</reg>
+              </choice> addresse;</l>
+            <l xml:id="fq1590.bk2.II.viii.18.3">For yonder comes the <ref n="fq1590.bk2_1348773556173" xml:id="fq1590.bk2_1348773556173">prowest</ref> knight <choice>
+                <orig choice_type="oxford">aliue</orig>
+                <reg choice_type="char_norm default_archive">alive</reg>
+              </choice>,</l>
+            <l xml:id="fq1590.bk2.II.viii.18.4">Prince <persName ref="#Arthur" rend="face(italics)">Arthur</persName>, flowre of grace and nobilesse,</l>
+            <l xml:id="fq1590.bk2.II.viii.18.5">That hath to Paynim knights wrought gret <app>
+                <lem wit="#E1596 #E1609">
+                  <choice><orig>diﬅreſſe,</orig><reg choice_type="silent_norm oxford default_archive">distresse,</reg></choice>
+                </lem>
+                <rdg eclecticCopyText="yes" id="1499367755874" wit="#E1590">
+                  <choice><orig>diﬅreſſe.</orig><reg choice_type="silent_norm oxford default_archive">distresse.</reg></choice>
+                </rdg>
+              </app>
+            </l>
+            <l xml:id="fq1590.bk2.II.viii.18.6">And thousand <ref n="fq1590.bk2_1348773582117" xml:id="fq1590.bk2_1348773582117"><ref n="fq1590.bk2_1348773620759">Sar’zins</ref></ref> fowly donne to dye.</l>
+            <l xml:id="fq1590.bk2.II.viii.18.7">That word so deepe did in their harts impresse,</l>
+            <l xml:id="fq1590.bk2.II.viii.18.8">That both eftsoones <choice>
+                <orig choice_type="oxford">vpstarted</orig>
+                <reg choice_type="char_norm default_archive">upstarted</reg>
+              </choice> furiously,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.18.9">And gan <choice>
+                <orig choice_type="oxford">themselues</orig>
+                <reg choice_type="char_norm default_archive">themselves</reg>
+              </choice> prepare to batteill greedily.</l>
+          </lg> <pb xml:id="T5v" n="T5v" prev="#T5r" next="#T6r"/><fw place="top-left" rend="face(roman)" type="head">296</fw>
+          <fw place="bottom-right" rend="face(roman)" type="catch">His</fw>
+          <fw place="top-center" rend="face(italics)" type="head">The Second Booke of</fw>
+          <fw place="top-right" rend="face(italics)" type="head">Cant.VIII.</fw>
+          <lg n="19">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.19.1"><ref n="fq1590.bk2_1348773902988">But fiers <persName ref="#Pyrochles" rend="face(italics)">Pyrrhochles</persName>,
+              lacking his owne sword,</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.19.2">The want thereof now greatly gan to plaine,</l>
+            <l xml:id="fq1590.bk2.II.viii.19.3">And <persName ref="#Archimago" rend="face(italics)">Archimage</persName> besought, him that afford,</l>
+            <l xml:id="fq1590.bk2.II.viii.19.4">Which he had brought for <persName ref="#Braggadocchio" rend="face(italics)">
+                <app>
+                  <lem eclecticCopyText="yes" id="1499367945285" wit="#E1590">Braggadochio</lem>
+                  <rdg wit="#E1596 #E1609">Braggadocchio</rdg>
+                </app>
+              </persName> vaine.</l>
+            <l xml:id="fq1590.bk2.II.viii.19.5">So would I (said th’enchaunter) glad and <ref n="fq1590.bk2_1348773926421" xml:id="fq1590.bk2_1348773926421">faine</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.19.6"><ref n="fq1590.bk2_1348773946711" xml:id="fq1590.bk2_1348773946711">Beteeme</ref> to you this
+              sword, you to defend,</l>
+            <l xml:id="fq1590.bk2.II.viii.19.7">Or ought that els your honor might maintaine,</l>
+            <l xml:id="fq1590.bk2.II.viii.19.8">But that this weapons powre I well <choice>
+                <orig choice_type="oxford">haue</orig>
+                <reg choice_type="char_norm default_archive">have</reg>
+              </choice>
+              <ref n="fq1590.bk2_1348773966175" xml:id="fq1590.bk2_1348773966175">kend</ref>,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.19.9">To be contrary to the worke, which ye
+              intend.</l>
+          </lg>
+          <lg n="20">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.20.1">For that same knights owne sword this is of
+              yore,</l>
+            <l xml:id="fq1590.bk2.II.viii.20.2">Which <persName ref="#Merlin" rend="face(italics)">Merlin</persName>
+              made by his almightie art,</l>
+            <l xml:id="fq1590.bk2.II.viii.20.3">For that his noursling, when he knighthood swore,</l>
+            <l xml:id="fq1590.bk2.II.viii.20.4">Therewith to doen his foes eternall smart.</l>
+            <l xml:id="fq1590.bk2.II.viii.20.5">The metall first he mixt with <ref n="fq1590.bk2_1348773987614"><hi rend="face(italics)">Medæwart</hi></ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.20.6">That no enchauntment from his dint might <choice>
+                <orig choice_type="oxford">saue</orig>
+                <reg choice_type="char_norm default_archive">save</reg>
+              </choice>;</l>
+            <l xml:id="fq1590.bk2.II.viii.20.7">Then it in flames of <ref n="fq1590.bk2_1348774006679"><hi rend="face(italics)">Aetna</hi></ref>
+              wrought apart,</l>
+            <l xml:id="fq1590.bk2.II.viii.20.8"><ref n="fq1590.bk2_1348774027305">And <choice>
+                <orig choice_type="oxford"><ref n="fq1590.bk2_1348774046639">seuen</ref></orig><reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348774046639">seven</ref></reg>
+              </choice></ref><ref n="fq1590.bk2_1348774046639"><ref n="fq1590.bk2_1348774027305"> times</ref></ref><ref n="fq1590.bk2_1348774027305"> dipped in the bitter <choice>
+                <orig choice_type="oxford">waue</orig>
+                <reg choice_type="char_norm default_archive">wave</reg>
+              </choice>
+            </ref></l><l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.20.9"><ref n="fq1590.bk2_1348774027305">Of hellish <hi rend="face(italics)">Styx</hi>, </ref><ref n="fq1590.bk2_1348774066670"><ref n="fq1590.bk2_1348774027305">which hidden vertue to it </ref><ref n="fq1590.bk2_1348774027305"><choice>
+                <orig choice_type="oxford">gaue</orig>
+                <reg choice_type="char_norm default_archive">gave</reg>
+              </choice></ref><ref n="fq1590.bk2_1348774027305">.</ref></ref></l>
+          </lg>
+          <lg n="21">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.21.1">The vertue is, that nether steele, nor
+              stone</l>
+            <l xml:id="fq1590.bk2.II.viii.21.2">The stroke thereof from entraunce may defend;</l>
+            <l xml:id="fq1590.bk2.II.viii.21.3">Ne <choice>
+                <orig choice_type="oxford">euer</orig>
+                <reg choice_type="char_norm default_archive">ever</reg>
+              </choice> may be <choice>
+                <orig choice_type="oxford">vsed</orig>
+                <reg choice_type="char_norm default_archive">used</reg>
+              </choice> by his <ref n="fq1590.bk2_1348774087353" xml:id="fq1590.bk2_1348774087353">fone</ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.21.4">Ne forst <ref n="fq1590.bk2_1348774106776" xml:id="fq1590.bk2_1348774106776">his</ref> rightful
+              owner to offend,</l>
+            <l xml:id="fq1590.bk2.II.viii.21.5">Ne <choice>
+                <orig choice_type="oxford">euer</orig>
+                <reg choice_type="char_norm default_archive">ever</reg>
+              </choice> will it breake, ne <choice>
+                <orig choice_type="oxford">euer</orig>
+                <reg choice_type="char_norm default_archive">ever</reg>
+              </choice> bend.</l>
+            <l xml:id="fq1590.bk2.II.viii.21.6">Wherefore <ref n="fq1590.bk2_1348774126956"><hi rend="face(italics)">Morddure</hi></ref> it
+              rightfully is hight.</l>
+            <l xml:id="fq1590.bk2.II.viii.21.7">In vaine therefore, <persName ref="#Pyrochles" rend="face(italics)">
+                <app>
+                  <lem eclecticCopyText="yes" id="1499367883829" wit="#E1590">Pyrhochles</lem>
+                  <rdg wit="#E1596 #E1609">Pyrrhochles</rdg>
+                </app>
+              </persName>, should I lend</l>
+            <l xml:id="fq1590.bk2.II.viii.21.8">The same to thee, against his lord to fight,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.21.9">For sure yt would <choice>
+                <orig choice_type="oxford">deceiue</orig>
+                <reg choice_type="char_norm default_archive">deceive</reg>
+              </choice> thy labor, and thy might.</l>
+          </lg>
+          <lg n="22">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.22.1">Foolish old man, said then the Pagan
+              wroth,</l>
+            <l xml:id="fq1590.bk2.II.viii.22.2">That weenest words or charms may force withstond:</l>
+            <l xml:id="fq1590.bk2.II.viii.22.3">Soone shalt thou see, and then <choice>
+                <orig choice_type="oxford">beleeue</orig>
+                <reg choice_type="char_norm default_archive">beleeve</reg>
+              </choice> for troth,</l>
+            <l xml:id="fq1590.bk2.II.viii.22.4"><ref n="fq1590.bk2_1348774172767">That I can <choice>
+                <orig choice_type="oxford">carue</orig>
+                <reg choice_type="char_norm default_archive">carve</reg>
+              </choice> with this inchaunted </ref><ref n="fq1590.bk2_1348774151125" xml:id="fq1590.bk2_1348774151125"><ref n="fq1590.bk2_1348774172767">brond</ref></ref></l> <pb xml:id="T6r" n="T6r" prev="#T5v" next="#T6v"/><fw place="top-right" rend="face(roman)" type="head">297</fw>
+            <fw place="bottom-right" rend="face(roman)" type="catch">Palmer</fw>
+            <fw place="top-center" rend="face(italics)" type="head">the Faery Queene.</fw>
+            <fw place="top-left" rend="face(italics)" type="head">Cant.VIII.</fw>
+            <l xml:id="fq1590.bk2.II.viii.22.5"><ref n="fq1590.bk2_1348774194299" xml:id="fq1590.bk2_1348774194299">His Lords owne flesh</ref>.
+              Therewith out of his hond</l>
+            <l xml:id="fq1590.bk2.II.viii.22.6">That <ref n="fq1590.bk2_1348774214626" xml:id="fq1590.bk2_1348774214626">vertuous</ref> steele he
+              rudely snatcht away,</l>
+            <l xml:id="fq1590.bk2.II.viii.22.7">And <persName ref="#Guyon" rend="face(italics)">Guyons</persName>
+              shield about his wrest he bond;</l>
+            <l xml:id="fq1590.bk2.II.viii.22.8">So ready dight, fierce battaile to assay,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.22.9">And match his brother proud in battailous
+              aray.</l>
+          </lg>
+          <lg n="23">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.23.1">By this that straunger knight in presence
+              came,</l>
+            <l xml:id="fq1590.bk2.II.viii.23.2">And goodly <ref n="fq1590.bk2_1348774254993"><ref n="fq1590.bk2_1348774234246" xml:id="fq1590.bk2_1348774234246">salued</ref></ref> them; who nought againe</l>
+            <l xml:id="fq1590.bk2.II.viii.23.3">Him answered, as courtesie became,</l>
+            <l xml:id="fq1590.bk2.II.viii.23.4">But with sterne lookes, and <ref n="fq1590.bk2_1348774274086" xml:id="fq1590.bk2_1348774274086">stomachous</ref> disdaine,</l>
+            <l xml:id="fq1590.bk2.II.viii.23.5">
+              <choice>
+                <orig choice_type="oxford">Gaue</orig>
+                <reg choice_type="char_norm default_archive">Gave</reg>
+              </choice> signes of grudge and discontentment vaine:</l>
+            <l xml:id="fq1590.bk2.II.viii.23.6">Then turning to the Palmer, he gan spy</l>
+            <l xml:id="fq1590.bk2.II.viii.23.7">Where at his feet, with sorrowfull <ref n="fq1590.bk2_1348774292458" xml:id="fq1590.bk2_1348774292458">demayne</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.23.8">And deadly hew, an armed corse did lye,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.23.9">In whose dead face he redd great <ref n="fq1590.bk2_1348774312544" xml:id="fq1590.bk2_1348774312544">magnanimity</ref>.</l>
+          </lg>
+          <lg n="24">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.24.1">Sayd he then to the Palmer, <choice>
+                <orig choice_type="oxford">Reuerend</orig>
+                <reg choice_type="char_norm default_archive">Reverend</reg>
+              </choice> syre,</l>
+            <l xml:id="fq1590.bk2.II.viii.24.2">What great misfortune hath betidd this knight?</l>
+            <l xml:id="fq1590.bk2.II.viii.24.3">Or did his life her fatall date expyre,</l>
+            <l xml:id="fq1590.bk2.II.viii.24.4">Or did he fall by treason, or by fight?</l>
+            <l xml:id="fq1590.bk2.II.viii.24.5">How <choice>
+                <orig choice_type="oxford">euer</orig>
+                <reg choice_type="char_norm default_archive">ever</reg>
+              </choice>, sure I rew his pitteous plight.</l>
+            <l xml:id="fq1590.bk2.II.viii.24.6">Not one, nor other, sayd the Palmer <choice>
+                <orig choice_type="oxford">graue</orig>
+                <reg choice_type="char_norm default_archive">grave</reg>
+              </choice>,</l>
+            <l xml:id="fq1590.bk2.II.viii.24.7">Hath him befalne, but cloudes of deadly night</l>
+            <l xml:id="fq1590.bk2.II.viii.24.8">A while his <choice>
+                <orig choice_type="oxford">heauy</orig>
+                <reg choice_type="char_norm default_archive">heavy</reg>
+              </choice> eylids <choice>
+                <orig choice_type="oxford">couer</orig>
+                <reg choice_type="char_norm default_archive">cover</reg>
+              </choice>’d <choice>
+                <orig choice_type="oxford">haue</orig>
+                <reg choice_type="char_norm default_archive">have</reg>
+              </choice>,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.24.9">And all his sences drowned in deep
+              sencelesse <choice>
+                <orig choice_type="oxford">waue</orig>
+                <reg choice_type="char_norm default_archive">wave</reg>
+              </choice>.</l>
+          </lg>
+          <lg n="25">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.25.1">Which, those <app>
+                <lem wit="#E1590FE">his cruell</lem>
+                <rdg eclecticCopyText="yes" id="1499368026674" wit="#E1590 #E1596 #E1609">
+                  <choice><orig>ſame</orig><reg choice_type="silent_norm oxford default_archive">same</reg></choice>
+                </rdg>
+              </app> foes, that stand hereby,</l>
+            <l xml:id="fq1590.bk2.II.viii.25.2">Making <choice>
+                <orig choice_type="oxford">aduauntage</orig>
+                <reg choice_type="char_norm default_archive">advauntage</reg>
+              </choice>, to <choice>
+                <orig choice_type="oxford">reuenge</orig>
+                <reg choice_type="char_norm default_archive">revenge</reg>
+              </choice> their spight,</l>
+            <l xml:id="fq1590.bk2.II.viii.25.3">Would him disarme, and treaten shamefully,</l>
+            <l xml:id="fq1590.bk2.II.viii.25.4">
+              <choice>
+                <orig choice_type="oxford">Vnworthie</orig>
+                <reg choice_type="char_norm default_archive">Unworthie</reg>
+              </choice>
+              <choice>
+                <orig choice_type="oxford">vsage</orig>
+                <reg choice_type="char_norm default_archive">usage</reg>
+              </choice> of <ref n="fq1590.bk2_1348774337073" xml:id="fq1590.bk2_1348774337073">redoubted</ref> knight.</l>
+            <l xml:id="fq1590.bk2.II.viii.25.5">But you, faire Sir, whose honourable sight</l>
+            <l xml:id="fq1590.bk2.II.viii.25.6">Doth promise hope of helpe, and timely
+              grace,<!--JS: "helpe, and" appears as "helpe,and" in control text--></l>
+            <l xml:id="fq1590.bk2.II.viii.25.7">Mote I beseech to succour his sad plight,</l>
+            <l xml:id="fq1590.bk2.II.viii.25.8">And by your powre protect his feeble <ref n="fq1590.bk2_1348774356402" xml:id="fq1590.bk2_1348774356402">cace</ref>.</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.25.9">First prayse of knighthood is, fowle
+              outrage to <ref n="fq1590.bk2_1348774396104"><ref n="fq1590.bk2_1348774375727" xml:id="fq1590.bk2_1348774375727">deface</ref></ref>.</l>
+          </lg> <pb xml:id="T6v" n="T6v" prev="#T6r" next="#T7r"/><fw place="top-left" rend="face(roman)" type="head">298</fw>
+          <fw place="bottom-right" rend="face(roman)" type="catch">Till</fw>
+          <fw place="top-center" rend="face(italics)" type="head">The Second Booke of</fw>
+          <fw place="top-right" rend="face(italics)" type="head">Cant.VIII.</fw>
+          <lg n="26">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.26.1">Palmer, (said he) no knight so rude, I
+              weene,</l>
+            <l xml:id="fq1590.bk2.II.viii.26.2">As to doen outrage to a sleeping <ref n="fq1590.bk2_1348774415460" xml:id="fq1590.bk2_1348774415460">ghost</ref>:</l>
+            <l xml:id="fq1590.bk2.II.viii.26.3">Ne was there <choice>
+                <orig choice_type="oxford">euer</orig>
+                <reg choice_type="char_norm default_archive">ever</reg>
+              </choice> noble corage seene,</l>
+            <l xml:id="fq1590.bk2.II.viii.26.4">That in <choice>
+                <orig choice_type="oxford">aduauntage</orig>
+                <reg choice_type="char_norm default_archive">advauntage</reg>
+              </choice> would his puissaunce bost:</l>
+            <l xml:id="fq1590.bk2.II.viii.26.5">Honour is least, where oddes appeareth most.</l>
+            <l xml:id="fq1590.bk2.II.viii.26.6">May bee, that better reason will aswage,</l>
+            <l xml:id="fq1590.bk2.II.viii.26.7">The rash <choice>
+                <orig choice_type="oxford">reuengers</orig>
+                <reg choice_type="char_norm default_archive">revengers</reg>
+              </choice> heat. <ref n="fq1590.bk2_1348774445951">Words well dispost</ref></l><l xml:id="fq1590.bk2.II.viii.26.8"><ref n="fq1590.bk2_1348774445951">
+              <choice>
+                <orig choice_type="oxford">Haue</orig>
+                <reg choice_type="char_norm default_archive">Have</reg>
+              </choice> secrete powre, t’appease inflamed rage:</ref></l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.26.9">If not, <choice>
+                <orig choice_type="oxford">leaue</orig>
+                <reg choice_type="char_norm default_archive">leave</reg>
+              </choice>
+              <choice>
+                <orig choice_type="oxford">vnto</orig>
+                <reg choice_type="char_norm default_archive">unto</reg>
+              </choice> me thy knights last <app>
+                <lem eclecticCopyText="yes" id="1499368119508" wit="#E1590"><ref n="fq1590.bk2_1348774466794">patronage</ref></lem><rdg wit="#E1596"><ref n="fq1590.bk2_1348774466794">patonage</ref></rdg>
+              <rdg wit="#E1609"><ref n="fq1590.bk2_1348774466794">pat⁀ronage</ref></rdg>
+              </app>.</l>
+          </lg>
+          <lg n="27">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.27.1">Tho turning to those brethren, thus
+              bespoke,</l>
+            <l xml:id="fq1590.bk2.II.viii.27.2">Ye warlike payre, whose valorous great might</l>
+            <l xml:id="fq1590.bk2.II.viii.27.3">It seemes, <choice>
+                <orig choice_type="oxford">iust</orig>
+                <reg choice_type="char_norm default_archive">just</reg>
+              </choice> wronges to vengeaunce doe <choice>
+                <orig choice_type="oxford">prouoke</orig>
+                <reg choice_type="char_norm default_archive">provoke</reg>
+              </choice>,</l>
+            <l xml:id="fq1590.bk2.II.viii.27.4">To wreake your wrath on this dead seeming knight,</l>
+            <l xml:id="fq1590.bk2.II.viii.27.5">Mote ought allay the storme of your despight,</l>
+            <l xml:id="fq1590.bk2.II.viii.27.6">And settle patience in so furious heat?</l>
+            <l xml:id="fq1590.bk2.II.viii.27.7"><ref n="fq1590.bk2_1348774502244" xml:id="fq1590.bk2_1348774502244">Not to debate the chalenge of
+                your right,</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.27.8">But for this carkas pardon I entreat,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.27.9">Whom fortune hath already laid in lowest
+              seat.</l>
+          </lg>
+          <lg n="28">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.28.1">To whom <persName ref="#Cymochles" rend="face(italics)">Cymochles</persName> said, For what art thou,</l>
+            <l xml:id="fq1590.bk2.II.viii.28.2"><ref n="fq1590.bk2_1348774532784" xml:id="fq1590.bk2_1348774532784">That mak’st thy selfe his
+                dayes-man, to <ref n="fq1590.bk2_1348776379523" xml:id="fq1590.bk2_1348776379523">prolong</ref></ref></l>
+            <l xml:id="fq1590.bk2.II.viii.28.3">The vengeaunce prest? Or who shall <ref n="fq1590.bk2_1348776398289" xml:id="fq1590.bk2_1348776398289">let</ref> me now,</l>
+            <l xml:id="fq1590.bk2.II.viii.28.4">On this vile body from to wreak my wrong,</l>
+            <l xml:id="fq1590.bk2.II.viii.28.5">And make his carkas as the outcast dong?</l>
+            <l xml:id="fq1590.bk2.II.viii.28.6">Why should not that dead carrion satisfye</l>
+            <l xml:id="fq1590.bk2.II.viii.28.7">The guilt, which if he <choice>
+                <orig choice_type="oxford">liued</orig>
+                <reg choice_type="char_norm default_archive">lived</reg>
+              </choice> had thus long,</l>
+            <l xml:id="fq1590.bk2.II.viii.28.8">His life for dew <choice>
+                <orig choice_type="oxford">reuenge</orig>
+                <reg choice_type="char_norm default_archive">revenge</reg>
+              </choice> should <ref n="fq1590.bk2_1348776418669" xml:id="fq1590.bk2_1348776418669">deare abye</ref>?</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.28.9">The trespas still doth <choice>
+                <orig choice_type="oxford">liue</orig>
+                <reg choice_type="char_norm default_archive">live</reg>
+              </choice>, albee the person dye.</l>
+          </lg>
+          <lg n="29">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.29.1"><ref n="fq1590.bk2_1348776458438">Indeed, then said the Prince, the <choice>
+                <orig choice_type="oxford">euill</orig>
+                <reg choice_type="char_norm default_archive">evill</reg>
+              </choice> donne</ref></l><ref n="fq1590.bk2_1348776458438"><l xml:id="fq1590.bk2.II.viii.29.2">Dyes not, when breath the body first doth <choice>
+                <orig choice_type="oxford">leaue</orig>
+                <reg choice_type="char_norm default_archive">leave</reg>
+              </choice>,</l><l xml:id="fq1590.bk2.II.viii.29.3">But from the grandsyre to the <ref n="fq1590.bk2_1348776517607"><ref n="fq1590.bk2_1348776497342" xml:id="fq1590.bk2_1348776497342">Nephewes</ref></ref> sonne,</l><l xml:id="fq1590.bk2.II.viii.29.4">And all his seede the curse doth often <choice>
+                <orig choice_type="oxford">cleaue</orig>
+                <reg choice_type="char_norm default_archive">cleave</reg>
+              </choice>,</l><pb xml:id="T7r" n="T7r" prev="#T6v" next="#T7v"/><fw place="top-right" rend="face(roman)" type="head">299</fw><fw place="bottom-right" rend="face(roman)" type="catch">Which</fw><fw place="top-center" rend="face(italics)" type="head">the Faerie Queene.</fw><fw place="top-left" rend="face(italics)" type="head">Cant.VIII.</fw><l xml:id="fq1590.bk2.II.viii.29.5">Till vengeaunce <choice>
+                <orig choice_type="oxford">vtterly</orig>
+                <reg choice_type="char_norm default_archive">utterly</reg>
+              </choice> the guilt <choice>
+                <orig choice_type="oxford"><ref n="fq1590.bk2_1348776558612"><ref n="fq1590.bk2_1348776538030">bereaue</ref></ref></orig><reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348776558612"><ref n="fq1590.bk2_1348776538030">bereave</ref></ref></reg>
+              </choice>:</l></ref><l xml:id="fq1590.bk2.II.viii.29.6"><ref n="fq1590.bk2_1348776458438">So <ref n="fq1590.bk2_1348776578494" xml:id="fq1590.bk2_1348776578494">streightly</ref> God doth <choice>
+                <orig choice_type="oxford">iudge</orig>
+                <reg choice_type="char_norm default_archive">judge</reg>
+              </choice>.</ref> But gentle knight,</l>
+            <l xml:id="fq1590.bk2.II.viii.29.7">That doth against the dead his hand <choice>
+                <orig choice_type="oxford"><ref n="fq1590.bk2_1348776599845">vpreare</ref></orig><reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348776599845">upreare</ref></reg>
+              </choice>,</l>
+            <l xml:id="fq1590.bk2.II.viii.29.8">His honour staines with rancour and despight,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.29.9">And great disparagment makes to his former
+              might.</l>
+          </lg>
+          <lg n="30">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.30.1">
+              <persName ref="#Pyrochles" rend="face(italics)">Pyrrhochles</persName> gan reply the
+              second tyme,</l>
+            <l xml:id="fq1590.bk2.II.viii.30.2">And to him said, Now <ref n="fq1590.bk2_1348776622954" xml:id="fq1590.bk2_1348776622954">felon</ref> sure I read,</l>
+            <l xml:id="fq1590.bk2.II.viii.30.3">How that thou art partaker of his cryme:</l>
+            <l xml:id="fq1590.bk2.II.viii.30.4">Therefore by <ref n="fq1590.bk2_1348776645296"><hi rend="face(italics)">Termagaunt</hi></ref>
+              thou shalt be dead.</l>
+            <l xml:id="fq1590.bk2.II.viii.30.5">With that his hand, more <ref n="fq1590.bk2_1348776664472" xml:id="fq1590.bk2_1348776664472">sad</ref>
+              <note type="disamb" line_number="fq1590.bk2.II.viii.30.5" ref="1611594037_03_43" disamb_type="orig oxford"><span class="glossLineNumber">30.5. </span><term>then</term>: than</note><span class="disambAnchor" id="Anchor1611594037_03_43"/><choice>
+                <orig choice_type="oxford">then<note type="delete" line_number="fq1590.bk2.II.viii.30.5" ref="1611594037_03_43" disamb_type="orig oxford"><span class="glossLineNumber">30.5. </span><term>then</term>: than</note></orig>
+                <reg choice_type="disamb default_archive">than</reg>
+              </choice> lomp of lead,</l>
+            <l xml:id="fq1590.bk2.II.viii.30.6">
+              <choice>
+                <orig choice_type="oxford">Vplifting</orig>
+                <reg choice_type="char_norm default_archive">Uplifting</reg>
+              </choice> high, he weened with <hi rend="face(italics)">Morddure</hi>,</l>
+            <l xml:id="fq1590.bk2.II.viii.30.7">His owne good sword <hi rend="face(italics)">Morddure</hi>, to <choice>
+                <orig choice_type="oxford">cleaue</orig>
+                <reg choice_type="char_norm default_archive">cleave</reg>
+              </choice> his head.</l>
+            <l xml:id="fq1590.bk2.II.viii.30.8">The faithfull steele such treason <app>
+                <lem wit="this edn.">n’ould</lem>
+                <rdg eclecticCopyText="yes" id="1499372672707" wit="#E1590">no’uld</rdg>
+              </app> endure,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.30.9">But <choice>
+                <orig choice_type="oxford">swaruing</orig>
+                <reg choice_type="char_norm default_archive">swarving</reg>
+              </choice> from the marke, his Lordes life did assure.</l>
+          </lg>
+          <lg n="31">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.31.1">Yet was the force so furious and so
+              fell,</l>
+            <l xml:id="fq1590.bk2.II.viii.31.2">That horse and man it made to reele asyde;</l>
+            <l xml:id="fq1590.bk2.II.viii.31.3">Nath’lesse the Prince would not forsake his <ref n="fq1590.bk2_1348776708152" xml:id="fq1590.bk2_1348776708152">sell</ref>:</l>
+            <l xml:id="fq1590.bk2.II.viii.31.4">For well of yore he learned had to ryde,</l>
+            <l xml:id="fq1590.bk2.II.viii.31.5">But full of anger fiersly to him cryde;</l>
+            <l xml:id="fq1590.bk2.II.viii.31.6"><ref n="fq1590.bk2_1348776730332">False traitour <ref n="fq1590.bk2_1348776752892" xml:id="fq1590.bk2_1348776752892">miscreaunt</ref>, thou broken hast</ref></l><l xml:id="fq1590.bk2.II.viii.31.7"><ref n="fq1590.bk2_1348776730332">The law of armes, to strike foe <choice>
+                <orig choice_type="oxford">vndefide</orig>
+                <reg choice_type="char_norm default_archive">undefide</reg>
+              </choice>.</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.31.8">But thou thy treasons fruit, I hope, shalt taste</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.31.9">Right sowre, <choice>
+                <orig>&amp;</orig>
+                <reg choice_type="expan oxford default_archive">and</reg>
+              </choice> feele the law, the which thou hast <ref n="fq1590.bk2_1348776775932" xml:id="fq1590.bk2_1348776775932"><app>
+                  <lem wit="#E1596">
+                    <choice><orig>defaﬅ.</orig><reg choice_type="silent_norm oxford default_archive">defast.</reg></choice>
+                  </lem>
+                  <rdg eclecticCopyText="yes" id="1499372719318" wit="#E1590">
+                    <choice><orig>defaﬅ</orig><reg choice_type="silent_norm oxford default_archive">defast</reg></choice>
+                  </rdg>
+                  <rdg wit="#E1609">
+                    <choice><orig>defac’t</orig><reg choice_type="silent_norm oxford default_archive">defac’t</reg></choice>
+                  </rdg>
+                </app></ref>
+            </l>
+          </lg>
+          <lg n="32">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.32.1">With that his balefull speare, he fiercely
+                <ref n="fq1590.bk2_1348776806906" xml:id="fq1590.bk2_1348776806906">bent</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.32.2">Against the <app>
+                <lem wit="#E1590FE #E1596 #E1609">Pagans</lem>
+                <rdg eclecticCopyText="yes" id="1499372757304" wit="#E1590">Pagons</rdg>
+              </app> brest, and therewith thought</l>
+            <l xml:id="fq1590.bk2.II.viii.32.3">His cursed life out of her lodg <choice>
+                <orig choice_type="oxford">haue</orig>
+                <reg choice_type="char_norm default_archive">have</reg>
+              </choice> rent:</l>
+            <l xml:id="fq1590.bk2.II.viii.32.4">But ere the point <choice>
+                <orig choice_type="oxford">arriued</orig>
+                <reg choice_type="char_norm default_archive">arrived</reg>
+              </choice>, where it ought,</l>
+            <l xml:id="fq1590.bk2.II.viii.32.5"><ref n="fq1590.bk2_1348776835524">That <choice>
+                <orig choice_type="oxford">seuen</orig>
+                <reg choice_type="char_norm default_archive">seven</reg>
+              </choice> fold shield, which he from <persName ref="#Guyon" rend="face(italics)">Guyon</persName> brought</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.32.6">He cast between toward the bitter <ref n="fq1590.bk2_1348776855217" xml:id="fq1590.bk2_1348776855217">stownd</ref>:</l>
+            <l xml:id="fq1590.bk2.II.viii.32.7">Through all those foldes the steelehead passage <seg rend="hang_up(1)"><pc force="weak">(</pc>wrought</seg></l>
+            <l xml:id="fq1590.bk2.II.viii.32.8">And through his shoulder perst; wherwith to <choice>
+                <orig>groũd</orig>
+                <reg choice_type="expan oxford default_archive">ground</reg>
+              </choice>
+            </l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.32.9">He <choice>
+                <orig choice_type="oxford">groueling</orig>
+                <reg choice_type="char_norm default_archive">groveling</reg>
+              </choice> fell, all gored in his gushing wound.</l>
+          </lg> <pb xml:id="T7v" n="T7v" prev="#T7r" next="#T8r"/><fw place="top-left" rend="face(roman)" type="head">300</fw>
+          <fw place="bottom-right" rend="face(roman)" type="catch">That</fw>
+          <fw place="top-center" rend="face(italics)" type="head">The Second Booke of</fw>
+          <fw place="top-right" rend="face(italics)" type="head">Cant.VIII.</fw>
+          <lg n="33">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.33.1">Which when his brother saw, fraught with
+              great griefe</l>
+            <l xml:id="fq1590.bk2.II.viii.33.2">And wrath, he to him leaped furiously,</l>
+            <l xml:id="fq1590.bk2.II.viii.33.3">And fowly saide, By <ref n="fq1590.bk2_1348776897361"><hi rend="face(italics)">Mahoune</hi></ref>,
+              cursed thiefe,</l>
+            <l xml:id="fq1590.bk2.II.viii.33.4">That direfull stroke thou dearely shalt <ref n="fq1590.bk2_1348776916869" xml:id="fq1590.bk2_1348776916869">aby</ref>.</l>
+            <l xml:id="fq1590.bk2.II.viii.33.5">Then hurling <choice>
+                <orig choice_type="oxford">vp</orig>
+                <reg choice_type="char_norm default_archive">up</reg>
+              </choice> his harmefull blade on hy,</l>
+            <l xml:id="fq1590.bk2.II.viii.33.6">Smote him so hugely on his haughtie crest,</l>
+            <l xml:id="fq1590.bk2.II.viii.33.7">That from his saddle forced him to fly:</l>
+            <l xml:id="fq1590.bk2.II.viii.33.8"><ref n="fq1590.bk2_1348776938336" xml:id="fq1590.bk2_1348776938336">Els mote it needes</ref>
+              downe to his manly brest</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.33.9">
+              <choice>
+                <orig choice_type="oxford">Haue</orig>
+                <reg choice_type="char_norm default_archive">Have</reg>
+              </choice> cleft his head in twaine, and life thence <app>
+                <lem wit="#E1596 #E1609">
+                  <choice><orig>diſpoſſeﬅ.</orig><reg choice_type="silent_norm oxford default_archive">dispossest.</reg></choice>
+                </lem>
+                <rdg eclecticCopyText="yes" id="1499372840418" wit="#E1590">
+                  <choice><orig>diſpoſſeﬅ</orig><reg choice_type="silent_norm oxford default_archive">dispossest</reg></choice>
+                </rdg>
+              </app>
+            </l>
+          </lg>
+          <lg n="34">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.34.1">Now was the Prince in daungerous
+              distresse,</l>
+            <l xml:id="fq1590.bk2.II.viii.34.2">Wanting his sword, when he on foot should fight:</l>
+            <l xml:id="fq1590.bk2.II.viii.34.3">His single speare could <ref n="fq1590.bk2_1348776975467" xml:id="fq1590.bk2_1348776975467">doe
+                him small redresse</ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.34.4">Against two foes of so exceeding might,</l>
+            <l xml:id="fq1590.bk2.II.viii.34.5">The least of which was match for any knight.</l>
+            <l xml:id="fq1590.bk2.II.viii.34.6">And now the other, whom he earst did daunt,</l>
+            <l xml:id="fq1590.bk2.II.viii.34.7">Had reard him selfe againe to cruel fight,</l>
+            <l xml:id="fq1590.bk2.II.viii.34.8">Three times more furious, and more puissaunt,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.34.9">
+              <choice>
+                <orig choice_type="oxford">Vnmindfull</orig>
+                <reg choice_type="char_norm default_archive">Unmindfull</reg>
+              </choice> of his wound, of his fate ignoraunt.</l>
+          </lg>
+          <lg n="35">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.35.1">So both attonce him charge on either
+              syde,</l>
+            <l xml:id="fq1590.bk2.II.viii.35.2">With hideous strokes, and <ref n="fq1590.bk2_1348776995978" xml:id="fq1590.bk2_1348776995978">importable</ref> powre,</l>
+            <l xml:id="fq1590.bk2.II.viii.35.3">That forced him <ref n="fq1590.bk2_1348777019326">his
+              ground to </ref><choice><orig choice_type="oxford"><ref n="fq1590.bk2_1348777019326">trauerse</ref></orig>
+                
+              <reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348777019326">traverse</ref></reg>
+              </choice> wyde,</l>
+            <l xml:id="fq1590.bk2.II.viii.35.4">And wisely watch to ward that deadly <ref n="fq1590.bk2_1348777060273"><ref n="fq1590.bk2_1348777039485" xml:id="fq1590.bk2_1348777039485">stowre</ref></ref>:</l>
+            <l xml:id="fq1590.bk2.II.viii.35.5">For in his shield, as thicke as stormie showre,</l>
+            <l xml:id="fq1590.bk2.II.viii.35.6">Their strokes did raine, yet did he <choice>
+                <orig choice_type="oxford">neuer</orig>
+                <reg choice_type="char_norm default_archive">never</reg>
+              </choice> quaile,</l>
+            <l xml:id="fq1590.bk2.II.viii.35.7">Ne backward shrinke, but as a stedfast towre,</l>
+            <l xml:id="fq1590.bk2.II.viii.35.8">Whom foe with <app>
+                <lem wit="#E1590FE #E1596 #E1609">double</lem>
+                <rdg eclecticCopyText="yes" id="1499372888188" wit="#E1590">doubly</rdg>
+              </app> battry doth assaile,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.35.9">Them on her bulwarke beares, and bids them
+              nought 
+              <choice>
+                <orig choice_type="oxford">a<pc force="weak">-</pc><seg rend="hang_up(1)"><pc force="weak">(</pc>uaile.</seg></orig>
+                <reg choice_type="char_norm default_archive">a<pc force="weak">-</pc><seg rend="hang_up(1)"><pc force="weak">(</pc>vaile.</seg></reg>
+              </choice>
+            </l>
+          </lg>
+          <lg n="36">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.36.1">So stoutly he withstood their strong <ref n="fq1590.bk2_1348777082492" xml:id="fq1590.bk2_1348777082492">assay</ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.36.2">Till that at last, when he <choice>
+                <orig choice_type="oxford">aduantage</orig>
+                <reg choice_type="char_norm default_archive">advantage</reg>
+              </choice> spyde,</l>
+            <l xml:id="fq1590.bk2.II.viii.36.3">His <ref n="fq1590.bk2_1348777102653" xml:id="fq1590.bk2_1348777102653">poynant</ref> speare he
+              thrust with <ref n="fq1590.bk2_1348777123187" xml:id="fq1590.bk2_1348777123187">puissant sway</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.36.4">At proud <persName ref="#Cymochles" rend="face(italics)">Cymochles</persName>, whiles his shield was wyde,</l> <pb xml:id="T8r" n="T8r" prev="#T7v" next="#T8v"/><fw place="top-right" rend="face(roman)" type="head">301</fw>
+            <fw place="bottom-right" rend="face(roman)" type="catch">Whom</fw>
+            <fw place="top-center" rend="face(italics)" type="head">the Faerie Queene.</fw>
+            <fw place="top-left" rend="face(italics)" type="head">Cant.VIII.</fw>
+            <l xml:id="fq1590.bk2.II.viii.36.5">That through his thigh the mortall steele did <ref n="fq1590.bk2_1348777144594" xml:id="fq1590.bk2_1348777144594">gryde</ref>:</l>
+            <l xml:id="fq1590.bk2.II.viii.36.6">He <choice>
+                <orig choice_type="oxford">swaruing</orig>
+                <reg choice_type="char_norm default_archive">swarving</reg>
+              </choice> with the force, within his flesh</l>
+            <l xml:id="fq1590.bk2.II.viii.36.7">Did breake the launce, and let the head abyde:</l>
+            <l xml:id="fq1590.bk2.II.viii.36.8">Out of the wound the redblood flowed fresh,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.36.9">That <choice>
+                <orig choice_type="oxford">vnderneath</orig>
+                <reg choice_type="char_norm default_archive">underneath</reg>
+            </choice> his feet soone made a purple <ref n="fq1590.bk2_1348777165186" xml:id="fq1590.bk2_1348777165186">plesh</ref><hi rend="face(blackletter)">.</hi></l>
+          </lg>
+          <lg n="37">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.37.1">Horribly then he gan to rage, and
+              rayle,</l>
+            <l xml:id="fq1590.bk2.II.viii.37.2">Cursing <ref n="fq1590.bk2_1348777191049" xml:id="fq1590.bk2_1348777191049">his Gods</ref>, and
+              him selfe damning deepe:</l>
+            <l xml:id="fq1590.bk2.II.viii.37.3">Als when his brother saw the redblood <app>
+                <lem eclecticCopyText="yes" wit="#E1590 #E1596">rayle</lem>
+                <rdg wit="#E1609">traile</rdg>
+            </app></l>
+            <l xml:id="fq1590.bk2.II.viii.37.4">Adowne so fast and all his armour steepe,</l>
+            <l xml:id="fq1590.bk2.II.viii.37.5">For <ref n="fq1590.bk2_1348777232977" xml:id="fq1590.bk2_1348777232977">very felnesse</ref> lowd
+              he gan to weepe,</l>
+            <l xml:id="fq1590.bk2.II.viii.37.6">And said, <choice>
+                <orig choice_type="oxford"><ref n="fq1590.bk2_1348777256060">Caytiue</ref></orig><reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348777256060">Caytive</ref></reg>
+              </choice>, cursse on thy cruell hond,</l>
+            <l xml:id="fq1590.bk2.II.viii.37.7">That twise hath spedd, yet shall it not thee keepe</l>
+            <l xml:id="fq1590.bk2.II.viii.37.8">From the third brunt of this my fatall <ref n="fq1590.bk2_1348777277351" xml:id="fq1590.bk2_1348777277351">brond</ref>:</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.37.9">Lo where the dreadfull Death behynd thy
+              backe doth <seg rend="hang_up(1)"><pc force="weak">(</pc>stond.</seg></l>
+          </lg>
+          <lg n="38">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.38.1">With that <ref n="fq1590.bk2_1348777298914" xml:id="fq1590.bk2_1348777298914">he</ref> strooke, and <ref n="fq1590.bk2_1348777321713" xml:id="fq1590.bk2_1348777321713">thother</ref> strooke withall,</l>
+            <l xml:id="fq1590.bk2.II.viii.38.2">That nothing seemd mote beare so <choice>
+                <orig>mõstrous</orig>
+                <reg choice_type="expan oxford default_archive">monstrous</reg>
+              </choice> might:</l>
+            <l xml:id="fq1590.bk2.II.viii.38.3"><ref n="fq1590.bk2_1348777346434" xml:id="fq1590.bk2_1348777346434">The one</ref>
+              <choice>
+                <orig choice_type="oxford">vpon</orig>
+                <reg choice_type="char_norm default_archive">upon</reg>
+              </choice> his <choice>
+                <orig choice_type="oxford">couered</orig>
+                <reg choice_type="char_norm default_archive">covered</reg>
+              </choice> shield did fall,</l>
+            <l xml:id="fq1590.bk2.II.viii.38.4">And glauncing downe would not <ref n="fq1590.bk2_1348777369175" xml:id="fq1590.bk2_1348777369175">his owner byte</ref>:</l>
+            <l xml:id="fq1590.bk2.II.viii.38.5">But <ref n="fq1590.bk2_1348777432223" xml:id="fq1590.bk2_1348777432223">th’other</ref> did <choice>
+                <orig choice_type="oxford">vpon</orig>
+                <reg choice_type="char_norm default_archive">upon</reg>
+              </choice> his <ref n="fq1590.bk2_1348777479564"><ref n="fq1590.bk2_1348777390427" xml:id="fq1590.bk2_1348777390427">troncheon</ref></ref> smyte,</l>
+            <l xml:id="fq1590.bk2.II.viii.38.6">Which hewing quite <choice>
+                <orig choice_type="oxford">a sunder</orig>
+                <reg choice_type="space_punct  default_archive">asunder</reg>
+              </choice>, further way</l>
+            <l xml:id="fq1590.bk2.II.viii.38.7">It made, and on his <ref n="fq1590.bk2_1348777501866" xml:id="fq1590.bk2_1348777501866">hacqueton</ref> did lyte,</l>
+            <l xml:id="fq1590.bk2.II.viii.38.8">The which <choice>
+                <orig choice_type="oxford">diuiding</orig>
+                <reg choice_type="char_norm default_archive">dividing</reg>
+              </choice> with <ref n="fq1590.bk2_1348777525004" xml:id="fq1590.bk2_1348777525004">importune</ref> sway,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.38.9"><ref n="fq1590.bk2_1348777568666">It seizd in his right side, and there the <ref n="fq1590.bk2_1348777545914" xml:id="fq1590.bk2_1348777545914">dint</ref> did stay.</ref></l></lg><lg n="39"><ref n="fq1590.bk2_1348777568666"><l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.39.1">Wyde was the wound, and a large lukewarme flood,</l></ref><l xml:id="fq1590.bk2.II.viii.39.2"><ref n="fq1590.bk2_1348777568666">Red as the Rose, thence gushed <choice>
+                <orig choice_type="oxford">grieuously</orig>
+                <reg choice_type="char_norm default_archive">grievously</reg>
+              </choice>,</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.39.3">That when the Paynym spyde the streaming blood,</l>
+            <l xml:id="fq1590.bk2.II.viii.39.4">
+              <choice>
+                <orig choice_type="oxford">Gaue</orig>
+                <reg choice_type="char_norm default_archive">Gave</reg>
+              </choice> him great hart, <app>
+                <lem wit="#E1596 #E1609">and</lem>
+                <rdg eclecticCopyText="yes" id="1499373006584" wit="#E1590">aud</rdg>
+              </app> hope of victory.</l>
+            <l xml:id="fq1590.bk2.II.viii.39.5">On thother side, in huge perplexity,</l>
+            <l xml:id="fq1590.bk2.II.viii.39.6">The Prince now stood, <choice>
+                <orig choice_type="oxford">hauing</orig>
+                <reg choice_type="char_norm default_archive">having</reg>
+              </choice> his weapon broke;</l>
+            <l xml:id="fq1590.bk2.II.viii.39.7">Nought could he hurt, but still <ref n="fq1590.bk2_1348777595307" xml:id="fq1590.bk2_1348777595307">at warde</ref> did ly:</l>
+            <l xml:id="fq1590.bk2.II.viii.39.8">Yet with his troncheon he so rudely stroke</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.39.9">
+              <persName ref="#Cymochles" rend="face(italics)">Cymochles</persName> twise, that twise
+              him forst <ref n="fq1590.bk2_1348777616965">his foot </ref><choice><orig choice_type="oxford"><ref n="fq1590.bk2_1348777616965">reuoke</ref></orig>
+                
+              <reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348777616965">revoke</ref></reg>
+              </choice>.</l>
+          </lg> <pb xml:id="T8v" n="T8v" prev="#T8r" next="#V1r"/><fw place="top-left" rend="face(roman)" type="head">302</fw>
+          <fw place="bottom-right" rend="face(roman)" type="catch">And</fw>
+          <fw place="top-center" rend="face(italics)" type="head">The Second Booke of</fw>
+          <fw place="top-right" rend="face(italics)" type="head">Cant.VIII.</fw>
+          <lg n="40">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.40.1">Whom when the Palmer saw in such
+              distresse,</l>
+            <l xml:id="fq1590.bk2.II.viii.40.2">Sir <persName ref="#Guyon" rend="face(italics)">Guyons</persName>
+              sword he lightly to him <ref n="fq1590.bk2_1348777635743" xml:id="fq1590.bk2_1348777635743"> raught</ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.40.3">And said, fayre Sonne, great god thy right <choice>
+                <orig>hãd</orig>
+                <reg choice_type="expan oxford default_archive">hand</reg>
+              </choice>
+              blesse,<!--JS: "Sonne, great" appears as "Sonne,great" in control text--></l>
+            <l xml:id="fq1590.bk2.II.viii.40.4">To <choice>
+                <orig choice_type="oxford">vse</orig>
+                <reg choice_type="char_norm default_archive">use</reg>
+              </choice> that sword <app>
+                <lem eclecticCopyText="yes" id="1499373119278" wit="#E1590">
+                  <choice><orig>ſo well, <ref n="fq1590.bk2_1348777666731">as
+                      he</ref></orig><reg choice_type="silent_norm oxford default_archive"><ref n="fq1590.bk2_1348777666731">so well, as he</ref></reg></choice><ref n="fq1590.bk2_1348777666731">
+                </ref></lem><rdg wit="#E1596 #E1609"><ref n="fq1590.bk2_1348777666731">
+                  <choice><orig>ſo wiſely as</orig><reg choice_type="silent_norm oxford default_archive">so wisely as</reg></choice>
+                </ref></rdg>
+              </app><ref n="fq1590.bk2_1348777666731"> it ought</ref><hi rend="face(blackletter)">.</hi></l>
+            <l xml:id="fq1590.bk2.II.viii.40.5">Glad was the knight, <choice>
+                <orig>&amp;</orig>
+                <reg choice_type="expan oxford default_archive">and</reg>
+              </choice> with fresh courage fraught,</l>
+            <l xml:id="fq1590.bk2.II.viii.40.6">When as againe he armed felt his hond;</l>
+            <l xml:id="fq1590.bk2.II.viii.40.7"><ref n="fq1590.bk2_1348777690559">Then like a Lyon, which
+              hath long time saught</ref></l><ref n="fq1590.bk2_1348777690559"><l xml:id="fq1590.bk2.II.viii.40.8">His robbed whelpes and at the last them
+              fond</l></ref><l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.40.9"><ref n="fq1590.bk2_1348777690559">Emongst the shepeheard swaynes,
+              then wexeth <ref n="fq1590.bk2_1348777715085" xml:id="fq1590.bk2_1348777715085">wood</ref>
+              <choice>
+                <orig>&amp;</orig>
+                <reg choice_type="expan oxford default_archive">and</reg>
+              </choice>
+                </ref><seg rend="hang_down(1)"><ref n="fq1590.bk2_1348777690559"><pc force="weak">(</pc><ref n="fq1590.bk2_1348777735894" xml:id="fq1590.bk2_1348777735894"><ref n="fq1590.bk2_1348777757052">yond</ref></ref></ref><ref n="fq1590.bk2_1348777690559">.</ref></seg>
+            </l>
+          </lg>
+          <lg n="41">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.41.1">So fierce he laid about him, and dealt
+              blowes</l>
+            <l xml:id="fq1590.bk2.II.viii.41.2">On either side, that neither mayle could hold,</l>
+            <l xml:id="fq1590.bk2.II.viii.41.3">Ne shield defend the thunder of his <ref n="fq1590.bk2_1348777778517" xml:id="fq1590.bk2_1348777778517">throwes</ref>:</l>
+            <l xml:id="fq1590.bk2.II.viii.41.4">Now to <persName ref="#Pyrochles" rend="face(italics)">Pyrrhochles</persName> many strokes he <ref n="fq1590.bk2_1348777798426" xml:id="fq1590.bk2_1348777798426">told</ref>;</l>
+            <l xml:id="fq1590.bk2.II.viii.41.5">Eft to <persName ref="#Cymochles" rend="face(italics)">Cymochles</persName> twise so many fold:</l>
+            <l xml:id="fq1590.bk2.II.viii.41.6">Then backe againe turning his busie hond,</l>
+            <l xml:id="fq1590.bk2.II.viii.41.7">Them both atonce compeld with courage bold,</l>
+            <l xml:id="fq1590.bk2.II.viii.41.8">To yield wide way to his <ref n="fq1590.bk2_1348777820737" xml:id="fq1590.bk2_1348777820737">hart-thrilling</ref> brond;</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.41.9">And though they both stood stiffe, yet
+              could not both <seg rend="hang_down(1)"><pc force="weak">(</pc>withstond.</seg></l>
+          </lg>
+          <lg n="42">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.42.1"><ref n="fq1590.bk2_1348777842340">As </ref><choice><orig choice_type="oxford"><ref n="fq1590.bk2_1348777842340">saluage</ref></orig>
+                
+              <reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348777842340">salvage</ref></reg>
+              </choice> Bull, whom two fierce <choice>
+                <orig choice_type="oxford">mastiues</orig>
+                <reg choice_type="char_norm default_archive">mastives</reg>
+              </choice> bayt,</l>
+            <l xml:id="fq1590.bk2.II.viii.42.2"><ref n="fq1590.bk2_1348777863198" xml:id="fq1590.bk2_1348777863198">When rancour doth with rage
+                him once engore,</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.42.3">Forgets with wary warde them to awayt,</l>
+            <l xml:id="fq1590.bk2.II.viii.42.4">But with his dreadfull hornes them <choice>
+                <orig choice_type="oxford">driues</orig>
+                <reg choice_type="char_norm default_archive">drives</reg>
+              </choice> afore,</l>
+            <l xml:id="fq1590.bk2.II.viii.42.5">Or flings aloft or treades downe in the flore,</l>
+            <l xml:id="fq1590.bk2.II.viii.42.6">Breathing out wrath, and bellowing disdaine,</l>
+            <l xml:id="fq1590.bk2.II.viii.42.7">That all the forest quakes to heare him rore:</l>
+            <l xml:id="fq1590.bk2.II.viii.42.8">So rag’d Prince <persName ref="#Arthur" rend="face(italics)">Arthur</persName> twixt his foemen twaine,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.42.9">That neither could his mightie puissaunce
+              sustaine.</l>
+          </lg>
+          <lg n="43">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.43.1">But <choice>
+                <orig choice_type="oxford">euer</orig>
+                <reg choice_type="char_norm default_archive">ever</reg>
+              </choice> at <persName ref="#Pyrochles" rend="face(italics)">Pyrrhochles</persName>
+              when he <ref n="fq1590.bk2_1348777883900" xml:id="fq1590.bk2_1348777883900"> smitt</ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.43.2">Who <persName ref="#Guyon" rend="face(italics)">Guyons</persName>
+              shield cast <choice>
+                <orig choice_type="oxford">euer</orig>
+                <reg choice_type="char_norm default_archive">ever</reg>
+              </choice> him <app><lem wit="#E1596 #E1609">before,</lem><rdg eclecticCopyText="yes" id="1499373160304" wit="#E1590">before.</rdg></app></l>
+            <l xml:id="fq1590.bk2.II.viii.43.3"><ref n="fq1590.bk2_1348777906314" xml:id="fq1590.bk2_1348777906314">Whereon the Faery Queenes
+                pourtract was writt,</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.43.4">His hand relented, and the stroke forbore,</l> <pb xml:id="V1r" n="V1r" prev="#T8v" next="#V1v"/><fw place="bottom-center" rend="face(roman)" type="sig">V</fw>
+            <fw place="top-right" rend="face(roman)" type="head">303</fw>
+            <fw place="bottom-right" rend="face(roman)" type="catch">With</fw>
+            <fw place="top-center" rend="face(italics)" type="head">the Faery Queene.</fw>
+            <fw place="top-left" rend="face(italics)" type="head">Cant. VIII.</fw>
+            <l xml:id="fq1590.bk2.II.viii.43.5">And his deare hart the picture gan adore,</l>
+            <l xml:id="fq1590.bk2.II.viii.43.6">Which oft the Paynim <choice>
+                <orig choice_type="oxford">sau’d</orig>
+                <reg choice_type="char_norm default_archive">sav’d</reg>
+              </choice> from deadly <ref n="fq1590.bk2_1348777926240" xml:id="fq1590.bk2_1348777926240">stowre</ref>.</l>
+            <l xml:id="fq1590.bk2.II.viii.43.7">But him henceforth the same can <choice>
+                <orig choice_type="oxford">saue</orig>
+                <reg choice_type="char_norm default_archive">save</reg>
+              </choice> no more;</l>
+            <l xml:id="fq1590.bk2.II.viii.43.8">For now <choice>
+                <orig choice_type="oxford">arriued</orig>
+                <reg choice_type="char_norm default_archive">arrived</reg>
+              </choice> is his fatall howre,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.43.9">That <app>
+                <lem wit="this edn.">n’ote</lem>
+                <rdg eclecticCopyText="yes" id="1499436150406" wit="#E1590">no’te</rdg> </app>
+              <choice>
+                <orig choice_type="oxford">auoyded</orig>
+                <reg choice_type="char_norm default_archive">avoyded</reg>
+              </choice> be by earthly skill or powre.</l>
+          </lg>
+          <lg n="44">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.44.1">For when <persName ref="#Cymochles" rend="face(italics)">Cymochles</persName> saw the fowle reproch,</l>
+            <l xml:id="fq1590.bk2.II.viii.44.2">Which them <ref n="fq1590.bk2_1348777969138" xml:id="fq1590.bk2_1348777969138">appeached</ref>,
+              prickt with <app>
+                <lem eclecticCopyText="yes" id="1499436317144" wit="#E1590">guiltie</lem>
+                <rdg wit="#E1596">gulty</rdg>
+                <rdg wit="#E1609">guilty</rdg>
+              </app> shame,</l>
+            <l xml:id="fq1590.bk2.II.viii.44.3">And inward griefe, he fiercely gan approch,</l>
+            <l xml:id="fq1590.bk2.II.viii.44.4">
+              <choice>
+                <orig choice_type="oxford">Resolu’d</orig>
+                <reg choice_type="char_norm default_archive">Resolv’d</reg>
+              </choice> to put away that loathly blame,</l>
+            <l xml:id="fq1590.bk2.II.viii.44.5">Or dye with honour and desert of fame;</l>
+            <l xml:id="fq1590.bk2.II.viii.44.6">And on the <ref n="fq1590.bk2_1348777991185" xml:id="fq1590.bk2_1348777991185">haubergh</ref>
+              stroke the Prince so sore,</l>
+            <l xml:id="fq1590.bk2.II.viii.44.7">That quite disparted all the linked frame,</l>
+            <l xml:id="fq1590.bk2.II.viii.44.8">And pierced to the skin, but bit <app>
+                <lem eclecticCopyText="yes" id="1499436353596" wit="#E1590">not <ref n="fq1590.bk2_1348778019177" xml:id="fq1590.bk2_1348778019177">thore</ref></lem>
+                <rdg wit="#E1596 #E1609">no more</rdg>
+              </app>,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.44.9">Yet made him twise to reele, that <choice>
+                <orig choice_type="oxford">neuer</orig>
+                <reg choice_type="char_norm default_archive">never</reg>
+              </choice>
+              <choice>
+                <orig choice_type="oxford">moou’d</orig>
+                <reg choice_type="char_norm default_archive">moov’d</reg>
+              </choice> afore.</l>
+          </lg>
+          <lg n="45">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.45.1">Whereat <ref n="fq1590.bk2_1348778061441"><ref n="fq1590.bk2_1348778040685" xml:id="fq1590.bk2_1348778040685">renfierst</ref></ref> with wrath and sharp
+              regret,</l>
+            <l xml:id="fq1590.bk2.II.viii.45.2">He stroke so hugely with his borrowd blade,</l>
+            <l xml:id="fq1590.bk2.II.viii.45.3">That it <app>
+                <lem wit="#E1590FE #E1596">
+                  <choice><orig>empierﬅ</orig><reg choice_type="silent_norm oxford default_archive">empierst</reg></choice>
+                </lem>
+                <rdg eclecticCopyText="yes" id="1499436437630" wit="#E1590">
+                  <choice><orig>empieﬅ</orig><reg choice_type="silent_norm oxford default_archive">empiest</reg></choice>
+                </rdg>
+                <rdg wit="#E1609">empearc’t</rdg>
+              </app> the Pagans <ref n="fq1590.bk2_1348778083604" xml:id="fq1590.bk2_1348778083604">burganet</ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.45.4">And <choice>
+                <orig choice_type="oxford">cleauing</orig>
+                <reg choice_type="char_norm default_archive">cleaving</reg>
+              </choice> the hard steele, did deepe <choice>
+                <orig choice_type="oxford">inuade</orig>
+                <reg choice_type="char_norm default_archive">invade</reg>
+              </choice>
+            </l>
+            <l xml:id="fq1590.bk2.II.viii.45.5">Into his head, and cruell passage made</l>
+            <l xml:id="fq1590.bk2.II.viii.45.6">Quite through his brayne. <ref n="fq1590.bk2_1348778113921">He tombling downe on <seg rend="hang_up(1)"><pc force="weak">(</pc>ground,</seg></ref></l><ref n="fq1590.bk2_1348778113921">
+            <l xml:id="fq1590.bk2.II.viii.45.7">Breathd out his ghost, which to th’infernall shade</l><l xml:id="fq1590.bk2.II.viii.45.8">Fast flying, there eternall torment found,</l></ref><l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.45.9"><ref n="fq1590.bk2_1348778113921">For all the sinnes, wherewith his lewd life did </ref><app><lem eclecticCopyText="yes" id="1499436470844" wit="#E1590 #E1609"><ref n="fq1590.bk2_1348778113921">abound.</ref></lem>
+              <rdg wit="#E1596"><ref n="fq1590.bk2_1348778113921">abound,</ref></rdg>
+              </app>
+            </l>
+          </lg>
+          <lg n="46">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.46.1">Which when his <ref n="fq1590.bk2_1348778136565" xml:id="fq1590.bk2_1348778136565">german</ref> saw, the stony feare,</l>
+            <l xml:id="fq1590.bk2.II.viii.46.2">Ran to his hart, and all his sence dismayd,</l>
+            <l xml:id="fq1590.bk2.II.viii.46.3">Ne thenceforth life ne corage did appeare,</l>
+            <l xml:id="fq1590.bk2.II.viii.46.4">But as a man, whom hellish feendes <choice>
+                <orig choice_type="oxford">haue</orig>
+                <reg choice_type="char_norm default_archive">have</reg>
+              </choice>
+              <ref n="fq1590.bk2_1348778156519" xml:id="fq1590.bk2_1348778156519">frayd</ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.46.5">Long trembling still he stoode: at last thus sayd,</l>
+            <l xml:id="fq1590.bk2.II.viii.46.6">Traytour what hast thou doen? how <choice>
+                <orig choice_type="oxford">euer</orig>
+                <reg choice_type="char_norm default_archive">ever</reg>
+              </choice> may</l>
+            <l xml:id="fq1590.bk2.II.viii.46.7">Thy cursed hand so cruelly <choice>
+                <orig choice_type="oxford">haue</orig>
+                <reg choice_type="char_norm default_archive">have</reg>
+              </choice> swayd</l>
+            <l xml:id="fq1590.bk2.II.viii.46.8">Against that knight: <app>
+                <lem wit="#E1609"><ref n="fq1590.bk2_1348778178754">Harrow</ref></lem><rdg wit="#E1590FE"><ref n="fq1590.bk2_1348778178754">harrow</ref></rdg><rdg eclecticCopyText="yes" id="1499436528210" wit="#E1590 #E1596"><ref n="fq1590.bk2_1348778178754">Horrow</ref></rdg></app><ref n="fq1590.bk2_1348778178754"> and well away</ref>,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.46.9">After so wicked deede why <choice>
+                <orig choice_type="oxford">liu’st</orig>
+                <reg choice_type="char_norm default_archive">liv’st</reg>
+              </choice> thou <ref n="fq1590.bk2_1348778201893" xml:id="fq1590.bk2_1348778201893">lenger day</ref>?</l>
+          </lg> <pb xml:id="V1v" n="V1v" prev="#V1r" next="#V2r"/><fw place="top-left" rend="face(roman)" type="head">304</fw>
+          <fw place="bottom-right" rend="face(roman)" type="catch">So</fw>
+          <fw place="top-center" rend="face(italics)" type="head">The Second Booke of</fw>
+          <fw place="top-right" rend="face(italics)" type="head">Cant.VIII.</fw>
+          <lg n="47">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.47.1">With that all desperate as loathing
+              light,</l>
+            <l xml:id="fq1590.bk2.II.viii.47.2"><ref n="fq1590.bk2_1348778224140">And with <choice>
+                <orig choice_type="oxford">reuenge</orig>
+                <reg choice_type="char_norm default_archive">revenge</reg>
+              </choice> desyring soone to dye,</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.47.3">Assembling all his force and <choice>
+                <orig choice_type="oxford">vtmost</orig>
+                <reg choice_type="char_norm default_archive">utmost</reg>
+              </choice> might,</l>
+            <l xml:id="fq1590.bk2.II.viii.47.4"><ref n="fq1590.bk2_1348778244213" xml:id="fq1590.bk2_1348778244213">With his owne swerd he fierce
+                at him did flye,</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.47.5">And strooke, and <ref n="fq1590.bk2_1348778264722" xml:id="fq1590.bk2_1348778264722">foynd</ref>,
+              and lasht outrageously,</l>
+            <l xml:id="fq1590.bk2.II.viii.47.6">Withouten reason or regard. Well knew</l>
+            <l xml:id="fq1590.bk2.II.viii.47.7">The Prince, with pacience and sufferaunce sly</l>
+            <l xml:id="fq1590.bk2.II.viii.47.8">So hasty heat soone cooled to subdew:</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.47.9">Tho when <ref n="fq1590.bk2_1348778291564" xml:id="fq1590.bk2_1348778291564">this breathlesse woxe, that</ref> batteil gan
+              renew.</l>
+          </lg>
+          <lg n="48">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.48.1">As when a windy tempest bloweth hye,</l>
+            <l xml:id="fq1590.bk2.II.viii.48.2">That nothing may withstand his stormy stowre,</l>
+            <l xml:id="fq1590.bk2.II.viii.48.3">The clowdes, as thinges affrayd, before him flye;</l>
+            <l xml:id="fq1590.bk2.II.viii.48.4">But all so soone as his outrageous powre</l>
+            <l xml:id="fq1590.bk2.II.viii.48.5">Is layd, they fiercely then begin to showre,</l>
+            <l xml:id="fq1590.bk2.II.viii.48.6">And as in scorne of his spent stormy spight,</l>
+            <l xml:id="fq1590.bk2.II.viii.48.7">Now all attonce their malice forth do poure;</l>
+            <l xml:id="fq1590.bk2.II.viii.48.8">So did <app>
+                <lem wit="this edn.">Prince Arthur</lem>
+                <rdg eclecticCopyText="yes" id="1499436691410" wit="#E1590">Sir Guyon</rdg>
+              </app> beare himselfe in
+              fight,<!--JS: the WU control appears to be hand corrected, Sir Guyon is crossed out and replaced--></l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.48.9">And suffred rash <persName ref="#Pyrochles" rend="face(italics)">Pyrrhochles</persName> waste his ydle might.</l>
+          </lg>
+          <lg n="49">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.49.1"><ref n="fq1590.bk2_1348778343671">At last when as the Sarazin <choice>
+                <orig choice_type="oxford">perceiu’d</orig>
+                <reg choice_type="char_norm default_archive">perceiv’d</reg>
+              </choice>,</ref></l><ref n="fq1590.bk2_1348778343671"><l xml:id="fq1590.bk2.II.viii.49.2">How that straunge sword refusd, to <choice>
+                <orig choice_type="oxford">serue</orig>
+                <reg choice_type="char_norm default_archive">serve</reg>
+              </choice> his neede,</l><l xml:id="fq1590.bk2.II.viii.49.3">But when he stroke most strong, the dint <choice>
+                <orig choice_type="oxford">deceiu’d</orig>
+                <reg choice_type="char_norm default_archive">deceiv’d</reg>
+              </choice>,</l><l xml:id="fq1590.bk2.II.viii.49.4">He flong it from him, and <choice>
+                <orig choice_type="oxford">deuoyd</orig>
+                <reg choice_type="char_norm default_archive">devoyd</reg>
+              </choice> of dreed,</l><l xml:id="fq1590.bk2.II.viii.49.5">
+              <choice>
+                <orig choice_type="oxford">Vpon</orig>
+                <reg choice_type="char_norm default_archive">Upon</reg>
+              </choice> him lightly leaping without heed,</l><l xml:id="fq1590.bk2.II.viii.49.6">Twixt his two
+              mighty armes engrasped fast,</l></ref><l xml:id="fq1590.bk2.II.viii.49.7"><ref n="fq1590.bk2_1348778343671">Thinking to <choice>
+                <orig choice_type="oxford">ouerthrowe</orig>
+                <reg choice_type="char_norm default_archive">overthrowe</reg>
+              </choice> and downe him tred:</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.49.8">But him in strength and skill the Prince surpast,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.49.9">And through his nimble sleight did <choice>
+                <orig choice_type="oxford">vnder</orig>
+                <reg choice_type="char_norm default_archive">under</reg>
+              </choice> him down <app>
+                <lem wit="#E1596 #E1609">
+                  <choice><orig>caﬅ.</orig><reg choice_type="silent_norm oxford default_archive">cast.</reg></choice>
+                </lem>
+                <rdg eclecticCopyText="yes" id="1499436752590" wit="#E1590">
+                  <choice><orig>caﬅ</orig><reg choice_type="silent_norm oxford default_archive">cast</reg></choice>
+                </rdg>
+              </app>
+            </l>
+          </lg>
+          <lg n="50">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.50.1">Nought booted it the Paynim then to <choice>
+                <orig choice_type="oxford">striue</orig>
+                <reg choice_type="char_norm default_archive">strive</reg>
+              </choice>;</l>
+            <l xml:id="fq1590.bk2.II.viii.50.2"><ref n="fq1590.bk2_1348778367964">For as a </ref><ref n="fq1590.bk2_1348778420762"><ref n="fq1590.bk2_1348778367964"><ref n="fq1590.bk2_1348778399437" xml:id="fq1590.bk2_1348778399437">Bittur</ref></ref></ref><ref n="fq1590.bk2_1348778367964"> in the Eagles
+              clawe,</ref></l><ref n="fq1590.bk2_1348778367964"><l xml:id="fq1590.bk2.II.viii.50.3">That may not hope by flight to scape <choice>
+                <orig choice_type="oxford">aliue</orig>
+                <reg choice_type="char_norm default_archive">alive</reg>
+              </choice>,</l></ref><l xml:id="fq1590.bk2.II.viii.50.4"><ref n="fq1590.bk2_1348778367964">Still waytes for death with dread and trembling
+                aw,</ref></l> <pb xml:id="V2r" n="V2r" prev="#V1v" next="#V2v"/><fw place="bottom-center" rend="face(roman)" type="sig">V 2</fw>
+            <fw place="top-right" rend="face(roman)" type="head">305</fw>
+            <fw place="bottom-right" rend="face(roman)" type="catch">But</fw>
+            <fw place="top-center" rend="face(italics)" type="head">the Faerie Queene.</fw>
+            <fw place="top-left" rend="face(italics)" type="head">Cant.VIII.</fw>
+            <l xml:id="fq1590.bk2.II.viii.50.5">So he now <choice>
+                <orig choice_type="oxford">subiect</orig>
+                <reg choice_type="char_norm default_archive">subject</reg>
+              </choice> to the victours law,</l>
+            <l xml:id="fq1590.bk2.II.viii.50.6">Did not once <choice>
+                <orig choice_type="oxford">moue</orig>
+                <reg choice_type="char_norm default_archive">move</reg>
+              </choice>, nor <choice>
+                <orig choice_type="oxford">vpward</orig>
+                <reg choice_type="char_norm default_archive">upward</reg>
+              </choice> cast his eye,</l>
+            <l xml:id="fq1590.bk2.II.viii.50.7">For vile disdaine and rancour, which did gnaw</l>
+            <l xml:id="fq1590.bk2.II.viii.50.8">His hart in twaine with <ref n="fq1590.bk2_1348778445143" xml:id="fq1590.bk2_1348778445143">sad
+                melancholy</ref>,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.50.9">As one that loathed life, and yet despysd
+              to dye.</l>
+          </lg>
+          <lg n="51">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.51.1">But full of princely bounty and <ref n="fq1590.bk2_1348778466145" xml:id="fq1590.bk2_1348778466145">great mind</ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.51.2">The Conquerour nought cared him to slay,</l>
+            <l xml:id="fq1590.bk2.II.viii.51.3">But casting wronges and all <choice>
+                <orig choice_type="oxford">reuenge</orig>
+                <reg choice_type="char_norm default_archive">revenge</reg>
+              </choice> behind,</l>
+            <l xml:id="fq1590.bk2.II.viii.51.4">More glory thought to <choice>
+                <orig choice_type="oxford">giue</orig>
+                <reg choice_type="char_norm default_archive">give</reg>
+              </choice> life, <note type="disamb" line_number="fq1590.bk2.II.viii.51.4" ref="1611594037_03_44" disamb_type="orig oxford"><span class="glossLineNumber">51.4. </span><term>then</term>: than</note><span class="disambAnchor" id="Anchor1611594037_03_44"/><choice>
+                <orig choice_type="oxford">then<note type="delete" line_number="fq1590.bk2.II.viii.51.4" ref="1611594037_03_44" disamb_type="orig oxford"><span class="glossLineNumber">51.4. </span><term>then</term>: than</note></orig>
+                <reg choice_type="disamb default_archive">than</reg>
+              </choice>
+              <ref n="fq1590.bk2_1348778496164" xml:id="fq1590.bk2_1348778496164">decay</ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.51.5">And sayd, Paynim, this is thy <ref n="fq1590.bk2_1348778520338" xml:id="fq1590.bk2_1348778520338"><ref n="fq1590.bk2_1348778544890">dismall
+                  day</ref></ref>;</l>
+            <l xml:id="fq1590.bk2.II.viii.51.6">Yet if thou wilt renounce thy <ref n="fq1590.bk2_1348778587330"><ref n="fq1590.bk2_1348778566220" xml:id="fq1590.bk2_1348778566220">miscreaunce</ref></ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.51.7">And my trew <ref n="fq1590.bk2_1348778607597" xml:id="fq1590.bk2_1348778607597">liegeman</ref>
+              yield thy selfe <ref n="fq1590.bk2_1348778627896" xml:id="fq1590.bk2_1348778627896">for ay</ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.51.8">Life will I graunt thee for thy <ref n="fq1590.bk2_1348778648712" xml:id="fq1590.bk2_1348778648712">valiaunce</ref>,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.51.9">And all thy wronges will wipe out of my <choice>
+                <orig choice_type="oxford"><ref n="fq1590.bk2_1348778669226">souenaunce</ref></orig><reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348778669226">sovenaunce</ref></reg>
+              </choice>.</l>
+          </lg>
+          <lg n="52">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.52.1"><ref n="fq1590.bk2_1348778692654" xml:id="fq1590.bk2_1348778692654">Foole</ref> (sayd the Pagan) I thy gift defye,</l>
+            <l xml:id="fq1590.bk2.II.viii.52.2"><ref n="fq1590.bk2_1348778713258">But <choice>
+                <orig choice_type="oxford">vse</orig>
+                <reg choice_type="char_norm default_archive">use</reg>
+              </choice> thy fortune, as it doth befall,</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.52.3">And say, that I not <choice>
+                <orig choice_type="oxford">ouercome</orig>
+                <reg choice_type="char_norm default_archive">overcome</reg>
+              </choice> doe dye,</l>
+            <l xml:id="fq1590.bk2.II.viii.52.4">But in despight of life, for death doe call.</l>
+            <l xml:id="fq1590.bk2.II.viii.52.5">Wroth was the Prince, and sory yet withall,</l>
+            <l xml:id="fq1590.bk2.II.viii.52.6">That he so wilfully refused grace;</l>
+            <l xml:id="fq1590.bk2.II.viii.52.7">Yet sith his fate so cruelly did fall,</l>
+            <l xml:id="fq1590.bk2.II.viii.52.8"><ref n="fq1590.bk2_1348778734907">His shining Helmet he
+              gan soone <choice>
+                <orig choice_type="oxford">vnlace</orig>
+                <reg choice_type="char_norm default_archive">unlace</reg>
+              </choice>,</ref></l><l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.52.9"><ref n="fq1590.bk2_1348778734907">And left his headlesse body
+              bleeding all the place.</ref></l>
+          </lg>
+          <lg n="53">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.53.1">By this Sir <persName ref="#Guyon" rend="face(italics)">Guyon</persName> from his traunce awakt,</l>
+            <l xml:id="fq1590.bk2.II.viii.53.2">Life <choice>
+                <orig choice_type="oxford">hauing</orig>
+                <reg choice_type="char_norm default_archive">having</reg>
+              </choice> maystered <ref n="fq1590.bk2_1348778759052" xml:id="fq1590.bk2_1348778759052">her sencelesse
+              foe</ref>;</l>
+            <l xml:id="fq1590.bk2.II.viii.53.3">And looking <choice>
+                <orig choice_type="oxford">vp</orig>
+                <reg choice_type="char_norm default_archive">up</reg>
+              </choice>, when as his shield he lakt,</l>
+            <l xml:id="fq1590.bk2.II.viii.53.4">And sword saw not, he wexed wondrous woe:</l>
+            <l xml:id="fq1590.bk2.II.viii.53.5">But when the Palmer, whom he long ygoe</l>
+            <l xml:id="fq1590.bk2.II.viii.53.6">Had lost, he by him spyde, right glad he grew,</l>
+            <l xml:id="fq1590.bk2.II.viii.53.7">And saide, Deare sir, whom wandring to and fro</l>
+            <l xml:id="fq1590.bk2.II.viii.53.8">I long <choice>
+                <orig choice_type="oxford">haue</orig>
+                <reg choice_type="char_norm default_archive">have</reg>
+              </choice> lackt, I <choice>
+                <orig choice_type="oxford">ioy</orig>
+                <reg choice_type="char_norm default_archive">joy</reg>
+              </choice> thy face to vew;</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.53.9"><ref n="fq1590.bk2_1348778782689">Firme is thy faith, whom daunger <choice>
+                <orig choice_type="oxford">neuer</orig>
+                <reg choice_type="char_norm default_archive">never</reg>
+              </choice> fro me drew.</ref></l>
+          </lg> <pb xml:id="V2v" n="V2v" prev="#V2r" next="#V3r"/><fw place="top-left" rend="face(roman)" type="head">306</fw>
+          <fw place="bottom-right" rend="face(roman)" type="catch">Cant.</fw>
+          <fw place="top-center" rend="face(italics)" type="head">The Second Booke of</fw>
+          <fw place="top-right" rend="face(italics)" type="head">Cant.VIII.</fw>
+          <lg n="54">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.54.1">But read, what wicked hand hath robbed
+              mee</l>
+            <l xml:id="fq1590.bk2.II.viii.54.2">Of my good sword and shield? The Palmer glad,</l>
+            <l xml:id="fq1590.bk2.II.viii.54.3">With so fresh hew <choice>
+                <orig choice_type="oxford">vprysing</orig>
+                <reg choice_type="char_norm default_archive">uprysing</reg>
+              </choice> him to see,</l>
+            <l xml:id="fq1590.bk2.II.viii.54.4">Him answered; fayre sonne, be no whit sad</l>
+            <l xml:id="fq1590.bk2.II.viii.54.5">For want of weapons, they shall soone be <app>
+                <lem eclecticCopyText="yes" varSeq="2" id="1499436864877" wit="#FQ190_CO_WU_1">had.</lem>
+                <rdg varSeq="1" wit="#FQ190_HRC_1">had,</rdg>
+                <rdg wit="#E1596 #E1609">had.</rdg>
+              </app>
+            </l>
+            <l xml:id="fq1590.bk2.II.viii.54.6">So gan he to discourse the whole debate,</l>
+            <l xml:id="fq1590.bk2.II.viii.54.7">Which that straunge knight for him sustained had.</l>
+            <l xml:id="fq1590.bk2.II.viii.54.8">And those two Sarazins confounded late,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.54.9">Whose carcases on ground were horribly
+              prostrate.</l>
+          </lg>
+          <lg n="55">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.55.1">Which when he heard, and saw <ref n="fq1590.bk2_1348778807967" xml:id="fq1590.bk2_1348778807967">the tokens trew</ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.55.2">His hart with great affection was <ref n="fq1590.bk2_1348778850757"><ref n="fq1590.bk2_1348778829764" xml:id="fq1590.bk2_1348778829764">embayd</ref></ref>,</l>
+            <l xml:id="fq1590.bk2.II.viii.55.3">And to the Prince <app>
+                <lem wit="#E1590FE">bowing</lem>
+                <rdg eclecticCopyText="yes" id="1499436930753" wit="#E1590 #E1596 #E1609">with
+                  bowing</rdg>
+              </app>
+              <choice>
+                <orig choice_type="oxford">reuerence</orig>
+                <reg choice_type="char_norm default_archive">reverence</reg>
+              </choice>
+              dew,<!--JS: Huntington copy has "with" crossed; the EEBO transcription left it out but has been added--></l>
+            <l xml:id="fq1590.bk2.II.viii.55.4">As to <ref n="fq1590.bk2_1348778873342" xml:id="fq1590.bk2_1348778873342">the Patrone of his
+                life</ref>, thus sayd;</l>
+            <l xml:id="fq1590.bk2.II.viii.55.5">My Lord, <ref n="fq1590.bk2_1348778895205" xml:id="fq1590.bk2_1348778895205">my liege</ref>, by
+              whose most gratious ayd</l>
+            <l xml:id="fq1590.bk2.II.viii.55.6">I <choice>
+                <orig choice_type="oxford">liue</orig>
+                <reg choice_type="char_norm default_archive">live</reg>
+              </choice> this day, and see my foes subdewd,</l>
+            <l xml:id="fq1590.bk2.II.viii.55.7">What may suffise, to be for meede repayd</l>
+            <l xml:id="fq1590.bk2.II.viii.55.8">Of so great graces, as ye <choice>
+                <orig choice_type="oxford">haue</orig>
+                <reg choice_type="char_norm default_archive">have</reg>
+              </choice> me shewd,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.55.9"><ref n="fq1590.bk2_1348778917391">But to be <choice>
+                <orig choice_type="oxford">euer</orig>
+                <reg choice_type="char_norm default_archive">ever</reg>
+              </choice> bound</ref></l>
+          </lg>
+          <lg n="56">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.56.1"><ref n="fq1590.bk2_1348778983526">To whom the </ref><ref n="fq1590.bk2_1348778983526"><ref n="fq1590.bk2_1348778960269"><ref n="fq1590.bk2_1348778939134" xml:id="fq1590.bk2_1348778939134">Infant</ref></ref></ref><ref n="fq1590.bk2_1348778983526"> thus, Fayre Sir, what need</ref></l><ref n="fq1590.bk2_1348778983526"><l xml:id="fq1590.bk2.II.viii.56.2">Good turnes be counted, as a <choice>
+                <orig choice_type="oxford">seruile</orig>
+                <reg choice_type="char_norm default_archive">servile</reg>
+              </choice> bond,</l></ref><l xml:id="fq1590.bk2.II.viii.56.3"><ref n="fq1590.bk2_1348778983526">To bind their dooers, to <choice>
+                <orig choice_type="oxford">receiue</orig>
+                <reg choice_type="char_norm default_archive">receive</reg>
+              </choice> their meed?</ref></l>
+            <l xml:id="fq1590.bk2.II.viii.56.4">Are not all knightes by oath bound, to withstond</l>
+            <l xml:id="fq1590.bk2.II.viii.56.5">Oppressours powre by armes and puissant hond?</l>
+            <l xml:id="fq1590.bk2.II.viii.56.6">Suffise, that I <choice>
+                <orig choice_type="oxford">haue</orig>
+                <reg choice_type="char_norm default_archive">have</reg>
+              </choice> done my dew in place.</l>
+            <l xml:id="fq1590.bk2.II.viii.56.7"><ref n="fq1590.bk2_1348779004473">So goodly purpose they
+              together fond,</ref></l><l xml:id="fq1590.bk2.II.viii.56.8"><ref n="fq1590.bk2_1348779004473">Of kindnesse and of courteous aggrace;</ref></l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.viii.56.9">The whiles false <persName ref="#Archimago" rend="face(italics)">Archimage</persName> and <hi rend="face(italics)">Atin</hi>
+              fled apace.</l>
+          </lg>
+        </div><pb/></selectedText>

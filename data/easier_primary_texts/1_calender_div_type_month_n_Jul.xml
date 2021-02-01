@@ -1,0 +1,1673 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="G2r" n="G2r" prev="#G1v" next="#G2v"/><div xmlns="http://www.tei-c.org/ns/1.0" n="Jul" type="month">
+				<!--
+				<head rend="face(italics) size(1.75em) line_height(1.2em)" type="onlineRunningTitle">July</head>
+-->
+				<fw place="top-center" rend="face(italics) size(1.75em) line_height(1.2em)" type="head" xml:id="Julye.FW">
+					<choice>
+						<orig choice_type="oxford">Iulye.</orig>
+						<reg choice_type="char_norm default_archive">Julye.</reg>
+					</choice>
+				</fw>
+				<fw place="top-right" rend="face(italics) size(1.75em) line_height(1.2em)" type="head">fol.<hi rend="face(roman) size(1.75em) line_height(1.2em)">26</hi></fw>
+				<fw place="bottom-center" rend="face(blackletter)" type="sig">G<hi rend="face(roman)">.2.</hi></fw>
+				<fw place="bottom-right" rend="face(blackletter)" type="catch">In</fw>
+
+				<!-- THIS HEAD NOT IN TEXT, EXCEPT IN FORME WORKS.  ADDED HERE TO FORCE IT INTO THE ONLINE DISPLAY -->
+				<head rend="face(italics) size(1.75em) line_height(1.2em) ">
+					<ref n="calender_july_headnote" xml:id="calender_july_headnote"><choice>
+						<orig choice_type="oxford">Iulye.</orig>
+						<reg choice_type="char_norm default_archive">Julye.</reg>
+					</choice></ref><lb ed="1579 webArchive" xml:id="calender.july.0.1"/>
+				</head>
+
+				<figure>
+					<graphic url="webSiteIllustrations/sc/SC179_HRC_1_illustration_July.jpg"/>
+					<figDesc>July woodblock illustration.</figDesc>
+				</figure>
+				<head rend="face(italics) size(1.75em) line_height(1.2em) " xml:lang="la">Ægloga
+					septima.<lb ed="1579 webArchive" xml:id="calender.july.0.2"/></head>
+				<argument rend="face(italics) size(small) ">
+					<head rend="face(roman)  faintKerning">
+						<choice>
+							<orig choice_type="oxford">ARGVMENT</orig>
+							<reg choice_type="char_norm default_archive">ARGUMENT</reg>
+						</choice>.<lb ed="1579 webArchive" xml:id="calender.july.argument.0"/></head>
+					<p>
+						<choice>
+							<orig><hi rend="face(drop-caps)">T</hi>His</orig>
+							<reg choice_type="space_punct oxford default_archive"><hi rend="face(drop-caps)">T</hi>his</reg>
+						</choice> Æglogue is made in the honour and commendation of good shepe<pc force="weak">-</pc><lb break="no" ed="1579"/>heardes,<lb ed="webArchive" xml:id="calender.july.argument.1"/> and to the shame and
+						disprayse of proude and ambitious <ref n="calender_217316589">
+                        <choice>
+                            <orig choice_type="oxford">Pa<pc force="weak">-</pc><lb break="no" ed="1579"/>stours.</orig>
+                            <reg choice_type="space_punct default_archive">Pa<pc force="weak">-</pc><lb break="no" ed="1579"/>stours,</reg>
+                        </choice>
+                        </ref> 
+                        <choice>
+                            <orig choice_type="oxford">Such</orig>
+                            <reg choice_type="space_punct default_archive">such</reg>
+                        </choice>
+                        <lb ed="webArchive" xml:id="calender.july.argument.2"/> as <name ref="#Morrell">Morrell</name> is here <ref n="calender_814335065">imagined</ref> 
+						to bee.<lb ed="1579 webArchive" xml:id="calender.july.argument.3"/></p>
+				</argument>
+				<div rend="face(blackletter)" type="poem">
+					<castList rend="face(roman) size(small)  ">
+						<castItem>
+							<name ref="#Thomalin"><ref n="calender_32925554">Thomalin</ref></name>.</castItem>
+						<castItem xml:id="Morrell">
+							<name ref="#Morrell"><ref n="calender_742738116">Morrell</ref></name>.</castItem>
+
+						<lb ed="webArchive" xml:id="calender.july.1.0"/>
+					</castList>
+					<sp who="#Thomalin">
+						<lg>
+							<l xml:id="calender.july.1">
+								<choice>
+									<orig><hi rend="face(drop-caps)">I</hi>S</orig>
+									<reg choice_type="space_punct oxford default_archive"><hi rend="face(drop-caps)">I</hi>s</reg>
+								</choice> not thilke same a <ref n="calender_ek.lemma.July.1" xml:id="calender_ek.lemma.July.1"><ref n="calender_942778145">goteheard</ref></ref>
+								prowde,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.2">that sittes on yonder <ref n="calender_ek.lemma.July.2" xml:id="calender_ek.lemma.July.2"><ref n="calender_715888024">bancke</ref></ref>,</l>
+							<l xml:id="calender.july.3">Whose <ref n="calender_ek.lemma.July.3" xml:id="calender_ek.lemma.July.3"><ref n="calender_576352763">straying heard</ref></ref>
+								them selfe doth <ref n="calender_812278652"><ref n="calender_273191480">shrowde</ref></ref>
+							</l>
+							<l rend="align(indented_1)" xml:id="calender.july.4">emong the bushes <ref n="calender_543576392"><ref n="calender_399119869">rancke</ref></ref>?</l>
+						</lg>
+					</sp>
+					<sp who="#Morrell">
+						<speaker rend=" face(roman) size(small) ">
+							<name ref="#Morrell">Morrell</name>.<lb ed="webArchive" xml:id="calender.july.5.0"/></speaker>
+						<lg>
+							<l xml:id="calender.july.5"><ref n="calender_916344586">What ho, thou <choice>
+									<orig choice_type="oxford">iollye</orig>
+									<reg choice_type="char_norm default_archive">jollye</reg>
+								</choice>
+								</ref><ref n="calender_714984335"><ref n="calender_916344586">shepheards </ref></ref><ref n="calender_714984335"><ref n="calender_696851102"><ref n="calender_916344586">swayne</ref></ref></ref><ref n="calender_916344586">, </ref></l><ref n="calender_916344586">
+							<l rend="align(indented_1)" xml:id="calender.july.6">come <choice>
+									<orig choice_type="oxford">vp</orig>
+									<reg choice_type="char_norm default_archive">up</reg>
+								</choice> the hyll to me:</l>
+							<l xml:id="calender.july.7">Better is, <note type="disamb" line_number="calender.july.7" ref="1611592931_22_44" disamb_type="orig oxford"><span class="glossLineNumber">7. </span><term>then</term>: than</note><span class="disambAnchor" id="Anchor1611592931_22_44"/><choice>
+								<orig choice_type="oxford">then<note type="delete" line_number="calender.july.7" ref="1611592931_22_44" disamb_type="orig oxford"><span class="glossLineNumber">7. </span><term>then</term>: than</note></orig>
+									<reg choice_type="disamb default_archive">than</reg>
+								</choice> the lowly playne, </l>
+							</ref><l rend="align(indented_1)" xml:id="calender.july.8"><ref n="calender_916344586"><ref n="calender_ek.lemma.July.4" xml:id="calender_ek.lemma.July.4"><ref n="calender_501144000">als</ref></ref> for thy flocke, and
+									thee</ref>.</l>
+						</lg>
+					</sp>
+					<sp who="#Thomalin">
+						<speaker rend="face(roman)">
+							<name ref="#Thomalin">Thomalin</name>.<lb ed="webArchive" xml:id="calender.july.9.0"/></speaker>
+						<lg>
+							<l xml:id="calender.july.9">Ah God <ref n="calender_199166753">shield</ref>, man, that I
+								should <ref n="calender_ek.lemma.July.5" xml:id="calender_ek.lemma.July.5"><ref n="calender_990634552"><ref n="calender_442556664">clime</ref></ref></ref><ref n="calender_442556664">, </ref></l><ref n="calender_442556664">
+							<l rend="align(indented_1)" xml:id="calender.july.10">and learne to <ref n="calender_595456042">looke alofte</ref>,</l>
+							<l xml:id="calender.july.11">This <ref n="calender_738185804">reede is
+									ryfe</ref>, that oftentime </l>
+							</ref><l rend="align(indented_1)" xml:id="calender.july.12"><ref n="calender_442556664">
+								<ref n="calender_ek.lemma.July.6" xml:id="calender_ek.lemma.July.6">
+									<ref n="calender_464513526">
+									</ref><ref n="calender_464513526"><app xml:id="calender.july.12.collation">
+										<lem wit="#E1591 #E1597" rend="face(blackletter)">great</lem>
+										<rdg wit="#E1579 #E1581 #E1586" eclecticCopyText="yes" rend="face(blackletter)">Great</rdg>
+										<rdg wit="#E1611" rend="face(roman)">great</rdg>
+									</app></ref><ref n="calender_464513526"> clymbers</ref></ref>
+								fall <choice>
+									<orig choice_type="oxford">vnsoft</orig>
+									<reg choice_type="char_norm default_archive">unsoft</reg>
+								</choice></ref>.</l>
+
+							<pb xml:id="G2v" n="G2v" prev="#G2r" next="#G3r"/><fw place="top-center" rend="face(italics)" type="head">
+								<choice>
+									<orig choice_type="oxford">Iuly</orig>
+									<reg choice_type="char_norm default_archive">July</reg>
+								</choice>.</fw>
+							<fw place="bottom-right" rend="face(blackletter)" type="catch">And</fw>
+
+							<l xml:id="calender.july.13">In humble dales is footing fast,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.14"><ref n="calender_685016090">the trode is not so 
+								<app xml:id="calender.july.14.collation">
+									<lem wit="#E1597" rend="face(blackletter)">tickle:</lem>
+									<rdg wit="#E1579 #E1586 #E1591" eclecticCopyText="yes" rend="face(blackletter)">trickle:</rdg>
+									<rdg wit="#E1581" rend="face(blackletter)">trickle :</rdg>
+									<rdg wit="#E1611" rend="face(roman)">tickle:</rdg>
+								</app></ref></l>
+							<l xml:id="calender.july.15">And though one fall through heedlesse hast, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.16">yet is his misse not <ref n="calender_ek.lemma.July.7" xml:id="calender_ek.lemma.July.7"><ref n="calender_922371333">mickle</ref></ref><choice><orig><hi rend="face(roman)">.</hi></orig><reg choice_type="char_norm oxford">.</reg></choice></l>
+							<l xml:id="calender.july.17">And now <ref n="calender_ek.lemma.July.8" xml:id="calender_ek.lemma.July.8"><ref n="calender_980334792">the Sonne</ref></ref> hath
+								reared <choice>
+									<orig choice_type="oxford">vp</orig>
+									<reg choice_type="char_norm default_archive">up</reg>
+								</choice>
+							</l>
+							<l rend="align(indented_1)" xml:id="calender.july.18">his <ref n="calender_539219519">fyriefooted</ref> teme,</l>
+							<l xml:id="calender.july.19">Making his way betweene the <ref n="calender_998534726">Cuppe, </ref></l><ref n="calender_998534726">
+							</ref><l rend="align(indented_1)" xml:id="calender.july.20"><ref n="calender_998534726">and golden Diademe</ref>:</l>
+							<l xml:id="calender.july.21">The <ref n="calender_248801621">rampant </ref><ref n="calender_ek.lemma.July.10" xml:id="calender_ek.lemma.July.10"><ref n="calender_248801621"><ref n="calender_957019368">Lyon</ref></ref></ref> hunts he fast,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.22">with Dogge of noysome breath,</l>
+							<l xml:id="calender.july.23">Whose balefull barking bringes in hast </l>
+							<l rend="align(indented_1)" xml:id="calender.july.24"><ref n="calender_235409474">pyne</ref>, plagues, and dreery death.</l>
+							<l xml:id="calender.july.25">Agaynst his cruell scortching heate </l>
+							<l rend="align(indented_1)" xml:id="calender.july.26">where hast thou <ref n="calender_761071331"><choice>
+									<orig choice_type="oxford">couerture</orig>
+									<reg choice_type="char_norm default_archive">coverture</reg>
+							</choice></ref>?</l>
+							<l xml:id="calender.july.27">The wastefull hylls <choice>
+									<orig choice_type="oxford">vnto</orig>
+									<reg choice_type="char_norm default_archive">unto</reg>
+								</choice> his threate </l>
+							<l rend="align(indented_1)" xml:id="calender.july.28">is a playne <ref n="calender_ek.lemma.July.11" xml:id="calender_ek.lemma.July.11"><ref n="calender_819197353"><choice>
+										<orig choice_type="oxford">ouerture</orig>
+										<reg choice_type="char_norm default_archive">overture</reg>
+								</choice></ref></ref>.</l>
+							<l xml:id="calender.july.29">But if thee <ref n="calender_258482098">lust</ref>, <ref n="calender_ek.lemma.July.12" xml:id="calender_ek.lemma.July.12"><ref n="calender_729119482">to holden
+									chat</ref></ref>
+							</l>
+							<l rend="align(indented_1)" xml:id="calender.july.30">with <ref n="calender_136057411">seely</ref> shepherds swayne,</l>
+							<l xml:id="calender.july.31">Come downe, and learne <note type="disamb" line_number="calender.july.31" ref="1611592931_22_45" disamb_type="orig oxford"><span class="glossLineNumber">31. </span><term>the</term>: thee</note><span class="disambAnchor" id="Anchor1611592931_22_45"/><choice>
+								<orig choice_type="oxford">the<note type="delete" line_number="calender.july.31" ref="1611592931_22_45" disamb_type="orig oxford"><span class="glossLineNumber">31. </span><term>the</term>: thee</note></orig>
+									<reg choice_type="disamb default_archive">thee</reg>
+								</choice> little <ref n="calender_468763413">what</ref>, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.32">that <name ref="#Thomalin">Thomalin</name> can sayne<choice><orig><hi rend="face(roman)">.</hi></orig><reg choice_type="char_norm oxford">.</reg></choice></l>
+						</lg>
+					</sp>
+					<sp who="#Morrell">
+						<speaker rend="face(roman)">
+							<name ref="#Morrell">Morrell</name>.<lb ed="webArchive" xml:id="calender.july.33.0"/></speaker>
+						<lg>
+							<l xml:id="calender.july.33"><ref n="calender_758854290">Syker, </ref><ref n="calender_930329768"><ref n="calender_758854290">thous</ref></ref><ref n="calender_758854290"> but <ref n="calender_ek.lemma.July.13" xml:id="calender_ek.lemma.July.13">a
+										<ref n="calender_884481004">laesie </ref><ref n="calender_379564348"><ref n="calender_930329768_1"><ref n="calender_884481004">loord</ref></ref></ref></ref></ref><ref n="calender_884481004"><ref n="calender_758854290">, </ref></ref></l><ref n="calender_884481004"><ref n="calender_758854290">
+							</ref></ref><ref n="calender_758854290"><l rend="align(indented_1)" xml:id="calender.july.34"><ref n="calender_884481004">and </ref><ref n="calender_ek.lemma.July.14" xml:id="calender_ek.lemma.July.14"><ref n="calender_722593648"><ref n="calender_884481004">rekes much of thy
+										swinck</ref></ref></ref>,</l>
+							<l xml:id="calender.july.35">That with <ref n="calender_604875176"><ref n="calender_933927051">fond</ref></ref><ref n="calender_604875176"> termes, and 
+								<ref n="calender_ek.lemma.July.15" xml:id="calender_ek.lemma.July.15"><ref n="calender_241036687">weetlesse</ref></ref></ref><ref n="calender_604875176">
+									words</ref></l>
+							<l rend="align(indented_1)" xml:id="calender.july.36">to <ref n="calender_778078368">blere myne eyes</ref> doest thinke<choice><orig><hi rend="face(roman)">.</hi></orig><reg choice_type="char_norm oxford">.</reg></choice></l>
+							<l xml:id="calender.july.37">In <choice>
+									<orig choice_type="oxford">euill</orig>
+									<reg choice_type="char_norm default_archive">evill</reg>
+								</choice> houre thou <ref n="calender_720385385"><ref n="calender_761782595">hentest</ref></ref> in hond</l>
+							<l rend="align(indented_1)" xml:id="calender.july.38">thus holy hylles to blame,</l>
+							<l xml:id="calender.july.39">For sacred <choice>
+									<orig choice_type="oxford">vnto</orig>
+									<reg choice_type="char_norm default_archive">unto</reg>
+								</choice> saints they stond, </l>
+							</ref><l rend="align(indented_1)" xml:id="calender.july.40"><ref n="calender_758854290">and of them han theyr name</ref><choice><orig><hi rend="face(roman)">.</hi></orig><reg choice_type="char_norm oxford">.</reg></choice></l>
+							<l xml:id="calender.july.41">
+								<ref n="calender_ek.lemma.July.16" xml:id="calender_ek.lemma.July.16"><ref n="calender_696415549"><note type="disamb" line_number="calender.july.41" ref="1611592931_22_46" disamb_type="orig oxford"><span class="glossLineNumber">41. </span><term>S.</term>: Saint</note></ref><ref n="calender_696415549"><span class="disambAnchor" id="Anchor1611592931_22_46"/></ref><ref n="calender_696415549"><choice>
+									<orig choice_type="oxford">S.<note type="delete" line_number="calender.july.41" ref="1611592931_22_46" disamb_type="orig oxford"><span class="glossLineNumber">41. </span><term>S.</term>: Saint</note></orig>
+										<reg choice_type="disamb default_archive">St</reg>
+									</choice></ref><ref n="calender_696415549"> Michels mount </ref></ref><ref n="calender_696415549">who does not know, </ref></l><ref n="calender_696415549">
+							</ref><l rend="align(indented_1)" xml:id="calender.july.42"><ref n="calender_696415549">that wardes the Westerne
+									coste</ref>?</l>
+							<l xml:id="calender.july.43">And of <note type="disamb" line_number="calender.july.43" ref="1611592931_22_47" disamb_type="orig oxford"><span class="glossLineNumber">43. </span><term>S.</term>: Saint</note><span class="disambAnchor" id="Anchor1611592931_22_47"/><choice>
+								<orig choice_type="oxford">S.<note type="delete" line_number="calender.july.43" ref="1611592931_22_47" disamb_type="orig oxford"><span class="glossLineNumber">43. </span><term>S.</term>: Saint</note></orig>
+									<reg choice_type="disamb default_archive">St</reg>
+							</choice><ref n="calender_355061918"> Brigets bowre</ref> I
+									<ref n="calender_54851379">trow</ref>, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.44">all Kent can rightly boaste:</l>
+							<l xml:id="calender.july.45">And they that <ref n="calender_500443392">con
+								of </ref><ref n="calender_500443392"><ref n="calender_383623462">Muses skill</ref></ref><ref n="calender_383623462">, </ref></l><ref n="calender_383623462">
+							<l rend="align(indented_1)" xml:id="calender.july.46"><ref n="calender_450363629">sayne most what</ref>, that they dwell</l>
+							<l xml:id="calender.july.47">(As goteheards wont) <choice>
+									<orig choice_type="oxford">vpon</orig>
+									<reg choice_type="char_norm default_archive">upon</reg>
+								</choice>
+								<ref n="calender_ek.lemma.July.17" xml:id="calender_ek.lemma.July.17">a
+									hill</ref>,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.48">beside a learned well.</l>
+
+							<pb xml:id="G3r" n="G3r" prev="#G2v" next="#G3v"/><fw place="top-center" rend="face(italics)" type="head">
+								<choice>
+									<orig choice_type="oxford">Iulye</orig>
+									<reg choice_type="char_norm default_archive">Julye</reg>
+								</choice>.</fw>
+							<fw place="top-right" rend="face(italics)" type="head">fol.27</fw>
+							<fw place="bottom-center" rend="face(blackletter)" type="sig">G.<hi rend="face(roman)">3.</hi></fw>
+							<fw place="bottom-right" rend="face(blackletter)" type="catch">Till</fw>
+
+							<l xml:id="calender.july.49"><ref n="calender_876620967">And 
+								</ref><ref n="calender_311636663"><ref n="calender_239943641"><ref n="calender_876620967">wonned</ref></ref></ref><ref n="calender_876620967"> 
+								not the great God <ref n="calender_ek.lemma.July.18" xml:id="calender_ek.lemma.July.18"><hi rend="face(italics)"><ref n="calender_36578646">Pan</ref>,</hi></ref>
+							</ref></l></ref><ref n="calender_876620967"><ref n="calender_383623462">
+							</ref><ref n="calender_383623462"><l rend="align(indented_1)" xml:id="calender.july.50">
+								<choice>
+									<orig choice_type="oxford">vpon</orig>
+									<reg choice_type="char_norm default_archive">upon</reg>
+								</choice> mount <hi rend="face(italics)">
+									<ref n="calender_357352308"><choice>
+										<orig choice_type="oxford">Oliuet</orig>
+										<reg choice_type="char_norm default_archive">Olivet</reg>
+									</choice></ref>:</hi>
+							</l></ref><ref n="calender_383623462">
+							</ref></ref><ref n="calender_383623462"><l xml:id="calender.july.51"><ref n="calender_481592069"><ref n="calender_876620967">Feeding the
+								blessed flocke of </ref></ref><ref n="calender_ek.lemma.July.19" xml:id="calender_ek.lemma.July.19"><hi rend="face(italics)"><ref n="calender_481592069"><ref n="calender_876620967">Dan</ref></ref>,</hi></ref>
+							</l>
+							<l rend="align(indented_1)" xml:id="calender.july.52"><ref n="calender_256150723">which dyd himselfe beget</ref>?</l>
+						</ref></lg><ref n="calender_383623462">
+					</ref></sp><ref n="calender_383623462">
+					<sp who="#Thomalin">
+						<speaker rend="face(roman)">
+							<name ref="#Thomalin">Thomalin</name>.<lb ed="webArchive" xml:id="calender.july.53.0"/></speaker>
+						<lg>
+							<l xml:id="calender.july.53"><ref n="calender_679088762">O blessed sheepe,
+								O shepheard great, </ref></l><ref n="calender_679088762">
+							<l rend="align(indented_1)" xml:id="calender.july.54">that bought his flocke so
+								deare,</l>
+							<l xml:id="calender.july.55">And them did <choice>
+									<orig choice_type="oxford">saue</orig>
+									<reg choice_type="char_norm default_archive">save</reg>
+								</choice> with <ref n="calender_24155702">bloudy
+									sweat</ref>
+							</l>
+							</ref><l rend="align(indented_1)" xml:id="calender.july.56"><ref n="calender_679088762">from </ref><ref n="calender_145026631"><ref n="calender_679088762"><choice>
+									<orig choice_type="oxford">Wolues</orig>
+									<reg choice_type="char_norm default_archive">Wolves</reg>
+							</choice></ref></ref><ref n="calender_679088762">, that would them teare</ref>.</l>
+						</lg>
+					</sp>
+					</ref><sp who="#Morrell"><ref n="calender_383623462">
+						<speaker rend="face(roman)">
+							<name ref="#Morrell">Morrel.</name>
+							<lb ed="webArchive" xml:id="calender.july.57.0"/></speaker>
+						</ref><lg><ref n="calender_383623462">
+							<l xml:id="calender.july.57"><ref n="calender_302228520">Besyde, as holy
+								fathers sayne, </ref></l></ref><ref n="calender_302228520"><ref n="calender_383623462">
+							</ref><ref n="calender_383623462"><l rend="align(indented_1)" xml:id="calender.july.58">there is a hyllye place,</l></ref><ref n="calender_383623462">
+							</ref><ref n="calender_383623462"><l xml:id="calender.july.59"><ref n="calender_ek.lemma.July.20" xml:id="calender_ek.lemma.July.20">Where <hi rend="face(italics)">Titan</hi></ref> ryseth from the mayne,</l></ref><ref n="calender_383623462">
+							</ref><ref n="calender_383623462"><l rend="align(indented_1)" xml:id="calender.july.60">to renne hys dayly race<choice><orig><hi rend="face(roman)">.</hi></orig><reg choice_type="char_norm oxford">.</reg></choice></l></ref><ref n="calender_383623462">
+							</ref><ref n="calender_383623462"><l xml:id="calender.july.61">Upon whose toppe the starres bene stayed,</l></ref><ref n="calender_383623462">
+							</ref><ref n="calender_383623462"><l rend="align(indented_1)" xml:id="calender.july.62">and all the skie doth leane,</l></ref><ref n="calender_383623462">
+							</ref><ref n="calender_383623462"><l xml:id="calender.july.63">There is the <choice>
+									<orig choice_type="oxford">caue</orig>
+									<reg choice_type="char_norm default_archive">cave</reg>
+								</choice>, where <hi rend="face(italics)">Phebe</hi> layed, </l></ref><ref n="calender_383623462">
+							</ref></ref><ref n="calender_383623462"><l rend="align(indented_1)" xml:id="calender.july.64"><ref n="calender_302228520"><ref n="calender_ek.lemma.July.21" xml:id="calender_ek.lemma.July.21">the
+									shepheard</ref> long to dreame</ref>.</l>
+							<l xml:id="calender.july.65">Whilome <ref n="calender_ek.lemma.July.22" xml:id="calender_ek.lemma.July.22">there </ref><choice>
+									<orig choice_type="oxford">vsed</orig>
+									<reg choice_type="char_norm default_archive">used</reg>
+								</choice> shepheards all</l>
+							<l rend="align(indented_1)" xml:id="calender.july.66">to feede theyr flocks at will,</l>
+							<l xml:id="calender.july.67">Till by his foly one did fall, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.68">that all the rest did <ref n="calender_466591769">spill</ref>.</l>
+							<l xml:id="calender.july.69">And <ref n="calender_606885675">sithens</ref> shepheardes bene foresayd </l>
+							<l rend="align(indented_1)" xml:id="calender.july.70">from places of delight:</l>
+							<l xml:id="calender.july.71"><ref n="calender_842964246">For thy I
+									weene</ref> thou be affrayd, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.72">to clime this hilles height.</l>
+							</ref><l xml:id="calender.july.73"><ref n="calender_416911255"><ref n="calender_383623462">Of </ref><ref n="calender_ek.lemma.July.23" xml:id="calender_ek.lemma.July.23"><hi rend="face(italics)"><ref n="calender_383623462">Synah</ref></hi></ref> can I tell
+								thee more</ref>, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.74">
+								<app xml:id="calender.july.74.collation">
+									<lem wit="#E1581 #E1586 #E1591 #E1597" rend="face(blackletter)">and</lem>
+									<rdg wit="#E1579" eclecticCopyText="yes" rend="face(blackletter)">And</rdg>
+									<rdg wit="#E1611" rend="face(roman)">and</rdg>
+								</app> of <ref n="calender_ek.lemma.July.24" xml:id="calender_ek.lemma.July.24"><ref n="calender_917565506">our Ladyes bowre</ref></ref>:</l>
+							<l xml:id="calender.july.75">But little needes to <ref n="calender_341195">strow my store</ref>, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.76">suffice this hill of our.</l>
+							<l xml:id="calender.july.77">Here han the holy <hi rend="face(italics)"><ref n="calender_281714396">Faunes</ref></hi><ref n="calender_281714396">
+								</ref><ref n="calender_197641448"><ref n="calender_281714396">resourse</ref></ref><ref n="calender_281714396">, </ref></l><ref n="calender_281714396">
+							</ref><l rend="align(indented_1)" xml:id="calender.july.78"><ref n="calender_281714396">and </ref><hi rend="face(italics)"><ref n="calender_281714396">
+									<choice>
+										<orig choice_type="oxford">Syluanes</orig>
+										<reg choice_type="char_norm default_archive">Sylvanes</reg>
+									</choice>
+								</ref>
+								</hi>
+								<ref n="calender_350392959">haunten rathe</ref>.</l>
+							<l xml:id="calender.july.79"><ref n="calender_182605313">Here has the salt
+									<ref n="calender_ek.lemma.July.26" xml:id="calender_ek.lemma.July.26">Medway</ref> his sourse, </ref></l><ref n="calender_182605313">
+							<l rend="align(indented_1)" xml:id="calender.july.80">wherein the Nymphes doe bathe.</l>
+							<l xml:id="calender.july.81">The salt Medway, that trickling stremis </l>
+							<l rend="align(indented_1)" xml:id="calender.july.82">adowne the dales of Kent:</l>
+
+							<pb xml:id="G3v" n="G3v" prev="#G3r" next="#G4r"/><fw place="top-center" rend="face(italics)" type="head">
+								<choice>
+									<orig choice_type="oxford">Iulye</orig>
+									<reg choice_type="char_norm default_archive">Julye</reg>
+								</choice>.</fw>
+							<fw place="bottom-right" rend="face(blackletter)" type="catch">Theyr</fw>
+							<l xml:id="calender.july.83">Till with his elder brother Themis </l>
+							</ref><l rend="align(indented_1)" xml:id="calender.july.84"><ref n="calender_182605313">
+								<app xml:id="calender.july.84.collation">
+									<lem wit="#E1597" rend="face(blackletter)">his</lem>
+									<rdg wit="#E1579 #E1581 #E1586 #E1591" eclecticCopyText="yes" rend="face(blackletter)">His</rdg>
+									<rdg wit="#E1611" rend="face(roman)">his</rdg>
+								</app> brackish <choice>
+									<orig choice_type="oxford">waues</orig>
+									<reg choice_type="char_norm default_archive">waves</reg>
+								</choice> be </ref><ref n="calender_ek.lemma.July.27" xml:id="calender_ek.lemma.July.27"><ref n="calender_893672466"><ref n="calender_182605313">meynt</ref></ref></ref>.</l>
+							<l xml:id="calender.july.85">Here growes <hi rend="face(italics)"><ref n="calender_310155687"><ref n="calender_909828423">Melampode</ref></ref></hi><ref n="calender_909828423">
+								<choice>
+									<orig choice_type="oxford">euery</orig>
+									<reg choice_type="char_norm default_archive">every</reg>
+								</choice> where, </ref></l><ref n="calender_909828423">
+							</ref><l rend="align(indented_1)" xml:id="calender.july.86"><ref n="calender_909828423">and </ref><hi rend="face(italics)"><ref n="calender_766768403"><ref n="calender_909828423">Teribinth</ref></ref></hi> good for Gotes:</l>
+							<l xml:id="calender.july.87">The one, my <ref n="calender_11163255"><ref n="calender_518710749">madding</ref></ref> kiddes to smere, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.88">the next, to heale theyr
+								throtes.</l>
+							<l xml:id="calender.july.89">Hereto, the hills bene <ref n="calender_ek.lemma.July.29" xml:id="calender_ek.lemma.July.29"><ref n="calender_644743042">nigher </ref><ref n="calender_644743042"><choice>
+										<orig choice_type="oxford">heuen</orig>
+										<reg choice_type="char_norm default_archive">heven</reg>
+										</choice></ref></ref>, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.90">and thence the passage <ref n="calender_788596885">ethe</ref>.</l>
+							<l xml:id="calender.july.91">As well can <choice>
+									<orig choice_type="oxford">proue</orig>
+									<reg choice_type="char_norm default_archive">prove</reg>
+								</choice> the piercing <ref n="calender_ek.lemma.July.30" xml:id="calender_ek.lemma.July.30"><ref n="calender_601309407"><choice>
+										<orig choice_type="oxford">leuin</orig>
+										<reg choice_type="char_norm default_archive">levin</reg>
+									</choice></ref></ref>, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.92">that seeldome falls bynethe<choice><orig><hi rend="face(roman)">.</hi></orig><reg choice_type="char_norm oxford">.</reg></choice></l>
+						</lg>
+					</sp>
+					<sp who="#Thomalin">
+						<speaker rend="face(roman)">
+							<name ref="#Thomalin">Thomalin</name>.<lb ed="webArchive" xml:id="calender.july.93.0"/></speaker>
+						<lg>
+							<l xml:id="calender.july.93">Syker thou speakes lyke a lewde <ref n="calender_ek.lemma.July.31" xml:id="calender_ek.lemma.July.31"><ref n="calender_399259342">lorrell</ref></ref>,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.94">of <choice>
+									<orig choice_type="oxford">Heauen</orig>
+									<reg choice_type="char_norm default_archive">Heaven</reg>
+								</choice> to demen so:</l>
+							<l xml:id="calender.july.95">How be I am but rude and <ref n="calender_ek.lemma.July.32" xml:id="calender_ek.lemma.July.32"><ref n="calender_445198484">borrell</ref></ref>, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.96">yet nearer wayes I knowe.</l>
+							<l xml:id="calender.july.97"><ref n="calender_751710431">To Kerke the <ref n="calender_ek.lemma.July.33" xml:id="calender_ek.lemma.July.33"><ref n="calender_44746070">narre</ref></ref></ref><ref n="calender_751710431">, 
+								from God more farre</ref>, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.98">has bene an <ref n="calender_664277251">old sayd sawe</ref>.</l>
+							<l xml:id="calender.july.99"><ref n="calender_422167905">And he that <choice>
+									<orig choice_type="oxford">striues</orig>
+									<reg choice_type="char_norm default_archive">strives</reg>
+								</choice> to touch the starres, </ref></l><ref n="calender_422167905">
+							</ref><l rend="align(indented_1)" xml:id="calender.july.100"><ref n="calender_422167905">oft stombles at a strawe</ref>,</l>
+							<l xml:id="calender.july.101"><ref n="calender_722690740">Alsoone</ref> may shepheard clymbe to
+								skye,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.102">that leades in lowly dales,</l>
+							<l xml:id="calender.july.103">As Goteherd prowd that sitting hye,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.104">
+								<choice>
+									<orig choice_type="oxford">vpon</orig>
+									<reg choice_type="char_norm default_archive">upon</reg>
+								</choice> the Mountaine sayles.</l>
+							<l xml:id="calender.july.105"><ref n="calender_827502157">My seely sheepe
+								like well belowe,</ref></l><ref n="calender_827502157">
+							<l rend="align(indented_1)" xml:id="calender.july.106">they neede not <hi rend="face(italics)">Melampode:</hi>
+							</l>
+							<l xml:id="calender.july.107">For they bene <ref n="calender_ek.lemma.July.34" xml:id="calender_ek.lemma.July.34"><ref n="calender_951789777">hale</ref></ref> enough,
+								I trowe,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.108">and liken theyr abode.</l>
+							<l xml:id="calender.july.109">But if they with thy Gotes should <ref n="calender_ek.lemma.July.35" xml:id="calender_ek.lemma.July.35"><ref n="calender_539029111">yede</ref></ref>, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.110">they soone myght be
+								corrupted:</l>
+							<l xml:id="calender.july.111"><ref n="calender_898899069">Or</ref> like not of the 
+								<ref n="calender_ek.lemma.July.36" xml:id="calender_ek.lemma.July.36"><ref n="calender_460247326">frowie</ref></ref> fede, </l>
+							</ref><l rend="align(indented_1)" xml:id="calender.july.112"><ref n="calender_827502157">or with the weedes be
+									glutted</ref>.</l>
+							<l xml:id="calender.july.113">The hylls, where dwelled <ref n="calender_346408240">holy saints</ref>,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.114">I <choice>
+									<orig choice_type="oxford">reuerence</orig>
+									<reg choice_type="char_norm default_archive">reverence</reg>
+								</choice> and adore:</l>
+							<l xml:id="calender.july.115">Not for themselfe, but for the sayncts, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.116">
+								<app xml:id="calender.july.116.collation">
+									<lem wit="#E1581 #E1586 #E1591 #E1597" rend="face(blackletter)">which</lem>
+									<rdg wit="#E1579" eclecticCopyText="yes" rend="face(blackletter)">Which</rdg>
+									<rdg wit="#E1611" rend="face(roman)">which</rdg>
+								</app>
+								<ref n="calender_618128653">han be dead </ref><ref n="calender_ek.lemma.July.37" xml:id="calender_ek.lemma.July.37"><ref n="calender_618128653">of
+										yore</ref></ref>.</l>
+							<l xml:id="calender.july.117">And nowe they bene to <choice>
+									<orig choice_type="oxford">heauen</orig>
+									<reg choice_type="char_norm default_archive">heaven</reg>
+								</choice>
+								<ref n="calender_ek.lemma.July.38" xml:id="calender_ek.lemma.July.38"><ref n="calender_907338481">forewent</ref></ref>, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.118">theyr good is with them <ref n="calender_207800789">goe</ref>:</l>
+
+							<pb xml:id="G4r" n="G4r" prev="#G3v" next="#G4v"/><fw place="top-center" rend="face(italics)" type="head">
+								<choice>
+									<orig choice_type="oxford">Iulye</orig>
+									<reg choice_type="char_norm default_archive">Julye</reg>
+								</choice>.</fw>
+							<fw place="top-right" rend="face(italics)" type="head">fol.28</fw>
+							<fw place="bottom-center" rend="face(blackletter)" type="sig">G<hi rend="face(roman)">.4</hi>.</fw>
+							<fw place="bottom-right" rend="face(blackletter)" type="catch">With</fw>
+							<l xml:id="calender.july.119">Theyr <ref n="calender_932482999">sample</ref> onely to <choice>
+									<orig choice_type="oxford">vs</orig>
+									<reg choice_type="char_norm default_archive">us</reg>
+								</choice> lent,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.120">
+								<app xml:id="calender.july.120.collation">
+									<lem wit="#E1581 #E1586 #E1591 #E1597" rend="face(blackletter)">that</lem>
+									<rdg wit="#E1579" eclecticCopyText="yes" rend="face(blackletter)">That</rdg>
+									<rdg wit="#E1611" rend="face(roman)">that</rdg>
+								</app>
+								<ref n="calender_777391849">als we mought</ref> doe soe.</l>
+							<l xml:id="calender.july.121">Shepheards they weren of the best, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.122">and <choice>
+									<orig choice_type="oxford">liued</orig>
+									<reg choice_type="char_norm default_archive">lived</reg>
+								</choice> in lowlye leas:</l>
+							<l xml:id="calender.july.123">And sith theyr soules bene now at rest, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.124"><ref n="calender_452449594">why done we them disease?</ref></l>
+							<l xml:id="calender.july.125"><ref n="calender_232807657"><ref n="calender_832789206">Such one he was, (as I </ref><ref n="calender_832789206"><choice>
+									<orig choice_type="oxford">haue</orig>
+									<reg choice_type="char_norm default_archive">have</reg>
+								</choice></ref><ref n="calender_832789206"> heard </ref></ref></l><ref n="calender_232807657"><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.126">old <ref n="calender_877131476">Algrind</ref> often sayne)</l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l xml:id="calender.july.127">That whilome was <ref n="calender_ek.lemma.July.39" xml:id="calender_ek.lemma.July.39">the first shepheard</ref>, </l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.128">and <choice>
+									<orig choice_type="oxford">liued</orig>
+									<reg choice_type="char_norm default_archive">lived</reg>
+								</choice> with little gayne:</l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l xml:id="calender.july.129">As meeke he was, as meeke mought be, </l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.130">simple, as simple sheepe,</l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l xml:id="calender.july.131">Humble, and like in <ref n="calender_785804342">eche degree</ref></l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.132">the flocke, which he did
+								keepe.</l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l xml:id="calender.july.133">Often he <choice>
+									<orig choice_type="oxford">vsed</orig>
+									<reg choice_type="char_norm default_archive">used</reg>
+								</choice> of <ref n="calender_ek.lemma.July.40" xml:id="calender_ek.lemma.July.40"><ref n="calender_637653224">hys keepe</ref></ref>
+							</l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.134">a sacrifice to bring,</l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l xml:id="calender.july.135">Nowe with a Kidde, now with a sheepe </l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.136">the Altars hallowing.</l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l xml:id="calender.july.137">So <ref n="calender_ek.lemma.July.41" xml:id="calender_ek.lemma.July.41"><ref n="calender_793306092">lowted</ref></ref> he <choice>
+									<orig choice_type="oxford">vnto</orig>
+									<reg choice_type="char_norm default_archive">unto</reg>
+								</choice> hys Lord, </l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.138">such <choice>
+									<orig choice_type="oxford">fauour</orig>
+									<reg choice_type="char_norm default_archive">favour</reg>
+								</choice> couth he fynd,</l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l xml:id="calender.july.139">That sithens <choice>
+									<orig choice_type="oxford">neuer</orig>
+									<reg choice_type="char_norm default_archive">never</reg>
+								</choice> was abhord, </l></ref><ref n="calender_832789206">
+							</ref></ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.140"><ref n="calender_232807657">the simple shepheards kynd</ref>.</l>
+							<l xml:id="calender.july.141">And such I weene <ref n="calender_ek.lemma.July.42" xml:id="calender_ek.lemma.July.42"><ref n="calender_559210903">the </ref><ref n="calender_330304271"><ref n="calender_559210903">brethren</ref></ref></ref><ref n="calender_559210903"> were,</ref></l></ref><ref n="calender_559210903"><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.142">that came from <hi rend="face(italics)">Canaan:</hi>
+							</l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l xml:id="calender.july.143">The brethren <choice>
+									<orig choice_type="oxford">twelue</orig>
+									<reg choice_type="char_norm default_archive">twelve</reg>
+								</choice>, that kept <ref n="calender_616064789">yfere</ref>
+							</l></ref><ref n="calender_832789206">
+							</ref></ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.144"><ref n="calender_559210903">the flockes of mighty </ref><hi rend="face(italics)"><ref n="calender_559210903">Pan</ref>.</hi>
+							</l>
+							<l xml:id="calender.july.145"><ref n="calender_778114172">But nothing such
+								thilk shephearde was,</ref></l></ref><ref n="calender_778114172"><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.146"><ref n="calender_ek.lemma.July.43" xml:id="calender_ek.lemma.July.43">whom
+										<hi rend="face(italics)">Ida</hi></ref> hyll dyd beare,</l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l xml:id="calender.july.147">That left hys flocke, to fetch <ref n="calender_ek.lemma.July.44" xml:id="calender_ek.lemma.July.44">a
+									lasse</ref>, </l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.148">whose <choice>
+									<orig choice_type="oxford">loue</orig>
+									<reg choice_type="char_norm default_archive">love</reg>
+								</choice> he bought <ref n="calender_60863083">to</ref> deare:</l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l xml:id="calender.july.149">For he was proude, that ill was payd, </l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.150">(no such mought shepheards
+								bee)</l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l xml:id="calender.july.151">And with lewde lust was <ref n="calender_350338567"><choice>
+									<orig choice_type="oxford">ouerlayd</orig>
+									<reg choice_type="char_norm default_archive">overlayd</reg>
+							</choice></ref>:</l></ref><ref n="calender_832789206">
+							</ref></ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.152"><ref n="calender_96229925"><ref n="calender_778114172">tway</ref></ref><ref n="calender_778114172"> things doen ill agree</ref>:</l>
+							<l xml:id="calender.july.153">But shepheard mought be meeke and mylde,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.154">well eyed, as <ref n="calender_ek.lemma.July.45" xml:id="calender_ek.lemma.July.45"><hi rend="face(italics)"><ref n="calender_388286696">Argus</ref></hi></ref> was,</l>
+
+							<pb xml:id="G4v" n="G4v" prev="#G4r" next="#H1r"/><fw place="top-center" rend="face(italics)" type="head">
+								<choice>
+									<orig choice_type="oxford">Iulye</orig>
+									<reg choice_type="char_norm default_archive">Julye</reg>
+								</choice>.</fw>
+							<fw place="bottom-right" rend="face(blackletter)" type="catch">They</fw>
+							<l xml:id="calender.july.155">With fleshly follyes <choice>
+									<orig choice_type="oxford">vndefyled</orig>
+									<reg choice_type="char_norm default_archive">undefyled</reg>
+								</choice>,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.156">and stoute as <ref n="calender_263973842">steede of brasse</ref>.</l>
+							<l xml:id="calender.july.157"><ref n="calender_587675641">Sike one (sayd
+									<hi rend="face(italics)">Algrin</hi>) <hi rend="face(italics)">Moses</hi> was, </ref></l></ref><ref n="calender_587675641"><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.158">that <ref n="calender_34374293">sawe hys makers face,</ref></l></ref></ref><ref n="calender_34374293"><ref n="calender_587675641"><ref n="calender_832789206">
+							</ref></ref></ref><ref n="calender_587675641"><ref n="calender_832789206"><l xml:id="calender.july.159"><ref n="calender_18737149"><ref n="calender_34374293">His face</ref></ref> more cleare, <note type="disamb" line_number="calender.july.159" ref="1611592931_22_48" disamb_type="orig oxford"><span class="glossLineNumber">159. </span><term>then</term>: than</note><span class="disambAnchor" id="Anchor1611592931_22_48"/><choice>
+								<orig choice_type="oxford">then<note type="delete" line_number="calender.july.159" ref="1611592931_22_48" disamb_type="orig oxford"><span class="glossLineNumber">159. </span><term>then</term>: than</note></orig>
+									<reg choice_type="disamb default_archive">than</reg>
+								</choice> Christall glasse, </l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.160">and spake to him in <ref n="calender_228113449"><ref n="calender_829588445">place</ref></ref><choice><orig><hi rend="face(roman)">.</hi></orig><reg choice_type="char_norm oxford">.</reg></choice></l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l xml:id="calender.july.161">This had a brother, (<ref n="calender_ek.lemma.July.46" xml:id="calender_ek.lemma.July.46"><ref n="calender_344664953">his name</ref></ref> I knewe)</l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.162">the first of all his <ref n="calender_724572029">cote</ref>,</l></ref><ref n="calender_832789206">
+							</ref><ref n="calender_832789206"><l xml:id="calender.july.163">A shepheard trewe, yet <ref n="calender_ek.lemma.July.47" xml:id="calender_ek.lemma.July.47"><ref n="calender_375633423">not so true</ref></ref>, </l></ref><ref n="calender_832789206">
+							</ref></ref><ref n="calender_832789206"><l rend="align(indented_1)" xml:id="calender.july.164"><ref n="calender_587675641">as he </ref><ref n="calender_478934757"><ref n="calender_587675641">that earst I hote</ref></ref><choice><orig><hi rend="face(roman)">.</hi></orig><reg choice_type="char_norm oxford">.</reg></choice></l>
+							<l xml:id="calender.july.165">Whilome all these were <ref n="calender_295582748">lowe</ref>, and <ref n="calender_295582748_1">lief</ref>,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.166">and <choice>
+									<orig choice_type="oxford">loued</orig>
+									<reg choice_type="char_norm default_archive">loved</reg>
+								</choice> their flocks to feede,</l>
+							<l xml:id="calender.july.167">They <choice>
+									<orig choice_type="oxford">neuer</orig>
+									<reg choice_type="char_norm default_archive">never</reg>
+								</choice>
+								<choice>
+									<orig choice_type="oxford">strouen</orig>
+									<reg choice_type="char_norm default_archive">stroven</reg>
+								</choice> to be chiefe, </l>
+							</ref><l rend="align(indented_1)" xml:id="calender.july.168"><ref n="calender_832789206">and simple was theyr weede</ref>.</l>
+							<l xml:id="calender.july.169">But now (thanked be God therefore) </l>
+							<l rend="align(indented_1)" xml:id="calender.july.170">the world is well <ref n="calender_219552564">amend</ref>,</l>
+							<l xml:id="calender.july.171">Their weedes bene not so <ref n="calender_896447492">nighly wore</ref>,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.172">such simplesse mought them
+									<ref n="calender_890203823"> shend</ref>:</l>
+							<l xml:id="calender.july.173">They bene yclad <ref n="calender_ek.lemma.July.48" xml:id="calender_ek.lemma.July.48">in <ref n="calender_902797548"><ref n="calender_84963046">purple</ref></ref></ref><ref n="calender_902797548"><ref n="calender_84963046"> and
+									pall</ref></ref><ref n="calender_84963046">, </ref></l><ref n="calender_84963046">
+							<l rend="align(indented_1)" xml:id="calender.july.174">so hath theyr god them <ref n="calender_487639256"> blist</ref>,</l>
+							<l xml:id="calender.july.175">They reigne and rulen <choice>
+									<orig choice_type="oxford">ouer</orig>
+									<reg choice_type="char_norm default_archive">over</reg>
+								</choice> all,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.176">and lord it, as they list:</l>
+							</ref><l xml:id="calender.july.177"><ref n="calender_84963046">Ygyrt with <ref n="calender_ek.lemma.July.49" xml:id="calender_ek.lemma.July.49"><ref n="calender_618323034">belts</ref></ref> of 
+								<ref n="calender_ek.lemma.July.50" xml:id="calender_ek.lemma.July.50"><ref n="calender_369132542">glitterand</ref></ref>
+                                <choice>
+                                    <orig>gold.</orig>
+                                    <reg choice_type="space_punct oxford default_archive">gold</reg>
+                                </choice></ref></l>
+							<l rend="align(indented_1)" xml:id="calender.july.178">(mought they good sheepeheards <choice>
+                                <orig>bene)</orig>
+                                <reg choice_type="space_punct oxford default_archive">bene).</reg>
+                            </choice></l>
+							<l xml:id="calender.july.179"><ref n="calender_ek.lemma.July.51" xml:id="calender_ek.lemma.July.51"><ref n="calender_59633736">Theyr Pan</ref></ref><ref n="calender_59633736"> theyr sheepe to them has sold</ref>,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.180">I saye as some <choice>
+									<orig choice_type="oxford">haue</orig>
+									<reg choice_type="char_norm default_archive">have</reg>
+								</choice> seene.</l>
+							<l xml:id="calender.july.181">For <ref n="calender_ek.lemma.July.52" xml:id="calender_ek.lemma.July.52"><name ref="#Palinode"><ref n="calender_397627476">Palinode</ref></name></ref> (if thou
+								him ken) </l>
+							<l rend="align(indented_1)" xml:id="calender.july.182"><ref n="calender_395474240"><ref n="calender_966056002">yode</ref></ref> late on Pilgrimage</l>
+							<l xml:id="calender.july.183">To Rome, (if such be 
+								
+								<app xml:id="calender.july.183.collation">
+									<lem wit="#E1581 #E1586 #E1591 #E1597" rend="face(blackletter)">Rome)</lem>
+									<rdg wit="#E1579" eclecticCopyText="yes" rend="face(blackletter)">Kome)</rdg>
+									<rdg wit="#E1611" rend="face(roman)">Rome)</rdg>
+								</app> and then </l>
+							<l rend="align(indented_1)" xml:id="calender.july.184">he sawe thilke <ref n="calender_852602754">misusage</ref>.</l>
+							<l xml:id="calender.july.185">For shepeheards (sayd he) there doen <ref n="calender_560248281">leade</ref>, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.186">as <ref n="calender_932433046">Lordes</ref> done  
+								<app xml:id="calender.july.186.collation">
+									<lem wit="#E1586" rend="face(blackletter)">other where:</lem>
+									<rdg wit="#E1579 #E1581" eclecticCopyText="yes" rend="face(blackletter)">other where,</rdg>
+									<rdg wit="#E1591 #E1597" rend="face(blackletter)">otherwhere:</rdg>
+									<rdg wit="#E1611" rend="face(roman)">otherwhere:</rdg>
+								</app>
+							</l>
+							<l xml:id="calender.july.187"><ref n="calender_693426392">Theyr sheepe han
+								crustes, and they the bread: </ref></l><ref n="calender_693426392">
+							<l rend="align(indented_1)" xml:id="calender.july.188">the <ref n="calender_954572337">chippes</ref>, and they the chere:</l>
+							<l xml:id="calender.july.189">They han the fleece, and eke the flesh, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.190">(O <ref n="calender_735866854">seely</ref> sheepe the while)</l>
+							<l xml:id="calender.july.191">The <ref n="calender_995385296">corne is
+									theyrs</ref>, let other
+								thresh,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.192">their hands they may not <ref n="calender_204962206">file</ref>.</l>
+
+							<pb xml:id="H1r" n="H1r" prev="#G4v" next="#H1v"/><fw place="top-center" rend="face(italics)" type="head">
+								<choice>
+									<orig choice_type="oxford">Iulye</orig>
+									<reg choice_type="char_norm default_archive">Julye</reg>
+								</choice>.</fw>
+							<fw place="top-right" rend="face(italics)" type="head">fol.29</fw>
+							<fw place="bottom-center" rend="face(blackletter)" type="sig">H</fw>
+							<fw place="bottom-right" rend="face(italics)" type="catch">Morrell.</fw>
+
+							<l xml:id="calender.july.193">They han great stores, and <ref n="calender_778691920">thriftye stockes</ref>,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.194">great freendes and feeble
+								foes:</l>
+							<l xml:id="calender.july.195">What neede hem caren for their flocks? </l>
+							<l rend="align(indented_1)" xml:id="calender.july.196">theyr boyes can looke to
+								those.</l>
+							<l xml:id="calender.july.197">These <ref n="calender_ek.lemma.July.53" xml:id="calender_ek.lemma.July.53"><ref n="calender_728798144">wisards</ref></ref>
+								<ref n="calender_ek.lemma.July.54" xml:id="calender_ek.lemma.July.54"><ref n="calender_578451906">weltre</ref></ref> in welths <choice>
+									<orig choice_type="oxford">waues</orig>
+									<reg choice_type="char_norm default_archive">waves</reg>
+								</choice>, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.198">pampred in pleasures deepe,</l>
+							<l xml:id="calender.july.199">They han fatte <ref n="calender_ek.lemma.July.55" xml:id="calender_ek.lemma.July.55"><ref n="calender_469316383">kernes</ref></ref>, and
+								leany <ref n="calender_207096953"><choice>
+									<orig choice_type="oxford">knaues</orig>
+									<reg choice_type="char_norm default_archive">knaves</reg>
+								</choice></ref>,</l>
+							</ref><l rend="align(indented_1)" xml:id="calender.july.200"><ref n="calender_693426392">their fasting flockes to
+									keepe</ref>.</l>
+							<l xml:id="calender.july.201"><ref n="calender_ek.lemma.July.56" xml:id="calender_ek.lemma.July.56"><ref n="calender_447083189">Sike mister men</ref></ref>
+								bene all <ref n="calender_938799267">misgone</ref>, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.202">they <ref n="calender_112727210">heapen hylles of wrath</ref>:</l>
+							<l xml:id="calender.july.203">Sike <ref n="calender_ek.lemma.July.57" xml:id="calender_ek.lemma.July.57"><ref n="calender_453102590">syrlye</ref></ref>
+								shepheards han we none, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.204">they keepen all the path<choice><orig><hi rend="face(roman)">.</hi></orig><reg choice_type="char_norm oxford">.</reg></choice></l>
+						</lg>
+					</sp>
+					<sp who="#Morrell">
+						<speaker rend="face(roman)">
+							<name ref="#Morrell">Morrell</name>.<lb ed="webArchive" xml:id="calender.july.205.0"/></speaker>
+						<lg>
+							<l xml:id="calender.july.205">Here is a great deale of good matter,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.206">lost for <ref n="calender_269438076">lacke of telling</ref>,</l>
+							<l xml:id="calender.july.207">Now sicker I see, thou doest but <ref n="calender_913903823">clatter</ref>:</l>
+							<l rend="align(indented_1)" xml:id="calender.july.208">harme may come of <ref n="calender_ek.lemma.July.58" xml:id="calender_ek.lemma.July.58"><ref n="calender_626915224">melling</ref></ref>.</l>
+							<l xml:id="calender.july.209"><ref n="calender_158869351">Thou medlest
+								more, <note type="disamb" line_number="calender.july.209" ref="1611592931_22_49" disamb_type="orig oxford"><span class="glossLineNumber">209. </span><term>then</term>: than</note><span class="disambAnchor" id="Anchor1611592931_22_49"/><choice>
+									<orig choice_type="oxford">then<note type="delete" line_number="calender.july.209" ref="1611592931_22_49" disamb_type="orig oxford"><span class="glossLineNumber">209. </span><term>then</term>: than</note></orig>
+									<reg choice_type="disamb default_archive">than</reg>
+								</choice> shall <choice>
+									<orig choice_type="oxford">haue</orig>
+									<reg choice_type="char_norm default_archive">have</reg>
+								</choice> thanke, </ref></l><ref n="calender_158869351">
+							<l rend="align(indented_1)" xml:id="calender.july.210">to <ref n="calender_502060812"><ref n="calender_864818795">wyten</ref></ref> shepheards welth:</l>
+							<l xml:id="calender.july.211">When folke bene fat, and riches <ref n="calender_971823037">rancke</ref>,</l>
+							</ref><l rend="align(indented_1)" xml:id="calender.july.212"><ref n="calender_158869351">it is a signe of helth</ref>.</l>
+							<l xml:id="calender.july.213">But say me, what is <hi rend="face(italics)"><ref n="calender_838586176">Algrin</ref></hi> he,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.214">that is so oft <ref n="calender_ek.lemma.July.60" xml:id="calender_ek.lemma.July.60"><ref n="calender_160893404">bynempt</ref></ref><choice><orig><hi rend="face(roman)">.</hi></orig><reg choice_type="char_norm oxford">.</reg></choice></l>
+						</lg>
+					</sp>
+					<sp who="#Thomalin">
+						<speaker rend="face(roman)">
+							<name ref="#Thomalin">Thomalin</name>.<lb ed="webArchive" xml:id="calender.july.215.0"/></speaker>
+						<lg>
+							<l xml:id="calender.july.215"><ref n="calender_65535922">He is a shepheard
+								great in <ref n="calender_ek.lemma.July.61" xml:id="calender_ek.lemma.July.61"><ref n="calender_310451030">
+									</ref><ref n="calender_310451030"><app xml:id="calender.july.215.collation">
+										<lem wit="#E1586" rend="face(blackletter)">gree,</lem>
+										<rdg wit="#E1579" eclecticCopyText="yes" rend="face(blackletter)">gree.</rdg>
+										<rdg wit="#E1581" rend="face(blackletter)">gr[ée].</rdg>
+										<rdg wit="#E1591 #E1597" rend="face(blackletter)">gr[ée],</rdg>
+										<rdg wit="#E1611" rend="face(roman)">gree,</rdg>
+									</app></ref></ref>
+							</ref></l><ref n="calender_65535922">
+							<l rend="align(indented_1)" xml:id="calender.july.216">but hath bene long <ref n="calender_30003575">ypent</ref>.</l>
+							<l xml:id="calender.july.217">One daye he sat <choice>
+									<orig choice_type="oxford">vpon</orig>
+									<reg choice_type="char_norm default_archive">upon</reg>
+								</choice> a hyll, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.218">(as now thou wouldest me:</l>
+							<l xml:id="calender.july.219">But I am taught by <hi rend="face(italics)">Algrins</hi>
+								ill,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.220">to <choice>
+									<orig choice_type="oxford">loue</orig>
+									<reg choice_type="char_norm default_archive">love</reg>
+								</choice> the lowe <choice>
+									<orig>degree<choice><orig><hi rend="face(roman)">.</hi></orig><reg choice_type="char_norm oxford">.</reg></choice>)</orig>
+									<reg choice_type="space_punct oxford default_archive">degree).</reg>
+								</choice>
+							</l>
+							<l xml:id="calender.july.221">For sitting so with bared scalpe, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.222">
+								<ref n="calender_1544809300"><app xml:id="calender.july.222.collation">
+									<lem wit="#E1586 #E1591 #E1597" rend="face(blackletter)">an</lem>
+									<rdg wit="#E1579" eclecticCopyText="yes" rend="face(blackletter)">An</rdg>
+									<rdg wit="#E1581" rend="face(blackletter)">And</rdg>
+									<rdg wit="#E1611" rend="face(roman)">an</rdg>
+								</app></ref> Eagle sored hye,</l>
+							<l xml:id="calender.july.223">That weening hys whyte head was chalke,</l>
+							<l rend="align(indented_1)" xml:id="calender.july.224">a shell fish downe let flye:</l>
+							<l xml:id="calender.july.225">She weend the shell fishe to <choice>
+									<orig choice_type="oxford">haue</orig>
+									<reg choice_type="char_norm default_archive">have</reg>
+								</choice> broake, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.226">but therewith bruzd his
+								brayne,</l>
+							<l xml:id="calender.july.227">So now <ref n="calender_207685232">astonied</ref> with the
+									<ref n="calender_933115646">stroke</ref>, </l>
+							<l rend="align(indented_1)" xml:id="calender.july.228">he lyes in lingring payne.</l>
+						</ref></lg><ref n="calender_65535922">
+					</ref></sp><ref n="calender_65535922">
+
+					<pb xml:id="H1v" n="H1v" prev="#H1r" next="#H2r"/><fw place="top-center" rend="face(italics)" type="head">
+						<choice>
+							<orig choice_type="oxford">Iulye</orig>
+							<reg choice_type="char_norm default_archive">Julye</reg>
+						</choice>.</fw>
+					<fw place="bottom-right" rend="face(roman)" type="catch">S. Michels</fw>
+					</ref><sp who="#Morrell"><ref n="calender_65535922">
+						<speaker rend="face(roman)">
+							<name ref="#Morrell">Morrell</name>.<lb ed="webArchive" xml:id="calender.july.229.0"/></speaker>
+						</ref><lg><ref n="calender_65535922">
+							<l xml:id="calender.july.229">Ah good <ref n="calender_ek.lemma.July.62" xml:id="calender_ek.lemma.July.62"><hi rend="face(italics)">Algrin,</hi></ref> his hap was ill, </l>
+							</ref><l rend="align(indented_1)" xml:id="calender.july.230"><ref n="calender_65535922">but shall be <ref n="calender_ek.lemma.July.59" xml:id="calender_ek.lemma.July.59">
+								<ref n="calender_1544809378"><app xml:id="calender.july.230.collation">
+									<lem rend="face(blackletter)">bett</lem>
+									<rdg wit="#E1579 #E1581 #E1586 #E1591 #E1597" eclecticCopyText="yes" rend="face(blackletter)">better</rdg>
+									<rdg wit="#E1611" rend="face(roman)">better</rdg>
+								</app></ref></ref> in time</ref>.</l>
+							<l xml:id="calender.july.231">Now farwell shepheard, sith thys hyll </l>
+							<l rend="align(indented_1)" xml:id="calender.july.232">thou hast such doubt to
+								climbe.</l>
+						</lg>
+					</sp>
+				</div>
+
+				<div type="motto">
+					<head rend="face(italics) size(small) ">
+						<name ref="#Palinode"><app xml:id="calender.july.233.collation">
+							<lem rend="face(italics)">Thomalins</lem>
+							<rdg wit="#E1579" eclecticCopyText="yes" rend="face(italics)">Palinodes</rdg>
+							<rdg wit="#E1581 #E1586 #E1591 #E1597 #E1611" rend="face(roman)">Palinodes</rdg>
+						</app></name> Embleme.<lb ed="webArchive" xml:id="calender.july.233"/></head>
+					<l rend="face(italics) size(1.75em) line_height(1.2em) align(centered) leading_after(0.5em)" xml:lang="la" xml:id="calender.july.234"><ref n="calender_1598512">In medìo virtus</ref>.</l>
+				</div>
+				<div rend="face(italics) " type="motto">
+					<head rend="face(italics) size(small) ">
+						<name ref="#Morrell">Morrells</name> Embleme.<lb ed="webArchive" xml:id="calender.july.235"/></head>
+					<l rend="face(italics) size(1.75em) line_height(1.2em) align(centered) leading_after(0.5em)" xml:lang="la" xml:id="calender.july.236"><ref n="calender_469088903">In summo
+							fœlicitas</ref>.</l>
+				</div>
+				<figure/>
+				<!-- ornamental border -->
+				<div rend="face(roman)" resp="E.K." type="commentary">
+					<head rend="face(italics)  faintKerning">GLOSSE.<lb ed="1579 webArchive" xml:id="calender.july.glosse.0"/></head>
+					<note type="glosse_item" id="ek.note.July.1">
+						<ref n="calender_ek.headword.July.1" xml:id="calender_ek.headword.July.1">A <choice>
+								<orig>Goteheard]</orig>
+								<reg choice_type="space_punct oxford default_archive">Goteheard)</reg>
+							</choice>
+						</ref> By Gotes in <ref n="calender_952143236">scrypture</ref> be represented the wicked and
+							reprobate,<lb ed="webArchive" xml:id="calender.july.glosse.1"/>
+						<choice>
+							<orig>vvhose</orig>
+							<reg choice_type="oxford char_norm default_archive">whose</reg>
+						</choice>
+						<lb break="yes" ed="1579"/> pastour also must needes be such.<lb ed="1579 webArchive" xml:id="calender.july.glosse.2"/></note>
+					<note type="glosse_item" id="ek.note.July.2">
+						<ref n="calender_ek.headword.July.2" xml:id="calender_ek.headword.July.2">Banck)</ref> is the seate of honor.<lb ed="webArchive" xml:id="calender.july.glosse.3"/></note>
+					<note type="glosse_item" id="ek.note.July.3">
+						<ref n="calender_ek.headword.July.3" xml:id="calender_ek.headword.July.3">Straying <choice>
+								<orig>heard]</orig>
+								<reg choice_type="space_punct oxford default_archive">heard)</reg>
+							</choice>
+						</ref> which wander out of the waye of truth.<lb ed="1579 webArchive" xml:id="calender.july.glosse.4"/></note>
+					<note type="glosse_item" id="ek.note.July.4">
+						<ref n="calender_ek.headword.July.4" xml:id="calender_ek.headword.July.4">
+							<choice>
+								<orig>Als]</orig>
+								<reg choice_type="space_punct oxford default_archive">Als)</reg>
+							</choice>
+						</ref> for also.<lb ed="webArchive" xml:id="calender.july.glosse.5"/></note>
+					<note type="glosse_item" id="ek.note.July.5">
+						<ref n="calender_ek.headword.July.5" xml:id="calender_ek.headword.July.5">
+							<ref n="calender_777473624">
+							</ref><ref n="calender_777473624"><choice>
+								<orig>Clymbe]</orig>
+								<reg choice_type="space_punct oxford default_archive">Clymbe)</reg>
+							</choice></ref><ref n="calender_777473624">
+							</ref>
+						</ref> spoken of Ambition.<lb ed="webArchive" xml:id="calender.july.glosse.6"/></note>
+					<note type="glosse_item" id="ek.note.July.6">
+						<ref n="calender_ek.headword.July.6" xml:id="calender_ek.headword.July.6">Great <choice>
+								<orig>clymbers]</orig>
+								<reg choice_type="space_punct oxford default_archive">clymbers)</reg>
+							</choice>
+						</ref> according to <ref n="calender_807660568"><app xml:id="calender.july.glosse.7.collation">
+							<lem wit="#E1581 #E1586 #E1591 #E1597 #E1611" rend="face(roman)">Seneca</lem>
+							<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">Sene<pc force="weak">-</pc><lb break="no" ed="1579"/>neca</rdg>
+						</app></ref> his verse, <quote rend="align(indented_1)" xml:lang="la"><ref n="calender_800999819">Decidunt celsa <choice>
+								<orig choice_type="oxford">grauiore</orig>
+								<reg choice_type="char_norm default_archive">graviore</reg>
+							</choice><lb ed="webArchive" xml:id="calender.july.glosse.7"/>
+							
+							<app xml:id="calender.july.glosse.8.collation">
+								<lem rend="face(roman)">lapsu.</lem>
+								<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">lapſus.</rdg>
+								<rdg wit="#E1581" rend="face(italics)">lapſus.</rdg>
+								<rdg wit="#E1586" rend="face(italics)">lapſu,</rdg>
+								<rdg wit="#E1591 #E1597 #E1611" rend="face(italics)">lapſu.</rdg>
+							</app></ref> </quote>
+						<lb ed="webArchive" xml:id="calender.july.glosse.8"/></note>
+					<note type="glosse_item" id="ek.note.July.7">
+						<ref n="calender_ek.headword.July.7" xml:id="calender_ek.headword.July.7">
+							<choice>
+								<orig>Mickle]</orig>
+								<reg choice_type="space_punct oxford default_archive">Mickle)</reg>
+							</choice>
+						</ref> much.<lb ed="1579 webArchive" xml:id="calender.july.glosse.9"/></note>
+					<note type="glosse_item" id="ek.note.July.8">
+						<ref n="calender_ek.headword.July.8" xml:id="calender_ek.headword.July.8">The
+								<ref n="calender_859491609">
+							</ref><ref n="calender_859491609"><choice>
+								<orig>sonne]</orig>
+								<reg choice_type="space_punct oxford default_archive">sonne)</reg>
+							</choice></ref><ref n="calender_859491609">
+							</ref>
+						</ref> A reason, why he refuseth to dwell on Mountaines, because<lb ed="webArchive" xml:id="calender.july.glosse.10"/> there is no shel<pc force="weak">-</pc><lb break="no" ed="1579"/>ter against the scortching sunne. 
+						<choice>
+							<orig>according</orig>
+							<reg choice_type="space_punct oxford default_archive">According</reg>
+						</choice> to<lb ed="webArchive" xml:id="calender.july.glosse.11"/> the time of the yeare, <choice>
+							<orig>vvhiche</orig>
+							<reg choice_type="oxford char_norm default_archive">whiche</reg>
+						</choice>
+						<lb break="yes" ed="1579"/> is the <choice>
+							<orig>vvhotest</orig>
+							<reg choice_type="oxford char_norm default_archive">whotest</reg>
+						</choice> moneth of all.<lb ed="1579 webArchive" xml:id="calender.july.glosse.12"/></note>
+					<note type="glosse_item" id="ek.note.July.9">
+						<ref n="calender_ek.headword.July.9" xml:id="calender_ek.headword.July.9"><ref n="calender_575228278">The Cupp and </ref><ref n="calender_575228278"><choice>
+								<orig>Diademe]</orig>
+								<reg choice_type="space_punct oxford default_archive">Diademe)</reg>
+							</choice></ref><ref n="calender_575228278">
+							</ref>
+						</ref> Be <choice>
+							<orig>tvvo</orig>
+							<reg choice_type="oxford char_norm default_archive">two</reg>
+						</choice> signes in the Firmament, through <choice>
+							<orig>vvhich</orig>
+							<reg choice_type="oxford char_norm default_archive">which</reg>
+						</choice><lb ed="webArchive" xml:id="calender.july.glosse.13"/> the sonne<lb break="yes" ed="1579"/>
+						maketh his course in the moneth of <choice>
+							<orig choice_type="oxford">Iuly</orig>
+							<reg choice_type="char_norm default_archive">July</reg>
+						</choice>.<lb ed="1579 webArchive" xml:id="calender.july.glosse.14"/></note>
+					<note type="glosse_item" id="ek.note.July.10">
+						<ref n="calender_ek.headword.July.10" xml:id="calender_ek.headword.July.10">
+							<choice>
+								<orig>Lion]</orig>
+								<reg choice_type="space_punct oxford default_archive">Lion)</reg>
+							</choice>
+						</ref> Thys is Poetically spoken, as if the Sunne did hunt a Lion<lb ed="webArchive" xml:id="calender.july.glosse.15"/>
+						<choice>
+							<orig>vvith</orig>
+							<reg choice_type="oxford char_norm default_archive">with</reg>
+						</choice> one Dogge.<lb break="yes" ed="1579"/> The meaning <choice>
+							<orig>vvhereof</orig>
+							<reg choice_type="oxford char_norm default_archive">whereof</reg>
+						</choice> is, that in <choice>
+							<orig choice_type="oxford">Iuly</orig>
+							<reg choice_type="char_norm default_archive">July</reg>
+						</choice> the sonne<lb ed="webArchive" xml:id="calender.july.glosse.16"/> is in 
+						<app xml:id="calender.july.glosse.17.collation">
+							<lem wit="#E1581 #E1586 #E1591 #E1597 #E1611" rend="face(roman)">
+                                <choice>
+                                    <orig choice_type="oxford">Leo. At</orig>
+                                    <reg choice_type="space_punct default_archive">Leo, at</reg>
+                                </choice>
+                            </lem>
+							<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">Leo At</rdg>
+						</app>
+						<choice>
+							<orig>vvhich</orig>
+							<reg choice_type="oxford char_norm default_archive">which</reg>
+						</choice> tyme the<lb break="yes" ed="1579"/>
+						<ref n="calender_21701710">Dogge starre</ref>, <choice>
+							<orig>vvhich</orig>
+							<reg choice_type="oxford char_norm default_archive">which</reg>
+						</choice> is called <seg xml:lang="a">Syrius</seg><lb ed="webArchive" xml:id="calender.july.glosse.17"/> or <seg xml:lang="la">Canicula</seg> reigneth, <choice>
+							<orig>vvith</orig>
+							<reg choice_type="oxford char_norm default_archive">with</reg>
+						</choice> immoderate<lb break="yes" ed="1579"/> heate causing Pestilence,<lb ed="webArchive" xml:id="calender.july.glosse.18"/> 
+						drougth, and many diseases.<lb ed="1579 webArchive" xml:id="calender.july.glosse.19"/></note>
+					<note type="glosse_item" id="ek.note.July.11">
+						<ref n="calender_ek.headword.July.11" xml:id="calender_ek.headword.July.11">
+							<ref n="calender_128435184">
+                            </ref><ref n="calender_128435184"><choice>
+                                <orig>Ouerture]</orig>
+                                <reg choice_type="char_norm">Ouerture]</reg>
+                                <reg choice_type="space_punct oxford">Ouerture)</reg>
+                                <reg choice_type="char_norm space_punct default_archive">Overture)</reg>
+                            </choice></ref><ref n="calender_128435184">
+							</ref>
+						</ref> an open place. The <choice>
+							<orig>vvord</orig>
+							<reg choice_type="oxford char_norm default_archive">word</reg>
+						</choice> is <choice>
+							<orig>borrovved</orig>
+							<reg choice_type="oxford char_norm default_archive">borrowed</reg>
+						</choice> of the French, <choice>
+							<orig>&amp;</orig>
+							<reg choice_type="expan oxford default_archive">and</reg>
+						</choice><lb ed="webArchive" xml:id="calender.july.glosse.20"/>
+						<choice>
+							<orig choice_type="oxford">vsed</orig>
+							<reg choice_type="char_norm default_archive">used</reg>
+						</choice> in good 
+						<app xml:id="calender.july.glosse.21.collation">
+							<lem wit="#E1586 #E1591 #E1597" rend="face(roman)">writers.</lem>
+							<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">writers</rdg>
+							<rdg wit="#E1581" rend="face(roman)">vvriters.</rdg>
+							<rdg wit="#E1611" rend="face(roman)">Writers.</rdg>
+						</app>
+						<lb ed="1579 webArchive" xml:id="calender.july.glosse.21"/></note>
+					<note type="glosse_item" id="ek.note.July.12">
+						<ref n="calender_ek.headword.July.12" xml:id="calender_ek.headword.July.12">To
+							holden chatt)</ref> to talke and prate.<lb ed="1579 webArchive" xml:id="calender.july.glosse.22"/></note>
+					<note type="glosse_item" id="ek.note.July.13">
+						<ref n="calender_ek.headword.July.13" xml:id="calender_ek.headword.July.13">A <choice>
+								<orig>loorde]</orig>
+								<reg choice_type="space_punct oxford default_archive">loorde)</reg>
+							</choice>
+						</ref>
+						<choice>
+							<orig>vvas</orig>
+							<reg choice_type="oxford char_norm default_archive">was</reg>
+						</choice>
+						<choice>
+							<orig>vvont</orig>
+							<reg choice_type="oxford char_norm default_archive">wont</reg>
+						</choice> among the old Britons to signifie a Lorde. And<lb ed="webArchive" xml:id="calender.july.glosse.23"/> therefore the<lb break="yes" ed="1579"/> Danes, that long time <choice>
+							<orig choice_type="oxford">vsurped</orig>
+							<reg choice_type="char_norm default_archive">usurped</reg>
+						</choice> theyr Tyrannie here<lb ed="webArchive" xml:id="calender.july.glosse.24"/> in
+						Brytanie, <choice>
+							<orig>vvere</orig>
+							<reg choice_type="oxford char_norm default_archive">were</reg>
+						</choice> called for<lb break="yes" ed="1579"/> more dread
+						<app xml:id="calender.july.glosse.25.collation">
+							<lem wit="#E1586 #E1591 #E1611 #E1597" rend="face(roman)">then</lem>
+							<rdg wit="#E1579 #E1581" eclecticCopyText="yes" rend="face(roman)">and</rdg>
+						</app> 
+						dignitie,
+						Lurdanes<lb ed="webArchive" xml:id="calender.july.glosse.25"/> .s. Lord Danes. At <choice>
+							<orig>vvhich</orig>
+							<reg choice_type="oxford char_norm default_archive">which</reg>
+						</choice> time it is sayd, that<lb break="yes" ed="1579"/> the insolencie and<lb ed="webArchive" xml:id="calender.july.glosse.26"/> pryde of that nation <choice>
+							<orig>vvas</orig>
+							<reg choice_type="oxford char_norm default_archive">was</reg>
+						</choice> so outragious in thys Realme, that<lb break="yes" ed="1579"/> if<lb ed="webArchive" xml:id="calender.july.glosse.27"/> it fortuned a Briton to be going <choice>
+							<orig choice_type="oxford">ouer</orig>
+							<reg choice_type="char_norm default_archive">over</reg>
+						</choice> a bridge, and <choice>
+							<orig>savve</orig>
+							<reg choice_type="oxford char_norm default_archive">sawe</reg>
+						</choice> the Dane<lb ed="webArchive" xml:id="calender.july.glosse.28"/> set foote<lb break="yes" ed="1579"/>
+						<choice>
+							<orig choice_type="oxford">vpon</orig>
+							<reg choice_type="char_norm default_archive">upon</reg>
+						</choice> the same, he muste retorne back, till the Dane <lb ed="webArchive" xml:id="calender.july.glosse.29"/>
+						<choice>
+							<orig>vvere</orig>
+							<reg choice_type="oxford char_norm default_archive">were</reg>
+						</choice> cleane <choice>
+							<orig choice_type="oxford">ouer</orig>
+							<reg choice_type="char_norm default_archive">over</reg>
+						</choice>, or els a<pc force="weak">-</pc><lb break="no" ed="1579"/>byde the pryce of his displeasure, which<lb ed="webArchive" xml:id="calender.july.glosse.30"/>
+						<choice>
+							<orig>vvas</orig>
+							<reg choice_type="oxford char_norm default_archive">was</reg>
+						</choice> no lesse, <note type="disamb" line_number="calender.july.glosse.31" ref="1611592931_22_50" disamb_type="orig oxford"><span class="glossLineNumber">31. </span><term>then</term>: than</note><span class="disambAnchor" id="Anchor1611592931_22_50"/><choice>
+							<orig choice_type="oxford">then<note type="delete" line_number="calender.july.glosse.31" ref="1611592931_22_50" disamb_type="orig oxford"><span class="glossLineNumber">31. </span><term>then</term>: than</note></orig>
+							<reg choice_type="disamb default_archive">than</reg>
+						</choice> present death. But be<pc force="weak">-</pc><lb break="no" ed="1579"/>ing
+						<choice>
+							<orig>aftervvarde</orig>
+							<reg choice_type="oxford char_norm default_archive">afterwarde</reg>
+						</choice> expelled<lb ed="webArchive" xml:id="calender.july.glosse.31"/> that name of
+						Lurdane became so odious <choice>
+							<orig choice_type="oxford">vnto</orig>
+							<reg choice_type="char_norm default_archive">unto</reg>
+						</choice> the<lb break="yes" ed="1579"/> people, whom they<lb ed="webArchive" xml:id="calender.july.glosse.32"/> had long oppressed, that <choice>
+							<orig choice_type="oxford">euen</orig>
+							<reg choice_type="char_norm default_archive">even</reg>
+						</choice> at this daye they <choice>
+							<orig choice_type="oxford">vse</orig>
+							<reg choice_type="char_norm default_archive">use</reg>
+						</choice> for more<lb break="yes" ed="1579"/> reproche,<lb ed="webArchive" xml:id="calender.july.glosse.33"/> to call the Quartane ague the <ref n="calender_838947135"><choice>
+							<orig choice_type="oxford">Feuer</orig>
+							<reg choice_type="char_norm default_archive">Fever</reg>
+						</choice> Lurdane</ref>.<lb ed="1579 webArchive" xml:id="calender.july.glosse.34"/></note>
+					<note type="glosse_item" id="ek.note.July.14">
+						<ref n="calender_ek.headword.July.14" xml:id="calender_ek.headword.July.14">Recks
+							much of thy swinck)</ref> counts much of thy paynes.<lb ed="webArchive" xml:id="calender.july.glosse.35"/></note>
+					<note type="glosse_item" id="ek.note.July.15">
+						<ref n="calender_ek.headword.July.15" xml:id="calender_ek.headword.July.15">
+							<ref n="calender_196089117"><choice>
+								<orig>VVeetelesse]</orig>
+								<reg choice_type="char_norm">Weetelesse]</reg>
+								<reg choice_type="space_punct">VVeetelesse)</reg>
+								<reg choice_type="space_punct char_norm oxford default_archive">Weetelesse)</reg>
+							</choice></ref>
+						</ref> not <choice>
+							<orig choice_type="oxford">vnderstoode</orig>
+							<reg choice_type="char_norm default_archive">understoode</reg>
+						</choice>.<lb ed="webArchive" xml:id="calender.july.glosse.36"/></note>
+
+					<pb xml:id="H2r" n="H2r" prev="#H1v" next="#H2v"/><fw place="top-center" rend="face(italics)" type="head">
+						<choice>
+							<orig choice_type="oxford">Iuly</orig>
+							<reg choice_type="char_norm default_archive">July</reg>
+						</choice>.</fw>
+					<fw place="top-right" rend="face(italics)" type="head">fol.30</fw>
+					<fw place="bottom-center" rend="face(roman)" type="sig">H.2.</fw>
+					<fw place="bottom-right" rend="face(roman)" type="catch">of</fw>
+					<note type="glosse_item" id="ek.note.July.16">
+						<ref n="calender_ek.headword.July.16" xml:id="calender_ek.headword.July.16">
+							<note type="disamb" line_number="calender.july.glosse.37" ref="1611592931_22_51" disamb_type="orig oxford"><span class="glossLineNumber">37. </span><term>S.</term>: Saint</note><span class="disambAnchor" id="Anchor1611592931_22_51"/><choice>
+								<orig choice_type="oxford">S.<note type="delete" line_number="calender.july.glosse.37" ref="1611592931_22_51" disamb_type="orig oxford"><span class="glossLineNumber">37. </span><term>S.</term>: Saint</note></orig>
+								<reg choice_type="disamb default_archive">St</reg>
+							</choice> Michels mount)</ref> is a promontorie in the <choice>
+							<orig>VVest</orig>
+							<reg choice_type="oxford char_norm default_archive">West</reg>
+							</choice> part of England.<lb ed="1579 webArchive" xml:id="calender.july.glosse.37"/></note>
+					<note type="glosse_item" id="ek.note.July.17">
+						<ref n="calender_ek.headword.July.17" xml:id="calender_ek.headword.July.17">A
+							hill)</ref> Parnassus afforesayd.<lb ed="webArchive" xml:id="calender.july.glosse.38"/></note>
+					<note type="glosse_item" id="ek.note.July.18">
+						<ref n="calender_ek.headword.July.18" xml:id="calender_ek.headword.July.18">
+							<choice>
+								<orig>Pan </orig>
+								<reg choice_type="space_punct oxford default_archive">Pan)</reg>
+							</choice> Christ.</ref><lb ed="webArchive" xml:id="calender.july.glosse.39"/></note>
+					<note type="glosse_item" id="ek.note.July.19">
+						<ref n="calender_ek.headword.July.19" xml:id="calender_ek.headword.July.19">Dan)</ref> One trybe is put for the whole na<pc force="weak">-</pc><lb break="no" ed="1579"/>tion per <ref n="calender_190159430">
+						<app xml:id="calender.july.glosse.40.collation">
+							<lem rend="face(roman)">Synecdochen.</lem>
+							<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">Synecdochen</rdg>
+							<rdg wit="#E1581 #E1586 #E1591 #E1597 #E1611" rend="face(italics)">Synecdochen.</rdg>
+						</app></ref>
+						<lb ed="1579 webArchive" xml:id="calender.july.glosse.40"/></note>
+					<note type="glosse_item" id="ek.note.July.20">
+						<ref n="calender_ek.headword.July.20" xml:id="calender_ek.headword.July.20">
+							<choice>
+								<orig>VVhere</orig>
+								<reg choice_type="oxford char_norm default_archive">Where</reg>
+							</choice> Titan)</ref> the Sonne. <choice>
+							<orig>VVhich</orig>
+							<reg choice_type="oxford char_norm default_archive">Which</reg>
+						</choice> story is to be redde in <ref n="calender_228014096">Diodorus Syc</ref>.<lb ed="webArchive" xml:id="calender.july.glosse.41"/> 
+						of the hyl <ref n="calender_158987925">Ida</ref>;<lb break="yes" ed="1579"/> from whence
+						he sayth, all night time is to bee<lb ed="webArchive" xml:id="calender.july.glosse.42"/>
+						seene a mightye fire, as if the skye<lb break="yes" ed="1579"/> burned, <choice>
+							<orig>vvhich</orig>
+							<reg choice_type="oxford char_norm default_archive">which</reg>
+						</choice>
+						<choice>
+							<orig>tovvard</orig>
+							<reg choice_type="oxford char_norm default_archive">toward</reg>
+						</choice> morning<lb ed="webArchive" xml:id="calender.july.glosse.43"/> beginneth to
+						gather into a rownd forme, and<lb break="yes" ed="1579"/> thereof ryseth the<lb ed="webArchive" xml:id="calender.july.glosse.44"/> 
+						sonne, whome the Poetes call 
+						<app xml:id="calender.july.glosse.45.collation">
+							<lem wit="#E1586 #E1611" rend="face(roman)">Titan.</lem>
+							<rdg wit="#E1579 #E1581" eclecticCopyText="yes" rend="face(roman)">Titan:</rdg>
+							<rdg wit="#E1591 #E1597" rend="face(roman)">Tytan.</rdg>
+						</app>
+						<lb ed="1579 webArchive" xml:id="calender.july.glosse.45"/></note>
+					<note type="glosse_item" id="ek.note.July.21">
+						<ref n="calender_ek.headword.July.21" xml:id="calender_ek.headword.July.21">The <choice>
+								<orig>Shepheard]</orig>
+								<reg choice_type="space_punct oxford default_archive">Shepheard)</reg>
+							</choice>
+						</ref> is Endymion, <choice>
+							<orig>vvhom</orig>
+							<reg choice_type="oxford char_norm default_archive">whom</reg>
+						</choice> the Poets fayne, to <choice>
+							<orig choice_type="oxford">haue</orig>
+							<reg choice_type="char_norm default_archive">have</reg>
+						</choice> bene so<lb ed="webArchive" xml:id="calender.july.glosse.46"/>
+						<choice>
+							<orig choice_type="oxford">beloued</orig>
+							<reg choice_type="char_norm default_archive">beloved</reg>
+						</choice> of Phœ<pc force="weak">-</pc><lb break="no" ed="1579"/>be .s. the Moone, that he <choice>
+							<orig>vvas</orig>
+							<reg choice_type="oxford char_norm default_archive">was</reg>
+						</choice> by her kept a sleepe<lb ed="webArchive" xml:id="calender.july.glosse.47"/> in a <choice>
+							<orig choice_type="oxford">caue</orig>
+							<reg choice_type="char_norm default_archive">cave</reg>
+						</choice> by the space of xxx.<lb break="yes" ed="1579"/> yeares, for to <choice>
+							<orig choice_type="oxford">enioye</orig>
+							<reg choice_type="char_norm default_archive">enjoye</reg>
+						</choice> his companye.<lb ed="1579 webArchive" xml:id="calender.july.glosse.48"/></note>
+					<note type="glosse_item" id="ek.note.July.22">
+						<ref n="calender_ek.headword.July.22" xml:id="calender_ek.headword.July.22">There)</ref> that is in Paradise, <choice>
+							<orig>vvhere</orig>
+							<reg choice_type="oxford char_norm default_archive">where</reg>
+						</choice> through errour of shepheards <choice>
+							<orig choice_type="oxford">vnderstanding</orig>
+							<reg choice_type="char_norm default_archive">understanding</reg>
+						</choice>,<lb ed="webArchive" xml:id="calender.july.glosse.49"/> he sayth,<lb break="yes" ed="1579"/>
+						that all shepheards did <choice>
+							<orig choice_type="oxford">vse</orig>
+							<reg choice_type="char_norm default_archive">use</reg>
+						</choice> to feede theyr flocks, till<lb ed="webArchive" xml:id="calender.july.glosse.50"/>
+                        <app xml:id="calender.july.glosse.51.collation">
+                            <lem wit="this edn">
+                                <choice>
+                                    <orig>one, (that, is Adam)</orig>
+                                    <reg choice_type="space_punct oxford default_archive">one (that, is Adam),</reg>
+                                </choice>
+                            </lem>
+                            <rdg eclecticCopyText="yes" wit="#E1579">one, (that is Adam</rdg>
+                            <rdg wit="#E1586">one, (that is) Adam</rdg>
+                            <rdg wit="#E1611">one, (that is) Adam,</rdg>
+                        </app>
+                        by hys<lb break="yes" ed="1579"/>
+						<ref n="calender_797684679">follye and disobedience, made all
+							the<lb ed="webArchive" xml:id="calender.july.glosse.51"/> rest of hys ofspring be
+						debarred <choice>
+							<orig>&amp;</orig>
+							<reg choice_type="expan oxford default_archive">and</reg>
+						</choice> shutte<lb break="yes" ed="1579"/> out from 
+						thence</ref>.<lb ed="1579 webArchive" xml:id="calender.july.glosse.52"/></note>
+					<note type="glosse_item" id="ek.note.July.23">
+						<ref n="calender_ek.headword.July.23" xml:id="calender_ek.headword.July.23"><ref n="calender_802726441">Synah</ref>)</ref> a hill in Arabia, <choice>
+							<orig>vvhere</orig>
+							<reg choice_type="oxford char_norm default_archive">where</reg>
+						</choice> God appeared.<lb ed="1579 webArchive" xml:id="calender.july.glosse.53"/></note>
+					<note type="glosse_item" id="ek.note.July.24">
+						<ref n="calender_ek.headword.July.24" xml:id="calender_ek.headword.July.24">Our
+							Ladyes <choice>
+								<orig>bovvre</orig>
+								<reg choice_type="oxford char_norm default_archive">bowre</reg>
+							</choice>)</ref> a place of pleasure so called.<lb ed="1579 webArchive" xml:id="calender.july.glosse.54"/></note>
+					<note type="glosse_item" id="ek.note.July.25">
+						<ref n="calender_ek.headword.July.25" xml:id="calender_ek.headword.July.25">Faunes
+							or <choice>
+                                <orig>Syluanes]</orig>
+                                <reg choice_type="space_punct oxford default_archive">Sylvanes)</reg>
+                            </choice>
+						</ref> be of Poetes feigned to be Gods of the <choice>
+							<orig>VVoode</orig>
+							<reg choice_type="oxford char_norm default_archive">Woode</reg>
+						</choice>.<lb ed="1579 webArchive" xml:id="calender.july.glosse.55"/></note>
+					<note type="glosse_item" id="ek.note.July.26">
+						<ref n="calender_ek.headword.July.26" xml:id="calender_ek.headword.July.26">
+							<choice>
+								<orig>Medway]</orig>
+								<reg choice_type="space_punct oxford default_archive">Medway)</reg>
+							</choice>
+						</ref> the name of a <choice>
+							<orig choice_type="oxford">Ryuer</orig>
+							<reg choice_type="char_norm default_archive">Ryver</reg>
+						</choice> in Kent, <choice>
+							<orig>vvhich</orig>
+							<reg choice_type="oxford char_norm default_archive">which</reg>
+						</choice> running by <ref n="calender_841025961">Rochester</ref>,<lb ed="webArchive" xml:id="calender.july.glosse.56"/>
+						meeteth with Tha<pc force="weak">-</pc><lb break="no" ed="1579"/>mes; whom he calleth his elder brother, 
+						<app xml:id="calender.july.glosse.57.collation">
+							<lem wit="#E1581 #E1586 #E1591 #E1597 #E1611" rend="face(roman)">both</lem>
+							<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">borh</rdg>
+						</app> because<lb ed="webArchive" xml:id="calender.july.glosse.57"/> he is greater, and
+						also fal<pc force="weak">-</pc><lb break="no" ed="1579"/>leth sooner into the Sea.<lb ed="1579 webArchive" xml:id="calender.july.glosse.58"/></note>
+					<note type="glosse_item" id="ek.note.July.27">
+						<ref n="calender_ek.headword.July.27" xml:id="calender_ek.headword.July.27">
+							<choice>
+								<orig>Meynt]</orig>
+								<reg choice_type="space_punct oxford default_archive">Meynt)</reg>
+							</choice>
+						</ref> mingled.<lb ed="webArchive" xml:id="calender.july.glosse.59"/></note>
+					<note type="glosse_item" id="ek.note.July.28">
+						<ref n="calender_ek.headword.July.28" xml:id="calender_ek.headword.July.28">Melampode and <choice>
+								<orig>Terebinth]</orig>
+								<reg choice_type="space_punct oxford default_archive">Terebinth)</reg>
+							</choice>
+						</ref> be hearbes good to cure disea<pc force="weak">-</pc><lb break="no" ed="1579"/>sed
+						<!-- MPL Should I change this?-->
+						<choice>
+							<orig>Gotes.of</orig>
+							<reg choice_type="space_punct oxford default_archive">Gotes. Of</reg>
+						</choice>
+						<lb ed="webArchive" xml:id="calender.july.glosse.60"/> thone speaketh <ref n="calender_76422875">Mantuane</ref>, 
+						and of thother <ref n="calender_876188990">Theocritus</ref>.<lb break="yes" ed="1579 webArchive" xml:id="calender.july.glosse.61"/>
+						<quote>
+							<seg xml:lang="grc" rend="align(indented_5)">
+								<app xml:id="calender.july.glosse.62.collation">
+                                    <lem rend="face(roman)" wit="this edn.">τερμινθου τρώγων ἔσχατον ἀκρέμονα.</lem>
+                                    <rdg eclecticCopyText="yes" wit="#E1579">[τε]ρμινθ[ου] [τρ]ά[γω]ν ἔ[σχα]τον ἀ[κρ]έ[μο]να.</rdg>
+                                    <rdg wit="#E1581">Terminthou Tragoon eíkaton acremona.</rdg>
+								</app>
+							</seg>
+						</quote>
+						<lb break="yes" ed="1579 webArchive" xml:id="calender.july.glosse.62"/></note>
+					<note type="glosse_item" id="ek.note.July.29">
+						<ref n="calender_ek.headword.July.29" xml:id="calender_ek.headword.July.29">Nigher
+                            <choice>
+                                <orig>heauen]</orig>
+                                <reg choice_type="char_norm">heaven]</reg>
+                                <reg choice_type="space_punct oxford">heauen)</reg>
+                                <reg choice_type="space_punct char_norm default_archive">heaven)</reg>
+                            </choice>
+						</ref> Note the shepheards simplenesse, <choice>
+							<orig>vvhich</orig>
+							<reg choice_type="oxford char_norm default_archive">which</reg>
+						</choice> supposeth that<lb ed="webArchive" xml:id="calender.july.glosse.63"/> from the
+							hylls<lb break="yes" ed="1579"/> is nearer waye to <choice>
+							<orig choice_type="oxford">heauen</orig>
+							<reg choice_type="char_norm default_archive">heaven</reg>
+							</choice>.<lb ed="1579 webArchive" xml:id="calender.july.glosse.64"/></note>
+					<note type="glosse_item" id="ek.note.July.30">
+						<ref n="calender_ek.headword.July.30" xml:id="calender_ek.headword.July.30">
+                            <choice>
+                                <orig>Leuin]</orig>
+                                <reg choice_type="char_norm">Levin]</reg>
+                                <reg choice_type="space_punct oxford">Leuin)</reg>
+                                <reg choice_type="char_norm space_punct default_archive">Levin)</reg>
+                            </choice>
+						</ref> Lightning; <choice>
+							<orig>vvhich</orig>
+							<reg choice_type="oxford char_norm default_archive">which</reg>
+						</choice> he taketh for an argument, to <choice>
+							<orig choice_type="oxford">proue</orig>
+							<reg choice_type="char_norm default_archive">prove</reg>
+						</choice> the nighnes<lb ed="webArchive" xml:id="calender.july.glosse.65"/> to <choice>
+							<orig choice_type="oxford">heauen</orig>
+							<reg choice_type="char_norm default_archive">heaven</reg>
+						</choice>, be<pc force="weak">-</pc><lb break="no" ed="1579"/>cause the lightning doth comenly light on hygh mountaynes,<lb ed="webArchive" xml:id="calender.july.glosse.66"/> according to the<lb break="yes" ed="1579"/>
+						saying of the Poete. <quote rend="align(indented_1)" xml:lang="la"><ref n="calender_982257600">Feriuntque summos fulmina
+								montes</ref>.</quote>
+						<lb ed="1579 webArchive" xml:id="calender.july.glosse.67"/></note>
+					<note type="glosse_item" id="ek.note.July.31">
+						<ref n="calender_ek.headword.July.31" xml:id="calender_ek.headword.July.31">
+							<choice>
+								<orig>Lorrell]</orig>
+								<reg choice_type="space_punct oxford default_archive">Lorrell)</reg>
+							</choice>
+						</ref> A <ref n="calender_804618108">losell</ref>.<lb ed="webArchive" xml:id="calender.july.glosse.68"/></note>
+					<note type="glosse_item" id="ek.note.July.32">
+						<ref n="calender_ek.headword.July.32" xml:id="calender_ek.headword.July.32">A <choice>
+								<orig>borrell.]</orig>
+								<reg choice_type="space_punct oxford default_archive">borrell)</reg>
+							</choice>
+						</ref> a playne fellowe.<lb ed="webArchive" xml:id="calender.july.glosse.69"/></note>
+					<note type="glosse_item" id="ek.note.July.33">
+						<ref n="calender_ek.headword.July.33" xml:id="calender_ek.headword.July.33">
+							<choice>
+								<orig>Narre]</orig>
+								<reg choice_type="space_punct oxford default_archive">Narre)</reg>
+							</choice>
+						</ref> nearer.<lb ed="1579 webArchive" xml:id="calender.july.glosse.70"/></note>
+					<note type="glosse_item" id="ek.note.July.34">
+						<ref n="calender_ek.headword.July.34" xml:id="calender_ek.headword.July.34">
+							<ref n="calender_524405501">
+							</ref><ref n="calender_524405501"><choice>
+								<orig>Hale]</orig>
+								<reg choice_type="space_punct oxford default_archive">Hale)</reg>
+							</choice></ref><ref n="calender_524405501">
+							</ref>
+						</ref> for hole.<lb ed="webArchive" xml:id="calender.july.glosse.71"/></note>
+					<note type="glosse_item" id="ek.note.July.35">
+						<ref n="calender_ek.headword.July.35" xml:id="calender_ek.headword.July.35">
+							<choice>
+								<orig>Yede]</orig>
+								<reg choice_type="space_punct oxford default_archive">Yede)</reg>
+							</choice>
+						</ref> goe.<lb ed="webArchive" xml:id="calender.july.glosse.72"/></note>
+					<note type="glosse_item" id="ek.note.July.36">
+						<ref n="calender_ek.headword.July.36" xml:id="calender_ek.headword.July.36">
+                            <choice>
+                                <orig>Frovvye]</orig>
+                                <reg choice_type="char_norm">Frowye]</reg>
+                                <reg choice_type="space_punct">Frovvye)</reg>
+                                <reg choice_type="char_norm space_punct oxford default_archive">Frowye)</reg>
+                            </choice>
+						</ref> mustye or mossie.<lb ed="1579 webArchive" xml:id="calender.july.glosse.73"/></note>
+					<note type="glosse_item" id="ek.note.July.37">
+						<ref n="calender_ek.headword.July.37" xml:id="calender_ek.headword.July.37">Of <choice>
+								<orig>yore]</orig>
+								<reg choice_type="space_punct oxford default_archive">yore)</reg>
+							</choice>
+						</ref> long agoe.<lb ed="webArchive" xml:id="calender.july.glosse.74"/></note>
+					<note type="glosse_item" id="ek.note.July.38">
+						<ref n="calender_ek.headword.July.38" xml:id="calender_ek.headword.July.38">
+                            <choice>
+                                <orig>Forevvente]</orig>
+                                <reg choice_type="char_norm">Forewente]</reg>
+                                <reg choice_type="space_punct">Forevvente)</reg>
+                                <reg choice_type="char_norm space_punct oxford default_archive">Forewente)</reg>
+                            </choice>
+						</ref> gone afore.<lb ed="1579 webArchive" xml:id="calender.july.glosse.75"/></note>
+					<note type="glosse_item" id="ek.note.July.39">
+						<ref n="calender_ek.headword.July.39" xml:id="calender_ek.headword.July.39"> The
+							firste <choice>
+								<orig>shepheard]</orig>
+								<reg choice_type="space_punct oxford default_archive">shepheard)</reg>
+							</choice>
+						</ref>
+						<choice>
+							<orig>vvas</orig>
+							<reg choice_type="oxford char_norm default_archive">was</reg>
+						</choice> Abell the righteous, <choice>
+							<orig>vvho</orig>
+							<reg choice_type="oxford char_norm default_archive">who</reg>
+						</choice> (as scripture<lb ed="webArchive" xml:id="calender.july.glosse.76"/> sayth) bent
+						hys mind<lb break="yes" ed="1579"/> to keeping of sheepe, as did hys brother Cain<lb ed="webArchive" xml:id="calender.july.glosse.77"/> 
+						to tilling the grownde.<lb ed="1579 webArchive" xml:id="calender.july.glosse.78"/></note>
+					<note type="glosse_item" id="ek.note.July.40">
+						<ref n="calender_ek.headword.July.40" xml:id="calender_ek.headword.July.40">His <choice>
+								<orig>keepe]</orig>
+								<reg choice_type="space_punct oxford default_archive">keepe)</reg>
+							</choice>
+						</ref> hys 
+						<app xml:id="calender.july.glosse.79.collation">
+							<lem rend="face(roman)">charge s.</lem>
+							<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">charge ſ.</rdg>
+							<rdg wit="#E1581" rend="face(roman)">charge.ſ.</rdg>
+							<rdg wit="#E1597" rend="face(roman)">charge,i.</rdg>
+							<rdg wit="#E1611" rend="face(roman)">charge.i.</rdg>
+						</app> his flocke.<lb ed="webArchive" xml:id="calender.july.glosse.79"/></note>
+					<note type="glosse_item" id="ek.note.July.41">
+						<ref n="calender_ek.headword.July.41" xml:id="calender_ek.headword.July.41">
+                            <choice>
+                                <orig>Lovvted]</orig>
+                                <reg choice_type="char_norm">Lowted]</reg>
+                                <reg choice_type="space_punct">Lovvted)</reg>
+                                <reg choice_type="char_norm space_punct oxford default_archive">Lowted)</reg>
+                            </choice>
+						</ref> did honour and <choice>
+							<orig choice_type="oxford">reuerence</orig>
+							<reg choice_type="char_norm default_archive">reverence</reg>
+						</choice>.<lb ed="1579 webArchive" xml:id="calender.july.glosse.80"/></note>
+					<note type="glosse_item" id="ek.note.July.42">
+						<ref n="calender_ek.headword.July.42" xml:id="calender_ek.headword.July.42"> The <choice>
+								<orig>brethren]</orig>
+								<reg choice_type="space_punct oxford default_archive">brethren)</reg>
+							</choice>
+						</ref> the <choice>
+							<orig choice_type="oxford">twelue</orig>
+							<reg choice_type="char_norm default_archive">twelve</reg>
+						</choice> sonnes of <choice>
+							<orig choice_type="oxford">Iacob</orig>
+							<reg choice_type="char_norm default_archive">Jacob</reg>
+						</choice>, <choice>
+							<orig>vvhych</orig>
+							<reg choice_type="oxford char_norm default_archive">whych</reg>
+						</choice>
+						<choice>
+							<orig>vvere</orig>
+							<reg choice_type="oxford char_norm default_archive">were</reg>
+						</choice> shepemaisters,<lb ed="webArchive" xml:id="calender.july.glosse.81"/> and <choice>
+							<orig choice_type="oxford">lyued</orig>
+							<reg choice_type="char_norm default_archive">lyved</reg>
+						</choice>
+						one<lb break="no" ed="1579"/>lye thereupon.<lb ed="1579 webArchive" xml:id="calender.july.glosse.82"/></note>
+					<note type="glosse_item" id="ek.note.July.43">
+						<ref n="calender_ek.headword.July.43" xml:id="calender_ek.headword.July.43">
+							<choice>
+								<orig>VVhom</orig>
+								<reg choice_type="oxford char_norm default_archive">Whom</reg>
+							</choice>
+							<choice>
+								<orig>Ida]</orig>
+								<reg choice_type="space_punct oxford default_archive">Ida)</reg>
+							</choice>
+						</ref> Paris, which being the sonne of Priamus king of Troy, for<lb ed="webArchive" xml:id="calender.july.glosse.83"/> 
+						his mother <ref n="calender_235632816">He<pc force="weak">-</pc><lb break="no" ed="1579"/>cubas 
+						dreame</ref>, <choice>
+							<orig>vvhich</orig>
+							<reg choice_type="oxford char_norm default_archive">which</reg>
+						</choice> being <choice>
+							<orig>vvith</orig>
+							<reg choice_type="oxford char_norm default_archive">with</reg>
+						</choice> child of hym, dreamed<lb ed="webArchive" xml:id="calender.july.glosse.84"/> shee
+						broughte forth a<lb break="yes" ed="1579"/> firebrand, that set all the towre of
+							Ilium<lb ed="webArchive" xml:id="calender.july.glosse.85"/> on fire, was cast forth on
+						the hyll Ida;<lb break="yes" ed="1579"/>
+						<choice>
+							<orig>vvhere</orig>
+							<reg choice_type="oxford char_norm default_archive">where</reg>
+						</choice> being fostered of<lb ed="webArchive" xml:id="calender.july.glosse.86"/>
+						shepheards, he eke in time <choice>
+							<orig choice_type="oxford">be came</orig>
+							<reg choice_type="space_punct  default_archive">became</reg>
+						</choice> a shepheard, and<lb break="yes" ed="1579"/> lastly came<lb ed="webArchive" xml:id="calender.july.glosse.87"/> to <choice>
+							<orig>knovvledge</orig>
+							<reg choice_type="oxford char_norm default_archive">knowledge</reg>
+						</choice> of his parentage.<lb ed="1579 webArchive" xml:id="calender.july.glosse.88"/></note>
+					<note type="glosse_item" id="ek.note.July.44">
+						<ref n="calender_ek.headword.July.44" xml:id="calender_ek.headword.July.44">A <choice>
+								<orig>lasse]</orig>
+								<reg choice_type="space_punct oxford default_archive">lasse)</reg>
+							</choice>
+						</ref> Helena the <choice>
+							<orig>vvyfe</orig>
+							<reg choice_type="oxford char_norm default_archive">wyfe</reg>
+						</choice> of Menelaus king of Lacedemonia, <choice>
+							<orig>vvas</orig>
+							<reg choice_type="oxford char_norm default_archive">was</reg>
+						</choice> by <ref n="calender_204691468">Venus<lb ed="webArchive" xml:id="calender.july.glosse.89"/> for the<lb break="yes" ed="1579"/> golden Aple to her <choice>
+							<orig choice_type="oxford">geuen</orig>
+							<reg choice_type="char_norm default_archive">geven</reg>
+						</choice>, then promised to Paris</ref>,
+						who thereupon<lb ed="webArchive" xml:id="calender.july.glosse.90"/>
+						<choice>
+							<orig>vvith</orig>
+							<reg choice_type="oxford char_norm default_archive">with</reg>
+						</choice> a sorte<lb break="yes" ed="1579"/> of lustye Troyanes, stole her out of
+							Lacedemonia,<lb ed="webArchive" xml:id="calender.july.glosse.91"/> and kept her in
+						Troye. 
+						<choice>
+							<orig>which</orig>
+							<reg choice_type="space_punct oxford default_archive">Which</reg>
+						</choice>
+						<lb break="yes" ed="1579"/>
+						<choice>
+							<orig>vvas</orig>
+							<reg choice_type="oxford char_norm default_archive">was</reg>
+						</choice> the cause of the tenne yeares<lb ed="webArchive" xml:id="calender.july.glosse.92"/> warre in Troye, and the moste famous citye
+							<pb xml:id="H2v" n="H2v" prev="#H2r" next="#H3r"/><fw place="top-center" rend="face(italics)" type="head">
+							<choice>
+								<orig choice_type="oxford">Iulye</orig>
+								<reg choice_type="char_norm default_archive">Julye</reg>
+							</choice>.</fw> of all Asia most lamentably<lb ed="webArchive" xml:id="calender.july.glosse.93"/> 
+						sacked and defaced.<lb ed="1579 webArchive" xml:id="calender.july.glosse.94"/></note>
+					<note type="glosse_item" id="ek.note.July.45">
+						<ref n="calender_ek.headword.July.45" xml:id="calender_ek.headword.July.45">
+							<ref n="calender_506935546">
+							</ref><ref n="calender_506935546"><choice>
+								<orig>Argus]</orig>
+								<reg choice_type="space_punct oxford default_archive">Argus)</reg>
+							</choice></ref><ref n="calender_506935546">
+						</ref></ref><ref n="calender_506935546"> was of the Poets <choice>
+							<orig choice_type="oxford">deuised</orig>
+							<reg choice_type="char_norm default_archive">devised</reg>
+						</choice> to be full of eyes, and therefore<lb ed="webArchive" xml:id="calender.july.glosse.95"/> 
+						to hym was committed<lb break="yes" ed="1579"/> the keeping of
+						the transformed <choice>
+							<orig>Covv</orig>
+							<reg choice_type="oxford char_norm default_archive">Cow</reg>
+						</choice> Io</ref>: So<lb ed="webArchive" xml:id="calender.july.glosse.96"/> 
+						called because that in the print of<lb break="yes" ed="1579"/>
+						a <choice>
+							<orig>Covves</orig>
+							<reg choice_type="oxford char_norm default_archive">Cowes</reg>
+						</choice> foote, there is figured<lb ed="webArchive" xml:id="calender.july.glosse.97"/> an
+						I in the middest of an O.<lb ed="1579 webArchive" xml:id="calender.july.glosse.98"/></note>
+					<note type="glosse_item" id="ek.note.July.46">
+						<ref n="calender_ek.headword.July.46" xml:id="calender_ek.headword.July.46">His
+							name)</ref> he meaneth Aaron: whose name for more Decorum, the
+							shephearde<lb ed="webArchive" xml:id="calender.july.glosse.99"/> sayth he<lb break="yes" ed="1579"/> 
+						hath forgot, lest his remembraunce and skill in antiquities<lb ed="webArchive" xml:id="calender.july.glosse.100"/> of holy <choice>
+							<orig>vvrit</orig>
+							<reg choice_type="oxford char_norm default_archive">writ</reg>
+						</choice> should<lb break="yes" ed="1579"/> seeme to exceede the 
+						<ref n="calender_157079338">meanenesse</ref> of the Person.<lb ed="1579 webArchive" xml:id="calender.july.glosse.101"/></note>
+					<note type="glosse_item" id="ek.note.July.47">
+						<ref n="calender_ek.headword.July.47" xml:id="calender_ek.headword.July.47"><ref n="calender_414743007">Not so 
+							true</ref>)</ref> for Aaron in the absence of
+						Moses started aside, and committed<lb ed="webArchive" xml:id="calender.july.glosse.102"/>
+						Idolatry.<lb ed="1579 webArchive" xml:id="calender.july.glosse.103"/></note>
+					<note type="glosse_item" id="ek.note.July.48">
+						<ref n="calender_ek.headword.July.48" xml:id="calender_ek.headword.July.48">In <choice>
+								<orig>purple]</orig>
+								<reg choice_type="space_punct oxford default_archive">purple)</reg>
+							</choice>
+						</ref> Spoken of the Popes and Cardinalles, <choice>
+							<orig>vvhich</orig>
+							<reg choice_type="oxford char_norm default_archive">which</reg>
+						</choice>
+						<choice>
+							<orig choice_type="oxford">vse</orig>
+							<reg choice_type="char_norm default_archive">use</reg>
+						</choice> such tyrannical<lb ed="webArchive" xml:id="calender.july.glosse.104"/> colours
+							and<lb break="yes" ed="1579"/> pompous paynting.<lb ed="webArchive" xml:id="calender.july.glosse.105"/></note>
+					<note type="glosse_item" id="ek.note.July.49">
+						<ref n="calender_ek.headword.July.49" xml:id="calender_ek.headword.July.49">Belts)</ref> Girdles.<lb ed="1579 webArchive" xml:id="calender.july.glosse.106"/></note>
+					<note type="glosse_item" id="ek.note.July.50">
+						<ref n="calender_ek.headword.July.50" xml:id="calender_ek.headword.July.50">Glitterand)</ref> Glittering. 
+						<choice>
+							<orig>a Participle</orig>
+							<reg choice_type="space_punct oxford default_archive">A Participle</reg>
+						</choice>
+						<choice>
+							<orig choice_type="oxford">vsed</orig>
+							<reg choice_type="char_norm default_archive">used</reg>
+						</choice> sometime in <ref n="calender_247336700">Chaucer</ref>, but<lb ed="webArchive" xml:id="calender.july.glosse.107"/> altogether in <ref n="calender_469504041"><choice>
+							<orig choice_type="oxford">I.</orig>
+							<reg choice_type="char_norm default_archive">J.</reg>
+						</choice>
+						<app xml:id="calender.july.glosse.108.collation">
+							<lem wit="#E1581 #E1586 #E1591 #E1597 #E1611" rend="face(roman)">Goore.</lem>
+							<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">Goore</rdg>
+						</app></ref>
+						<lb ed="1579 webArchive" xml:id="calender.july.glosse.108"/></note>
+					<note type="glosse_item" id="ek.note.July.51">
+						<ref n="calender_ek.headword.July.51" xml:id="calender_ek.headword.July.51">Theyr
+							Pan)</ref> that is the Pope, <choice>
+							<orig>vvhom</orig>
+							<reg choice_type="oxford char_norm default_archive">whom</reg>
+						</choice> they count theyr God and greatest<lb ed="webArchive" xml:id="calender.july.glosse.109"/> 
+						shepheard.<lb ed="1579 webArchive" xml:id="calender.july.glosse.110"/></note>
+					<note type="glosse_item" id="ek.note.July.52">
+						<ref n="calender_ek.headword.July.52" xml:id="calender_ek.headword.July.52">
+							<name ref="#Palinode">Palinode</name>)</ref> A shephearde, of <choice>
+							<orig>vvhose</orig>
+							<reg choice_type="oxford char_norm default_archive">whose</reg>
+							</choice> report he seemeth to speake all thys.<lb ed="1579 webArchive" xml:id="calender.july.glosse.111"/></note>
+					<note type="glosse_item" id="ek.note.July.53">
+						<ref n="calender_ek.headword.July.53" xml:id="calender_ek.headword.July.53">
+							<ref n="calender_367191311"><choice>
+								<orig>VVisards</orig>
+								<reg choice_type="oxford char_norm default_archive">Wisards</reg>
+							</choice></ref>)</ref> greate learned heads.<lb ed="webArchive" xml:id="calender.july.glosse.112"/></note>
+					<note type="glosse_item" id="ek.note.July.54">
+						<ref n="calender_ek.headword.July.54" xml:id="calender_ek.headword.July.54">
+							<choice>
+								<orig>VVelter</orig>
+								<reg choice_type="oxford char_norm default_archive">Welter</reg>
+							</choice>)</ref> <choice>
+								<orig>wallovve</orig>
+								<reg choice_type="oxford char_norm default_archive">wallowe</reg>
+							</choice>.<lb ed="webArchive" xml:id="calender.july.glosse.113"/></note>
+					<note type="glosse_item" id="ek.note.July.55">
+						<ref n="calender_ek.headword.July.55" xml:id="calender_ek.headword.July.55">Kerne)</ref> a Churle or Farmer.<lb ed="1579 webArchive" xml:id="calender.july.glosse.114"/></note>
+					<note type="glosse_item" id="ek.note.July.56">
+						<ref n="calender_ek.headword.July.56" xml:id="calender_ek.headword.July.56">Sike
+							mister men)</ref> such kinde of men.<lb ed="webArchive" xml:id="calender.july.glosse.115"/></note>
+					<note type="glosse_item" id="ek.note.July.57">
+						<ref n="calender_ek.headword.July.57" xml:id="calender_ek.headword.July.57">Surly)</ref> stately and 
+						<app xml:id="calender.july.glosse.116.collation">
+							<lem rend="face(roman)">
+								<choice>
+									<orig>provvde.</orig>
+									<reg choice_type="char_norm default_archive oxford">prowde.</reg>
+								</choice>
+							</lem>
+							<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">provvde</rdg>
+							<rdg wit="#E1581 #E1586 #E1591 #E1597" rend="face(roman)">prowde.</rdg>
+							<rdg wit="#E1611" rend="face(roman)">proude.</rdg>
+						</app>
+						<lb ed="webArchive" xml:id="calender.july.glosse.116"/></note>
+					<note type="glosse_item" id="ek.note.July.58">
+						<ref n="calender_ek.headword.July.58" xml:id="calender_ek.headword.July.58">Melling)</ref> medling.<lb ed="1579 webArchive" xml:id="calender.july.glosse.117"/></note>
+					<note type="glosse_item" id="ek.note.July.59">
+						<ref n="calender_ek.headword.July.59" xml:id="calender_ek.headword.July.59">Bett)</ref> better.<lb ed="webArchive" xml:id="calender.july.glosse.118"/></note>
+					<note type="glosse_item" id="ek.note.July.60">
+						<ref n="calender_ek.headword.July.60" xml:id="calender_ek.headword.July.60">Bynempte)</ref> named.<lb ed="webArchive" xml:id="calender.july.glosse.119"/></note>
+					<note type="glosse_item" id="ek.note.July.61">
+						<ref n="calender_ek.headword.July.61" xml:id="calender_ek.headword.July.61">Gree)</ref> for degree.<lb ed="1579 webArchive" xml:id="calender.july.glosse.120"/></note>
+					<note type="glosse_item" id="ek.note.July.62">
+						<ref n="calender_ek.headword.July.62" xml:id="calender_ek.headword.July.62">
+							<app xml:id="calender.july.glosse.121.collation">
+								<lem rend="face(roman)">Algrin)</lem>
+								<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">Algrin</rdg>
+								<rdg wit="#E1581" rend="face(italics)">Algrin</rdg>
+								<rdg wit="#E1586 #E1591 #E1597" rend="face(italics)">Algrin,</rdg>
+								<rdg wit="#E1611" rend="face(italics)">Algrind,</rdg>
+							</app></ref> the name of a shepheard afforesayde, <choice>
+							<orig>vvhose</orig>
+							<reg choice_type="oxford char_norm default_archive">whose</reg>
+						</choice> myshap he alludeth<lb ed="webArchive" xml:id="calender.july.glosse.121"/> to the
+						chaunce,<lb break="yes" ed="1579"/> that happened to the Poet 
+						<ref n="calender_861978650">Æschylus</ref>, that was brayned<lb ed="webArchive" xml:id="calender.july.glosse.122"/> 
+						with a shellfishe.<lb ed="1579 webArchive" xml:id="calender.july.glosse.123"/></note>
+					<head><ref n="calender_ek.headword.July.63" xml:id="calender_ek.headword.July.63">Embleme.</ref><lb ed="1579 webArchive" xml:id="calender.july.glosse.124"/></head>
+					<note type="glosse_item" id="ek.note.July.63">
+						<p>By thys poesye <name ref="#Thomalin">Thomalin</name> confirmeth that, <choice>
+								<orig>vvhich</orig>
+								<reg choice_type="oxford char_norm default_archive">which</reg>
+							</choice> in hys former<lb ed="webArchive" xml:id="calender.july.glosse.125"/> speach
+							by sondrye rea<pc force="weak">-</pc><lb break="no" ed="1579"/>sons he had <choice>
+								<orig choice_type="oxford">proued</orig>
+								<reg choice_type="char_norm default_archive">proved</reg>
+							</choice>. 
+							<choice>
+								<orig>for</orig>
+								<reg choice_type="space_punct oxford default_archive">For</reg>
+							</choice> being both hymselfe<lb ed="webArchive" xml:id="calender.july.glosse.126"/>
+							sequestred from all ambition and<lb break="yes" ed="1579"/> also abhorring it in
+							others of<lb ed="webArchive" xml:id="calender.july.glosse.127"/> hys <ref n="calender_905821764">cote</ref>, he taketh occasion to prayse the
+								meane<lb break="yes" ed="1579"/> and <choice>
+								<orig>lovvly</orig>
+								<reg choice_type="oxford char_norm default_archive">lowly</reg>
+							</choice> state,<lb ed="webArchive" xml:id="calender.july.glosse.128"/> as that
+							wherein is safetie <choice>
+								<orig>vvithout</orig>
+								<reg choice_type="oxford char_norm default_archive">without</reg>
+							</choice> feare, and quiet without dan<lb break="no" ed="1579"/>ger,<lb ed="webArchive" xml:id="calender.july.glosse.129"/> according to the
+							saying of olde Philosophers, that vertue dwelleth<lb ed="webArchive" xml:id="calender.july.glosse.130"/> in the<lb break="yes" ed="1579"/> middest, being <choice>
+								<orig choice_type="oxford">enuironed</orig>
+								<reg choice_type="char_norm default_archive">environed</reg>
+							</choice>
+							<choice>
+								<orig>vvith</orig>
+								<reg choice_type="oxford char_norm default_archive">with</reg>
+							</choice>
+							<ref n="calender_640938610"><choice>
+								<orig>tvvo</orig>
+								<reg choice_type="oxford char_norm default_archive">two</reg>
+							</choice> contrary vices</ref>: <choice>
+								<orig>vvhereto</orig>
+								<reg choice_type="oxford char_norm default_archive">whereto</reg>
+							</choice><lb ed="webArchive" xml:id="calender.july.glosse.131"/>
+							<name ref="#Morrell">Morrell</name> replieth<lb break="yes" ed="1579"/>
+							<choice>
+								<orig>vvith</orig>
+								<reg choice_type="oxford char_norm default_archive">with</reg>
+							</choice> continuaunce of the same Philosophers opinion,<lb ed="webArchive" xml:id="calender.july.glosse.132"/> that albeit all bountye<lb break="yes" ed="1579"/>
+							<choice>
+								<orig>dvvelleth</orig>
+								<reg choice_type="oxford char_norm default_archive">dwelleth</reg>
+							</choice> in mediocritie, yet perfect felicitye<lb ed="webArchive" xml:id="calender.july.glosse.133"/>
+							<choice>
+								<orig>dvvelleth</orig>
+								<reg choice_type="oxford char_norm default_archive">dwelleth</reg>
+							</choice> in supremacie. <app xml:id="calender.july.embleme.134.collation">
+								<lem wit="#E1581 #E1586 #E1591 #E1597" rend="face(roman)">For they</lem>
+								<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">for they</rdg>
+								<rdg wit="#E1611" rend="face(roman)">For, they</rdg>
+							</app>
+							<lb break="yes" ed="1579"/> say, and most true it is, that<lb ed="webArchive" xml:id="calender.july.glosse.134"/> happinesse is placed in the highest degree, so
+							as if any<lb break="yes" ed="1579 webArchive" xml:id="calender.july.glosse.135"/> thing be higher
+							or better, then that streight way ceaseth to be perfect<lb ed="webArchive" xml:id="calender.july.glosse.136"/> 
+							happines.<lb break="yes" ed="1579"/> Much like to that, <choice>
+								<orig>vvhich</orig>
+								<reg choice_type="oxford char_norm default_archive">which</reg>
+							</choice> once I heard alleaged in defence<lb ed="webArchive" xml:id="calender.july.glosse.137"/> 
+							of humilitye out of a<lb break="yes" ed="1579"/> great
+								<ref n="calender_704989889">doctour</ref>, 
+							<seg xml:lang="la"><ref n="calender_455008668">Suorum Christus humillimus</ref></seg>:<lb ed="webArchive" xml:id="calender.july.glosse.138"/> 
+							which saying a gentle man in the<lb break="yes" ed="1579"/>
+							company taking at the rebownd,<lb ed="webArchive" xml:id="calender.july.glosse.139"/> beate backe again <choice>
+								<orig>vvith</orig>
+								<reg choice_type="oxford char_norm default_archive">with</reg>
+							</choice> lyke saying of ano<pc force="weak">-</pc><lb break="no" ed="1579"/>ther Doctoure, as he sayde.<lb ed="webArchive" xml:id="calender.july.glosse.140"/><quote rend="align(indented_1)" xml:lang="la"><ref n="calender_994640577">Suorum deus 
+								<app xml:id="calender.july.glosse.141.collation">
+									<lem rend="face(roman)">altissimus.</lem>
+									<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">alli[ſſ]imus.</rdg>
+									<rdg wit="#E1581" rend="face(italics)">alliſsimus.</rdg>
+									<rdg wit="#E1586" rend="face(italics)">alti[ſſ]imus.</rdg>
+									<rdg wit="#E1591 #E1597 #E1611" rend="face(italics)">altiſſimus.</rdg>
+								</app></ref><lb ed="webArchive" xml:id="calender.july.glosse.141"/></quote><lb break="yes" ed="1579"/></p>
+					</note>
+				</div>
+				<figure/>
+				<!-- ornamental border -->
+			</div><pb/></selectedText>

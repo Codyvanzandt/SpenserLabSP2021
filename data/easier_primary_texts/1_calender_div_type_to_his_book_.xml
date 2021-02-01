@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="pilcrow1v" n="¶1v" prev="#pilcrow1r" next="#pilcrow2r"/><div xmlns="http://www.tei-c.org/ns/1.0" resp="Spenser" type="to_his_book">
+				<!--
+				<head type="onlineRunningTitle">To His Booke</head>
+				-->
+				<figure/>
+				<!-- ornamental border -->
+
+				<head>
+					<hi rend=" face(roman) faintKerning"><ref n="calender_to_his_book_headnote" xml:id="calender_to_his_book_headnote">TO HIS BOOKE.</ref></hi>
+					<lb ed="webArchive" xml:id="calender.to_his_book.0"/>
+				</head>
+
+				<lg rend="face(italics) size(1.75em) line_height(1.2em)" type="poem">
+					<l rend="align(indented_1)" xml:id="calender.to_his_book.1"><ref n="calender_308781852">Goe little booke</ref>: thy selfe
+						present,</l>
+					<l xml:id="calender.to_his_book.2">As child whose parent is <ref n="calender_199370353"><ref n="calender_295195829"><choice>
+							<orig choice_type="oxford">vnkent</orig>
+							<reg choice_type="char_norm default_archive">unkent</reg>
+					</choice></ref></ref>:</l>
+					<l xml:id="calender.to_his_book.3">To him that is the <ref n="calender_303024249">president</ref></l>
+					<l xml:id="calender.to_his_book.4">Of <ref n="calender_549952738">noblesse</ref> and of <choice>
+							<orig choice_type="oxford">cheualree</orig>
+							<reg choice_type="char_norm default_archive">chevalree</reg>
+						</choice>,</l>
+					<l xml:id="calender.to_his_book.5">And if that <ref n="calender_749364454"><choice>
+							<orig choice_type="oxford">Enuie</orig>
+							<reg choice_type="char_norm default_archive">Envie</reg>
+						</choice> barke</ref> at thee,</l>
+					<l xml:id="calender.to_his_book.6">As sure it will, for succoure flee</l>
+					<l rend="align(indented_1)" xml:id="calender.to_his_book.7">
+						<ref n="calender_424547365"><choice>
+							<orig choice_type="oxford">Vnder</orig>
+							<reg choice_type="char_norm default_archive">Under</reg>
+						</choice> the shadow of his wing</ref>,</l>
+					<l xml:id="calender.to_his_book.8">And asked, who thee forth did bring,</l>
+					<l xml:id="calender.to_his_book.9">A shepheards swaine saye did thee sing,</l>
+					<l xml:id="calender.to_his_book.10"><ref n="calender_846512449">All as</ref>
+						<ref n="calender_789847604">his straying flocke he fedde</ref>:</l>
+					<l xml:id="calender.to_his_book.11">And when <ref n="calender_802506836">his
+							honor</ref> has thee redde,</l>
+					<l xml:id="calender.to_his_book.12">
+						<choice>
+							<orig choice_type="oxford">Craue</orig>
+							<reg choice_type="char_norm default_archive">Crave</reg>
+						</choice> pardon for 
+						<app xml:id="calender.to_his_book.12.collation">
+							<lem wit="#E1579 #E1581 #E1597" eclecticCopyText="yes" rend="face(italics)">my</lem>
+							<rdg wit="#E1586 #E1591" rend="face(roman)">my</rdg>
+							<rdg wit="#E1611" rend="face(italics)">thy</rdg>
+						</app>
+						<ref n="calender_748082851"><ref n="calender_789672968">hardyhedde</ref></ref>.</l>
+					<l rend="align(indented_1)" xml:id="calender.to_his_book.13">But if that any aske thy name,</l>
+					<l xml:id="calender.to_his_book.14">Say thou wert base begot with blame:</l>
+					<l xml:id="calender.to_his_book.15"><ref n="calender_165706809">For thy thereof</ref> thou takest shame.</l>
+					<l xml:id="calender.to_his_book.16">And when thou art past <ref n="calender_430520171"><choice>
+							<orig choice_type="oxford">ieopardee</orig>
+							<reg choice_type="char_norm default_archive">jeopardee</reg>
+					</choice></ref>,</l>
+					<l xml:id="calender.to_his_book.17">Come tell me, what was sayd of mee:</l>
+					<l xml:id="calender.to_his_book.18">And I will send more after thee.</l>
+				</lg>
+				<closer>
+					<signed rend="face(italics) size(1.75em) line_height(1.2em)"><ref n="calender_546884020">Immeritô</ref>.<lb ed="webArchive" xml:id="calender.to_his_book.19"/></signed>
+				</closer>
+
+				<!--
+			        <note resp="pc" type="setting-emend">
+					          <p>The variants in the inter-edition collation for the 5 early editions for the
+						Title Page (TP) and ’To His Booke’ (THB) are either spelling (eg cheualree vs chivalry) or punctuation (eg : vs ,), and only in one case is the wording
+						different: in line 4, 1579’s ’noblesse’ vs 1591’s ’nobleness’ (modern
+						editions don’t follow 1591), although the 1586 TP spells out ’M.’ as
+						&quot;Maister’.&#160; I can see no reason to change the 1579 spelling, punctuation, or
+						wording anywhere in either the TP or ’THB’.&#160; If of interest: my text is here
+						identical with McCabe’s Penguin.</p>
+				        </note>
+-->
+
+			</div><pb/></selectedText>

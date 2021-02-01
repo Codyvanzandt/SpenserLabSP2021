@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="M6r" n="M6r" next="#M6v"/><div xmlns="http://www.tei-c.org/ns/1.0" subtype="forAdvisoryBoard" type="proem"> 
+          
+          <head>
+            <seg rend="size(1.50em) height(1.50em)">The second Booke</seg><lb ed="1590 webArchive"/>
+            <seg rend="size(1.25em) height(1.50em)">of the Faerie Queene.</seg><lb ed="1590 webArchive"/>
+            <seg rend="face(italics) size(1.00em) height(1.50em)">Contayning</seg><lb ed="1590 webArchive"/>
+            <seg rend="size(1.25em) height(1.00em)">The Legend of <ref n="fq1590.bk2_1348510313149" xml:id="fq1590.bk2_1348510313149">Sir</ref> Guyon.</seg><lb ed="1590 webArchive"/>
+            <seg rend="size(1.00em) height(1.25em)">OR</seg><lb ed="1590 webArchive"/>
+            <seg rend="face(italics) size(1.25em) height(2.00em)">Of Temperaunce.</seg>
+          </head> 
+          
+          <lg n="1">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.proem.1.1"><choice>
+                <orig><hi rend="face(ornamental)">R</hi>Ight</orig>
+                <reg choice_type="space_punct oxford default_archive"><hi rend="face(ornamental)">R</hi>ight</reg>
+              </choice> well I wote most mighty <choice>
+                <orig choice_type="oxford">Soueraine</orig>
+                <reg choice_type="char_norm default_archive">Soveraine</reg>
+              </choice>,</l>
+            <l xml:id="fq1590.bk2.II.proem.1.2">That all this famous <ref n="fq1590.bk2_1348510521482" xml:id="fq1590.bk2_1348510521482"><ref n="fq1590.bk2_1348510566998" xml:id="fq1590.bk2_1348510566998">antique</ref></ref>
+              <ref n="fq1590.bk2_1348510614870" xml:id="fq1590.bk2_1348510614870">
+                <ref n="fq1590.bk2_1348510929670">history</ref></ref>,</l>
+            <l xml:id="fq1590.bk2.II.proem.1.3"><ref n="fq1590.bk2_1348511005034" xml:id="fq1590.bk2_1348511005034">Of some</ref> th’aboundance
+              of an ydle braine</l>
+            <l xml:id="fq1590.bk2.II.proem.1.4">Will <choice>
+                <orig choice_type="oxford">iudged</orig>
+                <reg choice_type="char_norm default_archive">judged</reg>
+              </choice> be, and painted forgery,</l>
+            <l xml:id="fq1590.bk2.II.proem.1.5">Rather <note type="disamb" line_number="fq1590.bk2.II.proem.1.5" ref="1611594037_03_1" disamb_type="orig oxford"><span class="glossLineNumber">1.5. </span><term>then</term>: than</note><span class="disambAnchor" id="Anchor1611594037_03_1"/><choice>
+              <orig choice_type="oxford">then<note type="delete" line_number="fq1590.bk2.II.proem.1.5" ref="1611594037_03_1" disamb_type="orig oxford"><span class="glossLineNumber">1.5. </span><term>then</term>: than</note></orig>
+                <reg choice_type="disamb default_archive">than</reg>
+              </choice> matter of <choice>
+                <orig choice_type="oxford">iust</orig>
+                <reg choice_type="char_norm default_archive">just</reg>
+              </choice> memory,</l>
+            <l xml:id="fq1590.bk2.II.proem.1.6">Sith none, that breatheth <choice>
+                <orig choice_type="oxford"><ref n="fq1590.bk2_1348511205018">liuing</ref></orig><reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348511205018">living</ref></reg>
+              </choice><ref n="fq1590.bk2_1348511205018"> aire</ref>, does
+              know,<!--JS: "aire, does" appears as "aire,does" in control text--></l>
+            <l xml:id="fq1590.bk2.II.proem.1.7">Where is that happy land of Faery,</l>
+            <l xml:id="fq1590.bk2.II.proem.1.8">Which I so much doe vaunt, yet no where show,</l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.proem.1.9">But vouch <ref n="fq1590.bk2_1348511294776" xml:id="fq1590.bk2_1348511294776">antiquities</ref>, which <ref n="fq1590.bk2_1348511339415" xml:id="fq1590.bk2_1348511339415">no body</ref> can know.</l>
+          </lg>
+          <lg n="2">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.proem.2.1">But let that man with <ref n="fq1590.bk2_1348511379543" xml:id="fq1590.bk2_1348511379543">better sence</ref>
+              <choice>
+                <orig choice_type="oxford"><ref n="fq1590.bk2_1348511434581">aduize</ref></orig><reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348511434581">advize</ref></reg>
+              </choice>,</l>
+            <l xml:id="fq1590.bk2.II.proem.2.2">That of the world least part to <choice>
+                <orig choice_type="oxford">vs</orig>
+                <reg choice_type="char_norm default_archive">us</reg>
+              </choice> is <ref n="fq1590.bk2_1348511475174" xml:id="fq1590.bk2_1348511475174">red</ref>:</l>
+            <l xml:id="fq1590.bk2.II.proem.2.3">And daily how through hardy enterprize,</l>
+            <l xml:id="fq1590.bk2.II.proem.2.4">Many great Regions are <choice>
+                <orig choice_type="oxford">discouered</orig>
+                <reg choice_type="char_norm default_archive">discovered</reg>
+              </choice>,</l> <pb xml:id="M6v" n="M6v" prev="#M6r" next="#M7r"/><fw place="top-left" rend="face(roman)" type="head">186</fw>
+            <fw place="bottom-right" rend="face(roman)" type="catch">Cant.</fw>
+            <fw place="top-center" rend="face(italics)" type="head">The Second Booke of</fw>
+            <fw place="top-right" rend="face(italics)" type="head">
+              <app>
+                <lem eclecticCopyText="yes" varSeq="3" wit="#FQ190_CO_WU_1">Cant. I.</lem>
+                <rdg varSeq="2" wit="#FQ190_HRC_1">I.</rdg>
+                <rdg varSeq="1" wit="#FQ190_HEH_2 #FQ190_YM_1 #FQ190_PN_3 #FQ190_PN_2 #FQ190_PN_1 #FQ190_F_2 #FQ190_F_1 #FQ190_HRC_2 #FQ190_BL_3 #FQ190_BL_2 #FQ190_BL_1"/>
+              </app>
+            </fw>
+            <l xml:id="fq1590.bk2.II.proem.2.5"> Which to <ref n="fq1590.bk2_1348511521181" xml:id="fq1590.bk2_1348511521181">late age</ref> were <choice>
+                <orig choice_type="oxford">neuer</orig>
+                <reg choice_type="char_norm default_archive">never</reg>
+              </choice>
+              <app>
+                <lem wit="#E1596 #E1609">mentioned.</lem>
+                <rdg eclecticCopyText="yes" id="1499701098828" wit="#E1590">mentioned,</rdg>
+              </app>
+            </l>
+            <l xml:id="fq1590.bk2.II.proem.2.6">Who <choice>
+                <orig choice_type="oxford">euer</orig>
+                <reg choice_type="char_norm default_archive">ever</reg>
+              </choice> heard of th’<ref n="fq1590.bk2_1348511565948">Indian </ref><hi rend="face(italics)"><ref n="fq1590.bk2_1348511565948">
+                </ref><app><lem eclecticCopyText="yes" id="1499701156322" wit="#E1590"><ref n="fq1590.bk2_1348511565948">Perú</ref></lem>
+                <rdg wit="#E1596 #E1609"><ref n="fq1590.bk2_1348511565948">Peru</ref>?</rdg>
+                </app></hi>
+              <!--JS: changed from "ofth’Indian" to "of th’Indian"--></l>
+            <l xml:id="fq1590.bk2.II.proem.2.7">Or who in venturous vessell measured</l>
+            <l xml:id="fq1590.bk2.II.proem.2.8">The <hi rend="face(italics)">
+                <app>
+                  <lem wit="#E1596 #E1609"><ref n="fq1590.bk2_1348511616131">Amazons</ref></lem><rdg eclecticCopyText="yes" id="1499701190340" wit="#E1590FE"><ref n="fq1590.bk2_1348511616131">Amazon</ref></rdg>
+                  
+                <rdg eclecticCopyText="yes" id="1499701190340" wit="#E1590"><ref n="fq1590.bk2_1348511616131">Amarons</ref></rdg>
+                </app></hi><ref n="fq1590.bk2_1348511616131"> huge </ref><choice><orig choice_type="oxford"><ref n="fq1590.bk2_1348511616131">riuer</ref></orig>
+                
+              <reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348511616131">river</ref></reg>
+              </choice> now found <app>
+                <lem eclecticCopyText="yes" id="1499701223031" wit="#E1590">trew</lem>
+                <rdg wit="#E1596">trew?</rdg>
+                <rdg wit="#E1609">true?</rdg>
+              </app>
+            </l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.proem.2.9">Or <ref n="fq1590.bk2_1348511665619">fruitfullest </ref><hi rend="face(italics)"><ref n="fq1590.bk2_1348511665619">Virginia</ref></hi> who did <choice>
+                <orig choice_type="oxford">euer</orig>
+                <reg choice_type="char_norm default_archive">ever</reg>
+              </choice>
+              <app>
+                <lem wit="#E1596">vew?</lem>
+                <rdg eclecticCopyText="yes" id="1499701255232" wit="#E1590">vew.</rdg>
+                <rdg wit="#E1609">view?</rdg>
+              </app>
+            </l>
+          </lg>
+          <lg n="3">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.proem.3.1">Yet all these were when no man did them
+              know,<!-- comma appears to be flipped? mpm --></l>
+            <l xml:id="fq1590.bk2.II.proem.3.2">Yet <choice>
+                <orig choice_type="oxford">haue</orig>
+                <reg choice_type="char_norm default_archive">have</reg>
+              </choice> from wisest ages hidden <app>
+                <lem eclecticCopyText="yes" id="1499701296800" wit="#E1590">beene</lem>
+                <rdg wit="#E1596 #E1609">beene:</rdg>
+              </app>
+            </l>
+            <l xml:id="fq1590.bk2.II.proem.3.3"><ref n="fq1590.bk2_1348511753730">And later times thinges
+              more <choice>
+                <orig choice_type="oxford">vnknowne</orig>
+                <reg choice_type="char_norm default_archive">unknowne</reg>
+              </choice> shall <app>
+                <lem wit="this edn.">show:</lem>
+                <rdg eclecticCopyText="yes" id="1499701349207" wit="#E1590">ſ⁀how</rdg>
+                <rdg wit="#E1596">ſ⁀how.</rdg>
+                <rdg wit="#E1609">ſ⁀howe.</rdg>
+              </app>
+            </ref></l><ref n="fq1590.bk2_1348511753730"><l xml:id="fq1590.bk2.II.proem.3.4">Why then should witlesse man so much <ref n="fq1590.bk2_1348511804178" xml:id="fq1590.bk2_1348511804178">misweene</ref></l><l xml:id="fq1590.bk2.II.proem.3.5">That nothing
+              is but that which he hath
+              seene?<!--JS: the question mark at the end of this line looks hand-corrected in the EEBO control--></l><l xml:id="fq1590.bk2.II.proem.3.6">What if within the Moones fayre shining <app>
+                <lem wit="#E1609">
+                  <choice><orig>ſpheare,</orig><reg choice_type="silent_norm oxford default_archive">spheare,</reg></choice>
+                </lem>
+                <rdg eclecticCopyText="yes" id="1499701404796" wit="#E1590">
+                  <choice><orig>ſpheare</orig><reg choice_type="silent_norm oxford default_archive">spheare</reg></choice>
+                </rdg>
+                <rdg wit="#E1596">
+                  <choice><orig>ſpheare?</orig><reg choice_type="silent_norm oxford default_archive">spheare?</reg></choice>
+                </rdg>
+              </app>
+            </l><l xml:id="fq1590.bk2.II.proem.3.7">What if in <choice>
+                <orig choice_type="oxford">euery</orig>
+                <reg choice_type="char_norm default_archive">every</reg>
+              </choice> other starre <choice>
+                <orig choice_type="oxford">vnseene</orig>
+                <reg choice_type="char_norm default_archive">unseene</reg>
+              </choice>
+            </l></ref><l xml:id="fq1590.bk2.II.proem.3.8"><ref n="fq1590.bk2_1348511753730">Of other worldes he <ref n="fq1590.bk2_1348511856769" xml:id="fq1590.bk2_1348511856769">happily</ref> should </ref><app><lem wit="#E1596 #E1609"><ref n="fq1590.bk2_1348511753730">heare?</ref></lem>
+              <rdg eclecticCopyText="yes" id="1499701456678" wit="#E1590"><ref n="fq1590.bk2_1348511753730">heare</ref></rdg>
+              </app>
+            </l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.proem.3.9">He <choice>
+                <orig>wõder</orig>
+                <reg choice_type="expan oxford default_archive">wonder</reg>
+              </choice> would much more, yet such to some <app>
+                <lem wit="#E1596 #E1609">appeare.</lem>
+                <rdg eclecticCopyText="yes" id="1499701498267" wit="#E1590">appeare</rdg>
+              </app>
+              <!--JS: "more, yet" appears as "more,yet" in control text--></l>
+          </lg>
+          <lg n="4">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.proem.4.1"><ref n="fq1590.bk2_1348511918777">Of faery lond <ref n="fq1590.bk2_1348511983496" xml:id="fq1590.bk2_1348511983496">yet</ref> if he more
+              inquyre</ref></l><ref n="fq1590.bk2_1348511918777"><l xml:id="fq1590.bk2.II.proem.4.2">By <ref n="fq1590.bk2_1348512022400" xml:id="fq1590.bk2_1348512022400">certein
+                signes</ref>
+              <ref n="fq1590.bk2_1348512061880" xml:id="fq1590.bk2_1348512061880">here sett</ref> in <ref n="fq1590.bk2_1348512115919" xml:id="fq1590.bk2_1348512115919">sondrie place</ref></l><l xml:id="fq1590.bk2.II.proem.4.3">He may
+              it fynd; <ref n="fq1590.bk2_1348512161319" xml:id="fq1590.bk2_1348512161319">ne let him then admyre</ref></l><l xml:id="fq1590.bk2.II.proem.4.4">But yield his <ref n="fq1590.bk2_1348512212532" xml:id="fq1590.bk2_1348512212532">sence</ref> to
+              bee too blunt and bace</l></ref><l xml:id="fq1590.bk2.II.proem.4.5"><ref n="fq1590.bk2_1348511918777">That <app><lem eclecticCopyText="yes" varSeq="3" id="1499701559265" wit="#FQ190_CO_WU_1"><ref n="fq1590.bk2_1348512386606"><ref n="fq1590.bk2_1348512350764">n’ote</ref></ref></lem><rdg varSeq="1,2" wit="#FQ190_HEH_2 #FQ190_YM_1 #FQ190_HRC_1 #FQ190_HRC_2 #FQ190_PN_1 #FQ190_PN_2 #FQ190_PN_3 #FQ190_F_1 #FQ190_F_2 #FQ190_BL_2 #FQ190_BL_1 #FQ190_BL_3"><ref n="fq1590.bk2_1348512386606"><ref n="fq1590.bk2_1348512350764">no’te</ref></ref></rdg><rdg wit="#E1596 #E1609"><ref n="fq1590.bk2_1348512386606"><ref n="fq1590.bk2_1348512350764">no’te</ref></ref></rdg></app> without an hound <ref n="fq1590.bk2_1348512428076" xml:id="fq1590.bk2_1348512428076">fine
+                footing</ref>
+              </ref><app><lem wit="#E1596 #E1609"><ref n="fq1590.bk2_1348511918777">trace.</ref></lem>
+              <rdg eclecticCopyText="yes" id="1499701630321" wit="#E1590"><ref n="fq1590.bk2_1348511918777">trace</ref></rdg>
+              </app>
+            </l>
+            <l xml:id="fq1590.bk2.II.proem.4.6">And <app>
+                <lem wit="this edn.">thou</lem>
+                <rdg eclecticCopyText="yes" id="1499701686569" wit="#E1590">then</rdg>
+                <rdg wit="#E1596">thou,</rdg>
+              </app> O <ref n="fq1590.bk2_1348512464781" xml:id="fq1590.bk2_1348512464781">fayrest</ref> Princesse <choice>
+                <orig choice_type="oxford">vnder</orig>
+                <reg choice_type="char_norm default_archive">under</reg>
+              </choice>
+              <app>
+                <lem eclecticCopyText="yes" id="1499701723865" wit="#E1590">sky</lem>
+                <rdg wit="#E1596 #E1609">sky,</rdg>
+              </app>
+            </l>
+            <l xml:id="fq1590.bk2.II.proem.4.7"><ref n="fq1590.bk2_1348513016921">In <ref n="fq1590.bk2_1348512518843" xml:id="fq1590.bk2_1348512518843">this fayre mirrhour</ref> maist behold thy
+                  <app><lem wit="#E1596 #E1609">face,</lem><rdg eclecticCopyText="yes" id="1499701752896" wit="#E1590">face</rdg></app>
+            </ref></l><ref n="fq1590.bk2_1348513016921"><l xml:id="fq1590.bk2.II.proem.4.8">And thine owne realmes in lond of <app><lem wit="#E1596 #E1609">Faery,</lem><rdg eclecticCopyText="yes" id="1499701811008" wit="#E1590">Faery</rdg></app>
+            </l></ref><l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.proem.4.9"><ref n="fq1590.bk2_1348513016921">And in this antique ymage thy great
+              auncestry<hi rend="face(blackletter)">.</hi></ref></l>
+          </lg>
+          <lg n="5">
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.proem.5.1">The which O pardon me thus to enfold</l>
+            <l xml:id="fq1590.bk2.II.proem.5.2">In <choice>
+                <orig choice_type="oxford"><ref n="fq1590.bk2_1348517470108">couert</ref></orig><reg choice_type="char_norm default_archive"><ref n="fq1590.bk2_1348517470108">covert</ref></reg>
+              </choice><ref n="fq1590.bk2_1348517470108"> vele</ref> and wrap in <ref n="fq1590.bk2_1348517533129">shadowes </ref><app><lem wit="#E1596 #E1609"><ref n="fq1590.bk2_1348517533129">light,</ref></lem>
+              <rdg eclecticCopyText="yes" id="1499701857544" wit="#E1590"><ref n="fq1590.bk2_1348517533129">light</ref></rdg>
+              </app>
+            </l>
+            <l xml:id="fq1590.bk2.II.proem.5.3">That feeble eyes your glory may <app>
+                <lem wit="#E1596 #E1609">behold,</lem>
+                <rdg eclecticCopyText="yes" id="1499701932070" wit="#E1590">behold</rdg>
+              </app>
+            </l>
+            <l xml:id="fq1590.bk2.II.proem.5.4">Which <app>
+                <lem eclecticCopyText="yes" varSeq="3" id="1499701976945" wit="#FQ190_CO_WU_1">elles</lem>
+                <rdg varSeq="1,2" wit="#FQ190_HEH_2 #FQ190_YM_1 #FQ190_PN_3 #FQ190_PN_2 #FQ190_PN_1 #FQ190_HRC_1 #FQ190_HRC_2 #FQ190_F_1 #FQ190_F_2 #FQ190_BL_1 #FQ190_BL_3 #FQ190_BL_2">ells</rdg>
+                <rdg wit="#E1596 #E1609">
+                  <choice><orig>elſe</orig><reg choice_type="silent_norm oxford default_archive">else</reg></choice>
+                </rdg>
+              </app> could not endure those beames <app>
+                <lem wit="#E1596 #E1609">bright,</lem>
+                <rdg eclecticCopyText="yes" id="1499702021775" wit="#E1590">bright</rdg>
+              </app>
+            </l>
+            <l xml:id="fq1590.bk2.II.proem.5.5">But would bee dazled with exceeding <app>
+                <lem wit="this edn.">light;</lem>
+                <rdg eclecticCopyText="yes" id="1499702051556" wit="#E1590">light</rdg>
+                <rdg wit="#E1596 #E1609">light.</rdg>
+              </app>
+            </l>
+            <l xml:id="fq1590.bk2.II.proem.5.6">O pardon and vouchsafe with patient eare</l>
+            <l xml:id="fq1590.bk2.II.proem.5.7">The <choice>
+                <orig choice_type="oxford">braue</orig>
+                <reg choice_type="char_norm default_archive">brave</reg>
+              </choice>
+              <choice>
+                <orig choice_type="oxford">aduentures</orig>
+                <reg choice_type="char_norm default_archive">adventures</reg>
+              </choice> of this faery knight</l>
+            <l xml:id="fq1590.bk2.II.proem.5.8">The good Sir <persName ref="#Guyon" rend="face(italics)"><ref n="fq1590.bk2_1348517642224" xml:id="fq1590.bk2_1348517642224">Guyon</ref></persName> gratiously to <app>
+                <lem wit="#E1596 #E1609">heare,</lem>
+                <rdg eclecticCopyText="yes" id="1499702089583" wit="#E1590">heare</rdg>
+              </app></l>
+            <l rend="align(indented_minus_1)" xml:id="fq1590.bk2.II.proem.5.9">In whom great <ref n="fq1590.bk2_1348517684840" xml:id="fq1590.bk2_1348517684840">rule</ref> of Temp’raunce <ref n="fq1590.bk2_1348517748926">goodly doth ap<pc force="weak">-</pc><seg rend="hang_up(1)"><pc force="weak">(</pc>peare.</seg></ref></l>
+          </lg>
+        </div><pb/></selectedText>

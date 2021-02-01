@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="N4r" n="N4r" prev="#N3v" next="#N4v"/><div xmlns="http://www.tei-c.org/ns/1.0" rend="face(italics)" resp="Spenser" type="epilogue">
+				<head type="headnote"><ref n="calender_epilogue_headnote">[headnote]</ref></head>
+				<!--
+				<head type="onlineRunningTitle">Epilogue</head>
+				-->
+				<lg>
+					<l rend="align(indented_1)" xml:id="calender.epilogue.1"><ref n="calender_183731652">Loe </ref><ref n="calender_537052861"><ref n="calender_183731652">I </ref><ref n="calender_183731652"><choice>
+							<orig choice_type="oxford">haue</orig>
+							<reg choice_type="char_norm default_archive">have</reg>
+						</choice></ref><ref n="calender_183731652"> made a Calender</ref></ref><ref n="calender_183731652"> for <choice>
+							<orig choice_type="oxford">euery</orig>
+							<reg choice_type="char_norm default_archive">every</reg>
+						</choice> yeare,</ref></l><ref n="calender_183731652">
+					<l xml:id="calender.epilogue.2">That <ref n="calender_657023280">steele in
+						strength, and time in durance shall outweare:</ref></l></ref><ref n="calender_657023280"><ref n="calender_183731652">
+					</ref></ref><ref n="calender_183731652"><l xml:id="calender.epilogue.3"><ref n="calender_657023280">And </ref><ref n="calender_316919175"><ref n="calender_657023280">if I marked well
+						the starres </ref><ref n="calender_657023280"><choice>
+							<orig choice_type="oxford">reuolution</orig>
+							<reg choice_type="char_norm default_archive">revolution</reg>
+						</choice></ref></ref>,</l>
+					</ref><!--</lg>
+				<lg>--><ref n="calender_183731652">
+					</ref><l rend="align(indented_1)" xml:id="calender.epilogue.4"><ref n="calender_183731652">It shall continewe </ref><ref n="calender_100456541"><ref n="calender_183731652">till</ref></ref><ref n="calender_183731652"> 
+						the </ref><ref n="calender_677193760"><ref n="calender_183731652">worlds dissolution</ref></ref>.</l>
+					<l xml:id="calender.epilogue.5">To <ref n="calender_316903313">teach the ruder
+						shepheard how to feede his sheepe,</ref></l><ref n="calender_316903313">
+					</ref><l xml:id="calender.epilogue.6"><ref n="calender_316903313">And from the falsers fraud his folded flocke to keepe</ref>.</l>
+					<!--</lg>
+				<lg>-->
+					<l rend="align(indented_1)" xml:id="calender.epilogue.7"><ref n="calender_574475996">Goe lyttle Calender, thou hast a </ref><ref n="calender_898430610"><ref n="calender_574475996">free 
+						</ref></ref><ref n="calender_898430610"><ref n="calender_356881408"><ref n="calender_574475996">passeporte</ref></ref></ref><ref n="calender_574475996">,</ref></l><ref n="calender_574475996">
+					<l xml:id="calender.epilogue.8">Goe but a <ref n="calender_130122836">lowly </ref><ref n="calender_130122836"><ref n="calender_108102053">gate</ref></ref><ref n="calender_130122836">
+						emongste the meaner sorte</ref>.</l>
+					<l xml:id="calender.epilogue.9">Dare not to match thy pype with <ref n="calender_170213071">Tityrus hys style</ref>,</l>
+					</ref><!--</lg>
+				<lg>--><ref n="calender_574475996">
+					<l rend="align(indented_1)" xml:id="calender.epilogue.10">Nor with the <ref n="calender_822203429">Pilgrim that the Ploughman playde 
+						<app xml:id="calender.epilogue.10.collation">
+							<lem wit="#E1579" eclecticCopyText="yes" rend="face(italics)">awhyle:</lem>
+							<rdg wit="#E1581" rend="face(italics)">a whyle:</rdg>
+							<rdg wit="#E1586 #E1591 #E1597" rend="face(italics)">a while:</rdg>
+							<rdg wit="#E1611" rend="face(italics)">awhile:</rdg>
+						</app></ref></l>
+					<l xml:id="calender.epilogue.11">But <ref n="calender_289741607">followe them farre
+						off, and their high steppes adore</ref>,</l>
+					</ref><l xml:id="calender.epilogue.12"><ref n="calender_574475996">The better please, the worse despise, I aske nomore</ref>.</l>
+				</lg>
+				<div rend="face(italics) size(1.75em) line_height(1.2em) align(indented_5) " resp="spenser" type="motto">
+					<l xml:lang="it" xml:id="calender.epilogue.13"><ref n="calender_944254234">Merce
+						non mercede</ref>.</l>
+				</div>
+			</div><pb/></selectedText>

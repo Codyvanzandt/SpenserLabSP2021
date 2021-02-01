@@ -1,0 +1,1349 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="pilcrow2r" n="¶2r" prev="#pilcrow1v" next="#pilcrow2v"/><div xmlns="http://www.tei-c.org/ns/1.0" resp="E.K." type="epistle">
+				
+				<head type="headnote"><ref n="calender_dedicatory_epistle_headnote">[headnote]</ref></head>
+				<!--
+				<head type="onlineRunningTitle">Epistle</head>
+-->
+				<head rend="align(centered) leading_after(1.0em)"> ¶ <seg rend="face(italics) size(1.6em) line_height(1.2em)"><ref n="calender_205486227">To the most excellent and learned
+						both</ref></seg><ref n="calender_205486227">
+					<lb break="yes" ed="1579 webArchive" xml:id="calender.dedicatory_epistle.0.1"/>
+					<seg rend="face(blackletter)">Orator and Poete, Mayster Gabriell <choice>
+							<orig choice_type="oxford">Haruey</orig>
+							<reg choice_type="char_norm default_archive">Harvey</reg>
+						</choice>, his</seg>
+					<lb break="yes" ed="1579 webArchive" xml:id="calender.dedicatory_epistle.0.2"/> verie special and singular
+					good frend E. K. commen<pc force="weak">-</pc><lb break="no" ed="1579"/>deth
+					<lb break="yes" ed="1579emended webArchive" xml:id="calender.dedicatory_epistle.0.3"/> the good lyking of
+					this his labour, <lb break="yes" ed="1579 webArchive" xml:id="calender.dedicatory_epistle.0.4"/> and the
+						</ref><ref n="calender_772100169"><ref n="calender_205486227">patronage</ref></ref><ref n="calender_205486227"> of the <lb break="yes" ed="1579 webArchive" xml:id="calender.dedicatory_epistle.0.5"/> new Poete</ref>.
+						<lb break="yes" ed="1579 webArchive" xml:id="calender.dedicatory_epistle.0.6"/>(·.·)
+					</head>
+				<p>
+					<seg rend="faintKerning">
+						<ref n="calender_19882735"><choice>
+							<orig choice_type="oxford">
+								<hi rend="face(ornamental)">V</hi>NCOVTHE</orig>
+							<reg choice_type="char_norm default_archive">
+								<hi rend="face(ornamental)">U</hi>NCOUTHE</reg>
+						</choice>
+						<choice>
+							<orig choice_type="oxford">VNKISTE</orig>
+							<reg choice_type="char_norm default_archive">UNKISTE</reg>
+						</choice></ref></seg>, Sayde <ref n="calender_17472620">the olde famous
+						Poete<lb break="yes" ed="1579"/> Chaucer</ref>: <lb ed="webArchive" xml:id="calender.dedicatory_epistle.1"/>
+					<choice>
+						<orig>vvhom</orig>
+						<reg choice_type="char_norm oxford default_archive">whom</reg> 
+					</choice> for his excellencie and <choice>
+						<orig>vvonderfull</orig>
+						<reg choice_type="char_norm oxford default_archive">wonderfull</reg>
+					</choice> skil in <ref n="calender_166394548"><ref n="calender_644718380">making</ref></ref>,<lb break="yes" ed="1579"/>
+					<ref n="calender_811999077">his scholler<lb ed="webArchive" xml:id="calender.dedicatory_epistle.2"/> Lidgate</ref>, a <choice>
+						<orig>vvorthy</orig>
+						<reg choice_type="char_norm oxford default_archive">worthy</reg>
+					</choice> scholler of so excellent a maister, cal<pc force="weak">-</pc><lb break="no" ed="1579"/>leth the<lb ed="webArchive" xml:id="calender.dedicatory_epistle.3"/>
+					<ref n="calender_835675887">Loadestarre of our Language</ref>: and <choice>
+						<orig>vvhom</orig>
+						<reg choice_type="char_norm oxford default_archive">whom</reg>
+					</choice> our <name ref="#Colin"><ref n="calender_540141789">Colin
+							clout</ref>
+					</name> in<lb break="yes" ed="1579"/> his<lb ed="webArchive" xml:id="calender.dedicatory_epistle.4"/>
+					Æglogue calleth <ref n="calender_321284328">Tityrus</ref> the <ref n="calender_105111595">God of shepheards</ref>, 
+					<ref n="calender_971320941">comparing</ref> hym<lb break="yes" ed="1579"/> 
+					to<lb ed="webArchive" xml:id="calender.dedicatory_epistle.5"/> the worthines of the Roman Tityrus Virgile. <choice>
+						<orig>VVhich</orig>
+						<reg choice_type="char_norm oxford default_archive">Which</reg>
+					</choice>
+					<ref n="calender_619542177"><choice>
+						<orig choice_type="oxford">prouerbe</orig>
+						<reg choice_type="char_norm default_archive">proverbe</reg>
+					</choice></ref>,<lb break="yes" ed="1579"/> myne<lb ed="webArchive" xml:id="calender.dedicatory_epistle.6"/>
+					owne good friend <note type="disamb" line_number="calender.dedicatory_epistle.7" ref="1611592931_17_3" disamb_type="orig oxford"><span class="glossLineNumber">7. </span><term>Ma.</term>: Master</note><span class="disambAnchor" id="Anchor1611592931_17_3"/><note type="disamb" line_number="calender.dedicatory_epistle.7" ref="1611592931_17_4" disamb_type="reg default_archive disamb"><span class="glossLineNumber">7. </span><term>Mr</term>: Master</note><span class="disambAnchor" id="Anchor1611592931_17_4"/><choice>
+						<orig choice_type="oxford">Ma.<note type="delete" line_number="calender.dedicatory_epistle.7" ref="1611592931_17_3" disamb_type="orig oxford"><span class="glossLineNumber">7. </span><term>Ma.</term>: Master</note></orig>
+						<reg choice_type="default_archive disamb">Mr<note type="delete" line_number="calender.dedicatory_epistle.7" ref="1611592931_17_4" disamb_type="reg default_archive disamb"><span class="glossLineNumber">7. </span><term>Mr</term>: Master</note></reg>
+					</choice>
+					<choice>
+						<orig choice_type="oxford">Haruey</orig>
+						<reg choice_type="char_norm default_archive">Harvey</reg>
+					</choice>, as in that good old Poete it <choice>
+						<orig choice_type="oxford">ser<pc force="weak">-</pc><lb break="no" ed="1579"/>ued</orig>
+						<reg choice_type="char_norm default_archive">ser<pc force="weak">-</pc><lb break="no" ed="1579"/>ved</reg>
+					</choice>
+					<choice>
+						<orig>vvell</orig>
+						<reg choice_type="char_norm oxford default_archive">well</reg>
+					</choice>
+					<ref n="calender_608537136">Pandares</ref><lb ed="webArchive" xml:id="calender.dedicatory_epistle.7"/> 
+					purpose, for the bolstering of his baudy 
+					<ref n="calender_424317331">brocage</ref>, so very <choice>
+						<orig>vvell</orig>
+						<reg choice_type="char_norm oxford default_archive">well</reg>
+					</choice> taketh<lb break="yes" ed="1579"/> place in this<lb ed="webArchive" xml:id="calender.dedicatory_epistle.8"/> our <choice>
+						<orig>nevv</orig>
+						<reg choice_type="char_norm oxford default_archive">new</reg>
+					</choice> Poete, <choice>
+						<orig>vvho</orig>
+						<reg choice_type="char_norm oxford default_archive">who</reg>
+					</choice> for that he is <choice>
+						<orig choice_type="oxford">vncouthe</orig>
+						<reg choice_type="char_norm default_archive">uncouthe</reg>
+					</choice> (as said Chaucer) is <choice>
+						<orig choice_type="oxford">vnkist</orig>
+						<reg choice_type="char_norm default_archive">unkist</reg>
+					</choice>,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.9"/> and<lb break="yes" ed="1579"/>
+					<choice>
+						<orig choice_type="oxford">vnknown</orig>
+						<reg choice_type="char_norm default_archive">unknown</reg>
+					</choice> to most <choice>
+						<orig>mẽ</orig>
+						<reg choice_type="oxford default_archive expan">men</reg>
+					</choice>, is regarded but of <choice>
+						<orig>fevv</orig>
+						<reg choice_type="char_norm oxford default_archive">few</reg>
+					</choice>. But I dout not, so<lb ed="webArchive" xml:id="calender.dedicatory_epistle.10"/>
+					soone as his name shall<lb break="yes" ed="1579"/> come into the <choice>
+						<orig>knovvledg</orig>
+						<reg choice_type="char_norm oxford default_archive">knowledg</reg>
+					</choice> of men, and his <choice>
+						<orig>vvorthines</orig>
+						<reg choice_type="char_norm oxford default_archive">worthines</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.11"/> be sounded in the
+						<ref n="calender_947913116"><ref n="calender_147637563">tromp</ref></ref> 
+					of fame,<lb break="yes" ed="1579"/> 
+					but that he shall be
+					not onely kiste,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.12"/> but also <choice>
+						<orig>beloued</orig>
+						<reg choice_type="char_norm oxford default_archive">beloved</reg>
+					</choice> of all, embraced of the most, and<lb break="yes" ed="1579"/>
+					<choice>
+						<orig>vvondred</orig>
+						<reg choice_type="char_norm oxford default_archive">wondred</reg>
+					</choice> at of the<lb ed="webArchive" xml:id="calender.dedicatory_epistle.13"/> best. No
+					lesse I thinke, <choice>
+						<orig choice_type="oxford">deserueth</orig>
+						<reg choice_type="char_norm default_archive">deserveth</reg>
+					</choice> his <ref n="calender_597070215"><choice>
+						<orig>vvittinesse</orig>
+						<reg choice_type="char_norm oxford default_archive">wittinesse</reg>
+					</choice>
+					</ref> in <choice>
+						<orig choice_type="oxford">deuising</orig>
+						<reg choice_type="char_norm default_archive">devising</reg>
+					</choice>, his<lb ed="webArchive" xml:id="calender.dedicatory_epistle.14"/>
+					pithi<pc force="weak">-</pc><lb break="no" ed="1579"/>nesse in <choice>
+						<orig choice_type="oxford">vttering</orig>
+						<reg choice_type="char_norm default_archive">uttering</reg>
+					</choice>, his complaints of <choice>
+						<orig choice_type="oxford">loue</orig>
+						<reg choice_type="char_norm default_archive">love</reg>
+					</choice> so <choice>
+						<orig choice_type="oxford">louely</orig>
+						<reg choice_type="char_norm default_archive">lovely</reg>
+					</choice>, his discourses<lb ed="webArchive" xml:id="calender.dedicatory_epistle.15"/> of
+					pleasure so pleasantly,<lb break="yes" ed="1579"/> his pastorall <ref n="calender_440618829">rudenesse</ref>, his morall <choice>
+						<orig>vvisenesse</orig>
+						<reg choice_type="char_norm oxford default_archive">wisenesse</reg>
+					</choice>,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.16"/> his <choice>
+						<orig>devve</orig>
+						<reg choice_type="char_norm oxford default_archive">dewe</reg>
+					</choice>
+					<choice>
+						<orig choice_type="oxford">obseruing</orig>
+						<reg choice_type="char_norm default_archive">observing</reg>
+					</choice> of <ref n="calender_214054037">Decorum</ref>
+					<choice>
+						<orig choice_type="oxford">euerye</orig>
+						<reg choice_type="char_norm default_archive">everye</reg>
+					</choice>
+					<lb break="yes" ed="1579"/>
+					<choice>
+						<orig>vvhere</orig>
+						<reg choice_type="char_norm oxford default_archive">where</reg>
+					</choice>, in personages, in seasons,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.17"/> in matter, in speach, and generally in al
+					seemely simply<pc force="weak">-</pc><lb break="no" ed="1579"/>citie of handeling<lb ed="webArchive" xml:id="calender.dedicatory_epistle.18"/> his
+					matter, and framing his <choice>
+						<orig>vvords</orig>
+						<reg choice_type="char_norm oxford default_archive">words</reg>
+					</choice>: the <choice>
+						<orig>vvhich</orig>
+						<reg choice_type="char_norm oxford default_archive">which</reg>
+					</choice> of many thinges which<lb ed="1579 webArchive" xml:id="calender.dedicatory_epistle.19"/> in him be <ref n="calender_320382132">straunge, I <choice>
+						<orig>knovv</orig>
+						<reg choice_type="char_norm oxford default_archive">know</reg>
+					</choice>
+					<choice>
+						<orig>vvill</orig>
+						<reg choice_type="char_norm oxford default_archive">will</reg>
+					</choice> seeme the straungest, the </ref><ref n="calender_320382132"><ref n="calender_795917563"><choice>
+						<orig>vvords</orig>
+						<reg choice_type="char_norm oxford default_archive">words</reg>
+					</choice></ref><ref n="calender_795917563"> them</ref><ref n="calender_795917563"><lb ed="webArchive" xml:id="calender.dedicatory_epistle.20"/></ref><ref n="calender_795917563">
+					</ref><ref n="calender_795917563"><choice>
+						<orig choice_type="oxford">selues</orig>
+						<reg choice_type="char_norm default_archive">selves</reg>
+					</choice></ref><ref n="calender_795917563"> being so</ref><ref n="calender_795917563"><lb break="yes" ed="1579"/></ref><ref n="calender_795917563">
+					</ref></ref><ref n="calender_311158043"><ref n="calender_320382132"><ref n="calender_795917563">auncient</ref></ref></ref><ref n="calender_320382132">, the
+					knitting of them so short and intricate,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.21"/> and </ref><ref n="calender_152302815"><ref n="calender_320382132">the </ref><ref n="calender_320382132"><choice>
+						<orig>vvhole</orig>
+						<reg choice_type="char_norm oxford default_archive">whole</reg>
+					</choice></ref><ref n="calender_320382132"> Periode </ref><ref n="calender_320382132"><choice>
+						<orig>&amp;</orig>
+						<reg choice_type="oxford default_archive expan">and</reg>
+					</choice></ref><ref n="calender_320382132"> 
+                    </ref><ref n="calender_320382132"><app xml:id="calender.dedicatory_epistle.22.collation">
+                        <lem wit="#E1611">compasse</lem>
+                        <rdg eclecticCopyText="yes" wit="#E1579">compaste</rdg>
+                    </app></ref><ref n="calender_320382132"><lb break="yes" ed="1579"/></ref><ref n="calender_320382132"> of speache</ref></ref><ref n="calender_320382132"> so delightsome for the<lb ed="webArchive" xml:id="calender.dedicatory_epistle.22"/> 
+					roundnesse, and so <choice>
+						<orig choice_type="oxford">graue</orig>
+						<reg choice_type="char_norm default_archive">grave</reg>
+					</choice> for the straungenesse</ref>. And<lb break="yes" ed="1579"/> firste of the <choice>
+						<orig>vvordes</orig>
+						<reg choice_type="char_norm oxford default_archive">wordes</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.23"/> to speake, I graunt
+					they be something hard, and of most men <choice>
+						<orig choice_type="oxford">vnused</orig>
+						<reg choice_type="char_norm default_archive">unused</reg>
+					</choice>,<lb ed="1579 webArchive" xml:id="calender.dedicatory_epistle.24"/> yet
+					both English, and also <choice>
+						<orig choice_type="oxford">vsed</orig>
+						<reg choice_type="char_norm default_archive">used</reg>
+					</choice> of most excellent Authors and most<lb ed="webArchive" xml:id="calender.dedicatory_epistle.25"/> famous Poetes. 
+					<ref n="calender_852135799">In<lb break="yes" ed="1579"/>
+					<choice>
+						<orig>vvhom</orig>
+						<reg choice_type="char_norm oxford default_archive">whom</reg>
+					</choice>
+					<choice>
+						<orig>vvhenas</orig>
+						<reg choice_type="char_norm oxford default_archive">whenas</reg>
+					</choice> this our Poet hath bene much </ref><!--<anchor xml:id="calender_852135799_0"/>--><ref n="calender_852135799"><choice>
+						<orig choice_type="oxford">traueiled</orig>
+						<reg choice_type="char_norm default_archive">traveiled</reg>
+					</choice></ref><lb ed="webArchive" xml:id="calender.dedicatory_epistle.26"/> and throughly redd, <choice>
+						<orig>hovv</orig>
+						<reg choice_type="char_norm oxford default_archive">how</reg>
+					</choice> could<lb break="yes" ed="1579"/> it be, (as that <ref n="calender_604642273"><choice>
+						<orig>vvorthy</orig>
+						<reg choice_type="char_norm oxford default_archive">worthy</reg>
+					</choice> Oratour</ref> sayde)<lb ed="webArchive" xml:id="calender.dedicatory_epistle.27"/> but that <choice>
+						<orig>vvalking</orig>
+						<reg choice_type="char_norm oxford default_archive">walking</reg>
+					</choice> in the sonne although for other<lb break="yes" ed="1579"/> cause he <choice>
+						<orig>vvalked</orig>
+						<reg choice_type="char_norm oxford default_archive">walked</reg>
+					</choice>, yet<lb ed="webArchive" xml:id="calender.dedicatory_epistle.28"/> needes he <ref n="calender_620066347">mought</ref>
+					be sunburnt; and <choice>
+						<orig choice_type="oxford">hauing</orig>
+						<reg choice_type="char_norm default_archive">having</reg>
+					</choice> the sound of those aun<pc force="weak">-</pc><lb break="no" ed="1579"/>cient<lb ed="webArchive" xml:id="calender.dedicatory_epistle.29"/> 
+					Poetes still ringing in
+					his eares, he mought needes in singing <ref n="calender_370761470">hit<lb ed="webArchive" xml:id="calender.dedicatory_epistle.30"/> 
+					out</ref> some of theyr<lb break="yes" ed="1579"/> 
+					tunes. But whether he <choice>
+						<orig choice_type="oxford">vseth</orig>
+						<reg choice_type="char_norm default_archive">useth</reg>
+					</choice> them by such <ref n="calender_536492925">casualtye</ref><lb ed="webArchive" xml:id="calender.dedicatory_epistle.31"/> 
+					and custome, or of set purpose and<lb break="yes" ed="1579"/> choyse, as thinking them
+						fittest<lb ed="webArchive" xml:id="calender.dedicatory_epistle.32"/> for such rusticall
+					rudenesse of shepheards, eyther for that<lb break="yes" ed="1579"/> 
+					theyr rough<lb ed="webArchive" xml:id="calender.dedicatory_epistle.33"/> sounde <choice>
+						<orig>vvould</orig>
+						<reg choice_type="char_norm oxford default_archive">would</reg>
+					</choice> make his rymes more ragged and rustical, or els because<lb ed="webArchive" xml:id="calender.dedicatory_epistle.34"/> such<lb break="yes" ed="1579"/> 
+					olde and <ref n="calender_981815709">obsolete wordes are most 
+					<choice>
+						<orig choice_type="oxford">vsed</orig>
+						<reg choice_type="char_norm default_archive">used</reg>
+					</choice> of country folke, sure<lb ed="webArchive" xml:id="calender.dedicatory_epistle.35"/>
+					I think, and think I think<lb break="yes" ed="1579"/> not amisse, that they bring great
+						grace<lb ed="webArchive" xml:id="calender.dedicatory_epistle.36"/> and, as one <choice>
+						<orig>vvould</orig>
+						<reg choice_type="char_norm oxford default_archive">would</reg>
+					</choice> say, auctoritie to the verse</ref>.
+						For<lb break="yes" ed="1579"/>
+					<ref n="calender_546778296">albe</ref> amongst many<lb ed="webArchive" xml:id="calender.dedicatory_epistle.37"/> 
+					other faultes it specially be 
+					<choice>
+						<orig choice_type="oxford">obiected</orig>
+						<reg choice_type="char_norm default_archive">objected</reg>
+					</choice> of <ref n="calender_525327314">Valla against <choice>
+						<orig choice_type="oxford">Liuie</orig>
+						<reg choice_type="char_norm default_archive">Livie</reg>
+					</choice>, and<lb ed="webArchive" xml:id="calender.dedicatory_epistle.38"/> of o<pc force="weak">-</pc><lb break="no" ed="1579"/>ther 
+					against Saluste</ref>, that <choice>
+						<orig>vvith</orig>
+						<reg choice_type="char_norm oxford default_archive">with</reg>
+					</choice>
+					<choice>
+						<orig choice_type="oxford">ouer</orig>
+						<reg choice_type="char_norm default_archive">over</reg>
+					</choice> much studie they affect antiquitie,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.39"/> as <choice>
+						<orig choice_type="oxford">coueting</orig>
+						<reg choice_type="char_norm default_archive">coveting</reg>
+					</choice>
+					there<pc force="weak">-</pc><lb break="no" ed="1579"/>by credence and honor of elder yeeres, yet I am of<lb ed="webArchive" xml:id="calender.dedicatory_epistle.40"/> 
+					opinion, and <ref n="calender_992792646">eke</ref>
+					the best learned are<lb break="yes" ed="1579"/> of the lyke, that those auncient<lb ed="webArchive" xml:id="calender.dedicatory_epistle.41"/> 
+					solemne wordes are a great ornament both in the one 
+					<choice>
+						<orig>&amp;</orig>
+						<reg choice_type="oxford default_archive expan">and</reg>
+					</choice>
+					<lb break="yes" ed="1579"/> in the other;<lb ed="webArchive" xml:id="calender.dedicatory_epistle.42"/> the
+					one labouring to set forth in hys worke an eternall image of antiquitie,<lb ed="1579 webArchive" xml:id="calender.dedicatory_epistle.43"/> 
+					and the other carefully discoursing matters of 
+					<choice>
+						<orig choice_type="oxford">grauitie</orig>
+						<reg choice_type="char_norm default_archive">gravitie</reg>
+					</choice> and importaunce.<lb ed="webArchive" xml:id="calender.dedicatory_epistle.44"/> For if
+					my memo<lb break="no" ed="1579"/>ry fayle not, <ref n="calender_621694004">Tullie in that
+					booke, <choice>
+						<orig>vvherein</orig>
+						<reg choice_type="char_norm oxford default_archive">wherein</reg>
+					</choice> he <choice>
+						<orig choice_type="oxford">endeuoureth</orig>
+						<reg choice_type="char_norm default_archive">endevoureth</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.45"/> to set forth </ref><ref n="calender_358296985"><ref n="calender_621694004">the paterne of a</ref><ref n="calender_621694004"><lb break="yes" ed="1579"/></ref><ref n="calender_621694004">
+					</ref><ref n="calender_621694004"><pb xml:id="pilcrow2v" n="¶2v" prev="#pilcrow2r" next="#pilcrow3r"/></ref><ref n="calender_621694004"><fw place="top-center" rend="face(italics)" type="head">Epistle.</fw></ref><ref n="calender_621694004">
+					</ref><ref n="calender_621694004"><fw place="bottom-right" rend="face(roman)" type="catch">
+						<choice>
+							<orig choice_type="oxford">iudgement</orig>
+							<reg choice_type="char_norm default_archive">judgement</reg>
+						</choice>
+					</fw></ref><ref n="calender_621694004"> perfect Oratour</ref></ref><ref n="calender_621694004">, sayth that
+						ofttimes<lb ed="webArchive" xml:id="calender.dedicatory_epistle.46"/> an auncient worde
+					maketh the style seeme <choice>
+						<orig choice_type="oxford">graue</orig>
+						<reg choice_type="char_norm default_archive">grave</reg>
+					</choice>,<lb break="yes" ed="1579"/> and as it were <choice>
+						<orig choice_type="oxford">reuerend</orig>
+						<reg choice_type="char_norm default_archive">reverend</reg>
+					</choice></ref>:<lb ed="webArchive" xml:id="calender.dedicatory_epistle.47"/> no otherwise <note type="disamb" line_number="calender.dedicatory_epistle.48" ref="1611592931_17_5" disamb_type="orig oxford"><span class="glossLineNumber">48. </span><term>then</term>: than</note><span class="disambAnchor" id="Anchor1611592931_17_5"/><choice>
+						<orig choice_type="oxford">then<note type="delete" line_number="calender.dedicatory_epistle.48" ref="1611592931_17_5" disamb_type="orig oxford"><span class="glossLineNumber">48. </span><term>then</term>: than</note></orig>
+						<reg choice_type="default_archive disamb">than</reg>
+					</choice>
+					<choice>
+						<orig>vve</orig>
+						<reg choice_type="char_norm oxford default_archive">we</reg>
+					</choice> honour and <choice>
+						<orig choice_type="oxford">reuerence</orig>
+						<reg choice_type="char_norm default_archive">reverence</reg>
+					</choice> gray heares for a<lb break="yes" ed="1579"/> certein<lb ed="webArchive" xml:id="calender.dedicatory_epistle.48"/>
+					<ref n="calender_721479011">religious</ref> regard, which we <choice>
+						<orig choice_type="oxford">haue</orig>
+						<reg choice_type="char_norm default_archive">have</reg>
+					</choice> of old age. 
+					<choice>
+						<orig>yet</orig>
+						<reg choice_type="space_punct oxford default_archive">Yet</reg>
+					</choice> nether <choice>
+						<orig choice_type="oxford">euery</orig>
+						<reg choice_type="char_norm default_archive">every</reg>
+					</choice> where<lb ed="webArchive" xml:id="calender.dedicatory_epistle.49"/> must old words<lb break="yes" ed="1579"/> 
+					be stuffed in, nor the commen Dialecte and maner of<lb ed="webArchive" xml:id="calender.dedicatory_epistle.50"/> 
+					speaking so corrupted therby, that<lb break="yes" ed="1579"/> as in <ref n="calender_82976249">old
+					buildings it seme disorderly<lb ed="webArchive" xml:id="calender.dedicatory_epistle.51"/>
+					<choice>
+						<orig>&amp;</orig>
+						<reg choice_type="oxford default_archive expan">and</reg>
+					</choice> ruinous</ref>. But <ref n="calender_940196311">all</ref> as
+					in most exquisite <ref n="calender_840645690">pictures</ref> they<lb break="yes" ed="1579"/>
+					<choice>
+						<orig choice_type="oxford">vse</orig>
+						<reg choice_type="char_norm default_archive">use</reg>
+					</choice> to <ref n="calender_940196311_1">blaze</ref><lb ed="webArchive" xml:id="calender.dedicatory_epistle.52"/> 
+					and <ref n="calender_481481851">portraict</ref> not onely the daintie
+					lineaments of beautye, but also<lb ed="webArchive" xml:id="calender.dedicatory_epistle.53"/>
+						rounde<lb break="yes" ed="1579"/> about it to shadow the rude thickets and craggy
+					clifts, that<lb ed="webArchive" xml:id="calender.dedicatory_epistle.54"/> by the basenesse of
+					such parts,<lb break="yes" ed="1579"/> more excellency may accrew to the principall;<lb ed="webArchive" xml:id="calender.dedicatory_epistle.55"/> for oftimes we fynde <choice>
+						<orig choice_type="oxford">ourselues</orig>
+						<reg choice_type="char_norm default_archive">ourselves</reg>
+					</choice>, I knowe<lb break="yes" ed="1579"/> not <choice>
+						<orig>hovv</orig>
+						<reg choice_type="char_norm oxford default_archive">how</reg>
+					</choice>, singularly delighted<lb ed="webArchive" xml:id="calender.dedicatory_epistle.56"/>
+					with the shewe of such naturall rudenesse, and take great<lb break="yes" ed="1579"/>
+						pleasure<lb ed="webArchive" xml:id="calender.dedicatory_epistle.57"/> in that disorderly
+					order. <choice>
+						<orig choice_type="oxford">Euen</orig>
+						<reg choice_type="char_norm default_archive">Even</reg>
+					</choice> so doe those rough and harsh termes<lb ed="webArchive" xml:id="calender.dedicatory_epistle.58"/>
+					<ref n="calender_526224715">enlumine</ref> and<lb break="yes" ed="1579"/> make more clearly to
+					appeare the brightnesse of <ref n="calender_530838165"><choice>
+						<orig choice_type="oxford">braue</orig>
+						<reg choice_type="char_norm default_archive">brave</reg>
+					</choice></ref><lb ed="webArchive" xml:id="calender.dedicatory_epistle.59"/>
+					<choice>
+						<orig>&amp;</orig>
+						<reg choice_type="oxford default_archive expan">and</reg>
+					</choice> glorious <choice>
+						<orig>vvords</orig>
+						<reg choice_type="char_norm oxford default_archive">words</reg>
+					</choice>. So ofentimes<lb break="yes" ed="1579"/> a dischorde in Musick maketh a comely<lb ed="webArchive" xml:id="calender.dedicatory_epistle.60"/>
+					<ref n="calender_395133339">concordaunce</ref>: so great delight tooke the worthy<lb break="yes" ed="1579"/> 
+					Poete <ref n="calender_960811650">Alceus</ref> to behold<lb ed="webArchive" xml:id="calender.dedicatory_epistle.61"/> 
+					a blemish in the <choice>
+						<orig choice_type="oxford">ioynt</orig>
+						<reg choice_type="char_norm default_archive">joynt</reg>
+					</choice> of a wel shaped body. But if any <choice>
+						<orig>vvill</orig>
+						<reg choice_type="char_norm oxford default_archive">will</reg>
+					</choice>
+					rash<pc force="weak">-</pc><lb break="no" ed="1579"/>ly<lb ed="webArchive" xml:id="calender.dedicatory_epistle.62"/> blame such his purpose
+					in choyse of old and <choice>
+						<orig>vnvvonted</orig>
+						<reg choice_type="char_norm oxford">vnwonted</reg>
+						<reg choice_type="char_norm default_archive">unwonted</reg>
+					</choice>
+					<choice>
+						<orig>vvords</orig>
+						<reg choice_type="char_norm oxford default_archive">words</reg>
+					</choice>, him may<lb ed="webArchive" xml:id="calender.dedicatory_epistle.63"/> I more <choice>
+						<orig choice_type="oxford">iustly</orig>
+						<reg choice_type="char_norm default_archive">justly</reg>
+					</choice>
+					<lb break="yes" ed="1579"/> blame and condemne, <ref n="calender_946069938">or</ref> of <choice>
+						<orig>vvitlesse</orig>
+						<reg choice_type="char_norm oxford default_archive">witlesse</reg>
+					</choice>
+					<ref n="calender_946069938_1">headinesse</ref> in <choice>
+						<orig choice_type="oxford">iudging</orig>
+						<reg choice_type="char_norm default_archive">judging</reg>
+					</choice>,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.64"/> or of heedelesse
+						<ref n="calender_817393034">hardinesse</ref> in<lb break="yes" ed="1579"/> condemning. 
+					<!-- MPL (ask if this is the right way around) . . . THIS WAS A HARD CHANGE . . .
+					<app>
+    				<lem wit="this edn.">For</lem>
+    				<rdg eclecticCopyText="yes" wit="#E1579">for</rdg>
+					</app>
+					-->
+					<choice>
+						<orig>for</orig>
+						<reg choice_type="oxford default_archive space_punct">For</reg>
+					</choice> not <ref n="calender_779070136">marking the compasse<lb ed="webArchive" xml:id="calender.dedicatory_epistle.65"/> 
+					of hys bent, he <choice>
+						<orig>vvil</orig>
+						<reg choice_type="oxford char_norm default_archive">wil</reg>
+					</choice>
+					<choice>
+						<orig choice_type="oxford">iudge</orig>
+						<reg choice_type="char_norm default_archive">judge</reg>
+					</choice> of the length of his<lb break="yes" ed="1579"/> cast</ref>. 
+					<app>
+						<lem wit="#E1611">For</lem>
+						<rdg eclecticCopyText="yes" wit="#E1579">for</rdg>
+					</app> in my opinion<lb ed="webArchive" xml:id="calender.dedicatory_epistle.66"/> it is one
+					special prayse, of many <choice>
+						<orig>vvhych</orig>
+						<reg choice_type="char_norm oxford default_archive">whych</reg>
+					</choice> are dew to <ref n="calender_189490344">this Poete, that<lb ed="1579 webArchive" xml:id="calender.dedicatory_epistle.67"/> he hath laboured
+					to restore, as to theyr rightfull heritage such good<lb ed="webArchive" xml:id="calender.dedicatory_epistle.68"/> and naturall English<lb break="yes" ed="1579"/> words, as <choice>
+						<orig choice_type="oxford">haue</orig>
+						<reg choice_type="char_norm default_archive">have</reg>
+					</choice> ben long time out of 
+                    <app xml:id="calender.dedicatory_epistle.69.collation">
+                        <lem eclecticCopyText="yes" varSeq="2" wit="#SC179_HEH_1 #SC179_F_1 #SC179_HRC_1">
+                            <choice>
+                                <orig choice_type="oxford">vse</orig>
+                                <reg choice_type="char_norm default_archive">use</reg>
+                            </choice>
+                        </lem>
+                        <rdg varSeq="1" wit="#SC179_Bod_1">ufe</rdg>
+                    </app>
+                    
+                    
+                    
+                    <choice>
+						<orig>&amp;</orig>
+						<reg choice_type="oxford default_archive expan">and</reg>
+					</choice> 
+                    
+                    almost<lb ed="webArchive" xml:id="calender.dedicatory_epistle.69"/> cleare
+					disherited. <choice>
+						<orig>VVhich</orig>
+						<reg choice_type="char_norm oxford default_archive">Which</reg>
+					</choice> is the onely<lb break="yes" ed="1579"/> cause, that our Mother tonge</ref>,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.70"/> 
+					which truely of it self is both ful enough for
+					prose <choice>
+						<orig>&amp;</orig>
+						<reg choice_type="oxford default_archive expan">and</reg>
+					</choice> stately<lb break="yes" ed="1579"/> enough<lb ed="webArchive" xml:id="calender.dedicatory_epistle.71"/> for verse, hath long time ben 
+					<choice>
+						<orig>coũted</orig>
+						<reg choice_type="oxford default_archive expan">counted</reg>
+					</choice> most bare <choice>
+						<orig>&amp;</orig>
+						<reg choice_type="oxford default_archive expan">and</reg>
+					</choice> barrein of both.<lb ed="webArchive" xml:id="calender.dedicatory_epistle.72"/>
+					<choice>
+						<orig>which</orig>
+						<reg choice_type="space_punct oxford default_archive">Which</reg>
+					</choice> default<lb break="yes" ed="1579"/> when as some <choice>
+						<orig choice_type="oxford">endeuoured</orig>
+						<reg choice_type="char_norm default_archive">endevoured</reg>
+					</choice> to <choice>
+						<orig choice_type="oxford">salue</orig>
+						<reg choice_type="char_norm default_archive">salve</reg>
+					</choice>
+					<choice>
+						<orig>&amp;</orig>
+						<reg choice_type="oxford default_archive expan">and</reg>
+					</choice> recure, they <ref n="calender_319976325">patched<lb ed="webArchive" xml:id="calender.dedicatory_epistle.73"/>
+					<choice>
+						<orig choice_type="oxford">vp</orig>
+						<reg choice_type="char_norm default_archive">up</reg>
+					</choice> the holes with peces <choice>
+						<orig>&amp;</orig>
+						<reg choice_type="oxford default_archive expan">and</reg>
+					</choice> rags</ref><lb break="yes" ed="1579"/> of other
+					languages, borrowing here<lb ed="webArchive" xml:id="calender.dedicatory_epistle.74"/> of the
+					french, there of the Italian, <choice>
+						<orig choice_type="oxford">euery</orig>
+						<reg choice_type="char_norm default_archive">every</reg>
+					</choice> where of the<lb break="yes" ed="1579"/> Latine, not<lb ed="webArchive" xml:id="calender.dedicatory_epistle.75"/>
+					<choice>
+						<orig>vveighing</orig>
+						<reg choice_type="char_norm oxford default_archive">weighing</reg>
+					</choice>
+					<choice>
+						<orig>hovv</orig>
+						<reg choice_type="char_norm oxford default_archive">how</reg>
+					</choice> il, those tongues accorde <choice>
+						<orig>vvith</orig>
+						<reg choice_type="char_norm oxford default_archive">with</reg>
+					</choice>
+					<choice>
+						<orig choice_type="oxford">themselues</orig>
+						<reg choice_type="char_norm default_archive">themselves</reg>
+					</choice>, but much <choice>
+						<orig>vvorse</orig>
+						<reg choice_type="char_norm oxford default_archive">worse</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.76"/>
+					<lb break="yes" ed="1579"/>
+					<choice>
+						<orig>vvith</orig>
+						<reg choice_type="char_norm oxford default_archive">with</reg>
+					</choice> ours: So now they <choice>
+						<orig choice_type="oxford">haue</orig>
+						<reg choice_type="char_norm default_archive">have</reg>
+					</choice> made our English tongue, a <ref n="calender_515693575">gallimaufray</ref><lb ed="webArchive" xml:id="calender.dedicatory_epistle.77"/> 
+					or hodgepodge of<lb break="yes" ed="1579"/> al other
+					speches. Other some <app xml:id="calender.dedicatory_epistle.78.collation.1">
+						<lem wit="#E1581 #E1586 #E1591 #E1597 #E1611" rend="face(roman)">not</lem>
+						<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">no</rdg>
+					</app> so wel <app xml:id="calender.dedicatory_epistle.78.collation.2">
+						<lem rend="face(roman)">seene</lem>
+						<rdg wit="#E1579 #E1581" eclecticCopyText="yes" rend="face(roman)">ſeme</rdg>
+						<rdg wit="#E1586 #E1591 #E1597 #E1611" rend="face(roman)">ſeene</rdg>
+					</app>
+					in the<lb ed="webArchive" xml:id="calender.dedicatory_epistle.78"/> English tonge as
+					perhaps in other lan<lb break="no" ed="1579"/>guages, if <choice>
+						<orig>thẽ</orig>
+						<reg choice_type="oxford default_archive expan">them</reg>
+					</choice> happen to here<lb ed="webArchive" xml:id="calender.dedicatory_epistle.79"/> an olde <choice>
+						<orig>vvord</orig>
+						<reg choice_type="char_norm oxford default_archive">word</reg>
+					</choice> albeit very naturall and significant, crye out<lb break="yes" ed="1579"/>
+						streight<lb ed="webArchive" xml:id="calender.dedicatory_epistle.80"/> way, that we speak
+					no English, but gibbrish, or rather such, as in<lb ed="webArchive" xml:id="calender.dedicatory_epistle.81"/> old time <ref n="calender_803607486"><choice>
+						<orig>Euãders</orig>
+						<reg choice_type="oxford expan">Euanders</reg>
+						<reg choice_type="char_norm">Evãders</reg>
+						<reg choice_type="char_norm default_archive expan">Evanders</reg>
+					</choice><lb break="yes" ed="1579"/> mother</ref> spake.			
+					<choice>
+						<orig>vvhose</orig>
+						<reg choice_type="char_norm">whose</reg>
+						<reg choice_type="space_punct">VVhose</reg>
+						<reg choice_type="space_punct char_norm oxford default_archive">Whose</reg>
+					</choice>
+					<app xml:id="calender.dedicatory_epistle.82.collation">
+						<lem rend="face(roman)">first</lem>
+						<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">fit[ſt] </rdg>
+						<rdg wit="#E1581 #E1586 #E1591 #E1597 #E1611" rend="face(roman)">fir[ſt] </rdg>
+					</app>
+					shame is, that they are<lb ed="webArchive" xml:id="calender.dedicatory_epistle.82"/>
+					not ashamed, in their own mother tonge<lb break="yes" ed="1579"/> straungers to be counted
+						and<lb ed="webArchive" xml:id="calender.dedicatory_epistle.83"/> alienes. The second shame
+					no lesse <note type="disamb" line_number="calender.dedicatory_epistle.84" ref="1611592931_17_6" disamb_type="orig oxford"><span class="glossLineNumber">84. </span><term>then</term>: than</note><span class="disambAnchor" id="Anchor1611592931_17_6"/><choice>
+						<orig choice_type="oxford">then<note type="delete" line_number="calender.dedicatory_epistle.84" ref="1611592931_17_6" disamb_type="orig oxford"><span class="glossLineNumber">84. </span><term>then</term>: than</note></orig>
+						<reg choice_type="disamb default_archive">than</reg>
+					</choice> the first, that what<lb break="yes" ed="1579"/> so they<lb ed="webArchive" xml:id="calender.dedicatory_epistle.84"/>
+					<choice>
+						<orig choice_type="oxford">vnderstand</orig>
+						<reg choice_type="char_norm default_archive">understand</reg>
+					</choice> not, they streight <choice>
+						<orig>vvay</orig>
+						<reg choice_type="char_norm oxford default_archive">way</reg>
+					</choice> deeme to be sencelesse, and not at<lb ed="webArchive" xml:id="calender.dedicatory_epistle.85"/> al to be <choice>
+						<orig choice_type="oxford">vn<pc force="weak">-</pc><lb break="no" ed="1579"/>derstode.</orig>
+						<reg choice_type="char_norm default_archive">un<pc force="weak">-</pc><lb break="no" ed="1579"/>derstode.</reg>
+					</choice> Much like to the Mole in Æsopes fable, that being<lb ed="webArchive" xml:id="calender.dedicatory_epistle.86"/> blynd her selfe, <choice>
+						<orig>vvould</orig>
+						<reg choice_type="char_norm oxford default_archive">would</reg>
+					</choice>
+					<app xml:id="calender.dedicatory_epistle.87.collation">
+						<lem wit="#E1581 #E1586 #E1591 #E1597 #E1611" rend="face(roman)">in no</lem>
+						<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">inno</rdg>
+					</app><lb break="yes" ed="1579"/> wise be perswaded, that any beast could<lb ed="webArchive" xml:id="calender.dedicatory_epistle.87"/> see. The last more shameful <note type="disamb" line_number="calender.dedicatory_epistle.88" ref="1611592931_17_7" disamb_type="orig oxford"><span class="glossLineNumber">88. </span><term>then</term>: than</note><span class="disambAnchor" id="Anchor1611592931_17_7"/><choice>
+						<orig choice_type="oxford">then<note type="delete" line_number="calender.dedicatory_epistle.88" ref="1611592931_17_7" disamb_type="orig oxford"><span class="glossLineNumber">88. </span><term>then</term>: than</note></orig>
+						<reg choice_type="disamb default_archive">than</reg>
+					</choice> both, that of<lb break="yes" ed="1579"/> their <choice>
+						<orig>ovvne</orig>
+						<reg choice_type="char_norm oxford default_archive">owne</reg>
+					</choice> country and<lb ed="webArchive" xml:id="calender.dedicatory_epistle.88"/> natural
+					speach, <choice>
+						<orig>vvhich</orig>
+						<reg choice_type="char_norm oxford default_archive">which</reg>
+					</choice> together <choice>
+						<orig>vvith</orig>
+						<reg choice_type="char_norm oxford default_archive">with</reg>
+					</choice> their Nources milk they<lb break="yes" ed="1579"/> sucked,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.89"/> they <choice>
+						<orig choice_type="oxford">haue</orig>
+						<reg choice_type="char_norm default_archive">have</reg>
+					</choice> so base regard and bastard <choice>
+						<orig choice_type="oxford">iudgement</orig>
+						<reg choice_type="char_norm default_archive">judgement</reg>
+					</choice>, that they <choice>
+						<orig>vvill</orig>
+						<reg choice_type="char_norm oxford default_archive">will</reg>
+					</choice> not<lb ed="webArchive" xml:id="calender.dedicatory_epistle.90"/> onely <choice>
+						<orig choice_type="oxford">them<pc force="weak">-</pc><lb break="no" ed="1579"/>selues</orig>
+						<reg choice_type="char_norm default_archive">them<pc force="weak">-</pc><lb break="no" ed="1579"/>selves</reg>
+					</choice> not labor to garnish <choice>
+						<orig>&amp;</orig>
+						<reg choice_type="expan oxford default_archive">and</reg>
+					</choice> beautifie it, but also repine,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.91"/> 
+					that of other it shold be embel<lb break="no" ed="1579"/>lished. Like to the <ref n="calender_47236271">dogge in the
+						maunger</ref>,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.92"/> 
+					that him selfe can eate no hay, and yet barketh<lb break="yes" ed="1579"/> 
+					at the hungry bullock,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.93"/> that so faine <choice>
+						<orig>vvould</orig>
+						<reg choice_type="char_norm oxford default_archive">would</reg>
+					</choice> feede: <choice>
+						<orig>vvhose</orig>
+						<reg choice_type="char_norm oxford default_archive">whose</reg>
+					</choice> currish kind though cannot be<lb break="yes" ed="1579"/> 
+					kept<lb ed="webArchive" xml:id="calender.dedicatory_epistle.94"/> from barking, yet I <ref n="calender_333571934">conne them thanke</ref> 
+					that they refrain from byting.<lb ed="1579 webArchive" xml:id="calender.dedicatory_epistle.95"/></p>
+				<p rend="paragraph_indent">
+					<choice>
+						<orig>Novv</orig>
+						<reg choice_type="char_norm oxford default_archive">Now</reg>
+					</choice> for the knitting of sentences, <choice>
+						<orig>vvhych</orig>
+						<reg choice_type="char_norm oxford default_archive">whych</reg>
+					</choice> they call the <choice>
+						<orig choice_type="oxford">ioynts</orig>
+						<reg choice_type="char_norm default_archive">joynts</reg>
+					</choice> and <ref n="calender_283641208">members</ref><lb ed="webArchive" xml:id="calender.dedicatory_epistle.96"/> therof,<lb break="yes" ed="1579"/> 
+					and for al the <ref n="calender_799948375">compasse</ref> of the speach, it is round <choice>
+						<orig>vvithout</orig>
+						<reg choice_type="char_norm oxford default_archive">without</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.97"/> roughnesse, and learned 
+					wyth<pc force="weak">-</pc><lb break="no" ed="1579"/>out hardnes, such indeede as may be <choice>
+						<orig choice_type="oxford">perceiued</orig>
+						<reg choice_type="char_norm default_archive">perceived</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.98"/> of the leaste, <choice>
+						<orig choice_type="oxford">vnderstoode</orig>
+						<reg choice_type="char_norm default_archive">understoode</reg>
+					</choice> of the moste,<lb break="yes" ed="1579"/> but <choice>
+						<orig choice_type="oxford">iudged</orig>
+						<reg choice_type="char_norm default_archive">judged</reg>
+					</choice> onely of the learned.<lb ed="webArchive" xml:id="calender.dedicatory_epistle.99"/>
+					For <choice>
+						<orig>vvhat</orig>
+						<reg choice_type="char_norm oxford default_archive">what</reg>
+					</choice> in most English wryters <ref n="calender_157957659"><choice>
+						<orig choice_type="oxford">vseth</orig>
+						<reg choice_type="char_norm default_archive">useth</reg>
+					</choice> to be</ref> loose, and<lb break="yes" ed="1579"/>
+					as it <choice>
+						<orig>vvere</orig>
+						<reg choice_type="char_norm oxford default_archive">were</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.100"/>
+					<ref n="calender_527557206"><choice>
+						<orig choice_type="oxford">vngyrt</orig>
+						<reg choice_type="char_norm default_archive">ungyrt</reg>
+					</choice></ref>, in this Authour is <choice>
+						<orig>vvell</orig>
+						<reg choice_type="char_norm oxford default_archive">well</reg>
+					</choice> grounded, finely framed, and strongly<lb ed="webArchive" xml:id="calender.dedicatory_epistle.101"/>
+					<ref n="calender_804531225">trussed</ref>
+					<choice>
+						<orig choice_type="oxford">vp</orig>
+						<reg choice_type="char_norm default_archive">up</reg>
+					</choice>
+					<lb break="yes" ed="1579"/> together. In regard wherof, I scorne and <ref n="calender_888896074">spue out</ref> 
+					the <ref n="calender_804531225_1">rakehellye</ref><lb ed="webArchive" xml:id="calender.dedicatory_epistle.102"/> 
+					route of our ragged<lb break="yes" ed="1579"/> rymers (for so 
+					<choice>
+						<orig>thẽselues</orig>
+						<reg choice_type="expan oxford default_archive">themselves</reg>
+					</choice>
+					<choice>
+						<orig choice_type="oxford">vse</orig>
+						<reg choice_type="char_norm default_archive">use</reg>
+					</choice> to <ref n="calender_917005913">hunt the letter</ref>)<lb ed="webArchive" xml:id="calender.dedicatory_epistle.103"/>
+					<choice>
+						<orig>vvhich</orig>
+						<reg choice_type="char_norm oxford default_archive">which</reg>
+					</choice>
+					<choice>
+						<orig>vvithout</orig>
+						<reg choice_type="char_norm oxford default_archive">without</reg>
+					</choice> learning boste, <choice>
+						<orig>vvithout</orig>
+						<reg choice_type="char_norm oxford default_archive">without</reg>
+					</choice>
+					<lb break="yes" ed="1579"/>
+					<pb xml:id="pilcrow3r" n="¶3r" prev="#pilcrow2v" next="#pilcrow3v"/><fw place="top-center" rend="face(italics)" type="head">Epistle.</fw>
+					<fw place="bottom-center" rend="face(roman)" type="sig">¶.iij.</fw>
+					<fw place="bottom-right" rend="face(roman)" type="catch"> vaine</fw>
+					<choice>
+						<orig choice_type="oxford">iudgement</orig>
+						<reg choice_type="char_norm default_archive">judgement</reg>
+					</choice>
+					<ref n="calender_165448565"><ref n="calender_175600258"><choice>
+						<orig choice_type="oxford">iangle</orig>
+						<reg choice_type="char_norm default_archive">jangle</reg>
+					</choice></ref></ref><ref n="calender_175600258">, <choice>
+						<orig>vvithout</orig>
+						<reg choice_type="char_norm oxford default_archive">without</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.104"/> reason rage and 
+					fome, as if some instinct of Poeticall spirite<lb break="yes" ed="1579"/> had<lb ed="webArchive" xml:id="calender.dedicatory_epistle.105"/>
+					<choice>
+						<orig>nevvly</orig>
+						<reg choice_type="char_norm oxford default_archive">newly</reg>
+					</choice>
+					<choice>
+						<orig choice_type="oxford">rauished</orig>
+						<reg choice_type="char_norm default_archive">ravished</reg>
+					</choice></ref> them <ref n="calender_26109525"><choice>
+						<orig choice_type="oxford">aboue</orig>
+						<reg choice_type="char_norm default_archive">above</reg>
+					</choice> the meanenesse of commen capacitie</ref>. And being<lb ed="webArchive" xml:id="calender.dedicatory_epistle.106"/> in the<lb break="yes" ed="1579"/> 
+					middest of all theyr <choice>
+						<orig choice_type="oxford">brauery</orig>
+						<reg choice_type="char_norm default_archive">bravery</reg>
+					</choice>, sodenly eyther for <choice>
+						<orig>vvant</orig>
+						<reg choice_type="char_norm oxford default_archive">want</reg>
+					</choice> of matter,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.107"/> or of ryme,
+					or <choice>
+						<orig choice_type="oxford">hauing</orig>
+						<reg choice_type="char_norm default_archive">having</reg>
+					</choice>
+					<choice>
+						<orig choice_type="oxford">for<lb break="no" ed="1579"/> gotten</orig>
+						<reg choice_type="space_punct  default_archive">forgotten<lb break="no" ed="1579emended"/></reg>
+					</choice> theyr former <ref n="calender_415780913">conceipt</ref>, they seeme to<lb ed="webArchive" xml:id="calender.dedicatory_epistle.108"/> 
+					be so pained and <choice>
+						<orig choice_type="oxford">traueiled</orig>
+						<reg choice_type="char_norm default_archive">traveiled</reg>
+					</choice> in theyr remem<pc force="weak">-</pc><lb break="no" ed="1579"/>brance, as it <choice>
+						<orig>vvere</orig>
+						<reg choice_type="char_norm oxford default_archive">were</reg>
+					</choice> a woman<lb ed="webArchive" xml:id="calender.dedicatory_epistle.109"/> in childebirth
+					or as that same <ref n="calender_735948720">Pythia</ref>, <choice>
+						<orig>vvhen</orig>
+						<reg choice_type="char_norm oxford default_archive">when</reg>
+					</choice> the traunce came<lb break="yes" ed="1579"/>
+					<choice>
+						<orig choice_type="oxford">vpon</orig>
+						<reg choice_type="char_norm default_archive">upon</reg>
+					</choice> her.<lb ed="webArchive" xml:id="calender.dedicatory_epistle.110"/>
+					<seg rend="align(centered)" xml:lang="la"><ref n="calender_456568607">Os rabidum fera corda domans</ref>
+						<choice>
+							<orig>&amp;c.</orig>
+							<reg choice_type="expan oxford default_archive">etc.</reg>
+						</choice>
+					</seg>
+					<lb ed="1579 webArchive" xml:id="calender.dedicatory_epistle.111"/></p>
+				<p rend="paragraph_indent">Nethelesse let them a Gods name feede on theyr <choice>
+						<orig>ovvne</orig>
+						<reg choice_type="char_norm oxford default_archive">owne</reg>
+					</choice> folly, so they seeke<lb ed="webArchive" xml:id="calender.dedicatory_epistle.112"/>
+					not to dar<pc force="weak">-</pc><lb break="no" ed="1579"/>ken the beames of others glory. As for <name ref="#Colin"><ref n="calender_824767185">Colin</ref></name><ref n="calender_824767185">, <choice>
+						<orig choice_type="oxford">vnder</orig>
+						<reg choice_type="char_norm default_archive">under</reg>
+					</choice>
+					<choice>
+						<orig>vvhose</orig>
+						<reg choice_type="char_norm oxford default_archive">whose</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.113"/> person the Authour
+						selfe</ref> is<lb break="yes" ed="1579"/>
+					<choice>
+						<orig>shadovved</orig>
+						<reg choice_type="char_norm oxford default_archive">shadowed</reg>
+					</choice>, <choice>
+						<orig>hovv</orig>
+						<reg choice_type="char_norm oxford default_archive">how</reg>
+					</choice> furre he is from such vaunted<lb ed="webArchive" xml:id="calender.dedicatory_epistle.114"/> titles and glorious <choice>
+						<orig>shovves</orig>
+						<reg choice_type="char_norm oxford default_archive">showes</reg>
+					</choice>, both him selfe<lb break="yes" ed="1579"/> sheweth, <choice>
+						<orig>vvhere</orig>
+						<reg choice_type="char_norm oxford default_archive">where</reg>
+					</choice> he sayth.<lb ed="1579 webArchive" xml:id="calender.dedicatory_epistle.115"/></p>
+
+				<lg>
+					<l rend="align(centered)" xml:id="calender.dedicatory_epistle.116"><ref n="calender_957340140">Of Muses 
+						<app xml:id="calender.dedicatory_epistle.116.collation">
+							<lem wit="#E1579 #E1581" eclecticCopyText="yes" rend="face(roman)">Hobbin.</lem>
+							<rdg wit="#E1586 #E1591 #E1597" rend="face(roman)">Hobbin,</rdg>
+							<rdg wit="#E1611" rend="face(roman)">Hobbinoll,</rdg>
+						</app> I conne no skill. 
+						<app>
+							<lem wit="this edn." rend="face(roman)"/>
+							<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)"><span type="float_right">And,</span></rdg>
+						</app>
+					</ref></l><ref n="calender_957340140"> 
+				</ref></lg><ref n="calender_957340140">
+				<app xml:id="calender.dedicatory_epistle.117.collation">
+					<lem wit="this edn." rend="face(roman)"><p>And,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.117"/></p></lem>
+					<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)"/>
+				</app>
+				</ref><lg><ref n="calender_957340140">
+					</ref><l rend="align(centered)" xml:id="calender.dedicatory_epistle.118"><ref n="calender_957340140">Enough is me to paint out
+						my <choice>
+							<orig choice_type="oxford">vnrest</orig>
+							<reg choice_type="char_norm default_archive">unrest</reg>
+						</choice></ref>, <choice>
+							<orig>&amp;c.</orig>
+							<reg choice_type="expan oxford default_archive">etc.</reg>
+						</choice>
+					</l>
+				</lg>
+
+				<p rend="paragraph_indent">And also appeareth by the basenesse of the name, <choice>
+						<orig>vvherein</orig>
+						<reg choice_type="char_norm oxford default_archive">wherein</reg>
+					</choice>, it semeth,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.119"/> he chose
+					rather to<lb break="yes" ed="1579"/>
+					<choice>
+						<orig choice_type="oxford">vnfold</orig>
+						<reg choice_type="char_norm default_archive">unfold</reg>
+					</choice> great matter of <choice>
+						<orig>argumẽt</orig>
+						<reg choice_type="expan oxford default_archive">argument</reg>
+					</choice>
+					<ref n="calender_542398927"><choice>
+						<orig choice_type="oxford">couertly</orig>
+						<reg choice_type="char_norm default_archive">covertly</reg>
+					</choice></ref>, <note type="disamb" line_number="calender.dedicatory_epistle.120" ref="1611592931_18_8" disamb_type="orig oxford"><span class="glossLineNumber">120. </span><term>then</term>: than</note><span class="disambAnchor" id="Anchor1611592931_18_8"/><choice>
+						<orig choice_type="oxford">then<note type="delete" line_number="calender.dedicatory_epistle.120" ref="1611592931_18_8" disamb_type="orig oxford"><span class="glossLineNumber">120. </span><term>then</term>: than</note></orig>
+						<reg choice_type="disamb default_archive">than</reg>
+					</choice> professing<lb ed="webArchive" xml:id="calender.dedicatory_epistle.120"/> it, not
+						<ref n="calender_325651646">suffice</ref> thereto according<lb break="no" ed="1579"/>ly.
+					<choice>
+						<orig>vvhich</orig>
+						<reg choice_type="char_norm">which</reg>
+						<reg choice_type="space_punct">VVhich</reg>
+						<reg choice_type="space_punct char_norm oxford default_archive">Which</reg>
+					</choice>
+					<choice>
+						<orig choice_type="oxford">moued</orig>
+						<reg choice_type="char_norm default_archive">moved</reg>
+					</choice> him rather in Æglogues,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.121"/>
+					<note type="disamb" line_number="calender.dedicatory_epistle.122" ref="1611592931_18_9" disamb_type="orig oxford"><span class="glossLineNumber">122. </span><term>then</term>: than</note><span class="disambAnchor" id="Anchor1611592931_18_9"/><choice>
+						<orig choice_type="oxford">then<note type="delete" line_number="calender.dedicatory_epistle.122" ref="1611592931_18_9" disamb_type="orig oxford"><span class="glossLineNumber">122. </span><term>then</term>: than</note></orig>
+						<reg choice_type="disamb default_archive">than</reg>
+					</choice> other wise to <choice>
+						<orig>vvrite</orig>
+						<reg choice_type="char_norm oxford default_archive">write</reg>
+					</choice>, doubting perhaps<lb break="yes" ed="1579"/> his habilitie, which he<lb ed="webArchive" xml:id="calender.dedicatory_epistle.122"/> little needed, or mynding to
+					furnish our tongue <choice>
+						<orig>vvith</orig>
+						<reg choice_type="char_norm oxford default_archive">with</reg>
+					</choice> this kinde,<lb break="yes" ed="1579"/> 
+					wherein<lb ed="webArchive" xml:id="calender.dedicatory_epistle.123"/> it <ref n="calender_517180336">faulteth</ref>, 
+					or <choice>
+						<orig>follovving</orig>
+						<reg choice_type="char_norm oxford default_archive">following</reg>
+					</choice> the example of the best <choice>
+						<orig>&amp;</orig>
+						<reg choice_type="expan oxford default_archive">and</reg>
+					</choice> most auncient<lb ed="webArchive" xml:id="calender.dedicatory_epistle.124"/> Poetes,
+						which<lb break="yes" ed="1579"/>
+					<choice>
+						<orig choice_type="oxford">deuised</orig>
+						<reg choice_type="char_norm default_archive">devised</reg>
+					</choice> this kind of wryting, being both so base for<lb ed="webArchive" xml:id="calender.dedicatory_epistle.125"/> 
+					the matter, and homely for the man<pc force="weak">-</pc><lb break="no" ed="1579"/>ner, at the first to trye theyr 
+					<ref n="calender_1544807230"><app xml:id="calender.dedicatory_epistle.126.collation">
+						<lem wit="#E1586 #E1591 #E1597 #E1611" rend="face(roman)">habilities:</lem>
+						<rdg wit="#E1579 #E1581" eclecticCopyText="yes" rend="face(roman)">habilities?</rdg>
+					</app></ref><lb ed="webArchive" xml:id="calender.dedicatory_epistle.126"/> 
+					and <ref n="calender_229923177">as young birdes, that be <choice>
+						<orig>nevvly</orig>
+						<reg choice_type="char_norm oxford default_archive">newly</reg>
+					</choice> crept out of<lb break="yes" ed="1579"/> the nest, by little<lb ed="webArchive" xml:id="calender.dedicatory_epistle.127"/> first to 
+					<choice>
+						<orig choice_type="oxford">proue</orig>
+						<reg choice_type="char_norm default_archive">prove</reg>
+					</choice> theyr tender <choice>
+						<orig>vvyngs</orig>
+						<reg choice_type="char_norm oxford default_archive">wyngs</reg>
+					</choice>, before they make a greater flyght</ref>.<lb ed="webArchive" xml:id="calender.dedicatory_epistle.128"/> So<lb break="yes" ed="1579"/>
+					<choice>
+						<orig>flevv</orig>
+						<reg choice_type="char_norm oxford default_archive">flew</reg>
+					</choice>
+					<ref n="calender_17411550"><ref n="calender_44400964">Theocritus</ref></ref><ref n="calender_44400964">, as you may <choice>
+						<orig choice_type="oxford">perceiue</orig>
+						<reg choice_type="char_norm default_archive">perceive</reg>
+					</choice> he <choice>
+						<orig>vvas</orig>
+						<reg choice_type="char_norm oxford default_archive">was</reg>
+					</choice> all ready full fledged.<lb ed="webArchive" xml:id="calender.dedicatory_epistle.129"/> So flew Virgile, as not<lb break="yes" ed="1579"/> yet <choice>
+						<orig>vvell</orig>
+						<reg choice_type="char_norm oxford default_archive">well</reg>
+					</choice> feeling his <app xml:id="calender.dedicatory_epistle.130.collation">
+						<lem wit="#E1591" rend="face(roman)">winges.</lem>
+						<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">vvinges</rdg>
+						<rdg wit="#E1581" rend="face(roman)">vvings.</rdg>
+						<rdg wit="#E1586 #E1597 #E1611" rend="face(roman)">wings.</rdg>
+					</app>
+					So <choice>
+						<orig>flevv</orig>
+						<reg choice_type="char_norm oxford default_archive">flew</reg>
+					</choice>
+					</ref><ref n="calender_115525425"><ref n="calender_44400964">Mantuane</ref></ref><ref n="calender_44400964">,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.130"/> 
+					as being not </ref><ref n="calender_454175489"><ref n="calender_44400964">full somd</ref></ref><ref n="calender_44400964">. 
+					So </ref><ref n="calender_485586022"><ref n="calender_44400964">Petrarque</ref></ref><ref n="calender_44400964">. So<lb break="yes" ed="1579"/>
+					</ref><ref n="calender_367989664"><ref n="calender_44400964">Boccace</ref></ref><ref n="calender_44400964">; So </ref><ref n="calender_817000032"><ref n="calender_44400964">Marot</ref></ref><ref n="calender_44400964">, 
+					</ref><ref n="calender_498943543"><ref n="calender_44400964">Sanazarus</ref></ref>,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.131"/> 
+					and also 
+					<choice>
+						<orig choice_type="oxford">diuers</orig>
+						<reg choice_type="char_norm default_archive">divers</reg>
+					</choice> other excellent both Italian and French<lb break="yes" ed="1579"/> Poetes, <choice>
+						<orig>vvhose</orig>
+						<reg choice_type="char_norm oxford default_archive">whose</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.132"/>
+					<ref n="calender_255762369">foting this Author <choice>
+						<orig choice_type="oxford">euery</orig>
+						<reg choice_type="char_norm default_archive">every</reg>
+					</choice>
+					<choice>
+						<orig>vvhere</orig>
+						<reg choice_type="char_norm oxford default_archive">where</reg>
+					</choice>
+					<choice>
+						<orig>follovveth</orig>
+						<reg choice_type="char_norm oxford default_archive">followeth</reg>
+					</choice>, yet so as few, but they be<lb ed="webArchive" xml:id="calender.dedicatory_epistle.133"/> wel<lb break="yes" ed="1579"/> sented can trace him
+						out</ref>. So finally flyeth this our <choice>
+						<orig>nevv</orig>
+						<reg choice_type="char_norm oxford default_archive">new</reg>
+					</choice> Poete,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.134"/> as a bird,<choice>
+						<orig>vvhose</orig>
+						<reg choice_type="char_norm oxford default_archive">whose</reg>
+					</choice>
+					<ref n="calender_407044659"><ref n="calender_670530011">principals</ref><ref n="calender_670530011"><lb break="yes" ed="1579"/></ref></ref> be 
+					<app xml:id="calender.dedicatory_epistle.135.collation">
+						<lem rend="face(roman)">scarce growen</lem>
+						<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">ſcarcegrovven</rdg>
+						<rdg wit="#E1581" rend="face(roman)">ſcarce grovven</rdg>
+						<rdg wit="#E1586" rend="face(roman)">ſcarce growen</rdg>
+						<rdg wit="#E1591" rend="face(roman)">ſcarſe growne</rdg>
+						<rdg wit="#E1597 #E1611" rend="face(roman)">ſcarce growne</rdg>
+					</app> out, but yet as that <ref n="calender_423833469">in<lb ed="webArchive" xml:id="calender.dedicatory_epistle.135"/> time shall be hable to keepe
+					wing with the best</ref>.<lb ed="1579 webArchive" xml:id="calender.dedicatory_epistle.136"/></p>
+				<p>
+					<choice>
+						<orig>Novv</orig>
+						<reg choice_type="char_norm oxford default_archive">Now</reg>
+					</choice> as touching the <ref n="calender_699740066">generall dryft
+					and purpose</ref> of his Æglogues, I mind<lb ed="webArchive" xml:id="calender.dedicatory_epistle.137"/> not to say<lb break="yes" ed="1579"/> much,
+					him selfe labouring to conceale it. Onely this appeareth,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.138"/> that his <ref n="calender_246892637"><choice>
+						<orig choice_type="oxford">vnstayed</orig>
+						<reg choice_type="char_norm default_archive">unstayed</reg>
+						</choice></ref> yougth<lb break="yes" ed="1579"/> had long <choice>
+						<orig>vvandred</orig>
+						<reg choice_type="char_norm oxford default_archive">wandred</reg>
+					</choice> in the common Labyrinth of<lb ed="webArchive" xml:id="calender.dedicatory_epistle.139"/>
+					<choice>
+						<orig choice_type="oxford">Loue</orig>
+						<reg choice_type="char_norm default_archive">Love</reg>
+					</choice>, in <choice>
+						<orig>vvhich</orig>
+						<reg choice_type="char_norm oxford default_archive">which</reg>
+					</choice> time to mitigate and<lb break="yes" ed="1579"/> allay the heate of his passion,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.140"/> or els to <choice>
+						<orig>vvarne</orig>
+						<reg choice_type="char_norm oxford default_archive">warne</reg>
+					</choice> (as he sayth) the young shepheards <ref n="calender_108582329">.s.</ref>
+					his e<pc force="weak">-</pc><lb break="no" ed="1579"/>qualls<lb ed="webArchive" xml:id="calender.dedicatory_epistle.141"/> and companions of his <choice>
+						<orig choice_type="oxford">vnfortunate</orig>
+						<reg choice_type="char_norm default_archive">unfortunate</reg>
+					</choice> folly, he compiled these <choice>
+						<orig choice_type="oxford">xij.</orig>
+						<reg choice_type="char_norm default_archive">xii.</reg>
+					</choice> Æglogues,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.142"/>
+					<choice>
+						<orig>vvhich</orig>
+						<reg choice_type="char_norm oxford default_archive">which</reg>
+					</choice>
+					<lb break="yes" ed="1579"/> for that they be proportioned to the state of the <choice>
+						<orig choice_type="oxford">xij.</orig>
+						<reg choice_type="char_norm default_archive">xii.</reg>
+					</choice> monethes,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.143"/> he termeth
+					the <seg rend="faintKerning">SHEP<pc force="weak">-</pc><lb break="no" ed="1579"/>HEARDS CALENDAR</seg>, applying an <ref n="calender_659112816">olde name</ref> to a <choice>
+						<orig>nevv</orig>
+						<reg choice_type="char_norm oxford default_archive">new</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.144"/>
+					<choice>
+						<orig>vvorke</orig>
+						<reg choice_type="char_norm oxford default_archive">worke</reg>
+					</choice>. Hereunto<lb break="yes" ed="1579"/>
+					<choice>
+						<orig choice_type="oxford">haue</orig>
+						<reg choice_type="char_norm default_archive">have</reg>
+					</choice> I added a certain <ref n="calender_384303194">Glosse or
+						</ref><ref n="calender_43482971"><ref n="calender_384303194">scholion</ref></ref><ref n="calender_384303194"> for <choice>
+						<orig choice_type="oxford">thexposition</orig>
+						<reg choice_type="space_punct default_archive">th’exposition</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.145"/> of old <choice>
+						<orig>vvordes</orig>
+						<reg choice_type="char_norm oxford default_archive">wordes</reg>
+					</choice>
+					<choice>
+						<orig>&amp;</orig>
+						<reg choice_type="expan oxford default_archive">and</reg>
+					</choice> harder phra<pc force="weak">-</pc><lb break="no" ed="1579"/>ses:
+					<choice>
+						<orig>vvhich</orig>
+						<reg choice_type="char_norm oxford default_archive">which</reg>
+					</choice> maner of glosing and commenting,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.146"/>
+					<choice>
+						<orig>vvell</orig>
+						<reg choice_type="char_norm oxford default_archive">well</reg>
+					</choice> I </ref><ref n="calender_328844131"><ref n="calender_384303194"><choice>
+						<orig>vvote</orig>
+						<reg choice_type="char_norm oxford default_archive">wote</reg>
+					</choice></ref></ref><ref n="calender_384303194">, <choice>
+						<orig>vvil</orig>
+						<reg choice_type="char_norm oxford default_archive">wil</reg>
+					</choice> seeme straunge <choice>
+						<orig>&amp;</orig>
+						<reg choice_type="expan oxford default_archive">and</reg>
+					</choice> rare<lb break="yes" ed="1579"/> in our tongue: yet for somuch<lb ed="webArchive" xml:id="calender.dedicatory_epistle.147"/> as I knew many excellent <choice>
+						<orig>&amp;</orig>
+						<reg choice_type="expan oxford default_archive">and</reg>
+					</choice>
+					</ref><ref n="calender_725327886"><ref n="calender_384303194">proper</ref></ref><ref n="calender_384303194">
+					<choice>
+						<orig choice_type="oxford">deuises</orig>
+						<reg choice_type="char_norm default_archive">devises</reg>
+					</choice> both in wordes<lb break="yes" ed="1579"/> and matter<lb ed="webArchive" xml:id="calender.dedicatory_epistle.148"/>
+					<choice>
+						<orig>vvould</orig>
+						<reg choice_type="char_norm oxford default_archive">would</reg>
+					</choice> passe in the speedy course of reading, either as <choice>
+						<orig>vnknovven</orig>
+						<reg choice_type="char_norm oxford">vnknowen</reg>
+						<reg choice_type="char_norm default_archive">unknowen</reg>
+					</choice>, or<lb ed="webArchive" xml:id="calender.dedicatory_epistle.149"/> as not<lb break="yes" ed="1579"/> marked, and that in this kind, as in other <choice>
+						<orig>vve</orig>
+						<reg choice_type="char_norm oxford default_archive">we</reg>
+					</choice> might be equal<lb ed="webArchive" xml:id="calender.dedicatory_epistle.150"/> to the
+					learned of other </ref>nati<pc force="weak">-</pc><lb break="no" ed="1579"/>ons, I thought good to take the paines<lb ed="webArchive" xml:id="calender.dedicatory_epistle.151"/>
+					<choice>
+						<orig choice_type="oxford">vpon</orig>
+						<reg choice_type="char_norm default_archive">upon</reg>
+					</choice> me, the rather for that by meanes of some fa<lb break="no" ed="1579"/>miliar acquaintaunce<lb ed="webArchive" xml:id="calender.dedicatory_epistle.152"/> I <choice>
+						<orig>vvas</orig>
+						<reg choice_type="char_norm oxford default_archive">was</reg>
+					</choice> made <choice>
+						<orig choice_type="oxford">priuie</orig>
+						<reg choice_type="char_norm default_archive">privie</reg>
+					</choice> to his counsell and secret meaning in them, as<lb break="yes" ed="1579"/> also<lb ed="webArchive" xml:id="calender.dedicatory_epistle.153"/> in sundry other <choice>
+						<orig>vvorks</orig>
+						<reg choice_type="char_norm oxford default_archive">works</reg>
+					</choice> of his.
+					<choice>
+						<orig>vvhich</orig>
+						<reg choice_type="char_norm">which</reg>
+						<reg choice_type="space_punct">VVhich</reg>
+						<reg choice_type="space_punct char_norm oxford default_archive">Which</reg>
+					</choice>
+					albeit I <choice>
+						<orig>knovv</orig>
+						<reg choice_type="char_norm oxford default_archive">know</reg>
+					</choice> he nothing so much<lb ed="webArchive" xml:id="calender.dedicatory_epistle.154"/>
+					hateth, as to<lb break="yes" ed="1579"/> promulgate, yet thus much <choice>
+						<orig choice_type="oxford">haue</orig>
+						<reg choice_type="char_norm default_archive">have</reg>
+					</choice> I <choice>
+						<orig choice_type="oxford">aduentured</orig>
+						<reg choice_type="char_norm default_archive">adventured</reg>
+					</choice>
+					<choice>
+						<orig choice_type="oxford">vpon</orig>
+						<reg choice_type="char_norm default_archive">upon</reg>
+					</choice> his<lb ed="webArchive" xml:id="calender.dedicatory_epistle.155"/> frendship, him
+					selfe being for<lb break="yes" ed="1579"/> long time furre
+					<!--<choice>
+						<orig>furre</orig>
+						<reg regType="characterNormalization">surre</reg>
+					</choice>-->
+					estraunged, hoping that<lb ed="webArchive" xml:id="calender.dedicatory_epistle.156"/> this <choice>
+						<orig>vvill</orig>
+						<reg choice_type="char_norm oxford default_archive">will</reg>
+					</choice> the rather occasion him, to put forth<lb break="yes" ed="1579"/>
+					<choice>
+						<orig choice_type="oxford">diuers</orig>
+						<reg choice_type="char_norm default_archive">divers</reg>
+					</choice> other excellent<lb ed="webArchive" xml:id="calender.dedicatory_epistle.157"/>
+					<choice>
+						<orig>vvorks</orig>
+						<reg choice_type="char_norm oxford default_archive">works</reg>
+					</choice> of his, <choice>
+						<orig>vvhich</orig>
+						<reg choice_type="char_norm oxford default_archive">which</reg>
+					</choice> slepe in silence, as his <ref n="calender_563107014">Dreames, his Legendes,<lb ed="1579 webArchive" xml:id="calender.dedicatory_epistle.158"/> 
+					his Court of Cupide</ref>, 
+					and sondry others; <choice>
+						<orig>vvhose</orig>
+						<reg choice_type="char_norm oxford default_archive">whose</reg>
+					</choice> commendations to set<lb ed="webArchive" xml:id="calender.dedicatory_epistle.159"/>
+					out, <choice>
+						<orig>vvere</orig>
+						<reg choice_type="char_norm oxford default_archive">were</reg>
+					</choice> verye <lb break="yes" ed="1579"/>
+					<pb xml:id="pilcrow3v" n="¶3v" prev="#pilcrow3r" next="#pilcrow4r"/><fw place="top-center" rend="face(italics)" type="head">Epistle.</fw> vayne; the
+					thinges though <choice>
+						<orig>vvorthy</orig>
+						<reg choice_type="char_norm oxford default_archive">worthy</reg>
+					</choice> of many, yet being<lb ed="webArchive" xml:id="calender.dedicatory_epistle.160"/>
+					knowen to few. These my present<lb break="yes" ed="1579"/> paynes if to any they be 
+					<ref n="calender_467808725">pleasurable<lb ed="webArchive" xml:id="calender.dedicatory_epistle.161"/> 
+					or profitable</ref>, be you <choice>
+						<orig choice_type="oxford">iudge</orig>
+						<reg choice_type="char_norm default_archive">judge</reg>
+					</choice>, mine <choice>
+						<orig>ovvn</orig>
+						<reg choice_type="char_norm oxford default_archive">own</reg>
+					</choice> good Maister<lb break="yes" ed="1579"/>
+					<choice>
+						<orig choice_type="oxford">Haruey</orig>
+						<reg choice_type="char_norm default_archive">Harvey</reg>
+					</choice>, to <choice>
+						<orig>vvhom</orig>
+						<reg choice_type="char_norm oxford default_archive">whom</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.162"/> I <choice>
+						<orig choice_type="oxford">haue</orig>
+						<reg choice_type="char_norm default_archive">have</reg>
+					</choice> both in respect of your <choice>
+						<orig>vvorthinesse</orig>
+						<reg choice_type="char_norm oxford default_archive">worthinesse</reg>
+					</choice> generally, and <choice>
+						<orig>othervvyse</orig>
+						<reg choice_type="char_norm oxford default_archive">otherwyse</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.163"/>
+					<lb break="yes" ed="1579"/>
+					<choice>
+						<orig choice_type="oxford">vpon</orig>
+						<reg choice_type="char_norm default_archive">upon</reg>
+					</choice> some particular <choice>
+						<orig>&amp;</orig>
+						<reg choice_type="expan oxford default_archive">and</reg>
+					</choice> special 
+					<app xml:id="calender.dedicatory_epistle.164.collation">
+						<lem rend="face(roman)">considerations</lem>
+						<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">couſiderations</rdg>
+						<rdg wit="#E1581 #E1586 #E1591" rend="face(roman)">conſiderations</rdg>
+						<rdg wit="#E1597 #E1611" rend="face(roman)">conſiderations,</rdg>
+					</app> voued this my labour,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.164"/> and
+					the <ref n="calender_450206272">mayden<pc force="weak">-</pc><lb break="no" ed="1579"/>head of this our commen frends Poetrie</ref>, himselfe <choice>
+						<orig choice_type="oxford">hauing</orig>
+						<reg choice_type="char_norm default_archive">having</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.165"/> already in the
+					beginning dedi<pc force="weak">-</pc><lb break="no" ed="1579"/>cated it to the Noble and <choice>
+						<orig>vvorthy</orig>
+						<reg choice_type="char_norm oxford default_archive">worthy</reg>
+					</choice> Gentleman,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.166"/> the right
+					worshipfull <ref n="calender_861170615"><note type="disamb" line_number="calender.dedicatory_epistle.167" ref="1611592931_18_10" disamb_type="orig oxford"><span class="glossLineNumber">167. </span><term>Ma.</term>: Master</note><span class="disambAnchor" id="Anchor1611592931_18_10"/><note type="disamb" line_number="calender.dedicatory_epistle.167" ref="1611592931_18_11" disamb_type="reg disamb default_archive"><span class="glossLineNumber">167. </span><term>Mr</term>: Master</note><span class="disambAnchor" id="Anchor1611592931_18_11"/><choice>
+						<orig choice_type="oxford">Ma.<note type="delete" line_number="calender.dedicatory_epistle.167" ref="1611592931_18_10" disamb_type="orig oxford"><span class="glossLineNumber">167. </span><term>Ma.</term>: Master</note></orig>
+						<reg choice_type="disamb default_archive">Mr<note type="delete" line_number="calender.dedicatory_epistle.167" ref="1611592931_18_11" disamb_type="reg disamb default_archive"><span class="glossLineNumber">167. </span><term>Mr</term>: Master</note></reg></choice>
+					Phi. Sidney</ref>, a<lb break="yes" ed="1579"/>
+					special <choice>
+						<orig choice_type="oxford">fauourer</orig>
+						<reg choice_type="char_norm default_archive">favourer</reg>
+					</choice>
+					<choice>
+						<orig>&amp;</orig>
+						<reg choice_type="expan oxford default_archive">and</reg>
+					</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.167"/> maintainer of all kind
+					of <app xml:id="calender.dedicatory_epistle.168.collation">
+						<lem wit="#E1581 #E1586 #E1591 #E1597 #E1611" rend="face(roman)">learning.</lem>
+						<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">learning.)</rdg>
+					</app>
+					<choice>
+						<orig>VVhose</orig>
+						<reg choice_type="char_norm oxford default_archive">Whose</reg>
+					</choice>
+					cause I pray you Sir, yf<lb ed="1579 webArchive" xml:id="calender.dedicatory_epistle.168"/>
+					<ref n="calender_732972523"><choice>
+						<orig choice_type="oxford">Enuie</orig>
+						<reg choice_type="char_norm default_archive">Envie</reg>
+					</choice>
+					</ref> shall stur <choice>
+						<orig choice_type="oxford">vp</orig>
+						<reg choice_type="char_norm default_archive">up</reg>
+					</choice> any wrongful accusasion, defend <choice>
+						<orig>vvith</orig>
+						<reg choice_type="char_norm oxford default_archive">with</reg>
+					</choice>
+					<ref n="calender_736608225">your mighty<lb ed="webArchive" xml:id="calender.dedicatory_epistle.169"/> Rhetorick</ref>
+					<choice>
+						<orig>&amp;</orig>
+						<reg choice_type="expan oxford default_archive">and</reg>
+					</choice> other<lb break="yes" ed="1579"/> your rare gifts of learning, as you can, <choice>
+						<orig>&amp;</orig>
+						<reg choice_type="expan oxford default_archive">and</reg>
+					</choice> shield<lb ed="webArchive" xml:id="calender.dedicatory_epistle.170"/> with your good <choice>
+						<orig>vvil</orig>
+						<reg choice_type="char_norm oxford default_archive">wil</reg>
+					</choice>, as you ought, against<lb break="yes" ed="1579"/> the malice and outrage of<lb ed="webArchive" xml:id="calender.dedicatory_epistle.171"/> so many enemies, as I <choice>
+						<orig>knovv</orig>
+						<reg choice_type="char_norm oxford default_archive">know</reg>
+					</choice>
+					<choice>
+						<orig>vvilbe</orig>
+						<reg choice_type="char_norm oxford default_archive">wilbe</reg>
+					</choice> set on fire with the sparks<lb break="yes" ed="1579"/> of his<lb ed="webArchive" xml:id="calender.dedicatory_epistle.172"/> kindled glory. And thus <choice>
+						<orig>recõmending</orig>
+						<reg choice_type="expan oxford default_archive">recommending</reg>
+					</choice> the Author <choice>
+						<orig choice_type="oxford">vnto</orig>
+						<reg choice_type="char_norm default_archive">unto</reg>
+					</choice> you, as <choice>
+						<orig choice_type="oxford">vnto</orig>
+						<reg choice_type="char_norm default_archive">unto</reg>
+					</choice> his<lb ed="webArchive" xml:id="calender.dedicatory_epistle.173"/> most spe<pc force="weak">-</pc><lb break="no" ed="1579"/>cial good frend, and my selfe <choice>
+						<orig choice_type="oxford">vnto</orig>
+						<reg choice_type="char_norm default_archive">unto</reg>
+					</choice> you both, as one making<lb ed="webArchive" xml:id="calender.dedicatory_epistle.174"/> singuler account of <choice>
+						<orig>tvvo</orig>
+						<reg choice_type="char_norm oxford default_archive">two</reg>
+					</choice> so<lb break="yes" ed="1579"/> very good and so choise frends, I bid you<lb ed="webArchive" xml:id="calender.dedicatory_epistle.175"/> 
+					both most hartely <choice>
+						<orig>farvvel</orig>
+						<reg choice_type="char_norm oxford default_archive">farwel</reg>
+					</choice>, and commit you <choice>
+						<orig>&amp;</orig>
+						<reg choice_type="expan oxford default_archive">and</reg>
+					</choice>
+					<lb break="yes" ed="1579"/> your most commendable<lb ed="webArchive" xml:id="calender.dedicatory_epistle.176"/> 
+					studies to the tuicion of the greatest.<lb ed="1579 webArchive" xml:id="calender.dedicatory_epistle.177"/></p>
+				<closer>
+					<signed>
+						<seg rend="face(italics)">Your owne assuredly to</seg> <lb break="yes" ed="1579 webArchive" xml:id="calender.dedicatory_epistle.178"/><seg rend="face(italics)">be commaunded</seg> 
+						E.K.<lb ed="webArchive" xml:id="calender.dedicatory_epistle.179"/></signed>
+				</closer>
+				<postscript>
+					<label>
+						<hi rend="face(italics) "><ref n="calender_407568184">Post
+							scr</ref></hi><ref n="calender_407568184"><lb ed="webArchive" xml:id="calender.dedicatory_epistle.180"/>
+					</ref></label><ref n="calender_407568184">
+					</ref><p><ref n="calender_407568184"><hi rend="face(drop-caps) face(italics)">N</hi><choice>
+									<orig>Ovv</orig>
+									<reg choice_type="space_punct">ovv</reg>
+									<reg choice_type="char_norm">Ow</reg>
+									<reg choice_type="char_norm space_punct oxford default_archive">ow</reg>
+								</choice> I trust <note type="disamb" line_number="calender.dedicatory_epistle.181" ref="1611592931_18_12" disamb_type="orig oxford"><span class="glossLineNumber">181. </span><term>M.</term>: Master</note><span class="disambAnchor" id="Anchor1611592931_18_12"/><note type="disamb" line_number="calender.dedicatory_epistle.181" ref="1611592931_19_13" disamb_type="reg disamb default_archive"><span class="glossLineNumber">181. </span><term>Mr</term>: Master</note><span class="disambAnchor" id="Anchor1611592931_19_13"/><choice>
+							<orig choice_type="oxford">M.<note type="delete" line_number="calender.dedicatory_epistle.181" ref="1611592931_18_12" disamb_type="orig oxford"><span class="glossLineNumber">181. </span><term>M.</term>: Master</note></orig>
+							<reg choice_type="disamb default_archive">Mr<note type="delete" line_number="calender.dedicatory_epistle.181" ref="1611592931_19_13" disamb_type="reg disamb default_archive"><span class="glossLineNumber">181. </span><term>Mr</term>: Master</note></reg>
+						</choice>
+						<choice>
+							<orig choice_type="oxford">Haruey</orig>
+							<reg choice_type="char_norm default_archive">Harvey</reg>
+						</choice>, that <choice>
+							<orig choice_type="oxford">vpon</orig>
+							<reg choice_type="char_norm default_archive">upon</reg>
+						</choice> sight of your speciall frends<lb ed="webArchive" xml:id="calender.dedicatory_epistle.181"/> and fellow Poets<lb break="yes" ed="1579"/> doings, or
+						els for <choice>
+							<orig choice_type="oxford">enuie</orig>
+							<reg choice_type="char_norm default_archive">envie</reg>
+						</choice> of so many <choice>
+							<orig choice_type="oxford">vnworthy</orig>
+							<reg choice_type="char_norm default_archive">unworthy</reg>
+						</choice>
+						<seg xml:lang="la"><ref n="calender_443542548">Quidams</ref></seg></ref><ref n="calender_407568184">,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.182"/>
+						<choice>
+							<orig>vvhich</orig>
+							<reg choice_type="char_norm oxford default_archive">which</reg>
+						</choice> catch at the gar<pc force="weak">-</pc><lb break="no" ed="1579"/>lond,
+						<choice>
+							<orig>vvhich</orig>
+							<reg choice_type="char_norm oxford default_archive">which</reg>
+						</choice> to you alone is <choice>
+							<orig>devve</orig>
+							<reg choice_type="char_norm oxford default_archive">dewe</reg>
+						</choice>, you <choice>
+							<orig>vvill</orig>
+							<reg choice_type="char_norm oxford default_archive">will</reg>
+						</choice> be<lb ed="webArchive" xml:id="calender.dedicatory_epistle.183"/>
+						<choice>
+							<orig>persvvaded</orig>
+							<reg choice_type="char_norm oxford default_archive">perswaded</reg>
+						</choice> to pluck out of the hateful<lb break="yes" ed="1579"/> darknesse, those so
+						many excellent<lb ed="webArchive" xml:id="calender.dedicatory_epistle.184"/> English
+						poemes of yours, <choice>
+							<orig>vvhich</orig>
+							<reg choice_type="char_norm oxford default_archive">which</reg>
+						</choice> lye hid, and bring <choice>
+							<orig>thẽ</orig>
+							<reg choice_type="expan oxford default_archive">them</reg>
+						</choice>
+						<lb break="yes" ed="1579"/> forth to eternall<lb ed="webArchive" xml:id="calender.dedicatory_epistle.185"/> light. Trust me you doe both them great
+						wrong, in <choice>
+							<orig choice_type="oxford">depriuing</orig>
+							<reg choice_type="char_norm default_archive">depriving</reg>
+						</choice> them of<lb ed="1579 webArchive" xml:id="calender.dedicatory_epistle.186"/> the desired sonne, and also your selfe, in
+						smoothering your <choice>
+							<orig choice_type="oxford">deserued</orig>
+							<reg choice_type="char_norm default_archive">deserved</reg>
+						</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.187"/> prayses, and all
+							men<lb break="yes" ed="1579"/> generally, in withholding from them so <choice>
+							<orig choice_type="oxford">diuine</orig>
+							<reg choice_type="char_norm default_archive">divine</reg>
+						</choice><lb ed="webArchive" xml:id="calender.dedicatory_epistle.188"/> pleasures, which
+						they might <choice>
+							<orig choice_type="oxford">conceiue</orig>
+							<reg choice_type="char_norm default_archive">conceive</reg>
+						</choice> of<lb break="yes" ed="1579"/> your gallant English verses,<lb ed="webArchive" xml:id="calender.dedicatory_epistle.189"/> as they <choice>
+							<orig choice_type="oxford">haue</orig>
+							<reg choice_type="char_norm default_archive">have</reg>
+						</choice> already doen of your </ref><ref n="calender_994664681"><ref n="calender_407568184">Latine
+							Poemes</ref></ref><ref n="calender_407568184">, which in<lb break="yes" ed="1579"/>
+						my opinion<lb ed="webArchive" xml:id="calender.dedicatory_epistle.190"/> both for <choice>
+							<orig choice_type="oxford">inuention</orig>
+							<reg choice_type="char_norm default_archive">invention</reg>
+						</choice>
+						<app xml:id="calender.dedicatory_epistle.191.collation">
+							<lem wit="#E1586" rend="face(roman)">and Elocution</lem>
+							<rdg wit="#E1579" eclecticCopyText="yes" rend="face(roman)">aud Elocution</rdg>
+							<rdg wit="#E1581" rend="face(roman)">and Elocutiō</rdg>
+							<rdg wit="#E1591" rend="face(roman)">an Elocu-| tion</rdg>
+							<rdg wit="#E1597" rend="face(roman)">and elocution</rdg>
+							<rdg wit="#E1611" rend="face(roman)">and elocution,</rdg>
+						</app> are very delicate, and superexcellent.<lb ed="webArchive" xml:id="calender.dedicatory_epistle.191"/> And<lb break="yes" ed="1579"/> thus againe, I take my <choice>
+							<orig choice_type="oxford">leaue</orig>
+							<reg choice_type="char_norm default_archive">leave</reg>
+						</choice> of my good Mayster
+						<choice>
+							<orig choice_type="oxford">Haruey.</orig>
+							<reg choice_type="char_norm default_archive">Harvey.</reg>
+						</choice>
+						<choice>
+                            <orig>from</orig>
+                            <reg choice_type="space_punct oxford default_archive">From</reg>
+                        </choice> my<lb ed="webArchive" xml:id="calender.dedicatory_epistle.192"/> lodging at
+							London<lb break="yes" ed="1579"/> thys 10. of Aprill. </ref><hi rend="faintKerning"><ref n="calender_407568184">1579</ref></hi>.<lb ed="1579 webArchive" xml:id="calender.dedicatory_epistle.193"/></p>
+				</postscript>
+			</div><pb/></selectedText>

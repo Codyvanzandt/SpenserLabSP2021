@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="A2r" n="A2r" prev="#A1v" next="#A2v"/><div xmlns="http://www.tei-c.org/ns/1.0" rend="face(italics)" type="commendatory_poems" xml:lang="la">
+            <head type="onlineRunningTitle">Commendatory Poem</head>
+            
+            <div>
+               
+            <head>
+               <ref n="theatre_1316026447667810" xml:id="theatre_1316026447667810">In
+                  commendationem</ref> operis ab<lb break="yes" ed="1569 webArchive" xml:id="theatre.commendatory_poem.1.0.1"/>
+               <hi rend="face(roman)">Nobiliss. <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">et</reg>
+                  </choice> virtutis Studiosissimo</hi>
+               <hi rend="face(roman)">Do<pc force="weak">-</pc></hi><lb break="no" ed="1569"/><choice><orig><hi rend="face(italics)">mino,</hi></orig><reg choice_type="space_punct oxford default_archive"><hi rend="face(roman)">mino,</hi></reg></choice><lb ed="webArchive" xml:id="theatre.commendatory_poem.1.0.2"/> 
+               Ioanne van der Noodt<lb break="yes" ed="1569 webArchive" xml:id="theatre.commendatory_poem.1.0.3"/> Patricio Antuerpiensi<lb break="yes" ed="1569 webArchive" xml:id="theatre.commendatory_poem.1.0.4"/>æditi, Carmen.<lb break="yes" ed="1569 webArchive" xml:id="theatre.commendatory_poem.1.0.5"/> 
+               M.<hi rend="face(small-caps)">RABILAE.</hi> Poetę Brabant.<lb break="yes" ed="1569 webArchive" xml:id="theatre.commendatory_poem.1.0.6"/></head>
+            <lg type="poem">
+
+               <l xml:id="theatre.commendatory_poem.1.1">
+                  <ref n="theatre_1316026447670167" xml:id="theatre_1316026447670167">
+                  <choice>
+                     <orig><hi rend="face(drop-caps)">H</hi>Æc</orig>
+                     <reg choice_type="space_punct oxford default_archive"><hi rend="face(drop-caps)">H</hi>æc</reg>
+                  </choice></ref> Babylon legat, 
+                  <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">et</reg>
+                  </choice> discat sustollere cœlo </l>
+               <l xml:id="theatre.commendatory_poem.1.2">Hactenus addictum terræ caput, hic rata vitæ</l>
+               <l xml:id="theatre.commendatory_poem.1.3">Semita, quam specimen Nothœæ nobile gentis</l>
+               <l xml:id="theatre.commendatory_poem.1.4">Dat legere, ille domo patria, <choice>
+                  <orig>certis<g ref="#que">que</g></orig>
+                  <reg choice_type="expan oxford default_archive">certisque</reg>
+               </choice> triumphis</l>
+               <l xml:id="theatre.commendatory_poem.1.5">Contemptis, <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">et</reg>
+                  </choice> quæ poterant spondere Curules,</l>
+               <l xml:id="theatre.commendatory_poem.1.6">Conscius haud <choice>
+                     <orig choice_type="oxford">vllo</orig>
+                     <reg choice_type="char_norm default_archive">ullo</reg>
+                  </choice> virtutem sanguine condi,</l>
+               <l xml:id="theatre.commendatory_poem.1.7">Ad maiora animum tulit, <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">et</reg>
+                  </choice> dat noscere mundo,</l>
+               <l xml:id="theatre.commendatory_poem.1.8">Hoc opere insignem luctum, <choice>
+                  <orig>tristes<g ref="#que">que</g></orig>
+                  <reg choice_type="expan oxford default_archive">tristesque</reg>
+               </choice> labores</l>
+               <l xml:id="theatre.commendatory_poem.1.9">Vitæ huius: legat hæc Babylon, legat, imbuat aures</l>
+               <l xml:id="theatre.commendatory_poem.1.10">Illius hoc opus, <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">et</reg>
+                  </choice> si cui calligine cæca</l>
+               <l xml:id="theatre.commendatory_poem.1.11">Mens cooperata iacet, qui <choice>
+                     <orig choice_type="oxford">deuia</orig>
+                     <reg choice_type="char_norm default_archive">devia</reg>
+                  </choice> saxa pererrat</l>
+               <l xml:id="theatre.commendatory_poem.1.12">Rectum oblitus iter: licet illi hic nube redusta</l>
+               <l xml:id="theatre.commendatory_poem.1.13">Summum vestigare bonum: doctrina Sophorum</l>
+               <l xml:id="theatre.commendatory_poem.1.14">Ventilat, <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">et</reg>
+                  </choice> falso verum confundit inani.</l>
+               <l xml:id="theatre.commendatory_poem.1.15">O stolidas hominum mentes! non iste Deorum</l>
+               <l xml:id="theatre.commendatory_poem.1.16">Cultus: <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">et</reg>
+                  </choice> quando hos crudeli fune flagellans</l>
+
+               <pb xml:id="A2v" n="A2v" prev="#A2r" next="#A3r"/><fw place="top-center" rend="face(italics)" type="head">Carmina.</fw>
+               <l xml:id="theatre.commendatory_poem.1.17">Conscia mens corruptum <choice>
+                     <orig>animŭ</orig>
+                     <reg choice_type="expan oxford default_archive">animum</reg>
+                  </choice> ad meliora reducet!</l>
+               <l xml:id="theatre.commendatory_poem.1.18">
+                  <choice>
+                     <orig choice_type="oxford">Vt</orig>
+                     <reg choice_type="char_norm default_archive">Ut</reg>
+                  </choice> iaceant idola! suus, quo cuncta <choice>
+                     <orig choice_type="oxford">mouentur</orig>
+                     <reg choice_type="char_norm default_archive">moventur</reg>
+                  </choice>,</l>
+               <l xml:id="theatre.commendatory_poem.1.19">Restituatur honos! aliquando benignior astris,</l>
+               <l xml:id="theatre.commendatory_poem.1.20">Deciderit fortuna tamen, <choice>
+                  <orig>nostros<g ref="#que">que</g></orig>
+                  <reg choice_type="expan oxford default_archive">nostrosque</reg>
+               </choice> labores,</l>
+               <l xml:id="theatre.commendatory_poem.1.21">Terrarum <choice>
+                     <orig choice_type="oxford">vt</orig>
+                     <reg choice_type="char_norm default_archive">ut</reg>
+                  </choice> fremitent furiata mente Tyranni,</l>
+               <l xml:id="theatre.commendatory_poem.1.22">Respiciet miserans summi regnat or Olympi.</l>
+               <l xml:id="theatre.commendatory_poem.1.23">At veræ <choice>
+                  <orig>quicun<g ref="#que">que</g></orig>
+                  <reg choice_type="expan oxford default_archive">quicunque</reg>
+               </choice> viæ dinoscere Sydus,</l>
+               <l xml:id="theatre.commendatory_poem.1.24"><choice>
+                     <orig choice_type="oxford">Ardescisue</orig>
+                     <reg choice_type="char_norm default_archive">Ardescisve</reg>
+                  </choice> ducem, doctos <choice>
+                     <orig choice_type="oxford">euolue</orig>
+                     <reg choice_type="char_norm default_archive">evolve</reg>
+                  </choice> labores,</l>
+               <l xml:id="theatre.commendatory_poem.1.25">Quos doctus tibi Nothæus <choice>
+                     <orig choice_type="oxford">vigilauit</orig>
+                     <reg choice_type="char_norm default_archive">vigilavit</reg>
+                  </choice> ad <choice>
+                     <orig choice_type="oxford">vnguem</orig>
+                     <reg choice_type="char_norm default_archive">unguem</reg>
+                  </choice>,</l>
+               <l xml:id="theatre.commendatory_poem.1.26"><choice>
+                  <orig>E<g ref="#que">que</g></orig>
+                  <reg choice_type="expan oxford default_archive">Eque</reg>
+               </choice> vaporato fumo, qui corda tenebat,</l>
+               <l xml:id="theatre.commendatory_poem.1.27">Cultor agri tristes nebulas, <choice>
+                     <orig choice_type="oxford">vti</orig>
+                     <reg choice_type="char_norm default_archive">uti</reg>
+                  </choice> sole fugari</l>
+               <l xml:id="theatre.commendatory_poem.1.28">Aspicit, <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">et</reg>
+                  </choice> campos risum <choice>
+                     <orig choice_type="oxford">renouare</orig>
+                     <reg choice_type="char_norm default_archive">renovare</reg>
+                  </choice> iacentes,</l>
+               <l xml:id="theatre.commendatory_poem.1.29">Lucem ita conspicies tibi diluxisse serenam.</l>
+            </lg>
+            </div>
+            <div>
+            <head>
+               <hi rend="face(all-caps)">
+                  <ref n="theatre_1347642000450">DOCTOR 
+                  <ref n="theatre_1316026447670295" xml:id="theatre_1316026447670295">
+                     <choice>
+                        <orig choice_type="oxford">GERARDVS</orig>
+                        <reg choice_type="char_norm default_archive">GERARDUS</reg>
+                     </choice>
+                     <choice>
+                        <orig choice_type="oxford">GOOSSENIVS</orig>
+                        <reg choice_type="char_norm default_archive">GOOSSENIUS</reg>
+                     </choice>
+                  </ref>
+               </ref></hi><ref n="theatre_1347642000450">
+               <lb break="yes" ed="1569 webArchive" xml:id="theatre.commendatory_poem.2.0.1"/>
+               <hi rend="face(roman)">
+                   Medicus, Physicus, 
+                  <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">et</reg>
+                  </choice> Poeta Brabant. moder.
+               </hi>
+               <lb break="yes" ed="1569 webArchive" xml:id="theatre.commendatory_poem.2.0.2"/>
+               </ref><hi rend="face(roman)"><ref n="theatre_1347642000450">
+                   in Zoilum</ref> 
+                  Octastichon.
+               </hi>
+               <lb break="yes" ed="1569 webArchive" xml:id="theatre.commendatory_poem.2.0.3"/>
+            </head>
+            <lg type="poem">
+               <l xml:id="theatre.commendatory_poem.2.1">
+                  <ref n="theatre_1316026447670333" xml:id="theatre_1316026447670333">
+                      <choice>
+                          <orig><hi rend="face(drop-caps)">Z</hi>Oile</orig>
+                          <reg choice_type="space_punct oxford default_archive"><hi rend="face(drop-caps)">Z</hi>oile</reg>
+                      </choice>
+                  </ref> cur palles? cur vultus semper
+                  amarus?</l>
+               <l rend="align(indented_1)" xml:id="theatre.commendatory_poem.2.2">Triste supercilium <choice>
+                  <orig>frons<g ref="#que">que</g></orig>
+                  <reg choice_type="expan oxford default_archive">fronsque</reg>
+               </choice> caprata tibi?</l>
+               <l xml:id="theatre.commendatory_poem.2.3">Displicet <choice>
+                     <orig choice_type="oxford">vt</orig>
+                     <reg choice_type="char_norm default_archive">ut</reg>
+                  </choice> video luci datus iste libellus:</l>
+               <l rend="align(indented_1)" xml:id="theatre.commendatory_poem.2.4">Sed rogo cur oculis displicet iste
+                  tuis?</l>
+               <l xml:id="theatre.commendatory_poem.2.5">An quia papicolum ritus <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">et</reg>
+                  </choice> sacra <choice>
+                     <orig choice_type="oxford">reuellit</orig>
+                     <reg choice_type="char_norm default_archive">revellit</reg>
+                  </choice>
+                  </l>
+               <l rend="align(indented_1)" xml:id="theatre.commendatory_poem.2.6">Idolis, viduam nec Babylona dolet?</l>
+               <l xml:id="theatre.commendatory_poem.2.7">Zoile, non curat morsus, nam sufficit illi,</l>
+               <l rend="align(indented_1)" xml:id="theatre.commendatory_poem.2.8">Perplacuisse bonis, displicuisse
+                  malis.</l>
+            </lg>
+               
+            <trailer>
+               <hi rend="face(roman) align(centered)">Inoffensibilis Goosseni.</hi><lb break="yes" ed="1569 webArchive" xml:id="theatre.commendatory_poem.2.9"/>
+            </trailer>
+            </div>
+         </div><pb/></selectedText>

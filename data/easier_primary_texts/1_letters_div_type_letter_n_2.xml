@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="A3r" n="A3r" prev="#A2v" next="#A3v"/><div xmlns="http://www.tei-c.org/ns/1.0" n="2" rend="face(blackletter)" type="letter">
+                  <head type="onlineRunningTitle">Letter 1</head>
+
+                  <head rend="face(roman)">Three proper wittie fami<pc force="weak">-</pc><lb break="no" ed="1580"/>liar
+                     <lb break="yes" ed="1580emended webArchive" xml:id="letters.letter_1.0.1"/> Letters, lately passed <choice>
+                        <orig>be<pc force="weak">-</pc><lb break="no" ed="1580"/>tvvene</orig>
+                        <reg choice_type="char_norm oxford default_archive">be<pc force="weak">-</pc><lb break="no" ed="1580"/>twene</reg>
+                     </choice>
+                     <lb break="yes" ed="1580emended webArchive" xml:id="letters.letter_1.0.2"/>
+                     <choice>
+                        <orig>tvvo</orig>
+                        <reg choice_type="char_norm default_archive oxford">two</reg>
+                     </choice>
+                     <choice>
+                        <orig choice_type="oxford">Vniuersitie</orig>
+                        <reg choice_type="char_norm default_archive">Universitie</reg>
+                     </choice> men, tou<pc force="weak">-</pc><lb break="no" ed="1580"/>ching
+                     <lb break="yes" ed="1580emended webArchive" xml:id="letters.letter_1.0.3"/> the Earthquake in April
+                     last, <lb break="yes" ed="1580 webArchive" xml:id="letters.letter_1.0.4"/> and our English reformed
+                        Versifying.<lb break="yes" ed="1580 webArchive" xml:id="letters.letter_1.0.5"/></head>
+                  <div type="body_of_letter">
+                     <salute rend="face(roman)">To my <ref n="letters_1344611538393" xml:id="letters_1344611538393">long <choice>
+                              <orig choice_type="oxford">approoued</orig>
+                              <reg choice_type="char_norm default_archive">approoved</reg>
+                           </choice></ref> and singular<lb break="yes" ed="1580"/> good frende, Master <hi rend="face(italics)">G.H.</hi>
+                        <lb break="yes" ed="1580 webArchive" xml:id="letters.letter_1.1"/>
+                     </salute>
+                     <p>
+                        <choice>
+                           <orig>
+                              <hi rend="face(ornamental)">G</hi><hi rend="face(roman)">Ood</hi>
+                           </orig>
+                           <reg choice_type="space_punct default_archive oxford">
+                              <hi rend="face(ornamental)">G</hi><hi rend="face(roman)">ood</hi>
+                           </reg>
+                        </choice>
+                        <hi rend="face(roman)">Master H. </hi>I doubt not but you<lb break="yes" ed="1580"/>
+                        <choice>
+                           <orig choice_type="oxford">haue</orig>
+                           <reg choice_type="char_norm default_archive">have</reg>
+                        </choice> some great important<lb ed="webArchive" xml:id="letters.letter_1.2"/> matter
+                           in<lb break="yes" ed="1580"/> hande, which al this while restraineth<lb break="yes" ed="1580"/>
+                        youre Penne, and wonted<lb ed="webArchive" xml:id="letters.letter_1.3"/> readinesse<lb break="yes" ed="1580"/> in <choice>
+                           <orig choice_type="oxford">prouoking</orig>
+                           <reg choice_type="char_norm default_archive">provoking</reg>
+                        </choice> me <choice>
+                           <orig choice_type="oxford">vnto</orig>
+                           <reg choice_type="char_norm default_archive">unto</reg>
+                        </choice>
+                        <ref n="letters_1344611577256"> that, wherein<lb break="yes" ed="1580"/> your
+                        selfe nowe faulte</ref>.<lb ed="webArchive" xml:id="letters.letter_1.4"/> If there bee a<pc force="weak">-</pc><lb break="no" ed="1580"/>ny such thing <ref n="letters_1344611609651" xml:id="letters_1344611609651">in hatching</ref>,
+                        I pray you<lb break="yes" ed="1580"/> hartily, lette<lb ed="webArchive" xml:id="letters.letter_1.5"/>
+                        <choice>
+                           <orig choice_type="oxford">vs</orig>
+                           <reg choice_type="char_norm default_archive">us</reg>
+                        </choice> knowe, before al the<lb break="yes" ed="1580"/> worlde see it. But if <ref n="letters_1344611635658" xml:id="letters_1344611635658">happly</ref> you <ref n="letters_1344611665742">dwell altogither<lb ed="webArchive" xml:id="letters.letter_1.6"/> in<hi rend="face(roman)">
+                           <choice>
+                              <orig choice_type="oxford">Iustini<pc force="weak">-</pc><lb break="no" ed="1580"/>ans</orig>
+                              <reg choice_type="char_norm default_archive">Justini<pc force="weak">-</pc><lb break="no" ed="1580"/>ans</reg>
+                           </choice>
+                        </hi> Courte</ref>, and <choice>
+                           <orig choice_type="oxford">giue</orig>
+                           <reg choice_type="char_norm default_archive">give</reg>
+                        </choice> your<lb ed="webArchive" xml:id="letters.letter_1.7"/> selfe to be <choice>
+                           <orig choice_type="oxford"><ref n="letters_1344611697416">deuoured</ref></orig><reg choice_type="char_norm default_archive"><ref n="letters_1344611697416">devoured</ref></reg>
+                        </choice> of secreate<lb break="yes" ed="1580"/> Studies, as of all likelyhood<lb ed="webArchive" xml:id="letters.letter_1.8"/> you doe: yet at least imparte<lb break="yes" ed="1580"/> some your olde, or newe, Latine, or Englishe,<lb ed="webArchive" xml:id="letters.letter_1.9"/> Eloquent and<lb break="yes" ed="1580"/> Gallant
+                        Poesies to <choice>
+                           <orig choice_type="oxford">vs</orig>
+                           <reg choice_type="char_norm default_archive">us</reg>
+                        </choice>, from whose eyes, you saye, you<lb ed="webArchive" xml:id="letters.letter_1.10"/> keepe <lb break="yes" ed="1580"/>
+                        <ref n="letters_1344612979437" xml:id="letters_1344612979437">in a manner</ref> nothing hidden. <ref n="letters_1344613002798" xml:id="letters_1344613002798">Little newes</ref> is here stirred:<lb break="yes" ed="1580"/> but<lb ed="webArchive" xml:id="letters.letter_1.11"/> that <ref n="letters_1344613032837" xml:id="letters_1344613032837">olde greate matter</ref> still <ref n="letters_1344613067045" xml:id="letters_1344613067045">depending</ref>. His Honoure<lb break="yes" ed="1580"/>
+                        <choice>
+                           <orig choice_type="oxford">neuer</orig>
+                           <reg choice_type="char_norm default_archive">never</reg>
+                        </choice> better.<lb ed="webArchive" xml:id="letters.letter_1.12"/> I thinke the <hi rend="face(roman)">Earthquake </hi> was <ref n="letters_1344613093603" xml:id="letters_1344613093603">also there</ref> wyth<lb break="yes" ed="1580"/> you
+                        (which I would gladly<lb ed="webArchive" xml:id="letters.letter_1.13"/> learne) as it was
+                        here with <choice>
+                           <orig choice_type="oxford">vs</orig>
+                           <reg choice_type="char_norm default_archive">us</reg>
+                        </choice>:<lb break="yes" ed="1580"/>
+                        <choice>
+                           <orig choice_type="oxford"><ref n="letters_1344613124652">ouerthrowing</ref></orig><reg choice_type="char_norm default_archive"><ref n="letters_1344613124652">overthrowing</ref></reg>
+                        </choice><ref n="letters_1344613124652">
+                        <choice>
+                           <orig choice_type="oxford">diuers</orig>
+                           <reg choice_type="char_norm default_archive">divers</reg>
+                        </choice><lb ed="webArchive" xml:id="letters.letter_1.14"/> old buildings, and peeces of
+                           Churches</ref>. <lb break="yes" ed="1580"/> Sure
+                        verye straunge to be hearde<lb ed="webArchive" xml:id="letters.letter_1.15"/> of in these
+                        Countries, and<lb break="yes" ed="1580"/> yet I heare some saye (I knowe not howe<lb ed="webArchive" xml:id="letters.letter_1.16"/> truely) that they <lb break="yes" ed="1580"/>
+
+                        <pb xml:id="A3v" n="A3v" prev="#A3r" next="#A4r"/>
+                        <fw place="top-center" type="pag">6</fw>
+                        <fw place="bottom-right" rend="face(roman)" type="catch">Sidneys</fw>
+                        <choice>
+                           <orig choice_type="oxford">haue</orig>
+                           <reg choice_type="char_norm default_archive">have</reg>
+                        </choice> knowne the like before <ref n="letters_1344613151252" xml:id="letters_1344613151252">in
+                           their dayes</ref>. <lb ed="webArchive" xml:id="letters.letter_1.17"/>
+                        <hi rend="face(italics)" xml:lang="la"><ref n="letters_1344613175789">Sed quid vobis vi<pc force="weak">-</pc><lb break="no" ed="1580"/>detur magnis Philosophis?</ref></hi> I like your <ref n="letters_1344613207525" xml:id="letters_1344613207525">late</ref><lb ed="webArchive" xml:id="letters.letter_1.18"/>
+                        <ref n="letters_1344613230203">Englishe Hexame<pc force="weak">-</pc><lb break="no" ed="1580"/>ters</ref> so exceedingly well, that I also <ref n="letters_1344613252783" xml:id="letters_1344613252783">enure</ref><lb ed="webArchive" xml:id="letters.letter_1.19"/> 
+                        my Penne some<pc force="weak">-</pc><lb break="no" ed="1580"/>time in that kinde: <ref n="letters_1344613435129" xml:id="letters_1344613435129"><ref n="letters_1565027081" xml:id="letters_1565027081">whyche</ref></ref> I
+                        fynd indeede, as I <choice>
+                           <orig choice_type="oxford">haue</orig>
+                           <reg choice_type="char_norm default_archive">have</reg>
+                        </choice><lb ed="webArchive" xml:id="letters.letter_1.20"/> heard<lb break="yes" ed="1580"/> you
+                        often defende <ref n="letters_1344613282924" xml:id="letters_1344613282924">in worde</ref>, neither so
+                        harde, nor so harshe,<lb ed="1580 webArchive" xml:id="letters.letter_1.21"/>
+                        <app xml:id="letters.letter_1.22.collation">
+                           <lem wit="#Harvey">but that</lem>
+                           <rdg wit="#E1580" eclecticCopyText="yes">that</rdg>
+                        </app> it will easily and fairely, yeelde it selfe to <ref n="letters_1565027097" xml:id="letters_1565027097">oure Moother<lb ed="1580 webArchive" xml:id="letters.letter_1.22"/> tongue.</ref> <ref n="letters_1344613374914">For the onely, or chiefest hardnesse,
+                        whych seemeth,<lb break="yes" ed="1580"/> is in<lb ed="webArchive" xml:id="letters.letter_1.23"/> the
+                        Accente: whyche sometime gapeth, and as it were<lb break="yes" ed="1580"/> yawneth <choice>
+                           <orig choice_type="oxford"><ref n="letters_1344613463179">ilfauouredly</ref></orig><reg choice_type="char_norm default_archive"><ref n="letters_1344613463179">ilfavouredly</ref></reg>
+                        </choice>,<lb ed="webArchive" xml:id="letters.letter_1.24"/> comming shorte of that it
+                        should, and<lb break="yes" ed="1580"/> sometime exceeding the measure<lb ed="webArchive" xml:id="letters.letter_1.25"/> of the Number, as in <hi rend="face(roman)">
+                           Car<pc force="weak">-</pc><lb break="no" ed="1580"/>penter,
+                        </hi> the middle sillable being<lb ed="webArchive" xml:id="letters.letter_1.26"/>
+                        <choice>
+                           <orig choice_type="oxford">vsed</orig>
+                           <reg choice_type="char_norm default_archive">used</reg>
+                        </choice> shorte in speache, when<lb break="yes" ed="1580"/> it shall be read long in <choice>
+                           <orig choice_type="oxford">Uerse</orig>
+                           <reg choice_type="char_norm default_archive">Verse</reg>
+                        </choice>,<lb ed="webArchive" xml:id="letters.letter_1.27"/> seemeth like <hi rend="face(roman)"> a lame Gosling,<lb break="yes" ed="1580"/> that draweth one legge
+                           after hir: </hi>and<lb ed="webArchive" xml:id="letters.letter_1.28"/>
+                        <hi rend="face(roman)">
+                           <choice>
+                              <orig choice_type="oxford">Heauen</orig>
+                              <reg choice_type="char_norm default_archive">Heaven</reg>
+                           </choice>,</hi> beeing <choice>
+                           <orig choice_type="oxford">vsed</orig>
+                           <reg choice_type="char_norm default_archive">used</reg>
+                        </choice>
+                        <lb break="yes" ed="1580"/> shorte as one sillable, when it is<lb ed="webArchive" xml:id="letters.letter_1.29"/> in 
+                        
+                        <app xml:id="letters.letter_1.30.collation">
+                           <lem wit="this edn"><choice>
+                                 <orig choice_type="oxford">Uerse,</orig>
+                                 <reg choice_type="char_norm default_archive">Verse,</reg>
+                              </choice></lem>
+                           <rdg wit="#E1580" eclecticCopyText="yes">Uerſe,</rdg>
+                        </app> stretched out with<lb break="yes" ed="1580"/> a <hi rend="face(italics)">Diastole</hi>, is like </ref><hi rend="face(roman)"><ref n="letters_1344613374914">a<lb ed="webArchive" xml:id="letters.letter_1.30"/> lame Dogge that holdes <choice>
+                              <orig choice_type="oxford">vp</orig>
+                              <reg choice_type="char_norm default_archive">up</reg>
+                           </choice> one legge</ref>.</hi>
+                        <lb break="yes" ed="1580"/>
+                        <ref n="letters_1344613520801">But it is to be wonne with<lb ed="webArchive" xml:id="letters.letter_1.31"/> Custome, and rough words must<lb break="yes" ed="1580"/> be subdued with Use.</ref> For, why a Gods<lb ed="webArchive" xml:id="letters.letter_1.32"/> name may not we,<lb break="yes" ed="1580"/> as else the Greekes, <choice>
+                           <orig choice_type="oxford">haue</orig>
+                           <reg choice_type="char_norm default_archive">have</reg>
+                        </choice> the kingdome of oure owne<lb ed="webArchive" xml:id="letters.letter_1.33"/>
+                        Lan<pc force="weak">-</pc><lb break="no" ed="1580"/>guage, and measure our Accentes, by the sounde, <choice>
+                           <orig choice_type="oxford">reseruing</orig>
+                           <reg choice_type="char_norm default_archive">reserving</reg>
+                        </choice>
+                        <lb break="yes" ed="1580"/> the<lb ed="webArchive" xml:id="letters.letter_1.34"/> Quantitie to the <choice>
+                           <orig choice_type="oxford">Uerse</orig>
+                           <reg choice_type="char_norm default_archive">Verse</reg>
+                        </choice>? Loe here I let you see my olde<lb break="yes" ed="1580"/>
+                        <choice>
+                           <orig choice_type="oxford">vse</orig>
+                           <reg choice_type="char_norm default_archive">use</reg>
+                        </choice> of <ref n="letters_1468852413024017" xml:id="letters_1468852413024017">toying</ref><lb ed="webArchive" xml:id="letters.letter_1.35"/> in <ref n="letters_1344613597168">Rymes, turned into your <ref n="letters_1344613564377" xml:id="letters_1344613564377">artificial</ref>
+                        </ref><ref n="letters_1344613632672"><ref n="letters_1344613597168">straight</ref><ref n="letters_1344613597168"><pc force="weak">-</pc></ref><ref n="letters_1344613597168"><lb break="no" ed="1580"/></ref><ref n="letters_1344613597168">nesse</ref></ref><ref n="letters_1344613597168"><lb ed="webArchive" xml:id="letters.letter_1.36"/> of </ref><choice><orig choice_type="oxford"><ref n="letters_1344613597168">Uerse</ref></orig>
+                           
+                        <reg choice_type="char_norm default_archive"><ref n="letters_1344613597168">Verse</ref></reg>
+                        </choice>, by this <ref n="letters_1344613680328">
+                        </ref><hi rend="face(italics)"><ref n="letters_1344613680328">Tetrasticon</ref>.</hi> I beseech you tell me your<lb break="yes" ed="1580"/> fancie,<lb ed="webArchive" xml:id="letters.letter_1.37"/> without parcialitie. <lb break="yes" ed="1580"/>
+                        <lb ed="webArchive" xml:id="letters.letter_1.38"/></p>
+                     <lg rend="face(roman)" type="poem">
+                        <l xml:id="letters.letter_1.39-1">See yee the blindefoulded <ref n="letters_1344614039748" xml:id="letters_1344614039748">pretie</ref> God, that feathered
+                           Archer,</l>
+                        <l xml:id="letters.letter_1.40-2">Of <choice>
+                              <orig choice_type="oxford">Louers</orig>
+                              <reg choice_type="char_norm default_archive">Lovers</reg>
+                           </choice> Miseries which maketh his bloodie Game?</l>
+                        <l xml:id="letters.letter_1.41-3">
+                           <ref n="letters_1344614061500" xml:id="letters_1344614061500">Wote</ref> ye why, his Moother with a
+                              <ref n="letters_1344614085422" xml:id="letters_1344614085422">Veale</ref> hath <choice>
+                              <orig choice_type="oxford">coouered</orig>
+                              <reg choice_type="char_norm default_archive">coovered</reg>
+                           </choice> his Face?</l>
+                        <l xml:id="letters.letter_1.42-4">Trust me, <ref n="letters_1344614108068" xml:id="letters_1344614108068">least</ref> he my <choice>
+                              <orig choice_type="oxford">Looue</orig>
+                              <reg choice_type="char_norm default_archive">Loove</reg>
+                           </choice>
+                           <ref n="letters_1344614129364" xml:id="letters_1344614129364"> happely</ref> chaunce to
+                           beholde.</l>
+                     </lg>
+                     <p> Seeme they comparable to <ref n="letters_1344614148731" xml:id="letters_1344614148731">those
+                           two</ref>, which I translated<lb break="yes" ed="1580"/> you <hi rend="face(italics)" xml:lang="la"><ref n="letters_1344614174627" xml:id="letters_1344614174627">ex
+                           tempore</ref></hi><lb ed="webArchive" xml:id="letters.letter_1.43"/>
+                        <ref n="letters_1344614216003" xml:id="letters_1344614216003">in bed, the last time we lay
+                           togither</ref> in <ref n="letters_1344614257964">West<pc force="weak">-</pc><lb break="no" ed="1580"/>minster?</ref>
+                        <lb ed="webArchive" xml:id="letters.letter_1.44"/>
+                        <lb break="yes" ed="1580"/>
+                     </p>
+                     <lg rend="face(roman)" type="poem">
+                        <l xml:id="letters.letter_1.45-1">
+                           <ref n="letters_1344614321786">That which I eate, did I <choice>
+                              <orig choice_type="oxford">ioy</orig>
+                              <reg choice_type="char_norm default_archive">joy</reg>
+                           </choice>, and that which I greedily gorged, </ref></l><ref n="letters_1344614321786">
+                        </ref><l xml:id="letters.letter_1.46-2"><ref n="letters_1344614321786"> As for those many goodly matters leaft I for
+                              others</ref>. </l>
+                     </lg>
+                     <p>
+                        <ref n="letters_1344614423449">I would hartily wish, you would
+                        either send me the Rules<lb break="yes" ed="1580"/> and Precepts<lb ed="webArchive" xml:id="letters.letter_1.47"/> of Arte, which you <choice>
+                           <orig choice_type="oxford">obserue</orig>
+                           <reg choice_type="char_norm default_archive">observe</reg>
+                        </choice> in Quantities, or<lb break="yes" ed="1580"/> else followe mine,<lb ed="webArchive" xml:id="letters.letter_1.48"/> that <hi rend="face(roman)">M. Philip
+                           Sidney </hi>
+                        <choice>
+                           <orig choice_type="oxford">gaue</orig>
+                           <reg choice_type="char_norm default_archive">gave</reg>
+                        </choice> me, being the<lb break="yes" ed="1580"/> very same which <hi rend="face(roman)">M. Drant</hi><lb ed="webArchive" xml:id="letters.letter_1.49"/>
+                        <choice>
+                           <orig choice_type="oxford">deuised</orig>
+                           <reg choice_type="char_norm default_archive">devised</reg>
+                        </choice>, but enlarged with <hi rend="face(roman)">M. </hi>
+                        <lb break="yes" ed="1580"/>
+                        <pb xml:id="A4r" n="A4r" prev="#A3v" next="#A4v"/>
+                        <fw place="top-center" type="pag">7</fw>
+                        <fw place="bottom-right" type="catch" xml:lang="la">certè</fw>
+                        <hi rend="face(roman)">Sidneys</hi> own <choice>
+                           <orig choice_type="oxford">iudgement</orig>
+                           <reg choice_type="char_norm default_archive">judgement</reg>
+                        </choice>,<lb ed="webArchive" xml:id="letters.letter_1.50"/> and augmented with my <choice>
+                           <orig choice_type="oxford">Obserua<pc force="weak">-</pc><lb break="no" ed="1580"/>tions,</orig>
+                           <reg choice_type="char_norm default_archive">Observa<pc force="weak">-</pc><lb break="no" ed="1580"/>tions,</reg>
+                        </choice><lb ed="webArchive" xml:id="letters.letter_1.51"/> that we might both accorde
+                        and agree in one: leaste<lb break="yes" ed="1580"/> we <choice>
+                           <orig choice_type="oxford">ouerthrowe</orig>
+                           <reg choice_type="char_norm default_archive">overthrowe</reg>
+                        </choice><lb ed="webArchive" xml:id="letters.letter_1.52"/> one an other, and be <choice>
+                           <orig choice_type="oxford">ouerthrown</orig>
+                           <reg choice_type="char_norm default_archive">overthrown</reg>
+                        </choice> of the rest.</ref><lb break="yes" ed="1580"/> Truste me, you<lb ed="webArchive" xml:id="letters.letter_1.53"/> will
+                        hardly <choice>
+                           <orig choice_type="oxford">beleeue</orig>
+                           <reg choice_type="char_norm default_archive">beleeve</reg>
+                        </choice> what greate good liking<lb break="yes" ed="1580"/> and <ref n="letters_1344614457014" xml:id="letters_1344614457014">estimation</ref>
+                        <ref n="letters_1344614478240">Maister<lb ed="webArchive" xml:id="letters.letter_1.54"/>
+                        </ref><hi rend="face(roman)"><ref n="letters_1344614478240">Dyer</ref></hi>
+                        had of youre <hi rend="face(roman)">Satyricall Verses,</hi>
+                        <lb break="yes" ed="1580"/> and I, since the viewe thereof,<lb ed="webArchive" xml:id="letters.letter_1.55"/>
+                        <choice>
+                           <orig choice_type="oxford">hauing</orig>
+                           <reg choice_type="char_norm default_archive">having</reg>
+                        </choice> before <ref n="letters_1344614503649" xml:id="letters_1344614503649">of my selfe</ref>
+                           had<lb break="yes" ed="1580"/> speciall liking of <hi rend="face(roman)">Englishe
+                           Versifying,</hi><lb ed="webArchive" xml:id="letters.letter_1.56"/> am <choice>
+                           <orig choice_type="oxford">euen</orig>
+                           <reg choice_type="char_norm default_archive">even</reg>
+                        </choice> nowe aboute<lb break="yes" ed="1580"/> to <choice>
+                           <orig choice_type="oxford">giue</orig>
+                           <reg choice_type="char_norm default_archive">give</reg>
+                        </choice> you some token, what, and howe well therein<lb ed="webArchive" xml:id="letters.letter_1.57"/> I am<lb break="yes" ed="1580"/> able to doe: for, to tell you
+                        trueth, I <ref n="letters_1344614537864" xml:id="letters_1344614537864">minde</ref> shortely at <choice>
+                           <orig choice_type="oxford">con<pc force="weak">-</pc><lb break="no" ed="1580"/>uenient</orig>
+                           <reg choice_type="char_norm default_archive">con<pc force="weak">-</pc><lb break="no" ed="1580"/>venient</reg>
+                        </choice>
+                        <lb ed="webArchive" xml:id="letters.letter_1.58"/> leysure, to sette forth a Booke <ref n="letters_1344614559943" xml:id="letters_1344614559943">in this kinde</ref>, whyche<lb break="yes" ed="1580"/>
+                        I entitle, <lb ed="webArchive" xml:id="letters.letter_1.59"/>
+                        <hi rend="face(italics)"><ref n="letters_1344614581416" xml:id="letters_1344614581416">Epithalamion
+                              Thamesis</ref></hi>, whyche Booke I dare<lb break="yes" ed="1580"/>
+                        <choice>
+                           <orig choice_type="oxford"><ref n="letters_1344614612951">vndertake</ref></orig><reg choice_type="char_norm default_archive"><ref n="letters_1344614612951">undertake</ref></reg>
+                        </choice> wil be<lb ed="webArchive" xml:id="letters.letter_1.60"/> very <ref n="letters_1344614685427" xml:id="letters_1344614685427">profitable for the knowledge</ref>, and
+                           <ref n="letters_1344614635279" xml:id="letters_1344614635279">rare</ref>
+                        <lb break="yes" ed="1580"/> for the <choice>
+                           <orig choice_type="oxford"><ref n="letters_1344614660152">Inuention</ref></orig><reg choice_type="char_norm default_archive"><ref n="letters_1344614660152">Invention</ref></reg>
+                        </choice>,<lb ed="webArchive" xml:id="letters.letter_1.61"/> and manner of handling.
+                           <ref n="letters_1344614718526">For in setting<lb break="yes" ed="1580"/>
+                        forth the marriage of the Thames:<lb ed="webArchive" xml:id="letters.letter_1.62"/> I
+                        shewe his first begin<pc force="weak">-</pc><lb break="no" ed="1580"/>ning, and <ref n="letters_1344614751268" xml:id="letters_1344614751268">offspring</ref>, and all
+                           the<lb ed="webArchive" xml:id="letters.letter_1.63"/> Countrey, that he passeth<lb break="yes" ed="1580"/> thorough, and also describe all the <choice>
+                           <orig choice_type="oxford">Riuers</orig>
+                           <reg choice_type="char_norm default_archive">Rivers</reg>
+                        </choice><lb ed="webArchive" xml:id="letters.letter_1.64"/> throughout En<pc force="weak">-</pc><lb break="no" ed="1580"/>glande, whyche came to this Wedding, and their<lb ed="webArchive" xml:id="letters.letter_1.65"/> righte na<pc force="weak">-</pc><lb break="no" ed="1580"/>mes, and right passage, <choice>
+                           <orig>&amp;c</orig>
+                           <reg choice_type="expan default_archive oxford">etc</reg>
+                        </choice>.</ref> A worke <choice>
+                           <orig choice_type="oxford">beleeue</orig>
+                           <reg choice_type="char_norm default_archive">beleeve</reg>
+                        </choice> me,<lb ed="webArchive" xml:id="letters.letter_1.66"/> of much<lb break="yes" ed="1580"/>
+                        labour, wherein notwithstanding Master <ref n="letters_1344614774654">
+                        </ref><hi rend="face(roman)"><ref n="letters_1344614774654">Holinshed</ref></hi> hath<lb break="yes" ed="1580"/> muche<lb ed="webArchive" xml:id="letters.letter_1.67"/>
+                        furthered and <choice>
+                           <orig choice_type="oxford">aduantaged</orig>
+                           <reg choice_type="char_norm default_archive">advantaged</reg>
+                        </choice> me, who therein hath be<pc force="weak">-</pc><lb break="no" ed="1580"/>stowed singular paines,<lb ed="webArchive" xml:id="letters.letter_1.68"/> in searching
+                        oute their firste heades,<lb break="yes" ed="1580"/> and sourses: and also in
+                           tracing,<lb ed="webArchive" xml:id="letters.letter_1.69"/> and <ref n="letters_1344614798527" xml:id="letters_1344614798527">dogging oute</ref> all their<lb break="yes" ed="1580"/> Course, til they fall into the Sea.<lb break="yes" ed="1580"/>
+                        <lb ed="webArchive" xml:id="letters.letter_1.70"/></p>
+                     <lg rend="face(italics)" type="poem" xml:lang="la">
+                        <l xml:id="letters.letter_1.71-1">
+                           <ref n="letters_1344614822766">O Tite, siquid, ego, </ref></l><ref n="letters_1344614822766">
+                        </ref><l xml:id="letters.letter_1.72-2"><ref n="letters_1344614822766"> Ecquid erit <choice>
+                              <orig choice_type="oxford">pretij</orig>
+                              <reg choice_type="char_norm default_archive">pretii</reg>
+                           </choice>?</ref>
+                        </l>
+                     </lg>
+                     <p> But of that more hereafter. Nowe, my <hi rend="face(roman)"><ref n="letters_1344614861558">Dreames</ref></hi><ref n="letters_1344614861558">, and<lb break="yes" ed="1580"/>
+                        </ref><hi rend="face(roman)"><ref n="letters_1344614861558">dying Pellicane</ref></hi>,<lb ed="webArchive" xml:id="letters.letter_1.73"/> being fully finished (as I partelye <ref n="letters_1344614883741">signi<pc force="weak">-</pc><lb break="no" ed="1580"/>fied</ref> in my laste<lb ed="webArchive" xml:id="letters.letter_1.74"/> Letters) and
+                        presentlye to bee imprinted, I<lb break="yes" ed="1580"/> wil <ref n="letters_1344614924567" xml:id="letters_1344614924567">in <app xml:id="letters.letter_1.75.collation">
+                           <lem wit="this edn">hande</lem>
+                           <rdg wit="#E1580" eclecticCopyText="yes">haude</rdg>
+                        </app> forthwith<lb ed="webArchive" xml:id="letters.letter_1.75"/> with</ref> my <hi rend="face(roman)"><ref n="letters_1344614947132" xml:id="letters_1344614947132">Faery
+                           Queene</ref></hi>, whyche I<lb break="yes" ed="1580"/> praye you hartily send me with
+                        al <ref n="letters_1344614968102" xml:id="letters_1344614968102">expedition</ref>:<lb ed="webArchive" xml:id="letters.letter_1.76"/> and your frend<pc force="weak">-</pc><lb break="no" ed="1580"/>ly Letters, and long expected <choice>
+                           <orig choice_type="oxford">Iudgement</orig>
+                           <reg choice_type="char_norm default_archive">Judgement</reg>
+                        </choice>
+                        <ref n="letters_1344614989436" xml:id="letters_1344614989436"> wythal</ref>, whyche<lb ed="1580 webArchive" xml:id="letters.letter_1.77"/> let not be shorte, but in all pointes
+                           <ref n="letters_1344615015621">suche, as you ordinarilye<lb break="yes" ed="1580"/>
+                        </ref><choice><orig choice_type="oxford"><ref n="letters_1344615015621">vse</ref></orig>
+                           
+                        <reg choice_type="char_norm default_archive"><ref n="letters_1344615015621">use</ref></reg>
+                        </choice>,<lb ed="webArchive" xml:id="letters.letter_1.78"/> and I extraordinarily
+                        desire. <hi rend="face(italics)" xml:lang="la">
+                           <ref n="letters_1344615037740" xml:id="letters_1344615037740">Multum vale.</ref> Westminster.<lb break="yes" ed="1580"/>
+                           <ref n="letters_1344615057972" xml:id="letters_1344615057972">Quarto Nonas<lb ed="webArchive" xml:id="letters.letter_1.79"/> Aprilis</ref> 1580. <ref n="letters_1344615086348"> Sed, amabò te, Meum Corculum ti<pc force="weak">-</pc><lb break="no" ed="1580"/>bi se ex animo<lb ed="webArchive" xml:id="letters.letter_1.80"/> commendat
+                           plurimùm: iamdiu mirata, te nihil ad li<pc force="weak">-</pc><lb break="no" ed="1580"/>teras suas<lb ed="webArchive" xml:id="letters.letter_1.81"/> responsi dedisse.
+                           Vide quæso, ne id tibi Capitale sit: <app xml:id="letters.letter_1.82.collation">
+                              <lem wit="#1580" varSeq="1" eclecticCopyText="yes">Mihi</lem>
+                              <rdg wit="#1580" varSeq="2">Mih</rdg>
+                           </app>
+                           <lb break="yes" ed="1580"/>
+                           
+                           <lb ed="webArchive" xml:id="letters.letter_1.82"/>
+                           <pb xml:id="A4v" n="A4v" prev="#A4r" next="#B1r"/>
+                           <fw place="top-center" type="pag">8</fw>
+                           certè quidem erit, <choice>
+                              <orig>ne<g ref="#que">que</g></orig>
+                              <reg choice_type="expan default_archive oxford">neque</reg>
+                           </choice> tibi hercle impunè, <choice>
+                              <orig choice_type="oxford">vt</orig>
+                              <reg choice_type="char_norm default_archive">ut</reg>
+                           </choice> opinor,<lb ed="webArchive" xml:id="letters.letter_1.83"/> Iterum vale, <choice>
+                              <orig>&amp;</orig>
+                              <reg choice_type="expan default_archive oxford">et</reg>
+                           </choice>
+                           <lb break="yes" ed="1580"/> quàm voles sæpè</ref>.</hi>
+                        <lb break="yes" ed="1580"/>
+                        <lb ed="webArchive" xml:id="letters.letter_1.84"/></p>
+                     <closer><hi rend="face(roman)">Yours alwayes to commaunde</hi><lb break="yes" ed="1580 webArchive" xml:id="letters.letter_1.85"/>
+                        <hi rend="face(italics)">IMMERITO.</hi><lb ed="webArchive" xml:id="letters.letter_1.86"/>
+                     </closer>
+                  </div>
+
+                  <div type="postscript">
+                     <head rend="face(italics)">Postscripte.<lb ed="webArchive" xml:id="letters.letter_1.87"/></head>
+
+                     <p> I <ref n="letters_1344615108979" xml:id="letters_1344615108979">take best</ref> my <hi rend="face(roman)">Dreames</hi> shoulde come forth <ref n="letters_1344615129955" xml:id="letters_1344615129955">alone</ref>, being<lb break="yes" ed="1580"/>
+                        <ref n="letters_1344615167722">growen by meanes<lb ed="webArchive" xml:id="letters.letter_1.88"/> of the <choice><orig>Glosse, (</orig><reg choice_type="space_punct oxford default_archive">Glosse (</reg></choice><choice>
+                           <orig>rũning</orig>
+                           <reg choice_type="expan default_archive oxford">running</reg>
+                        </choice> continually in ma<pc force="weak">-</pc><lb break="no" ed="1580"/>ner of a <choice><orig>Paraphrase)</orig><reg choice_type="space_punct oxford default_archive">Paraphrase),</reg></choice><lb ed="webArchive" xml:id="letters.letter_1.89"/> full as
+                        great as my <hi rend="face(roman)">Calendar.</hi> Therin<lb break="yes" ed="1580"/> be
+                        some things excellently, and<lb ed="webArchive" xml:id="letters.letter_1.90"/> many
+                        things wittily discour<pc force="weak">-</pc><lb break="no" ed="1580"/>sed of </ref><ref n="letters_1344615194172"><ref n="letters_1344615167722">
+                        </ref></ref><ref n="letters_1344615167722"><hi rend="face(roman)"><ref n="letters_1344615194172">E. K.</ref></hi>
+                        and the Pictures<lb ed="webArchive" xml:id="letters.letter_1.91"/> so singularly set
+                        forth, and pur<pc force="weak">-</pc><lb break="no" ed="1580"/>trayed, <app xml:id="letters.letter_1.92.collation">
+                           <lem wit="this edn">as,</lem>
+                           <rdg wit="#E1580" eclecticCopyText="yes">as</rdg>
+                        </app> if </ref><ref n="letters_1344615214090"><ref n="letters_1344615167722">
+                        </ref></ref><ref n="letters_1344615167722"><hi rend="face(roman)"><ref n="letters_1344615214090">Michael<lb ed="webArchive" xml:id="letters.letter_1.92"/>
+                              Angelo</ref></hi> were there, he
+                        could (I think)<lb break="yes" ed="1580"/>
+                        <ref n="letters_1344615240747" xml:id="letters_1344615240747">nor amende</ref> the best, nor
+                           reprehende<lb ed="webArchive" xml:id="letters.letter_1.93"/> the worst</ref>. I know you<lb break="yes" ed="1580"/> woulde lyke
+                        them passing wel. Of my <hi rend="face(italics)"><ref n="letters_1344615265915" xml:id="letters_1344615265915">Stemmata<lb ed="webArchive" xml:id="letters.letter_1.94"/> Dudleiana</ref></hi><hi rend="face(roman)">,</hi> <lb break="yes" ed="1580"/> and
+                        especially of the sundry Apostrophes therein, addressed<lb ed="1580 webArchive" xml:id="letters.letter_1.95"/> you knowe to whome, muste more <choice>
+                           <orig choice_type="oxford">aduisement</orig>
+                           <reg choice_type="char_norm default_archive">advisement</reg>
+                        </choice> be had, than<lb break="yes" ed="1580"/> so lightly to<lb ed="webArchive" xml:id="letters.letter_1.96"/> sende them abroade: howbeit, trust me (though<lb break="yes" ed="1580"/> I doe <choice>
+                           <orig choice_type="oxford">neuer</orig>
+                           <reg choice_type="char_norm default_archive">never</reg>
+                        </choice> very 
+                        <choice>
+                           <orig>well,)</orig>
+                           <reg choice_type="space_punct oxford default_archive">well),</reg>
+                        </choice>
+                        
+                        <!--<app>
+                           <lem wit="this edn.">well),</lem>
+                           <rdg eclecticCopyText="yes" wit="#E1580">well,)</rdg>
+                        </app>--><lb ed="webArchive" xml:id="letters.letter_1.97"/> yet in my owne fancie, I <choice>
+                           <orig choice_type="oxford">neuer</orig>
+                           <reg choice_type="char_norm default_archive">never</reg>
+                        </choice> dyd<lb break="yes" ed="1580"/> better: <hi rend="face(italics)" xml:lang="la"><ref n="letters_1344615291829" xml:id="letters_1344615291829">Veruntamen te sequor solùm:<lb ed="webArchive" xml:id="letters.letter_1.98"/> nunquam verò assequar</ref>.</hi>
+                        <lb break="yes" ed="1580"/>
+                        <lb ed="webArchive" xml:id="letters.letter_1.99"/></p>
+                  </div>
+               </div><pb/></selectedText>

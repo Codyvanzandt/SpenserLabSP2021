@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="pilcrow1r" n="¶1r" next="#pilcrow1v"/><titlePage xmlns="http://www.tei-c.org/ns/1.0" n="front">
+				<note type="headnote"><ref n="calender_titlePage_headnote">[headnote]</ref></note>
+                    <docTitle>
+					<titlePart type="main">
+						<seg rend="face(italics) size(1.75em) line_height(1.2em)"><seg rend="kerning"><ref n="calender_46209203">THE</ref></seg><ref n="calender_46209203">
+							<lb ed="1579 webArchive"/>Shepheardes Calender</ref></seg>
+					</titlePart>
+					<titlePart type="sub"> Conteyning <choice>
+							<orig>tvvelue</orig>
+							<reg choice_type="oxford">twelue</reg>
+							<reg choice_type="char_norm default_archive">twelve</reg>
+						</choice> Æglogues <ref n="calender_715182273">proportionable</ref>
+						<lb ed="1579 webArchive"/>
+						<seg rend="face(blackletter)">to the <choice>
+								<orig choice_type="oxford">twelue</orig>
+								<reg choice_type="char_norm default_archive">twelve</reg>
+							</choice> monethes.</seg>
+					</titlePart>
+				</docTitle>
+
+				<titlePart type="sub">
+					<hi rend="face(italics)"><ref n="calender_934723015">Entitled</ref></hi>
+					<lb ed="1579 webArchive"/><seg rend="kerning">TO THE <ref n="calender_883041740">NOBLE AND</ref></seg><ref n="calender_883041740">
+					<choice>
+						<orig choice_type="oxford"><seg rend="kerning">VERTV<pc force="weak">-</pc></seg><lb break="no" ed="1579"/><hi rend="face(italics)">ous</hi></orig>
+						<reg choice_type="char_norm default_archive"><seg rend="kerning">VERTU<pc force="weak">-</pc></seg><hi rend="face(italics)">ous</hi></reg>
+					</choice><lb ed="webArchive"/>
+					</ref><seg rend="face(italics)"><ref n="calender_883041740">Gentleman most worthy of all titles</ref></seg>
+					<lb ed="1579 webArchive"/>both of <ref n="calender_814693560">learning and <choice>
+						<orig choice_type="oxford">cheualrie</orig>
+						<reg choice_type="char_norm default_archive">chevalrie</reg>
+					</choice></ref>
+					<note type="disamb" line_number="" ref="1611592931_16_1" disamb_type="orig oxford"><term>M.</term>: Master</note><span class="disambAnchor" id="Anchor1611592931_16_1"/><note type="disamb" line_number="" ref="1611592931_16_2" disamb_type="reg default_archive disamb"><term>Mr</term>: Master</note><span class="disambAnchor" id="Anchor1611592931_16_2"/><choice>
+						<orig choice_type="oxford">M.<note type="delete" line_number="" ref="1611592931_16_1" disamb_type="orig oxford"><term>M.</term>: Master</note></orig>
+						<reg choice_type="default_archive disamb">Mr<note type="delete" line_number="" ref="1611592931_16_2" disamb_type="reg default_archive disamb"><term>Mr</term>: Master</note></reg>
+					</choice>
+					<lb ed="1579 webArchive"/>Philip Sidney.<lb ed="1579 webArchive"/>
+					<ref n="calender_832065649">(·.·)
+					</ref>
+				</titlePart>
+				<figure/>
+				<!-- ornament -->
+				<docImprint><pubPlace>AT LONDON.</pubPlace><lb ed="1579"/>
+					<seg rend="face(italics) size(1.75em) line_height(1.2em)">Printed by <ref n="calender_394548344">Hugh Singleton</ref>, 
+						dwelling in</seg><lb ed="1579 webArchive"/>
+					Creede Lane neere <choice>
+						<orig choice_type="oxford">vnto</orig>
+						<reg choice_type="char_norm default_archive">unto</reg>
+					</choice>
+					<ref n="calender_611636153">Ludgate</ref> at the <lb ed="1579 webArchive"/>
+					<seg rend="face(blackletter)"><ref n="calender_374370220">signe of the
+						gylden Tunne</ref>, and</seg><lb ed="1579 webArchive"/> are there to be solde.<lb ed="1579 webArchive"/> 
+					<docDate>1579.</docDate>
+				</docImprint>
+			</titlePage><pb/></selectedText>

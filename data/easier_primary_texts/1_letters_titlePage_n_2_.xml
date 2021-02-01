@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="G2r" n="G2r" prev="#G1r" next="#G3r"/><titlePage xmlns="http://www.tei-c.org/ns/1.0" n="2" rend="face(roman)">
+                  <docTitle>
+                     <titlePart type="main">¶ <choice>
+                           <orig>TVVO</orig>
+                           <reg choice_type="char_norm default_archive oxford">TWO</reg>
+                     </choice> OTHER,<lb break="yes" ed="1580 webArchive"/> 
+                        very commendable Let<pc force="weak">-</pc><lb break="yes" ed="1580"/>ters, <lb break="yes" ed="webArchive"/>of the same mens <choice>
+                           <orig>vvri<pc force="weak">-</pc><lb break="yes" ed="1580"/>ting:</orig>
+                           <reg choice_type="char_norm oxford default_archive">wri<pc force="weak">-</pc><lb break="yes" ed="1580"/>ting:</reg>
+                     </choice> <lb break="yes" ed="webArchive"/>both touching the foresaid<lb break="yes" ed="1580 webArchive"/> Artificiall
+                        Versifying, and cer<pc force="weak">-</pc><lb break="yes" ed="1580"/>tain <lb break="yes" ed="webArchive"/>other Particulars:<lb break="yes" ed="1580 webArchive"/>
+                        <hi rend="face(italics)">More lately <choice>
+                              <orig choice_type="oxford">deliuered</orig>
+                              <reg choice_type="char_norm default_archive">delivered</reg>
+                           </choice>
+                           <choice>
+                              <orig choice_type="oxford">vnto</orig>
+                              <reg choice_type="char_norm default_archive">unto</reg>
+                           </choice> the<lb break="yes" ed="1580 webArchive"/> Printer.</hi>
+                     </titlePart>
+                  </docTitle>
+                  <docImprint>IMPRINTED AT <pubPlace rend="no_line_break">
+                     LON<pc force="weak">-</pc><lb break="yes" ed="1580"/>don,
+                  </pubPlace><lb break="yes" ed="webArchive"/> by H. Bynneman, <choice>
+                        <orig>dvvelling</orig>
+                        <reg choice_type="char_norm default_archive oxford">dwelling</reg>
+                  </choice>
+                     <lb break="yes" ed="1580 webArchive"/> in Thames streate, neere <choice>
+                        <orig choice_type="oxford">vnto</orig>
+                        <reg choice_type="char_norm default_archive">unto</reg>
+                     </choice>
+                     <lb break="yes" ed="1580 webArchive"/> Baynardes Castell. <lb break="yes" ed="1580 webArchive"/>
+                     <docDate>
+                        <hi rend="face(italics)" xml:lang="la">Anno Domini.</hi> 1580.</docDate>
+                     <lb break="yes" ed="1580 webArchive"/>
+                     <hi rend="face(italics)" xml:lang="la">Cum gratia <choice>
+                           <orig>&amp;</orig>
+                           <reg choice_type="expan default_archive oxford">et</reg>
+                        </choice>
+                        <choice>
+                           <orig choice_type="oxford">priuilegio</orig>
+                           <reg choice_type="char_norm default_archive">privilegio</reg>
+                        </choice> Regiæ Maiestatis.</hi>
+                  </docImprint>
+               </titlePage><pb/></selectedText>

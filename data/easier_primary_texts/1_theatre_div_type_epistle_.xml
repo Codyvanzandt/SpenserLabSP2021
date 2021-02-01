@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="A3r" n="A3r" prev="#A2v" next="#A3v"/><div xmlns="http://www.tei-c.org/ns/1.0" rend="face(roman)" type="epistle">
+            <head type="onlineRunningTitle">Epistle</head>
+            <head>
+               <hi rend="face(all-caps)">TO THE MOSTE</hi>
+               <lb break="yes" ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.0.1"/> high, puissant, noble,ver<pc force="weak">-</pc><lb break="no" ed="1569"/>tuous,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.0.2"/> and righte Christian Princesse<lb break="yes" ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.0.3"/>
+               <hi rend="face(italics)">Elizabeth, by the grace of God</hi>
+               <lb break="yes" ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.0.4"/> Quene of Englande, <ref n="theatre_1316026447670404" xml:id="theatre_1316026447670404">Fraunce,</ref>
+               <lb break="yes" ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.0.5"/> and Ireland. <choice>
+                  <orig>&amp;c.</orig>
+                  <reg choice_type="expan oxford default_archive">etc.</reg>
+               </choice><lb break="yes" ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.0.6"/>
+            </head>
+            <p>
+               <hi rend="face(ornamental)">A</hi>
+               <hi rend="face(all-caps)">FTER</hi>
+               <ref n="theatre_1316026447670439" xml:id="theatre_1316026447670439">my
+                     departure<lb break="yes" ed="1569"/> oute of 
+<choice>
+   <orig> Brabante,</orig>
+   <reg choice_type="space_punct oxford default_archive"> Brabante </reg>
+</choice>
+               </ref> (myne<lb break="yes" ed="1569"/> owne <ref n="theatre_1316026447670475" xml:id="theatre_1316026447670475">naturall</ref><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.1"/>
+<choice>
+   <orig>Countrey)</orig>
+   <reg choice_type="space_punct oxford default_archive">Countrey),</reg>
+</choice>
+               
+              
+               <lb break="yes" ed="1569"/> into youre <choice>
+                  <orig choice_type="oxford">Maiesties</orig>
+                  <reg choice_type="char_norm default_archive">Majesties</reg>
+               </choice>
+               Re<pc force="weak">-</pc><lb break="no" ed="1569"/>alme of <hi rend="face(italics)">Englande</hi> (moste<lb break="yes" ed="1569"/> gracious<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.2"/> Lady) <ref n="theatre_1316026447670514" xml:id="theatre_1316026447670514">as well for<lb break="yes" ed="1569"/>
+                  that I would not beholde<lb break="yes" ed="1569"/> the abhominations of the<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.3"/>
+                  <ref n="theatre_1316026447670551" xml:id="theatre_1316026447670551">Romyshe</ref>
+                  Ante<pc force="weak">-</pc><lb break="no" ed="1569"/>christ,
+               </ref> as to escape the handes of the bloud<pc force="weak">-</pc><lb break="no" ed="1569"/>thirsty: In<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.4"/> the <ref n="theatre_1316026447670586" xml:id="theatre_1316026447670586">meane space</ref> for the <choice>
+                  <orig choice_type="oxford">auoyding</orig>
+                  <reg choice_type="char_norm default_archive">avoyding</reg>
+               </choice>
+               <lb break="yes" ed="1569"/> of idlenesse (the very mother and<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.5"/>
+               <ref n="theatre_1316026447670622" xml:id="theatre_1316026447670622">nourice</ref> of<lb break="yes" ed="1569"/> all vices) I <choice>
+                  <orig choice_type="oxford">haue</orig>
+                  <reg choice_type="char_norm default_archive">have</reg>
+               </choice> among <ref n="theatre_1316026447670658" xml:id="theatre_1316026447670658">other my</ref>
+               <choice>
+                  <orig choice_type="oxford">trauayles</orig>
+                  <reg choice_type="char_norm default_archive">travayles</reg>
+               </choice>
+               <lb break="yes" ed="1569"/> bene occupied<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.6"/> aboute thys little
+                  Treatyse,<lb break="yes" ed="1569"/> wherin is sette forth the vilenesse and<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.7"/>
+               base<pc force="weak">-</pc><lb break="no" ed="1569"/>nesse of worldely things, whiche commonly<lb break="yes" ed="1569"/>
+               <ref n="theatre_1316026447670695" xml:id="theatre_1316026447670695">withdrawe</ref>
+               <choice>
+                  <orig choice_type="oxford">vs</orig>
+                  <reg choice_type="char_norm default_archive">us</reg>
+               </choice> from <choice>
+                  <orig choice_type="oxford">heauenly</orig>
+                  <reg choice_type="char_norm default_archive">heavenly</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.8"/> and spirituall<lb break="yes" ed="1569"/>
+               <app xml:id="theatre.dedicatory_epistle.9.collation">
+                  <lem wit="this edn.">matters, to</lem>
+                  <rdg wit="#E1569" eclecticCopyText="yes">matters. To</rdg>
+               </app> the ende that <choice>
+                  <orig choice_type="oxford">vnderstanding</orig>
+                  <reg choice_type="char_norm default_archive">understanding</reg>
+               </choice> the<lb break="yes" ed="1569"/> vanitie<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.9"/> and basenesse
+               of the same, and there<pc force="weak">-</pc><lb break="no" ed="1569"/>withall consideryng the miserable<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.10"/> calamities<lb break="yes" ed="1569"/> that ensue therupon, we might be <choice>
+                  <orig choice_type="oxford">moued</orig>
+                  <reg choice_type="char_norm default_archive">moved</reg>
+               </choice>
+               <ref n="theatre_1316026447670767" xml:id="theatre_1316026447670767">the<lb break="yes" ed="1569"/>
+                  <pb xml:id="A3v" n="A3v" prev="#A3r" next="#A4r"/><fw place="bottom-right" type="catch">that</fw>
+                  <fw place="top-center" rend="face(italics)" type="head">The Epistle</fw>
+                  rather</ref> to<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.11"/> forsake them, and <ref n="theatre_1316026447670837" xml:id="theatre_1316026447670837">
+                  <choice>
+                     <orig choice_type="oxford">gyue</orig>
+                     <reg choice_type="char_norm default_archive">gyve</reg>
+                  </choice>
+               </ref> oure <choice>
+                  <orig choice_type="oxford">selues</orig>
+                  <reg choice_type="char_norm default_archive">selves</reg>
+               </choice>
+               <lb break="yes" ed="1569"/> to the knowledge of <choice>
+                  <orig choice_type="oxford">Heauenly</orig>
+                  <reg choice_type="char_norm default_archive">Heavenly</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.12"/> and eternall<lb break="yes" ed="1569"/> things,
+               whence all true happinesse and feli<pc force="weak">-</pc><lb break="no" ed="1569"/>citie doth<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.13"/> procede. And <ref n="theatre_1316026447670878" xml:id="theatre_1316026447670878">for as
+                  much</ref> as the<lb break="yes" ed="1569"/> matter of it selfe is very good (<choice>
+                  <orig choice_type="oxford">deseruyng</orig>
+                  <reg choice_type="char_norm default_archive">deservyng</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.14"/> in<lb break="yes" ed="1569"/> dede to be handeled
+               by men of farre better<lb break="yes" ed="1569"/> skil <choice>
+                  <orig>thã</orig>
+                  <reg choice_type="expan oxford default_archive">than</reg>
+               </choice> I) I could<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.15"/> not <choice>
+                  <orig choice_type="oxford">deuise</orig>
+                  <reg choice_type="char_norm default_archive">devise</reg>
+               </choice> how any things<lb break="yes" ed="1569"/>
+               <choice>
+                   <orig choice_type="oxford">whatsoeuer</orig>
+                   <reg choice_type="char_norm default_archive">whatsoever</reg>
+                </choice>,
+               of lykenesse and <ref n="theatre_1316026447670914" xml:id="theatre_1316026447670914">
+                  <choice>
+                     <orig choice_type="oxford">conueniencie</orig>
+                     <reg choice_type="char_norm default_archive">conveniencie</reg>
+                  </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.16"/>
+               </ref>
+               <lb break="yes" ed="1569"/> mighte more properly bee <ref n="theatre_1316026447670949" xml:id="theatre_1316026447670949">resembled</ref> one to<lb break="yes" ed="1569"/> the other, than this boke<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.17"/> for the
+               aptnesse <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice>
+               <lb break="yes" ed="1569"/>
+               <choice>
+                  <orig choice_type="oxford">conueniencie</orig>
+                  <reg choice_type="char_norm default_archive">conveniencie</reg>
+               </choice> of the argument might be de<pc force="weak">-</pc><lb break="no" ed="1569"/>dicated<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.18"/> to your <choice>
+                  <orig choice_type="oxford">Maiestie</orig>
+                  <reg choice_type="char_norm default_archive">Majestie</reg>
+               </choice>, a most <ref n="theatre_1316026447670984" xml:id="theatre_1316026447670984">blessed and<lb break="yes" ed="1569"/> happie</ref>
+               <ref n="theatre_1316026447671023" xml:id="theatre_1316026447671023">prince.</ref> Happy I say, not<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.19"/> so much for<lb break="yes" ed="1569"/> that youre grace is <ref n="theatre_1316026447671071" xml:id="theatre_1316026447671071">lineally descended</ref> by
+                  the<lb break="yes" ed="1569"/> most high,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.20"/>
+               <ref n="theatre_1316026447671115" xml:id="theatre_1316026447671115">puissaunt,</ref> mightie <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> victorious<lb break="yes" ed="1569"/> prince Henry the eight of famous<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.21"/> memorie,<lb break="yes" ed="1569"/> from so many myghtie and
+               puissant princes<lb break="yes" ed="1569"/> of this Realme,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.22"/>
+               your <choice>
+                  <orig choice_type="oxford">Maiesties</orig>
+                  <reg choice_type="char_norm default_archive">Majesties</reg>
+               </choice> moste noble<lb break="yes" ed="1569"/> progenitours: which <choice>
+                  <orig choice_type="oxford">haue</orig>
+                  <reg choice_type="char_norm default_archive">have</reg>
+               </choice> long agone, most<lb ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.23"/>
+               valiantly <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> victoriously <choice>
+                  <orig>cõquered</orig>
+                  <reg choice_type="expan oxford default_archive">conquered</reg>
+               </choice> al <hi rend="face(italics)">France,</hi>
+               <lb break="yes" ed="1569"/> and by dint of sword<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.24"/> daunted
+               their enimies,<lb break="yes" ed="1569"/> so that youre highnesse beareth in Armes as<lb ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.25"/> right inheritour
+               thereunto, the royall scepter<lb break="yes" ed="1569"/> and Croune imperiall,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.26"/> most <choice>
+                  <orig>triũphantly</orig>
+                  <reg choice_type="expan oxford default_archive">triumphantly</reg>
+               </choice>, and<lb break="yes" ed="1569"/> the titles of <hi rend="face(italics)">Englande,
+                  Fraunce,</hi> and <hi rend="face(italics)">Irelande</hi><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.27"/>
+               <lb break="yes" ed="1569"/> joyntely in youre <choice>
+                  <orig choice_type="oxford">maiesties</orig>
+                  <reg choice_type="char_norm default_archive">majesties</reg>
+               </choice>
+
+               <app xml:id="theatre.dedicatory_epistle.28.collation">
+                        <lem wit="this edn."><ref n="theatre_1316026447671151" xml:id="theatre_1316026447671151">stile</ref>; <ref n="theatre_1316026447671186">neither</ref></lem><rdg wit="#E1569" eclecticCopyText="yes"><ref n="theatre_1316026447671186">[ſt]ile. Neither</ref></rdg>
+               </app><ref n="theatre_1316026447671186"> for,
+               <lb break="yes" ed="1569"/>
+                  <pb xml:id="A4r" n="A4r" prev="#A3v" next="#A4v"/><fw place="bottom-center" type="pag">A.iiij.</fw>
+                  <fw place="bottom-right" type="catch">thily</fw>
+                  <fw place="top-center" rend="face(italics)" type="head">The Epistle</fw>
+
+                  that</ref> your highnesse<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.28"/> as a rare <ref n="theatre_1316026447671255" xml:id="theatre_1316026447671255">
+                  <hi rend="face(italics)">Phœnix</hi> of your<lb break="yes" ed="1569"/>
+                  time, are singular</ref> and peerelesse in honoure<lb ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.29"/> and renoune, in princely <choice>
+                  <orig choice_type="oxford">maiestie</orig>
+                  <reg choice_type="char_norm default_archive">majestie</reg>
+               </choice>, wisedome,<lb break="yes" ed="1569"/> skil, beautie, <choice>
+                  <orig choice_type="oxford">fauour</orig>
+                  <reg choice_type="char_norm default_archive">favour</reg>
+               </choice>,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.30"/> mildenesse, curtesie
+                  and<lb break="yes" ed="1569"/> gentlenesse: to be short, excellent in all<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.31"/> kind<lb break="yes" ed="1569"/> of 
+               <app xml:id="theatre.dedicatory_epistle.32.collation">
+                  <lem wit="this edn.">vertue; nor</lem>
+                  <rdg wit="#E1569" eclecticCopyText="yes">vertue. Nor</rdg>
+               </app> in respecte of youre learning,<lb break="yes" ed="1569"/> knowledge, counsell,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.32"/> judgement, and 
+               elo<pc force="weak">-</pc><lb break="no" ed="1569"/>quence, as well in the <hi rend="face(italics)">Greeke, Latine, Italian,<lb break="yes" ed="1569"/> Frenche,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.33"/> Dutch,</hi> as in your
+               owne natural En<pc force="weak">-</pc><lb break="no" ed="1569"/>glish, and other languages, wherin<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.34"/> your
+                  grace<lb break="yes" ed="1569"/> may be resembled not onely to <ref n="theatre_1316026447671300" xml:id="theatre_1316026447671300">
+                  <hi rend="face(italics)">Tullie,</hi>
+               </ref> and<lb break="yes" ed="1569"/>
+               <hi rend="face(italics)">Demosthenes,</hi><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.35"/> but to <hi rend="face(italics)">Mercurie,</hi> the God of e<pc force="weak">-</pc><lb break="no" ed="1569"/>loquence, as is apparant by youre <choice>
+                  <orig choice_type="oxford">Maiesties</orig>
+                  <reg choice_type="char_norm default_archive">Majesties</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.36"/>
+               <lb break="yes" ed="1569"/> most apte and wise aunswers <ref n="theatre_1316026447671343" xml:id="theatre_1316026447671343">
+                  <choice>
+                     <orig choice_type="oxford">giuen</orig>
+                     <reg choice_type="char_norm default_archive">given</reg>
+                  </choice> in your<lb break="yes" ed="1569"/> own person</ref> to al Embassadours,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.37"/> and to <choice>
+                  <orig choice_type="oxford">eue<pc force="weak">-</pc><lb break="no" ed="1569"/>ry</orig>
+                  <reg choice_type="char_norm default_archive">eve<pc force="weak">-</pc><lb break="no" ed="1569"/>ry</reg>
+               </choice> of them in their owne naturall language<lb break="yes" ed="1569"/> with a singular<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.38"/> dexteritie and princely <choice>
+                  <orig choice_type="oxford">maie<lb break="no" ed="1569"/>stie</orig>
+                  <reg choice_type="char_norm default_archive">maje<lb break="no" ed="1569"/>stie</reg>
+               </choice>,
+               <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> with <choice>
+                  <orig choice_type="oxford">maruellous</orig>
+                  <reg choice_type="char_norm default_archive">marvellous</reg>
+               </choice> swetenesse of<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.39"/>
+               <app xml:id="theatre.dedicatory_epistle.40.collation">
+                  <lem wit="this edn.">tong; nor</lem>
+                  <rdg wit="#E1569" eclecticCopyText="yes">tong.<lb break="yes" ed="1569"/> Nor</rdg>
+               </app> bicause your grace is expert in song, <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice>
+               <lb break="yes" ed="1569"/> in the arte of<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.40"/> Musike, skilful in al kindes of<lb break="yes" ed="1569"/> musical <choice>
+                  <orig>instrumẽts</orig>
+                  <reg choice_type="expan oxford default_archive">instruments</reg>
+               </choice>, and according<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.41"/> to the ex<pc force="weak">-</pc><lb break="no" ed="1569"/>act
+               <choice>
+                  <orig>proportiõs</orig>
+                  <reg choice_type="expan oxford default_archive">proportions</reg>
+               </choice> of geometrie <ref n="theatre_1316026447671379" xml:id="theatre_1316026447671379">exquisite</ref> in the<lb break="yes" ed="1569"/>
+               <ref n="theatre_1316026447671415" xml:id="theatre_1316026447671415">measures</ref> of<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.42"/> the daunce: and besides al
+                  these,<lb break="yes" ed="1569"/> embraced of <hi rend="face(italics)">Apollo,</hi> and <ref n="theatre_1316026447671456" xml:id="theatre_1316026447671456">his nine<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.43"/> sisters,</ref> by<lb break="yes" ed="1569"/> whome your
+               grace is so instructed in the <choice>
+                  <orig choice_type="oxford">di<pc force="weak">-</pc><lb break="no" ed="1569"/>uine</orig>
+                  <reg choice_type="char_norm default_archive">di<pc force="weak">-</pc><lb break="no" ed="1569"/>vine</reg>
+               </choice> Arte of<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.44"/> Poetrie, that you may 
+               
+               woor<pc force="weak">-</pc><lb break="no" ed="1569"/><pb xml:id="A4v" n="A4v" prev="#A4r" next="#A5r"/><fw place="bottom-right" type="catch">these</fw><fw place="top-center" rend="face(italics)" type="head">The Epistle</fw>thily
+               
+               be called the seconde 
+               <app xml:id="theatre.dedicatory_epistle.46.collation">
+                  <lem wit="this edn.">Sappho; neither</lem>
+                  <rdg wit="#E1569" eclecticCopyText="yes">Sappho. Neither</rdg>
+               </app>
+               <lb ed="webArchive" xml:id="theatre.dedicatory_epistle.45"/>
+               <lb break="yes" ed="1569"/>for your great skil <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> judgement in painting<lb break="yes" ed="1569"/> and <ref n="theatre_1316026447671524" xml:id="theatre_1316026447671524">imagerie,</ref><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.46"/> bothe for the <ref n="theatre_1316026447671559" xml:id="theatre_1316026447671559">cunnyng</ref> of the<lb break="yes" ed="1569"/> workmanshyp and the <ref n="theatre_1316026447671594" xml:id="theatre_1316026447671594">
+                  <choice>
+                     <orig choice_type="oxford">deuise</orig>
+                     <reg choice_type="char_norm default_archive">devise</reg>
+                  </choice>
+               </ref> and storie.<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.47"/>
+               In 
+               <lb break="yes" ed="1569"/> summe, perfecte in all good exercises of the<lb break="yes" ed="1569"/> wit,
+               namely the artes<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.48"/> and liberall sciences. Fi<pc force="weak">-</pc><lb break="no" ed="1569"/>nally, not <ref n="theatre_1316026447671630" xml:id="theatre_1316026447671630">alonly</ref> for that nature
+               <ref n="theatre_1316026447671669" xml:id="theatre_1316026447671669">of
+                  hir</ref>
+               <lb ed="webArchive" xml:id="theatre.dedicatory_epistle.49"/>
+               <choice>
+                  <orig>boũ<pc force="weak">-</pc><lb break="no" ed="1569"/>tie</orig>
+                  <reg choice_type="expan oxford default_archive">boun<pc force="weak">-</pc><lb break="no" ed="1569"/>tie</reg>
+               </choice> and goodnesse hath shewed suche grace<lb break="yes" ed="1569"/> and speciall <choice>
+                  <orig choice_type="oxford">fauour</orig>
+                  <reg choice_type="char_norm default_archive">favour</reg>
+               </choice> toward<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.50"/> you, by <ref n="theatre_1316026447671704" xml:id="theatre_1316026447671704">enduing</ref>
+               <lb break="yes" ed="1569"/> youre grace moste plentyfully with infinite<lb break="yes" ed="1569"/> graces<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.51"/> 
+               and vertues more abundantly than a<pc force="weak">-</pc><lb break="no" ed="1569"/>ny other Prince or Princesse in the<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.52"/>
+                  worlde,<lb break="yes" ed="1569"/> so that it might <choice>
+                  <orig choice_type="oxford">serue</orig>
+                  <reg choice_type="char_norm default_archive">serve</reg>
+               </choice> me for a sufficient <ref n="theatre_1316026447671740" xml:id="theatre_1316026447671740">
+                  ar<pc force="weak">-</pc><lb break="no" ed="1569"/>gument
+               </ref> to fill<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.53"/> large volumes, only to stande<lb break="yes" ed="1569"/> in commendation of your <choice>
+                  <orig choice_type="oxford">maiestie</orig>
+                  <reg choice_type="char_norm default_archive">majestie</reg>
+               </choice>, not<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.54"/>
+               an<pc force="weak">-</pc><lb break="no" ed="1569"/>nexing therto any <choice>
+                  <orig choice_type="oxford">deuise</orig>
+                  <reg choice_type="char_norm default_archive">devise</reg>
+               </choice> of myne owne, of<lb break="yes" ed="1569"/>
+               <ref n="theatre_1316026447671776" xml:id="theatre_1316026447671776">fained
+                  Emblemes</ref> or Poetical<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.55"/> fables, and that<lb break="yes" ed="1569"/> without <choice>
+                  <orig choice_type="oxford">vsing</orig>
+                  <reg choice_type="char_norm default_archive">using</reg>
+               </choice>
+               <ref n="theatre_1316026447671856" xml:id="theatre_1316026447671856">flatterie or <ref n="theatre_1316026447671813" xml:id="theatre_1316026447671813">glosing,</ref>
+               </ref> as they do<lb break="yes" ed="1569"/> most<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.56"/> comonly,
+               that ambitiously seeking af<pc force="weak">-</pc><lb break="no" ed="1569"/>ter prefermentes and honoure, disguise<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.57"/>
+               ra<pc force="weak">-</pc><lb break="no" ed="1569"/>ther than describe noble and honorable per<pc force="weak">-</pc><lb break="no" ed="1569"/>sonages, whome they sette<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.58"/> oute many tymes <lb break="yes" ed="1569"/>beyonde al truth, yea sometime <choice>
+                  <orig choice_type="oxford">aboue</orig>
+                  <reg choice_type="char_norm default_archive">above</reg>
+               </choice>
+               mea<pc force="weak">-</pc><lb break="no" ed="1569"/>sure, and with<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.59"/> as great <ref n="theatre_1316026447671900" xml:id="theatre_1316026447671900">
+                  <choice>
+                     <orig choice_type="oxford">inconueniencie</orig>
+                     <reg choice_type="char_norm default_archive">inconveniencie</reg>
+                  </choice>
+               </ref> as yf <lb break="yes" ed="1569"/> they should paynt an <ref n="theatre_1316026447671939" xml:id="theatre_1316026447671939">Asse tuning of<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.60"/> a harp.</ref>
+               <lb break="yes" ed="1569"/> For I do not <ref n="theatre_1316026447672013" xml:id="theatre_1316026447672013">accompt</ref> your grace happy
+                  <ref n="theatre_1316026447672113" xml:id="theatre_1316026447672113">for <lb break="yes" ed="1569"/>
+                  <pb xml:id="A5r" n="A5r" prev="#A4v" next="#A5v"/><fw place="bottom-center" type="pag">A.v.</fw>
+                  <fw place="bottom-right" type="catch">of</fw>
+                  <fw place="top-center" rend="face(italics)" type="head">The Epistle</fw> these
+                  alonely</ref><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.61"/> (thoughe many and singular)<lb break="yes" ed="1569"/> giftes and graces, which your grace <choice>
+                  <orig choice_type="oxford">enioyeth</orig>
+                  <reg choice_type="char_norm default_archive">enjoyeth</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.62"/>
+               <lb break="yes" ed="1569"/> in great plentie and abundance, consideryng<lb break="yes" ed="1569"/> they bee
+                  transitorie,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.63"/> and can not make any<lb break="yes" ed="1569"/> man or woman <ref n="theatre_1316026447672232" xml:id="theatre_1316026447672232">happie</ref> (albeit they seme <choice>
+                  <orig choice_type="oxford">di<pc force="weak">-</pc><lb break="no" ed="1569"/>uine</orig>
+                  <reg choice_type="char_norm default_archive">di<pc force="weak">-</pc><lb break="no" ed="1569"/>vine</reg> 
+               </choice> and<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.64"/>
+<choice>
+   <orig>supernaturall,)</orig>
+   <reg choice_type="space_punct oxford default_archive">supernaturall),</reg>
+</choice>
+               excepte they be ac<pc force="weak">-</pc><lb break="no" ed="1569"/>companied wyth the <choice>
+                  <orig choice_type="oxford">loue</orig>
+                  <reg choice_type="char_norm default_archive">love</reg>
+               </choice> and feare<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.65"/> of God,<lb break="yes" ed="1569"/> according to the saying of King <ref n="theatre_1316026447672156" xml:id="theatre_1316026447672156">
+                  <hi rend="face(italics)">Lamuell</hi>, in<lb break="yes" ed="1569"/> the thirde of<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.66"/> the <choice>
+                     <orig choice_type="oxford">Prouerbes</orig>
+                     <reg choice_type="char_norm default_archive">Proverbes</reg>
+                  </choice>:</ref>
+               <hi rend="face(italics)">
+                  <choice>
+                     <orig choice_type="oxford">Fauour</orig>
+                     <reg choice_type="char_norm default_archive">Favour</reg>
+                  </choice> is <ref n="theatre_1316026447672195" xml:id="theatre_1316026447672195">
+                     <choice>
+                        <orig choice_type="oxford">decei<pc force="weak">-</pc><lb break="no" ed="1569"/>uable,</orig>
+                        <reg choice_type="char_norm default_archive">decei<pc force="weak">-</pc><lb break="no" ed="1569"/>vable,</reg>
+                     </choice>
+                  </ref> and Beautie a mere vanitie,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.67"/> but the wo<pc force="weak">-</pc><lb break="no" ed="1569"/>man that feareth the Lorde, is to be <choice>
+                     <orig choice_type="oxford">beloued</orig>
+                     <reg choice_type="char_norm default_archive">beloved</reg>
+                  </choice>.</hi>
+               <lb break="yes" ed="1569"/> But chiefly<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.68"/> and principally when
+               I consider<lb break="yes" ed="1569"/> that God intendyng to bestowe an excellent<lb ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.69"/> benefit <ref n="theatre_1316026447672268" xml:id="theatre_1316026447672268">peculiarly</ref>
+               <choice>
+                  <orig choice_type="oxford">vpon</orig>
+                  <reg choice_type="char_norm default_archive">upon</reg>
+               </choice> your <choice>
+                  <orig choice_type="oxford">Maiestie</orig>
+                  <reg choice_type="char_norm default_archive">Majestie</reg>
+               </choice> more<lb break="yes" ed="1569"/> than <choice>
+                  <orig choice_type="oxford">vpon</orig>
+                  <reg choice_type="char_norm default_archive">upon</reg>
+               </choice> any other Prince<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.70"/> or Princesse
+                  in<lb break="yes" ed="1569"/> the worlde, hath besides <ref n="theatre_1316026447672307" xml:id="theatre_1316026447672307">al the other forena<pc force="weak">-</pc><lb break="no" ed="1569"/>med his</ref><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.71"/> manifolde giftes and
+               graces, <ref n="theatre_1316026447672346" xml:id="theatre_1316026447672346">
+                  lighte<pc force="weak">-</pc><lb break="no" ed="1569"/>ned
+               </ref> your <choice>
+                  <orig choice_type="oxford">vnderstanding</orig>
+                  <reg choice_type="char_norm default_archive">understanding</reg>
+               </choice> with his<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.72"/> holy spirit,<lb break="yes" ed="1569"/>
+               and hath vouchesafed (by enclinyng youre<lb break="yes" ed="1569"/> graces heart,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.73"/> spirite and minde to humilitie,<lb break="yes" ed="1569"/>
+               peace, mildenesse, and all kinde of<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.74"/>
+               <ref n="theatre_1316026447672489" xml:id="theatre_1316026447672489">
+                  <choice>
+                     <orig choice_type="oxford">louable<pc force="weak">-</pc><lb break="no" ed="1569"/>nesse)</orig>
+                     <reg choice_type="char_norm default_archive">lovable<pc force="weak">-</pc><lb break="no" ed="1569"/>nesse)</reg>
+                  </choice>
+               </ref> to chose your <choice>
+                  <orig choice_type="oxford">maiestie</orig>
+                  <reg choice_type="char_norm default_archive">majestie</reg>
+               </choice>, especially to be<lb break="yes" ed="1569"/> his champion<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.75"/> to defend his <choice>
+                  <orig choice_type="oxford">beloued</orig>
+                  <reg choice_type="char_norm default_archive">beloved</reg>
+               </choice> church.<lb break="yes" ed="1569"/> And in this 
+<choice>
+   <orig>respect,</orig>
+   <reg choice_type="space_punct oxford default_archive">respect</reg>
+</choice>
+               (like as all faithfull<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.76"/> and<lb break="yes" ed="1569"/>
+               true <choice>
+                  <orig>Christiã</orig>
+                  <reg choice_type="expan oxford default_archive">Christian</reg>
+               </choice> princes throughout all <hi rend="face(italics)">Europe</hi>
+               <lb break="yes" ed="1569"/> do esteme and repute<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.77"/>
+<choice>
+   <orig>you)</orig>
+   <reg choice_type="space_punct oxford default_archive">you),</reg>
+</choice>
+               do I also, <ref n="theatre_1347642242486">and that <lb break="yes" ed="1569"/>  <pb xml:id="A5v" n="A5v" prev="#A5r" next="#A6r"/>
+               <fw place="bottom-right" type="catch">these</fw> 
+               <fw place="top-center" rend="face(italics)" type="head">The Epistle</fw> 
+               of good </ref>right call your grace<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.78"/> a moste happie<lb break="yes" ed="1569"/> and blessed <ref n="theatre_1316026447672563" xml:id="theatre_1316026447672563">Prince.</ref> Consider I
+               beseche you,<lb break="yes" ed="1569"/> how God<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.79"/> hath blessed
+               your <choice>
+                  <orig choice_type="oxford">maiestie</orig>
+                  <reg choice_type="char_norm default_archive">majestie</reg>
+               </choice> in thys<lb break="yes" ed="1569"/> worlde more than he hath done any<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.80"/> of your<lb break="yes" ed="1569"/> progenitours. For <choice>
+                  <orig choice_type="oxford">neuer</orig>
+                  <reg choice_type="char_norm default_archive">never</reg>
+               </choice> was it seene in any<lb break="yes" ed="1569"/> age or time heretofore,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.81"/> that this your realme<lb break="yes" ed="1569"/> 
+               of <hi rend="face(italics)">England</hi> hath flourished as it dothe at this<lb ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.82"/> present <choice>
+                  <orig choice_type="oxford">vnder</orig>
+                  <reg choice_type="char_norm default_archive">under</reg>
+               </choice> your <choice>
+                  <orig choice_type="oxford">Maiesties</orig>
+                  <reg choice_type="char_norm default_archive">Majesties</reg>
+               </choice> moste happie<lb break="yes" ed="1569"/>
+               <choice>
+                  <orig choice_type="oxford">gouernement</orig>
+                  <reg choice_type="char_norm default_archive">governement</reg>
+               </choice>. Firste in all<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.83"/> kinde of liberall<lb break="yes" ed="1569"/> Artes and sciences. Secondarily in the abun<pc force="weak">-</pc><lb break="no" ed="1569"/>dance<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.84"/> of treasure, as well golde and <choice>
+                  <orig choice_type="oxford">siluer</orig>
+                  <reg choice_type="char_norm default_archive">silver</reg>
+               </choice>, as<lb break="yes" ed="1569"/> all sortes of riche and precious<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.85"/>
+               <ref n="theatre_1316026447672598" xml:id="theatre_1316026447672598">
+                  <choice>
+                     <orig choice_type="oxford">iewels</orig>
+                     <reg choice_type="char_norm default_archive">jewels</reg>
+                  </choice>
+               </ref> and or<pc force="weak">-</pc><lb break="no" ed="1569"/>namentes. Thirdely, in the free passage and<lb break="yes" ed="1569"/> trafike<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.86"/> of all kinde of marchandise: Besides<lb break="yes" ed="1569"/> this, in good
+               and politike lawes<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.87"/> and ordinan<pc force="weak">-</pc><lb break="no" ed="1569"/>ces, namely in the due execution of <choice>
+                  <orig choice_type="oxford">iustice</orig>
+                  <reg choice_type="char_norm default_archive">justice</reg>
+               </choice>,<lb break="yes" ed="1569"/> according to<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.88"/>
+               <ref n="theatre_1316026447672641" xml:id="theatre_1316026447672641">law
+                  and equitie.</ref> The worde of<lb break="yes" ed="1569"/> God is purely preached here <ref n="theatre_1316026447672682" xml:id="theatre_1316026447672682">in six
+                     or<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.89"/>
+                  <choice>
+                     <orig choice_type="oxford">seuen</orig>
+                     <reg choice_type="char_norm default_archive">seven</reg>
+                  </choice>
+                  <lb break="yes" ed="1569"/> languages.</ref>
+               <ref n="theatre_1316026447672716" xml:id="theatre_1316026447672716">The
+                  Sacraments of Baptisme, and<lb break="yes" ed="1569"/> the holy Supper,</ref><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.90"/> 
+               sincerely ministred accor<pc force="weak">-</pc><lb break="no" ed="1569"/>ding to Christes institution. <ref n="theatre_1316026447672788" xml:id="theatre_1316026447672788">Christian disci<pc force="weak">-</pc><lb break="no" ed="1569"/>pline<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.91"/>
+               </ref> in due force in many places. Finally <choice>
+                  <orig choice_type="oxford">e<pc force="weak">-</pc><lb break="no" ed="1569"/>uery</orig>
+                  <reg choice_type="char_norm default_archive">e<pc force="weak">-</pc><lb break="no" ed="1569"/>very</reg>
+               </choice>
+               <ref n="theatre_1316026447672823" xml:id="theatre_1316026447672823">countrey and nation</ref> that<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.92"/> will <choice>
+                  <orig choice_type="oxford">liue</orig>
+                  <reg choice_type="char_norm default_archive">live</reg>
+               </choice> here<lb break="yes" ed="1569"/> according to his holy worde, is <choice>
+                  <orig choice_type="oxford">receiued</orig>
+                  <reg choice_type="char_norm default_archive">received</reg>
+               </choice>, and<lb break="yes" ed="1569"/> findeth<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.93"/> good <ref n="theatre_1316026447672872" xml:id="theatre_1316026447672872">entertainement.</ref> O how happy<lb break="yes" ed="1569"/> and blessed is that King or
+                  kingdome,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.94"/> where <lb break="yes" ed="1569"/>
+               <pb xml:id="A6r" n="A6r" prev="#A5v" next="#A6v"/><fw place="bottom-right" type="catch">For</fw>
+               <fw place="top-center" rend="face(italics)" type="head">The Epistle</fw> these things
+               are in 
+               <app xml:id="theatre.dedicatory_epistle.95.collation">
+                  <lem wit="this edn.">force.</lem>
+                  <rdg wit="#E1569" eclecticCopyText="yes">force</rdg>
+               </app> Contrarywise most<lb break="yes" ed="1569"/>
+               <choice>
+                  <orig choice_type="oxford">vnhappie</orig>
+                  <reg choice_type="char_norm default_archive">unhappie</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.95"/> are those princes,
+               that <ref n="theatre_1316026447672942" xml:id="theatre_1316026447672942">banishyng <lb break="yes" ed="1569"/>and <choice>
+                     <orig choice_type="oxford">reiecting</orig>
+                     <reg choice_type="char_norm default_archive">rejecting</reg>
+                  </choice> Christ, <choice>
+                     <orig choice_type="oxford">receiue</orig>
+                     <reg choice_type="char_norm default_archive">receive</reg>
+                  </choice> that<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.96"/> Antechrist,<lb break="yes" ed="1569"/> the
+                  sonne of the <choice>
+                     <orig choice_type="oxford">Diuell</orig>
+                     <reg choice_type="char_norm default_archive">Divell</reg>
+                  </choice>,</ref> and forsakyng the<lb break="yes" ed="1569"/> truth, embrace<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.97"/> errour: To be short, that do al<lb break="yes" ed="1569"/>
+               things <ref n="theatre_1316026447672985" xml:id="theatre_1316026447672985">
+                  <choice>
+                     <orig choice_type="oxford">ouerthwartly</orig>
+                     <reg choice_type="char_norm default_archive">overthwartly</reg>
+                  </choice>
+                  <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">and</reg>
+                  </choice> clean against<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.98"/> the 
+                  <app xml:id="theatre.dedicatory_epistle.99.collation">
+                     <lem wit="this edn.">hair.</lem>
+                     <rdg wit="#E1569" eclecticCopyText="yes">hair</rdg>
+                  </app>
+               </ref>
+               <lb break="yes" ed="1569"/> For it is moste certaine and sure, that sodaine<lb break="yes" ed="1569"/> ruine
+                  and<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.99"/> destruction shall fall <choice>
+                  <orig choice_type="oxford">vpon</orig>
+                  <reg choice_type="char_norm default_archive">upon</reg>
+               </choice> all wic<pc force="weak">-</pc><lb break="no" ed="1569"/>ked and <choice>
+                  <orig choice_type="oxford">vngodly</orig>
+                  <reg choice_type="char_norm default_archive">ungodly</reg>
+               </choice> persons, as well<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.100"/> nowe as in<lb break="yes" ed="1569"/> tyme paste, as experience hath well <choice>
+                  <orig choice_type="oxford">proued</orig>
+                  <reg choice_type="char_norm default_archive">proved</reg>
+               </choice>
+               <lb break="yes" ed="1569"/> heretofore:<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.101"/> Namely <choice>
+                  <orig choice_type="oxford">vpon</orig>
+                  <reg choice_type="char_norm default_archive">upon</reg>
+               </choice>
+               <ref n="theatre_1316026447673022" xml:id="theatre_1316026447673022">
+                  <hi rend="face(italics)">Pharao</hi>, and hys<lb break="yes" ed="1569"/> kingdome of <hi rend="face(italics)">Egypt</hi>, <choice>
+                     <orig choice_type="oxford">vpon</orig>
+                     <reg choice_type="char_norm default_archive">upon</reg>
+                  </choice>
+                  <hi rend="face(italics)">
+                     <choice>
+                        <orig choice_type="oxford">Ieroboam</orig>
+                        <reg choice_type="char_norm default_archive">Jeroboam</reg>
+                     </choice>, Achab,<lb ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.102"/>
+                     <choice>
+                        <orig choice_type="oxford">Iezabell</orig>
+                        <reg choice_type="char_norm default_archive">Jezabell</reg>
+                     </choice>
+                  </hi>
+               </ref> and infinite other mo. Wher on the<lb break="yes" ed="1569"/> other part, the good<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.103"/> kings <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> princes which<lb break="yes" ed="1569"/> feare the Lord, shal <choice>
+                  <orig choice_type="oxford">haue</orig>
+                  <reg choice_type="char_norm default_archive">have</reg>
+               </choice> peace and comfort<lb ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.104"/> bothe
+               in this worlde, and in the worlde to<lb break="yes" ed="1569"/> come: Like as had <ref n="theatre_1316026447673084" xml:id="theatre_1316026447673084">
+                  <hi rend="face(italics)">
+                     <choice>
+                        <orig choice_type="oxford">Iosua</orig>
+                        <reg choice_type="char_norm default_archive">Josua</reg>
+                     </choice>,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.105"/>
+                     <choice>
+                        <orig choice_type="oxford">Iuda</orig>
+                        <reg choice_type="char_norm default_archive">Juda</reg>
+                     </choice>, Gedeon, <choice>
+                        <orig choice_type="oxford">Dauid</orig>
+                        <reg choice_type="char_norm default_archive">David</reg>
+                     </choice>
+                     <lb break="yes" ed="1569"/>
+                  </hi>
+               </ref> and <choice>
+                  <orig choice_type="oxford">diuers</orig>
+                  <reg choice_type="char_norm default_archive">divers</reg>
+               </choice> other in those days, and is also<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.106"/> to<lb break="yes" ed="1569"/> be seene at this day most <choice>
+                  <orig choice_type="oxford">euidently</orig>
+                  <reg choice_type="char_norm default_archive">evidently</reg>
+               </choice> in the re<pc force="weak">-</pc><lb break="no" ed="1569"/>almes and countreyes<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.107"/>
+               <choice>
+                  <orig choice_type="oxford">vnder</orig>
+                  <reg choice_type="char_norm default_archive">under</reg>
+               </choice> youre <choice>
+                  <orig choice_type="oxford">Maiesties</orig>
+                  <reg choice_type="char_norm default_archive">Majesties</reg>
+               </choice>
+               <lb break="yes" ed="1569"/> dominion, whiche God hath blessed in suche<lb break="yes" ed="1569"/> sort,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.108"/> that it may truly be sayd, that the <ref n="theatre_1316026447673126" xml:id="theatre_1316026447673126">
+                  king<pc force="weak">-</pc><lb break="no" ed="1569"/>dome of <hi rend="face(italics)">Saturne</hi>, and the Golden<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.109"/> worlde</ref> is<lb break="yes" ed="1569"/> come againe,
+               and the Virgin <ref n="theatre_1316026447673177" xml:id="theatre_1316026447673177">
+                  <hi rend="face(italics)">Astrea</hi>
+               </ref> is des<pc force="weak">-</pc><lb break="no" ed="1569"/>scended from <choice>
+                  <orig choice_type="oxford">heauen</orig>
+                  <reg choice_type="char_norm default_archive">heaven</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.110"/> to builde hir a
+               seate in<lb break="yes" ed="1569"/> this your moste happie countrey of <hi rend="face(italics)">
+                  <choice>
+                     <orig>Englãd</orig>
+                     <reg choice_type="expan oxford default_archive">England</reg>
+                  </choice></hi>.<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.111"/>
+                <lb break="yes" ed="1569"/>
+               <pb xml:id="A6v" n="A6v" prev="#A6r" next="#A7r"/><fw place="bottom-right" rend="face(italics)" type="catch">citie</fw>
+               <fw place="top-center" rend="face(italics)" type="head">The Epistle</fw> For here is
+               peace and quietnesse, <choice>
+                  <orig choice_type="oxford">where as</orig>
+                  <reg choice_type="space_punct  default_archive">whereas</reg>
+               </choice> the<lb break="yes" ed="1569"/> moste parte of<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.112"/>
+               foraine countreyes are full of<lb break="yes" ed="1569"/> great tumultes, and that (more is
+                  the<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.113"/> pitie)<lb break="yes" ed="1569"/> with the sheding of
+               much christian bloude.<lb break="yes" ed="1569"/> And where as many<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.114"/> myghtie kings and po<pc force="weak">-</pc><lb break="no" ed="1569"/>tentates of the earthe <choice>
+                  <orig choice_type="oxford">haue</orig>
+                  <reg choice_type="char_norm default_archive">have</reg>
+               </choice> banded and con<pc force="weak">-</pc><lb break="no" ed="1569"/>spired<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.115"/> together, <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> fight <choice>
+                  <orig choice_type="oxford">euery</orig>
+                  <reg choice_type="char_norm default_archive">every</reg>
+               </choice> where against<lb break="yes" ed="1569"/> God his anointed, and his holy<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.116"/> churche, ben<pc force="weak">-</pc><lb break="no" ed="1569"/>dyng their force <choice>
+                  <orig choice_type="oxford">vtterly</orig>
+                  <reg choice_type="char_norm default_archive">utterly</reg>
+               </choice> to deface hys name,<lb break="yes" ed="1569"/> his glorie,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.117"/> and his Churche: Almightie <ref n="theatre_1316026447673258" xml:id="theatre_1316026447673258">God<lb break="yes" ed="1569"/> of</ref> his <choice>
+                  <orig choice_type="oxford">diuine</orig>
+                  <reg choice_type="char_norm default_archive">divine</reg>
+               </choice>
+               <choice>
+                  <orig choice_type="oxford">prouidence</orig>
+                  <reg choice_type="char_norm default_archive">providence</reg>
+               </choice> hath nowe also<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.118"/> in<lb break="yes" ed="1569"/> these
+               days (like as he hath in all ages hereto<pc force="weak">-</pc><lb break="no" ed="1569"/>fore) raised <choice>
+                  <orig choice_type="oxford">vp</orig>
+                  <reg choice_type="char_norm default_archive">up</reg>
+               </choice>
+               <choice>
+                  <orig choice_type="oxford">diuers</orig>
+                  <reg choice_type="char_norm default_archive">divers</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.119"/> good and godly prin<pc force="weak">-</pc><lb break="no" ed="1569"/>ces and states, and <choice>
+                  <orig choice_type="oxford">prouided</orig>
+                  <reg choice_type="char_norm default_archive">provided</reg>
+               </choice> certaine places,<lb break="yes" ed="1569"/> wherto<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.120"/> the elect and faithfull <choice>
+                  <orig choice_type="oxford">haue</orig>
+                  <reg choice_type="char_norm default_archive">have</reg>
+               </choice> resorted<lb break="yes" ed="1569"/>
+               <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> bene <choice>
+                  <orig choice_type="oxford">preserued</orig>
+                  <reg choice_type="char_norm default_archive">preserved</reg>
+               </choice>, during the<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.121"/> time of 
+               <app xml:id="theatre.dedicatory_epistle.122.collation">
+                  <lem wit="this edn.">persecution,</lem>
+                  <rdg wit="#E1569" eclecticCopyText="yes">perſetion,</rdg>
+               </app>
+               <lb break="yes" ed="1569"/> to the ende that his holy name myght<lb break="yes" ed="1569"/> there be<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.122"/> 
+               glorified, his worde purely and sin<pc force="weak">-</pc><lb break="no" ed="1569"/>cerely preached, and <ref n="theatre_1587388913265145">his Churche<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.123"/>
+                  dispersed</ref>,<lb break="yes" ed="1569"/> in a manner restored. As it is also come to<lb break="yes" ed="1569"/> passe in <ref n="theatre_1316026447673300" xml:id="theatre_1316026447673300">these<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.124"/> our most miserable
+                  days,</ref> in the<lb break="yes" ed="1569"/> whiche suche as syncerely <choice>
+                  <orig choice_type="oxford">loue</orig>
+                  <reg choice_type="char_norm default_archive">love</reg>
+               </choice> and<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.125"/> esteeme<lb break="yes" ed="1569"/> more derely the honoure and glorie of God<lb break="yes" ed="1569"/> than they doe
+                  their<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.126"/> owne <ref n="theatre_1316026447673338" xml:id="theatre_1316026447673338">commodities,</ref> ease,<lb break="yes" ed="1569"/> and 
+                <choice>
+                    <orig>welfare,</orig>
+                    <reg choice_type="oxford space_punct default_archive">welfare</reg>
+                </choice> (after the counsel of Christ, say<pc force="weak">-</pc><lb break="no" ed="1569"/>ing<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.127"/> in this wyse: <ref n="theatre_1316026447673409">
+                  <hi rend="face(italics)">
+                <choice>
+                    <orig choice_type="oxford">yf</orig>
+                    <reg choice_type="char_norm">if</reg>
+                    <reg choice_type="space_punct">Yf</reg>
+                    <reg choice_type="char_norm space_punct default_archive">If</reg>
+                </choice> they persecute you in one </hi>
+                  <lb break="yes" ed="1569"/>
+                  <pb xml:id="A7r" n="A7r" prev="#A6v" next="#A7v"/><fw place="bottom-right" type="catch">preserved</fw>
+                  <fw place="top-center" rend="face(italics)" type="head">The Epistle</fw>
+               </ref><hi rend="face(italics)"><ref n="theatre_1316026447673409">citie, flie ye <choice>
+                        <orig choice_type="oxford">vnto</orig>
+                        <reg choice_type="char_norm default_archive">unto</reg>
+                  </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.128"/> an 
+<choice>
+   <orig>other)</orig>
+   <reg choice_type="space_punct oxford default_archive">other),</reg>
+</choice></ref>
+                  </hi>
+               <choice>
+                  <orig choice_type="oxford">haue</orig>
+                  <reg choice_type="char_norm default_archive">have</reg>
+               </choice> bene <choice>
+                  <orig>cõtent</orig>
+                  <reg choice_type="expan oxford default_archive">content</reg>
+               </choice> to<lb break="yes" ed="1569"/> depart their owne naturall countrey,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.129"/> wholly<lb break="yes" ed="1569"/> 
+               to forsake their landes, inheritances, possessi<pc force="weak">-</pc><lb break="no" ed="1569"/>ons, and dwellyng<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.130"/> places, yea and
+               some also,<lb break="yes" ed="1569"/> to <choice>
+                  <orig>surrẽder</orig>
+                  <reg choice_type="expan oxford default_archive">surrender</reg>
+               </choice> their offices, <ref n="theatre_1316026447673446" xml:id="theatre_1316026447673446">dignities,</ref>
+               <lb ed="webArchive" xml:id="theatre.dedicatory_epistle.131"/>
+               <choice>
+                  <orig choice_type="oxford">&amp;</orig>
+                  <reg choice_type="expan default_archive">and</reg>
+               </choice> worldly<lb break="yes" ed="1569"/>
+               <ref n="theatre_1316026447673486" xml:id="theatre_1316026447673486">preferments.</ref> An other sort with their <choice>
+                  <orig choice_type="oxford">wiues</orig>
+                  <reg choice_type="char_norm default_archive">wives</reg>
+               </choice>
+               <lb break="yes" ed="1569"/> children and<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.132"/> parentes are
+               departed into <hi rend="face(italics)">
+                  Ger<pc force="weak">-</pc><lb break="no" ed="1569"/>manie,
+               </hi> namely into the territorie and<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.133"/>
+               domi<pc force="weak">-</pc><lb break="no" ed="1569"/>nion of <ref n="theatre_1316026447673522" xml:id="theatre_1316026447673522">
+                  <hi rend="face(italics)">Frederike</hi>
+               </ref> prince Elector and <choice>
+                  <orig>coũtie</orig>
+                  <reg choice_type="expan oxford default_archive">countie</reg>
+               </choice>
+               <lb break="yes" ed="1569"/> Palatine, the floure<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.134"/> of all
+               Christian Princes <lb break="yes" ed="1569"/>in these dayes (that I knowe) in the <choice>
+                  <orig choice_type="oxford">feruent</orig>
+                  <reg choice_type="char_norm default_archive">fervent</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.135"/>
+               <lb break="yes" ed="1569"/> zeale and true feare of God, a man worthy<lb break="yes" ed="1569"/> to be
+               compared with <hi rend="face(italics)">
+                  <choice>
+                     <orig choice_type="oxford">Dauid</orig>
+                     <reg choice_type="char_norm default_archive">David</reg>
+                  </choice>,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.136"/>
+               </hi> or <ref n="theatre_1316026447673557" xml:id="theatre_1316026447673557">
+                  <hi rend="face(italics)">
+                     <choice>
+                        <orig choice_type="oxford">Iosias</orig>
+                        <reg choice_type="char_norm default_archive">Josias</reg>
+                     </choice></hi>.</ref> Others<lb break="yes" ed="1569"/> are fled into other places elsewhere, some
+                  to<lb ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.137"/> one cuntrey, some to an
+               other, <choice>
+                  <orig choice_type="oxford">euery</orig>
+                  <reg choice_type="char_norm default_archive">every</reg>
+               </choice> one ac<pc force="weak">-</pc><lb break="no" ed="1569"/>cording to his abilitie,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.138"/> estate, condition,
+                  and<lb break="yes" ed="1569"/> facultie. But we a numbre of <choice>
+                  <orig choice_type="oxford">vs</orig>
+                  <reg choice_type="char_norm default_archive">us</reg>
+               </choice> are <choice>
+                  <orig choice_type="oxford">arriued</orig>
+                  <reg choice_type="char_norm default_archive">arrived</reg>
+               </choice>
+               <lb ed="webArchive" xml:id="theatre.dedicatory_epistle.139"/>
+               <lb break="yes" ed="1569"/> in saftie in this your <choice>
+                  <orig choice_type="oxford">maiesties</orig>
+                  <reg choice_type="char_norm default_archive">majesties</reg>
+               </choice> realme of <hi rend="face(italics)">
+                  En<pc force="weak">-</pc><lb break="no" ed="1569"/>glande,
+               </hi> as into a moste<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.140"/> safe and sure
+                  <ref n="theatre_1316026447673598" xml:id="theatre_1316026447673598">
+                  harbo<pc force="weak">-</pc><lb break="no" ed="1569"/>rough,
+               </ref> where we <choice>
+                  <orig choice_type="oxford">liue</orig>
+                  <reg choice_type="char_norm default_archive">live</reg>
+               </choice> (God be thanked) <choice>
+                  <orig choice_type="oxford">vn<pc force="weak">-</pc><lb break="no" ed="1569"/>der</orig>
+                  <reg choice_type="char_norm default_archive">un<pc force="weak">-</pc><lb break="no" ed="1569"/>der</reg>
+               </choice> your<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.141"/>
+               <choice>
+                  <orig choice_type="oxford">Maiesties</orig>
+                  <reg choice_type="char_norm default_archive">Majesties</reg>
+               </choice> protection and safegarde<lb break="yes" ed="1569"/> in greate libertie to <choice>
+                  <orig choice_type="oxford">serue</orig>
+                  <reg choice_type="char_norm default_archive">serve</reg>
+               </choice> God<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.142"/> in eyther lan<pc force="weak">-</pc><lb break="no" ed="1569"/>guage, the <ref n="theatre_1316026447673635" xml:id="theatre_1316026447673635">French or the Dutche,</ref> without al<lb break="yes" ed="1569"/> feare of
+                  tyrantes,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.143"/> or daunger of the gapyng<lb break="yes" ed="1569"/> throates of greedie <choice>
+                  <orig choice_type="oxford">rauening</orig>
+                  <reg choice_type="char_norm default_archive">ravening</reg>
+               </choice>
+               <choice>
+                  <orig choice_type="oxford">wolues</orig>
+                  <reg choice_type="char_norm default_archive">wolves</reg>
+               </choice>. After<lb ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.144"/> the same maner
+               hath God in time past <choice>
+                  <orig choice_type="oxford">pre<pc force="weak">-</pc><lb break="no" ed="1569"/>serued</orig>
+                  <reg choice_type="char_norm default_archive">pre<pc force="weak">-</pc><lb break="no" ed="1569"/>served</reg>
+               </choice>
+               <pb xml:id="A7v" n="A7v" prev="#A7r" next="#A8r"/><fw place="bottom-right" type="catch">dacion</fw>
+               <fw place="top-center" rend="face(italics)" type="head">The Epistle.</fw>
+               <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice>
+               <choice>
+                  <orig choice_type="oxford">deliuered</orig>
+                  <reg choice_type="char_norm default_archive">delivered</reg>
+               </choice> his<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.145"/> elect out of
+               the <choice>
+                  <orig>hãds</orig>
+                  <reg choice_type="expan oxford default_archive">hands</reg>
+               </choice>
+               <lb break="yes" ed="1569"/> of their enimies <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> persecuters by the mini<pc force="weak">-</pc><lb break="no" ed="1569"/>sterie<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.146"/> of <ref n="theatre_1316026447673711" xml:id="theatre_1316026447673711">
+                  <choice>
+                     <orig choice_type="oxford">dyuers</orig>
+                     <reg choice_type="char_norm default_archive">dyvers</reg>
+                  </choice>
+               </ref> vertuous women. As is to be<lb break="yes" ed="1569"/> sene in the .4. chapt. of the<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.147"/> boke of <choice>
+                  <orig choice_type="oxford">Iudges</orig>
+                  <reg choice_type="char_norm default_archive">Judges</reg>
+               </choice>.<lb break="yes" ed="1569"/>
+               <ref n="theatre_1316026447673747" xml:id="theatre_1316026447673747">How
+                  God <choice>
+                     <orig choice_type="oxford">deliuered</orig>
+                     <reg choice_type="char_norm default_archive">delivered</reg>
+                  </choice> his people of <hi rend="face(italics)">Israel</hi> out <lb break="yes" ed="1569"/>of
+                  the <choice>
+                     <orig>hãds</orig>
+                     <reg choice_type="expan oxford default_archive">hands</reg>
+                  </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.148"/> of <hi rend="face(italics)">
+                     <choice>
+                        <orig choice_type="oxford">Iabin</orig>
+                        <reg choice_type="char_norm default_archive">Jabin</reg>
+                     </choice>
+                  </hi> king of <hi rend="face(italics)">Chanaan</hi>, by <hi rend="face(italics)">
+                     De<pc force="weak">-</pc><lb break="no" ed="1569"/>bora
+                  </hi> the prophetesse, by selling<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.149"/>
+                  <hi rend="face(italics)">Sizara</hi> chiefe<lb break="yes" ed="1569"/> captain of his armie
+                  into the <choice>
+                     <orig>hãd</orig>
+                     <reg choice_type="expan oxford default_archive">hand</reg>
+                  </choice> of a <choice>
+                     <orig>womã</orig>
+                     <reg choice_type="expan oxford default_archive">woman</reg>
+                  </choice>
+                  <lb break="yes" ed="1569"/> called<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.150"/>
+                  <hi rend="face(italics)">
+                     <choice>
+                        <orig choice_type="oxford">Iahel</orig>
+                        <reg choice_type="char_norm default_archive">Jahel</reg>
+                     </choice></hi>.</ref> As <ref n="theatre_1316026447673788" xml:id="theatre_1316026447673788">he also <choice>
+                     <orig choice_type="oxford">preserued</orig>
+                     <reg choice_type="char_norm default_archive">preserved</reg>
+                  </choice>
+                  <hi rend="face(italics)">
+                     <choice>
+                        <orig choice_type="oxford">Dauid</orig>
+                        <reg choice_type="char_norm default_archive">David</reg>
+                     </choice>
+                  </hi>
+                  <choice>
+                     <orig>frõ</orig>
+                     <reg choice_type="expan oxford default_archive">from</reg>
+                  </choice>
+                  <lb break="yes" ed="1569"/> the furie of <hi rend="face(italics)">Saul</hi>, by <hi rend="face(italics)">Michol<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.151"/> Sauls</hi> own dau<pc force="weak">-</pc><lb break="no" ed="1569"/>ghter.
+               </ref> As <ref n="theatre_1316026447673826" xml:id="theatre_1316026447673826">he <choice>
+                     <orig choice_type="oxford">deliuered</orig>
+                     <reg choice_type="char_norm default_archive">delivered</reg>
+                  </choice> the <choice>
+                     <orig>citizẽs</orig>
+                     <reg choice_type="expan oxford default_archive">citizens</reg>
+                  </choice> of <hi rend="face(italics)">Bethulia</hi>,<lb break="yes" ed="1569"/>
+                  <choice>
+                     <orig>frõ</orig>
+                     <reg choice_type="expan oxford default_archive">from</reg>
+                  </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.152"/> the tiranny of <hi rend="face(italics)">Holofernes</hi>, by the hand of<lb break="yes" ed="1569"/> that most vertuous Ladie<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.153"/>
+                  <hi rend="face(italics)">
+                     <choice>
+                        <orig choice_type="oxford">Iudith</orig>
+                        <reg choice_type="char_norm default_archive">Judith</reg>
+                     </choice></hi>.</ref> And as <ref n="theatre_1316026447673869" xml:id="theatre_1316026447673869">the<lb break="yes" ed="1569"/>
+                  <choice>
+                     <orig>childrẽ </orig>
+                     <reg choice_type="expan oxford default_archive">children</reg>
+                  </choice> of <hi rend="face(italics)">Israel</hi>, were <choice>
+                     <orig choice_type="oxford">saued</orig>
+                     <reg choice_type="char_norm default_archive">saved</reg>
+                  </choice> by the counsel<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.154"/> of<lb break="yes" ed="1569"/>
+                  <hi rend="face(italics)">Mardocheus</hi>, at the <choice>
+                     <orig>instãce</orig>
+                     <reg choice_type="expan oxford default_archive">instance</reg>
+                  </choice>
+                  <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">and</reg>
+                  </choice> request of the<lb break="yes" ed="1569"/> most gratious <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">and</reg>
+                  </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.155"/> humble <hi rend="face(italics)">Hester</hi>, where they<lb break="yes" ed="1569"/> were lately before
+                  in peril of death <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">and</reg>
+                  </choice>
+                  <lb ed="webArchive" xml:id="theatre.dedicatory_epistle.156"/>
+                  <choice>
+                     <orig>presẽt</orig>
+                     <reg choice_type="expan oxford default_archive">present</reg>
+                  </choice>
+                  <lb break="yes" ed="1569"/>
+                  <choice>
+                     <orig>destructiõ</orig>
+                     <reg choice_type="expan oxford default_archive">destruction</reg>
+                  </choice> by the conspiracie of wicked <hi rend="face(italics)">
+                     Ha<pc force="weak">-</pc><lb break="no" ed="1569"/>man.
+                  </hi>
+               </ref> The like<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.157"/> hath ben brought to passe by<lb break="yes" ed="1569"/>
+               <choice>
+                  <orig choice_type="oxford">diuers</orig>
+                  <reg choice_type="char_norm default_archive">divers</reg>
+               </choice> other <ref n="theatre_1316026447673915" xml:id="theatre_1316026447673915">renoumed</ref> Ladies, whose fame<lb ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.158"/> shal endure for <choice>
+                  <orig choice_type="oxford">euer</orig>
+                  <reg choice_type="char_norm default_archive">ever</reg>
+               </choice>. And surely the graces<lb break="yes" ed="1569"/>
+               <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> mercies that God hath<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.159"/> shewed to his affli<pc force="weak">-</pc><lb break="no" ed="1569"/>cted church in these later days by your <choice>
+                  <orig choice_type="oxford">maie<pc force="weak">-</pc><lb break="no" ed="1569"/>sties</orig>
+                  <reg choice_type="char_norm default_archive">maje<pc force="weak">-</pc><lb break="no" ed="1569"/>sties</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.160"/> means, ar no
+               lesse <choice>
+                  <orig>thã</orig>
+                  <reg choice_type="expan oxford default_archive">than</reg>
+               </choice> those he hath she<pc force="weak">-</pc><lb break="no" ed="1569"/>wed
+               <ref n="theatre_1316026447673954" xml:id="theatre_1316026447673954">tofore</ref> by the late rehersed<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.161"/> ladies: so
+                  that<lb break="yes" ed="1569"/> your grace <choice>
+                  <orig choice_type="oxford">deserueth</orig>
+                  <reg choice_type="char_norm default_archive">deserveth</reg>
+               </choice> equal praise and 
+               
+               <choice>
+                  <orig>cõmẽ<lb break="no" ed="1569"/><pb xml:id="A8r" n="A8r" prev="#A7v" next="#A8v"/><fw place="bottom-right" type="catch">within</fw><fw place="top-center" rend="face(italics)" type="head">The Epistle.</fw>datiõ</orig>
+                  <reg choice_type="expan oxford default_archive">commendation</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.162"/>
+               
+               with them, <choice>
+                  <orig>cõsidering</orig>
+                  <reg choice_type="expan oxford default_archive">considering</reg>
+               </choice> with what <choice>
+                  <orig>gẽtle<pc force="weak">-</pc><lb break="no" ed="1569"/>nesse</orig>
+                  <reg choice_type="expan oxford default_archive">gentlenesse<lb break="no" ed="1569emended"/></reg>
+               </choice>
+               <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> with how <choice>
+                  <orig choice_type="oxford">louing</orig>
+                  <reg choice_type="char_norm default_archive">loving</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.163"/>
+               <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> charitable <ref n="theatre_1316026447674023" xml:id="theatre_1316026447674023">
+                  affec<pc force="weak">-</pc><lb break="no" ed="1569"/>tion
+               </ref> you <choice>
+                  <orig choice_type="oxford">haue</orig>
+                  <reg choice_type="char_norm default_archive">have</reg>
+               </choice>
+               <choice>
+                  <orig choice_type="oxford">receiued</orig>
+                  <reg choice_type="char_norm default_archive">received</reg>
+               </choice> the poore scattered<lb break="yes" ed="1569"/> flock<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.164"/> of Christ. Is not your <choice>
+                  <orig choice_type="oxford">Maiestie</orig>
+                  <reg choice_type="char_norm default_archive">Majestie</reg>
+               </choice> then to<lb break="yes" ed="1569"/> be estemed infinitely more<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.165"/> happy <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> blessed<lb break="yes" ed="1569"/> that are so specially elect of god to <choice>
+                  <orig choice_type="oxford">serue</orig>
+                  <reg choice_type="char_norm default_archive">serve</reg>
+               </choice> him<lb break="yes" ed="1569"/> for<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.166"/> such an <choice>
+                  <orig>instrumẽt</orig>
+                  <reg choice_type="expan oxford default_archive">instrument</reg>
+               </choice>, <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> in such a quarel, <ref n="theatre_1316026447674059" xml:id="theatre_1316026447674059">
+                  <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">and</reg>
+                  </choice>
+                  <lb break="yes" ed="1569"/> that maugre the <ref n="theatre_1587388913265232" xml:id="theatre_1587388913265232">beards</ref><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.167"/> of the
+                  enimies, being</ref>
+               <lb break="yes" ed="1569"/> enraged through the malice and obstinacy of<lb ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.168"/> 
+               their hearts do persecute the church of God?<lb break="yes" ed="1569"/> Yes assuredly, most happy,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.169"/>
+               <choice>
+                  <orig>christiã</orig>
+                  <reg choice_type="expan oxford default_archive">christian</reg>
+               </choice>, and ver<pc force="weak">-</pc><lb break="no" ed="1569"/>tuous princesse, <choice>
+                  <orig choice_type="oxford">euen</orig>
+                  <reg choice_type="char_norm default_archive">even</reg>
+               </choice> in the highest degree.<lb break="yes" ed="1569"/> Howe<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.170"/> shall I be able then to expresse with<lb break="yes" ed="1569"/> tong, or to
+                  <ref n="theatre_1316026447674102" xml:id="theatre_1316026447674102">endite</ref> with pen your<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.171"/> praises suf<pc force="weak">-</pc><lb break="no" ed="1569"/>ficiently?
+                <choice>
+                    <orig>verily</orig>
+                    <reg choice_type="space_punct oxford default_archive">Verily</reg>
+                </choice> I am confounded and put to<lb break="yes" ed="1569"/> silence, and<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.172"/> 
+               do confesse my self to be altoge<pc force="weak">-</pc><lb break="no" ed="1569"/>ther insufficient. Wherfore (moste<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.173"/>
+                  gracious<lb break="yes" ed="1569"/> Ladie) I rest with my <ref n="theatre_1316026447674138" xml:id="theatre_1316026447674138">heartie</ref> and continuall<lb break="yes" ed="1569"/> prayer <choice>
+                  <orig choice_type="oxford">vnto</orig>
+                  <reg choice_type="char_norm default_archive">unto</reg>
+               </choice> God<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.174"/> for your <choice>
+                  <orig choice_type="oxford">maiestie</orig>
+                  <reg choice_type="char_norm default_archive">majestie</reg>
+               </choice>, that he<lb break="yes" ed="1569"/> turne not his face from you, but that it<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.175"/> wold<lb break="yes" ed="1569"/> please him to continue and
+               daily to encrease<lb break="yes" ed="1569"/> his grace and <choice>
+                  <orig choice_type="oxford">fauor</orig>
+                  <reg choice_type="char_norm default_archive">favor</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.176"/> towards you, and his ho<pc force="weak">-</pc><lb break="no" ed="1569"/>ly 
+               spirite within you, as also in and towardes<lb ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.177"/> 
+               those that be of <ref n="theatre_1316026447674174" xml:id="theatre_1316026447674174">your <choice>
+                     <orig choice_type="oxford">Maiesties</orig>
+                     <reg choice_type="char_norm default_archive">Majesties</reg>
+                  </choice> counsel,</ref> and<lb break="yes" ed="1569"/> all other Magistrates<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.178"/> and officers <choice>
+                     <orig choice_type="oxford">whatsoe<pc force="weak">-</pc><lb break="no" ed="1569"/>uer</orig>
+                     <reg choice_type="char_norm default_archive">whatsoe<pc force="weak">-</pc><lb break="no" ed="1569"/>ver</reg>
+               </choice>
+               <choice>
+                  <orig choice_type="oxford">hauing</orig>
+                  <reg choice_type="char_norm default_archive">having</reg>
+               </choice> authoritie <choice>
+                  <orig choice_type="oxford">vnder</orig>
+                  <reg choice_type="char_norm default_archive">under</reg>
+               </choice> your highnesse <lb break="yes" ed="1569"/>
+               <pb xml:id="A8v" n="A8v" prev="#A8r" next="#B1r"/><fw place="bottom-right" type="catch">store</fw>
+               <lb ed="webArchive" xml:id="theatre.dedicatory_epistle.179"/>
+               <fw place="top-center" rend="face(italics)" type="head">The Epistle.</fw> within your <choice>
+                  <orig choice_type="oxford">maiesties</orig>
+                  <reg choice_type="char_norm default_archive">majesties</reg>
+               </choice> realms and
+               <app xml:id="theatre.dedicatory_epistle.180.collation">
+                  <lem wit="this edn.">dominions,</lem>
+                  <rdg wit="#E1569" eclecticCopyText="yes">
+                    <choice>
+                        <orig>dominions.</orig>
+                        <reg choice_type="expan oxford default_archive">dominiõs.</reg>
+                    </choice>
+                  </rdg>
+               </app>
+               <lb break="yes" ed="1569"/> that walking in the fear<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.180"/>
+               <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice>
+               <choice>
+                  <orig choice_type="oxford">loue</orig>
+                  <reg choice_type="char_norm default_archive">love</reg>
+               </choice> of him they<lb break="yes" ed="1569"/> may do al their <choice>
+                  <orig choice_type="oxford">endeuour</orig>
+                  <reg choice_type="char_norm default_archive">endevour</reg>
+               </choice> through the prea<pc force="weak">-</pc><lb break="no" ed="1569"/>ching<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.181"/> of his holy word to <choice>
+                  <orig choice_type="oxford">aduaunce</orig>
+                  <reg choice_type="char_norm default_archive">advaunce</reg>
+               </choice> his holy<lb break="yes" ed="1569"/> name, and <choice>
+                  <orig choice_type="oxford">aboue</orig>
+                  <reg choice_type="char_norm default_archive">above</reg>
+               </choice> al things especially<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.182"/> to seke<lb break="yes" ed="1569"/> the safetie and <ref n="theatre_1316026447674246" xml:id="theatre_1316026447674246">weal</ref> 
+               of his church. And ther<pc force="weak">-</pc><lb break="no" ed="1569"/>fore for the great<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.183"/> benefit <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> good that God<lb break="yes" ed="1569"/> hath don <choice>
+                  <orig choice_type="oxford">vnto</orig>
+                  <reg choice_type="char_norm default_archive">unto</reg>
+               </choice> his church by means of your<lb ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.184"/>
+               <choice>
+                  <orig choice_type="oxford">maiesty</orig>
+                  <reg choice_type="char_norm default_archive">majesty</reg>
+               </choice> (most gracious prince) al tru faithful<lb break="yes" ed="1569"/>
+               <choice>
+                  <orig choice_type="oxford">whatsoeuer</orig>
+                  <reg choice_type="char_norm default_archive">whatsoever</reg>
+               </choice> they be,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.185"/> as wel
+               strangers as your<lb break="yes" ed="1569"/> natural <choice>
+                  <orig choice_type="oxford">subiects</orig>
+                  <reg choice_type="char_norm default_archive">subjects</reg>
+               </choice> seke to do <choice>
+                  <orig choice_type="oxford">vnto</orig>
+                  <reg choice_type="char_norm default_archive">unto</reg>
+               </choice> your <choice>
+                  <orig choice_type="oxford">maie<pc force="weak">-</pc><lb break="no" ed="1569"/>stie</orig>
+                  <reg choice_type="char_norm default_archive">maje<pc force="weak">-</pc><lb break="no" ed="1569"/>stie</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.186"/> most faithful and honorable <choice>
+                  <orig choice_type="oxford">seruice</orig>
+                  <reg choice_type="char_norm default_archive">service</reg>
+               </choice>, ac<pc force="weak">-</pc><lb break="no" ed="1569"/>cording to their power. Besides,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.187"/> in al their <choice>
+                  <orig>as<pc force="weak">-</pc><lb break="no" ed="1569"/>sẽblies</orig>
+                  <reg choice_type="expan oxford default_archive">as<pc force="weak">-</pc><lb break="no" ed="1569"/>semblies</reg>
+               </choice>
+               <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> in <choice>
+                  <orig choice_type="oxford">euery</orig>
+                  <reg choice_type="char_norm default_archive">every</reg>
+               </choice> congregation they make<lb break="yes" ed="1569"/> their hartie<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.188"/>
+               <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice>
+               <choice>
+                  <orig>feruẽt</orig>
+                  <reg choice_type="expan oxford">feruent</reg>
+                  <reg choice_type="char_norm">fervẽt</reg>
+                  <reg choice_type="expan char_norm default_archive">fervent</reg>
+               </choice> prayers <choice>
+                  <orig choice_type="oxford">vnto</orig>
+                  <reg choice_type="char_norm default_archive">unto</reg>
+               </choice> almightie<lb break="yes" ed="1569"/> God for the helth of your soule,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.189"/> the safegard<lb break="yes" ed="1569"/> of your most royal
+               person, <choice>
+                  <orig>&amp;</orig>
+                  <reg choice_type="expan oxford default_archive">and</reg>
+               </choice> the prosperous<lb break="yes" ed="1569"/>
+               <ref n="theatre_1316026447674286" xml:id="theatre_1316026447674286">estate</ref> of<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.190"/> your realm long
+               to <choice>
+                  <orig>cõtinue</orig>
+                  <reg choice_type="expan oxford default_archive">continue</reg>
+               </choice>. And I<lb break="yes" ed="1569"/> especially for mine own part, bicause<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.191"/> I <ref n="theatre_1316026447674322" xml:id="theatre_1316026447674322">wold<lb break="yes" ed="1569"/> not be</ref>
+               <choice>
+                  <orig>vnthãkful</orig>
+                  <reg choice_type="expan oxford">vnthankful</reg>
+                  <reg choice_type="char_norm">unthãkful</reg>
+                  <reg choice_type="expan char_norm default_archive">unthankful</reg>
+               </choice> for the great benefits I <choice>
+                  <orig choice_type="oxford">en<pc force="weak">-</pc><lb break="no" ed="1569"/>ioy</orig>
+                  <reg choice_type="char_norm default_archive">en<pc force="weak">-</pc><lb break="no" ed="1569"/>joy</reg>
+               </choice>
+               <ref n="theatre_1316026447674358" xml:id="theatre_1316026447674358">by your
+                  grace,</ref><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.192"/> abiding <choice>
+                  <orig choice_type="oxford">vnder</orig>
+                  <reg choice_type="char_norm default_archive">under</reg>
+               </choice> your <choice>
+                  <orig choice_type="oxford">maie<pc force="weak">-</pc><lb break="no" ed="1569"/>sties</orig>
+                  <reg choice_type="char_norm default_archive">maje<pc force="weak">-</pc><lb break="no" ed="1569"/>sties</reg>
+               </choice>
+               <choice>
+                  <orig>protectiõ</orig>
+                  <reg choice_type="expan oxford default_archive">protection</reg>
+               </choice> (forasmuch as ingratitude <lb ed="webArchive" xml:id="theatre.dedicatory_epistle.193"/>
+               <app xml:id="theatre.dedicatory_epistle.194.collation.1">
+                  <lem wit="this edn.">is a most</lem>
+                  <rdg wit="#E1569" eclecticCopyText="yes">is a a most</rdg>
+               </app><lb break="yes" ed="1569"/> horrible
+               <app xml:id="theatre.dedicatory_epistle.194.collation.2">
+                  <lem wit="this edn.">and</lem>
+                  <rdg wit="#E1569" eclecticCopyText="yes">aud</rdg>
+               </app> detestable vice) in con<pc force="weak">-</pc><lb break="no" ed="1569"/>sideration thereof (moste<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.194"/> gracious Lady) I<lb break="yes" ed="1569"/> 
+               present your highnesse with this smal Trea<pc force="weak">-</pc><lb break="no" ed="1569"/>tise of<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.195"/> mine, as the
+               best <choice>
+                  <orig choice_type="oxford">Iewel</orig>
+                  <reg choice_type="char_norm default_archive">Jewel</reg>
+               </choice> that I <choice>
+                  <orig choice_type="oxford">haue</orig>
+                  <reg choice_type="char_norm default_archive">have</reg>
+               </choice>
+               <ref n="theatre_1316026447674426" xml:id="theatre_1316026447674426">in <lb break="yes" ed="1569"/>
+                  <pb xml:id="B1r" n="B1r" prev="#A8v" next="#B1v"/><fw place="bottom-center" rend="face(italics)" type="pag">B.j.</fw>
+                  <fw place="bottom-right" rend="face(italics)" type="catch">Being</fw>
+                  <fw place="top-center" rend="face(italics)" type="head">The Epistle.</fw>
+                  store</ref> at this presente,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.196"/>
+               <ref n="theatre_1316026447674465" xml:id="theatre_1316026447674465">in
+                  signification</ref> of my<lb break="yes" ed="1569"/> good wil, and for declaration of my
+                  duetie<lb break="yes" ed="1569"/> in<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.197"/> this behalfe,
+               beseeching youre highnesse<lb break="yes" ed="1569"/> moste humbly to accept it<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.198"/> in good parte as<lb break="yes" ed="1569"/> (considering
+               your <choice>
+                  <orig choice_type="oxford">maiesties</orig>
+                  <reg choice_type="char_norm default_archive">majesties</reg>
+               </choice> natural bountie<lb break="yes" ed="1569"/> and your<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.199"/> accustomed goodnesse) my trust is<lb break="yes" ed="1569"/> 
+               you will <ref n="theatre_1316026447674508" xml:id="theatre_1316026447674508">vouchsafe</ref> to doe. For I<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.200"/> 
+               am persua<pc force="weak">-</pc><lb break="no" ed="1569"/>ded (albeit the stile be rude) that <ref n="theatre_1316026447674544" xml:id="theatre_1316026447674544">the matter</ref>
+               <lb break="yes" ed="1569"/> shall be fitte<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.201"/> for your <choice>
+                  <orig choice_type="oxford">Maiestie</orig>
+                  <reg choice_type="char_norm default_archive">Majestie</reg>
+               </choice> to reade, and<lb break="yes" ed="1569"/> that <ref n="theatre_1316026447674579" xml:id="theatre_1316026447674579">the same</ref> shall not be <choice>
+                  <orig choice_type="oxford">vnpleasant</orig>
+                  <reg choice_type="char_norm default_archive">unpleasant</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.202"/>
+               <choice>
+                  <orig choice_type="oxford">vnto</orig>
+                  <reg choice_type="char_norm default_archive">unto</reg>
+               </choice>
+               <lb break="yes" ed="1569"/> you, but minister <choice>
+                  <orig choice_type="oxford">vnto</orig>
+                  <reg choice_type="char_norm default_archive">unto</reg>
+               </choice> your grace great oc<pc force="weak">-</pc><lb break="no" ed="1569"/>casion of much <choice>
+                  <orig choice_type="oxford">ioy</orig>
+                  <reg choice_type="char_norm default_archive">joy</reg>
+               </choice>,<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.203"/> peace, and <ref n="theatre_1316026447674615" xml:id="theatre_1316026447674615">contentation</ref>
+               <lb break="yes" ed="1569"/> of minde and <ref n="theatre_1316026447674654" xml:id="theatre_1316026447674654">conscience.</ref> And these
+               be the<lb ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.204"/> causes and respects for
+               the which I presume<lb break="yes" ed="1569"/> to present the same to<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.205"/> your <choice>
+                  <orig choice_type="oxford">maiestie</orig>
+                  <reg choice_type="char_norm default_archive">majestie</reg>
+               </choice>, in most<lb break="yes" ed="1569"/> humble maner beseching your highnesse to<lb break="yes" ed="1569"/> accepte<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.206"/> the same, and praying to
+                  almightie<lb break="yes" ed="1569"/> God to graunt <choice>
+                  <orig choice_type="oxford">vnto</orig>
+                  <reg choice_type="char_norm default_archive">unto</reg>
+               </choice> your <choice>
+                  <orig choice_type="oxford">Maiestie</orig>
+                  <reg choice_type="char_norm default_archive">Majestie</reg>
+               </choice><lb ed="webArchive" xml:id="theatre.dedicatory_epistle.207"/> a moste<lb break="yes" ed="1569"/> happie reign in
+               this world: and after this life <lb break="yes" ed="1569"/>to reigne with<lb ed="webArchive" xml:id="theatre.dedicatory_epistle.208"/> him for <choice>
+                  <orig choice_type="oxford">euer</orig>
+                  <reg choice_type="char_norm default_archive">ever</reg>
+               </choice>, for his only son<lb break="yes" ed="1569"/> our Lorde <choice>
+                  <orig choice_type="oxford">Iesus</orig>
+                  <reg choice_type="char_norm default_archive">Jesus</reg>
+               </choice> Christes sake.<lb break="yes" ed="1569"/>
+               <lb ed="webArchive" xml:id="theatre.dedicatory_epistle.209"/></p>
+            <closer>
+               <dateline> At London your <choice>
+                     <orig choice_type="oxford">Maiesties</orig>
+                     <reg choice_type="char_norm default_archive">Majesties</reg>
+                  </choice> Citie and seate<lb break="yes" ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.210"/> royal. <date>The .25. of May.
+                     1569.<lb break="yes" ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.211"/></date>
+               </dateline>
+               <signed rend="face(italics)"> Your <choice>
+                     <orig choice_type="oxford">Maiesties</orig>
+                     <reg choice_type="char_norm default_archive">Majesties</reg>
+                  </choice> most humble <choice>
+                     <orig choice_type="oxford">seruant</orig>
+                     <reg choice_type="char_norm default_archive">servant</reg>
+                  </choice>,<lb break="yes" ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.212"/>
+                  <choice>
+                     <orig choice_type="oxford">Iean</orig>
+                     <reg choice_type="char_norm default_archive">Jean</reg>
+                  </choice> vander Noodt. <lb break="yes" ed="1569 webArchive" xml:id="theatre.dedicatory_epistle.213"/></signed>
+            </closer>
+         </div><pb/></selectedText>

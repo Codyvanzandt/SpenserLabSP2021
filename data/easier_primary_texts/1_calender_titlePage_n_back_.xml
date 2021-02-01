@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="N4v" n="N4v" prev="#N4r"/><titlePage xmlns="http://www.tei-c.org/ns/1.0" n="back">
+				<figure> <!-- removing  rend="do_not_display" ;  -->
+					<app>
+						<lem eclecticCopyText="yes" varSeq="3" wit="#SC179_HEH_1">
+							<figure>
+								<figDesc>[Upside-down A]</figDesc>
+							</figure>
+						</lem>
+						<rdg varSeq="1, 2" wit="#SC179_F_1 #SC179_Bod_1 "/>
+					</app>
+					<app>
+						<lem eclecticCopyText="yes" varSeq="2, 3" wit="#SC179_HEH_1">
+							<figure>
+								<figDesc>["My helper is God" ornament]</figDesc>
+							</figure>
+						</lem>
+						<rdg varSeq="1" wit="#SC179_F_1 #SC179_Bod_1 ">
+							<figure>
+								<figDesc>[Lady’s head between cornucopias]</figDesc>
+							</figure>
+						</rdg>
+					</app>
+				</figure>
+				<docImprint>
+					<seg rend="face(italics) size(1.75em) line_height(1.2em)">Imprinted at London by Hugh</seg>
+					<lb ed="1579 webArchive"/>
+					<seg rend="face(blackletter)">Singleton, dwelling in Creede lane</seg>
+					<lb ed="1579 webArchive"/>
+					<seg rend="face(italics)">at the signe of the gylden,</seg>
+					<lb ed="1579 webArchive"/>
+					<app>
+						<lem wit="this edn.">Tunn</lem>
+						<rdg eclecticCopyText="yes" wit="#E1579">Tuon</rdg>
+					</app> neere <choice>
+						<orig choice_type="oxford">vnto</orig>
+						<reg choice_type="char_norm default_archive">unto</reg>
+					</choice>
+					<lb ed="1579 webArchive"/>
+					<app>
+						<lem eclecticCopyText="yes" varSeq="3" wit=" #SC179_HEH_1">Ludgate.</lem>
+						<rdg varSeq="1, 2" wit="#SC179_F_1 #SC179_Bod_1 #SC179_HRC_1">Lndgate.</rdg>
+					</app>
+				</docImprint>
+			</titlePage><pb/></selectedText>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><selectedText xmlns:tei="http://www.tei-c.org/ns/1.0"><pb xmlns="http://www.tei-c.org/ns/1.0" xml:id="A1r" n="A1r" next="#A1v"/><titlePage xmlns="http://www.tei-c.org/ns/1.0" rend="face(roman)" type="front">
+            <docTitle>
+               <titlePart type="main">
+                  <hi rend="face(all-caps)"> A <ref n="theatre_1316026447667662" xml:id="theatre_1316026447667662">THEATRE</ref>
+                  </hi>
+                  <lb ed="webArchive"/>wherein be repre<pc force="weak">-</pc><lb break="no" ed="1569"/>sented<lb ed="webArchive"/> as wel the miseries <choice>
+                     <orig>&amp;</orig>
+                     <reg choice_type="expan oxford default_archive">and</reg>
+                  </choice>
+                  ca<pc force="weak">-</pc><lb break="no" ed="1569"/><hi rend="face(blackletter) first_edition"><hi rend="face(roman) webArchive_only">lamities</hi></hi><lb ed="webArchive"/>
+                  <hi rend="face(blackletter)">that follow the <ref n="theatre_1316026447667699" xml:id="theatre_1316026447667699">
+                     vo<pc force="weak">-</pc><lb break="no" ed="1569"/>luptuous<lb ed="webArchive"/>
+                     </ref>
+                     <ref n="theatre_1316026447667735" xml:id="theatre_1316026447667735">Worldlings,</ref>
+                  </hi>
+                  <lb ed="1569 webArchive"/>
+                  <hi rend="face(italics)">As also the greate <choice>
+                        <orig choice_type="oxford">ioyes</orig>
+                        <reg choice_type="char_norm default_archive">joyes</reg>
+                     </choice> and</hi>
+                  <lb ed="1569 webArchive"/>
+                  <hi rend="face(blackletter)">plesures which the faith<pc force="weak">-</pc><lb break="no" ed="1569"/>full<lb ed="webArchive"/> do <choice>
+                        <orig choice_type="oxford">enioy</orig>
+                        <reg choice_type="char_norm default_archive">enjoy</reg>
+                     </choice>.</hi>
+                  <lb ed="webArchive"/>
+               </titlePart>
+               <titlePart type="sub"> An Argument both profitable and<lb ed="1569 webArchive"/>
+                  delectable, to all that sincerely<lb ed="1569 webArchive"/>
+                  <choice>
+                     <orig choice_type="oxford">loue</orig>
+                     <reg choice_type="char_norm default_archive">love</reg>
+                  </choice> the word of God.<lb ed="1569 webArchive"/>
+               </titlePart>
+            </docTitle>
+            <byline>
+               <hi rend="face(italics)">
+                  <choice>
+                     <orig choice_type="oxford">Deuised</orig>
+                     <reg choice_type="char_norm default_archive">Devised</reg>
+                  </choice> by S. <choice>
+                     <orig choice_type="oxford">Iohn</orig>
+                     <reg choice_type="char_norm default_archive">John</reg>
+                  </choice>
+                  van<pc force="weak">-</pc><lb break="no" ed="1569"/>der Noodt.</hi>
+               <lb ed="webArchive"/>
+            </byline>
+            <docImprint> Seene and allowed according<lb ed="1569 webArchive"/> to the order appointed.<lb ed="1569 webArchive"/>
+               ¶ Imprinted at <pubPlace rend="no_line_break">London</pubPlace> by<lb ed="1569 webArchive"/> Henry Bynneman.<lb ed="1569 webArchive"/>
+               <docDate><seg xml:lang="la">Anno Domini</seg>. 1569.</docDate>
+               <lb ed="1569 webArchive"/>
+               <!--hi rend="small-cap">
+                  <choice> 
+                     <orig>CVM</orig> 
+                     <reg type="u_vNormalization">CUM</reg> 
+                  </choice> PRIVILEGIO.</hi-->
+               <choice>
+                  <orig choice_type="oxford"><seg xml:lang="la">C<hi rend="size(smaller)">VM</hi></seg></orig>
+                  <reg choice_type="char_norm default_archive"><seg xml:lang="la">C<hi rend="size(smaller)">UM</hi></seg></reg>
+               </choice> <seg xml:lang="la">P<hi rend="size(smaller)">RIVILEGIO.</hi></seg><lb ed="1569"/>
+            </docImprint>
+         </titlePage><pb/></selectedText>

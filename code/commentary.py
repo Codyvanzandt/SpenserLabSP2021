@@ -3,6 +3,7 @@ import re
 from lxml import etree
 from constants import NSMAP, COMMENTARY_SHORT_NAMES
 from utils import load_commentary_xml
+from itertools import chain
 
 
 class Commentary:
@@ -19,7 +20,7 @@ class CommentaryNote:
         self.target = self.get_target(note_node)
         self.target_end = self.get_target_end(note_node)
         self.note_type = self.get_type(note_node)
-        self.lemma = self.get_lemma(note_node)
+        self.lemmas = self.get_lemmas(note_node)
         self.note_text = self.get_text(note_node)
 
     def __repr__(self):
@@ -51,7 +52,7 @@ class CommentaryNote:
         return re.search(r"^#([^_]+_\d+)",target).group(1)
 
     @staticmethod
-    def get_lemma(note_node):
+    def get_lemmas(note_node):
         """
         :param note_node: a note Element
         :return: the lemma associated with note_node's enclosed <mentioned> tag
@@ -59,10 +60,11 @@ class CommentaryNote:
         Lemmas are sometimes <mentioned> text, other times <mentioned><span> text.
         Not every <note> has an enclosed <mentioned>; this function tries to gracefully handle all this.
         """
-        mentioned_list = note_node.xpath(".//tei:mentioned", namespaces=NSMAP)
-        if mentioned_list:
-            mention = mentioned_list[0]
-            return  ''.join(mention.itertext())
+        def _get_lemmas(note_node):
+            for mention in note_node.xpath(".//tei:mentioned", namespaces=NSMAP):
+                for lemma in mention.itertext():
+                    yield lemma
+        return list(_get_lemmas(note_node))
 
     @staticmethod
     def get_text(note_node):

@@ -28,14 +28,18 @@ class PrimaryTexts:
             )
         )
 
-    def get_choice_dicts(self, target):
+    def get_alternate_spellings(self, target):
         choice_nodes = self.get_choice_nodes(target)
-        choice_dict = dict()
+        normal_to_oxford = dict()
         for choice_node in choice_nodes:
             normal = choice_node.xpath(f'.//tei:reg', namespaces=NSMAP)[0].text
             oxford = choice_node.xpath(f'.//tei:orig', namespaces=NSMAP)[0].text
-            choice_dict[normal] = oxford
-        return choice_dict
+            normal_to_oxford[normal] = oxford
+        return normal_to_oxford
+
+    def xpath(self, *args, **kwargs):
+        kwargs["namespaces"] = NSMAP
+        return self.xml.xpath(*args, **kwargs)
 
 # target = "theatre_1347642000450"
 # pt = PrimaryTexts()

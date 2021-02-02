@@ -48,9 +48,7 @@ class CommentaryNote:
 
     @staticmethod
     def remove_target_prefix_suffix(target):
-        without_suffix = re.sub(r"(_[_01]+)$", "", target)
-        without_prefix_and_suffix = without_suffix.replace("#", "", 1)
-        return without_prefix_and_suffix
+        return re.search(r"^#([^_]+_\d+)",target).group(1)
 
     @staticmethod
     def get_lemma(note_node):
@@ -62,7 +60,7 @@ class CommentaryNote:
         Not every <note> has an enclosed <mentioned>; this function tries to gracefully handle all this.
         """
         mentioned_list = note_node.xpath(".//tei:mentioned", namespaces=NSMAP)
-        if len(mentioned_list) == 1:
+        if mentioned_list:
             mention = mentioned_list[0]
             return  ''.join(mention.itertext())
 
@@ -85,9 +83,3 @@ class CommentaryNote:
         :return: the note's type
         """
         return note_node.get("type")
-
-#
-# letters = Commentary("letters")
-#
-# for note in letters.notes:
-#     print(note)

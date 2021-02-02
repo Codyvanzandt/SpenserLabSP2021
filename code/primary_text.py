@@ -1,19 +1,21 @@
 from lxml import etree
 from constants import NSMAP
-from utils import load_primary_xml
+from utils import load_primary_xml, yield_all_xml_roots
 import os
 import itertools
 
 
 
-class PrimaryText:
+class PrimaryTexts:
 
-    def __init__(self, file_name=None, etree=None):
-        self.file_name = file_name
-        self.xml = etree if etree is not None else load_primary_xml(file_name)
+    def __init__(self):
+        self.xml = self.build_composite_primary_xml()
 
-    def __repr__(self):
-        return f"{self.__class__.__name__}( file_name={repr(self.file_name)} )"
+    def build_composite_primary_xml(self):
+        composite_xml = etree.Element("composite")
+        for root in yield_all_xml_roots():
+            composite_xml.append(root)
+        return composite_xml
 
     def get_reference_nodes(self, target):
         return self.xml.xpath(f'//tei:ref[@n="{target}"]', namespaces=NSMAP)
@@ -35,9 +37,8 @@ class PrimaryText:
             choice_dict[normal] = oxford
         return choice_dict
 
-# letters_tp1 = "1_theatre_div_type_commendatory_poems_.xml"
 # target = "theatre_1347642000450"
-# pt = PrimaryText(file_name=letters_tp1)
+# pt = PrimaryTexts()
 #
 # print(pt.get_reference_nodes(target))
 # print(pt.get_choice_nodes(target))
